@@ -1,0 +1,225 @@
+"State","Measure ID","Measure Name","Number Less Than National Payment","Number Same as National Payment","Number Greater Than National Payment","Number of Hospitals Too Few","Footnote","Start Date","End Date"
+AK,PAYM_30_AMI,Payment for heart attack patients,1,4,0,15,,07/01/2017,12/01/2019
+AK,PAYM_30_HF,Payment for heart failure patients,5,3,0,14,,07/01/2017,12/01/2019
+AK,PAYM_30_PN,Payment for pneumonia patients,8,5,0,9,,07/01/2017,12/01/2019
+AK,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,9,0,0,1,,04/01/2017,10/02/2019
+AL,PAYM_30_AMI,Payment for heart attack patients,1,29,2,43,,07/01/2017,12/01/2019
+AL,PAYM_30_HF,Payment for heart failure patients,8,52,4,21,,07/01/2017,12/01/2019
+AL,PAYM_30_PN,Payment for pneumonia patients,24,46,7,10,,07/01/2017,12/01/2019
+AL,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,9,19,12,7,,04/01/2017,10/02/2019
+AR,PAYM_30_AMI,Payment for heart attack patients,0,22,3,41,,07/01/2017,12/01/2019
+AR,PAYM_30_HF,Payment for heart failure patients,4,43,6,19,,07/01/2017,12/01/2019
+AR,PAYM_30_PN,Payment for pneumonia patients,11,41,16,5,,07/01/2017,12/01/2019
+AR,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,13,15,6,7,,04/01/2017,10/02/2019
+AS,PAYM_30_AMI,Payment for heart attack patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,12/01/2019
+AS,PAYM_30_HF,Payment for heart failure patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,12/01/2019
+AS,PAYM_30_PN,Payment for pneumonia patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,12/01/2019
+AS,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,Not Available,Not Available,Not Available,Not Available,5,04/01/2017,10/02/2019
+AZ,PAYM_30_AMI,Payment for heart attack patients,3,37,2,18,,07/01/2017,12/01/2019
+AZ,PAYM_30_HF,Payment for heart failure patients,4,38,9,21,,07/01/2017,12/01/2019
+AZ,PAYM_30_PN,Payment for pneumonia patients,11,34,15,14,,07/01/2017,12/01/2019
+AZ,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,24,22,2,7,,04/01/2017,10/02/2019
+CA,PAYM_30_AMI,Payment for heart attack patients,2,164,12,125,,07/01/2017,12/01/2019
+CA,PAYM_30_HF,Payment for heart failure patients,21,173,55,68,,07/01/2017,12/01/2019
+CA,PAYM_30_PN,Payment for pneumonia patients,36,150,90,46,,07/01/2017,12/01/2019
+CA,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,80,72,47,79,,04/01/2017,10/02/2019
+CO,PAYM_30_AMI,Payment for heart attack patients,1,30,0,30,,07/01/2017,12/01/2019
+CO,PAYM_30_HF,Payment for heart failure patients,1,43,2,33,,07/01/2017,12/01/2019
+CO,PAYM_30_PN,Payment for pneumonia patients,5,50,3,24,,07/01/2017,12/01/2019
+CO,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,22,27,4,14,,04/01/2017,10/02/2019
+CT,PAYM_30_AMI,Payment for heart attack patients,0,22,0,6,,07/01/2017,12/01/2019
+CT,PAYM_30_HF,Payment for heart failure patients,0,18,9,2,,07/01/2017,12/01/2019
+CT,PAYM_30_PN,Payment for pneumonia patients,2,19,7,1,,07/01/2017,12/01/2019
+CT,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,6,16,2,2,,04/01/2017,10/02/2019
+DC,PAYM_30_AMI,Payment for heart attack patients,0,5,0,2,,07/01/2017,12/01/2019
+DC,PAYM_30_HF,Payment for heart failure patients,1,5,1,0,,07/01/2017,12/01/2019
+DC,PAYM_30_PN,Payment for pneumonia patients,1,3,3,0,,07/01/2017,12/01/2019
+DC,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,1,1,3,2,,04/01/2017,10/02/2019
+DE,PAYM_30_AMI,Payment for heart attack patients,1,3,2,0,,07/01/2017,12/01/2019
+DE,PAYM_30_HF,Payment for heart failure patients,0,5,1,0,,07/01/2017,12/01/2019
+DE,PAYM_30_PN,Payment for pneumonia patients,2,4,0,0,,07/01/2017,12/01/2019
+DE,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,3,3,0,0,,04/01/2017,10/02/2019
+FL,PAYM_30_AMI,Payment for heart attack patients,5,121,11,35,,07/01/2017,12/01/2019
+FL,PAYM_30_HF,Payment for heart failure patients,3,109,56,11,,07/01/2017,12/01/2019
+FL,PAYM_30_PN,Payment for pneumonia patients,13,108,55,5,,07/01/2017,12/01/2019
+FL,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,32,57,50,24,,04/01/2017,10/02/2019
+GA,PAYM_30_AMI,Payment for heart attack patients,0,55,2,48,,07/01/2017,12/01/2019
+GA,PAYM_30_HF,Payment for heart failure patients,14,73,2,37,,07/01/2017,12/01/2019
+GA,PAYM_30_PN,Payment for pneumonia patients,28,67,11,22,,07/01/2017,12/01/2019
+GA,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,19,31,13,25,,04/01/2017,10/02/2019
+GU,PAYM_30_AMI,Payment for heart attack patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,12/01/2019
+GU,PAYM_30_HF,Payment for heart failure patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,12/01/2019
+GU,PAYM_30_PN,Payment for pneumonia patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,12/01/2019
+GU,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,Not Available,Not Available,Not Available,Not Available,5,04/01/2017,10/02/2019
+HI,PAYM_30_AMI,Payment for heart attack patients,3,5,0,5,,07/01/2017,12/01/2019
+HI,PAYM_30_HF,Payment for heart failure patients,4,8,0,2,,07/01/2017,12/01/2019
+HI,PAYM_30_PN,Payment for pneumonia patients,3,9,0,4,,07/01/2017,12/01/2019
+HI,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,5,4,1,1,,04/01/2017,10/02/2019
+IA,PAYM_30_AMI,Payment for heart attack patients,3,20,0,76,,07/01/2017,12/01/2019
+IA,PAYM_30_HF,Payment for heart failure patients,4,58,1,53,,07/01/2017,12/01/2019
+IA,PAYM_30_PN,Payment for pneumonia patients,15,75,14,12,,07/01/2017,12/01/2019
+IA,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,31,14,7,25,,04/01/2017,10/02/2019
+ID,PAYM_30_AMI,Payment for heart attack patients,1,8,0,18,,07/01/2017,12/01/2019
+ID,PAYM_30_HF,Payment for heart failure patients,1,19,1,16,,07/01/2017,12/01/2019
+ID,PAYM_30_PN,Payment for pneumonia patients,11,18,0,12,,07/01/2017,12/01/2019
+ID,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,11,12,4,4,,04/01/2017,10/02/2019
+IL,PAYM_30_AMI,Payment for heart attack patients,4,83,9,67,,07/01/2017,12/01/2019
+IL,PAYM_30_HF,Payment for heart failure patients,9,117,22,28,,07/01/2017,12/01/2019
+IL,PAYM_30_PN,Payment for pneumonia patients,32,104,30,10,,07/01/2017,12/01/2019
+IL,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,34,45,30,30,,04/01/2017,10/02/2019
+IN,PAYM_30_AMI,Payment for heart attack patients,5,45,4,52,,07/01/2017,12/01/2019
+IN,PAYM_30_HF,Payment for heart failure patients,4,83,11,15,,07/01/2017,12/01/2019
+IN,PAYM_30_PN,Payment for pneumonia patients,8,82,14,9,,07/01/2017,12/01/2019
+IN,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,28,40,9,20,,04/01/2017,10/02/2019
+KS,PAYM_30_AMI,Payment for heart attack patients,0,21,1,72,,07/01/2017,12/01/2019
+KS,PAYM_30_HF,Payment for heart failure patients,2,47,9,68,,07/01/2017,12/01/2019
+KS,PAYM_30_PN,Payment for pneumonia patients,10,68,22,28,,07/01/2017,12/01/2019
+KS,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,17,17,9,10,,04/01/2017,10/02/2019
+KY,PAYM_30_AMI,Payment for heart attack patients,1,30,4,46,,07/01/2017,12/01/2019
+KY,PAYM_30_HF,Payment for heart failure patients,5,59,7,20,,07/01/2017,12/01/2019
+KY,PAYM_30_PN,Payment for pneumonia patients,23,49,12,8,,07/01/2017,12/01/2019
+KY,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,9,23,11,15,,04/01/2017,10/02/2019
+LA,PAYM_30_AMI,Payment for heart attack patients,2,29,3,43,,07/01/2017,12/01/2019
+LA,PAYM_30_HF,Payment for heart failure patients,9,57,3,29,,07/01/2017,12/01/2019
+LA,PAYM_30_PN,Payment for pneumonia patients,14,52,16,17,,07/01/2017,12/01/2019
+LA,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,8,24,16,18,,04/01/2017,10/02/2019
+MA,PAYM_30_AMI,Payment for heart attack patients,3,31,9,14,,07/01/2017,12/01/2019
+MA,PAYM_30_HF,Payment for heart failure patients,4,42,9,3,,07/01/2017,12/01/2019
+MA,PAYM_30_PN,Payment for pneumonia patients,14,37,4,4,,07/01/2017,12/01/2019
+MA,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,7,21,24,2,,04/01/2017,10/02/2019
+MD,PAYM_30_AMI,Payment for heart attack patients,2,34,0,9,,07/01/2017,12/01/2019
+MD,PAYM_30_HF,Payment for heart failure patients,4,38,2,1,,07/01/2017,12/01/2019
+MD,PAYM_30_PN,Payment for pneumonia patients,11,31,2,1,,07/01/2017,12/01/2019
+MD,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,11,13,14,7,,04/01/2017,10/02/2019
+ME,PAYM_30_AMI,Payment for heart attack patients,0,15,0,18,,07/01/2017,12/01/2019
+ME,PAYM_30_HF,Payment for heart failure patients,2,23,2,6,,07/01/2017,12/01/2019
+ME,PAYM_30_PN,Payment for pneumonia patients,11,18,3,1,,07/01/2017,12/01/2019
+ME,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,8,8,3,10,,04/01/2017,10/02/2019
+MI,PAYM_30_AMI,Payment for heart attack patients,10,47,1,53,,07/01/2017,12/01/2019
+MI,PAYM_30_HF,Payment for heart failure patients,13,74,10,24,,07/01/2017,12/01/2019
+MI,PAYM_30_PN,Payment for pneumonia patients,23,74,14,10,,07/01/2017,12/01/2019
+MI,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,48,37,5,23,,04/01/2017,10/02/2019
+MN,PAYM_30_AMI,Payment for heart attack patients,1,16,1,66,,07/01/2017,12/01/2019
+MN,PAYM_30_HF,Payment for heart failure patients,2,45,2,75,,07/01/2017,12/01/2019
+MN,PAYM_30_PN,Payment for pneumonia patients,16,47,0,62,,07/01/2017,12/01/2019
+MN,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,27,24,0,35,,04/01/2017,10/02/2019
+MO,PAYM_30_AMI,Payment for heart attack patients,0,45,4,42,,07/01/2017,12/01/2019
+MO,PAYM_30_HF,Payment for heart failure patients,3,66,7,31,,07/01/2017,12/01/2019
+MO,PAYM_30_PN,Payment for pneumonia patients,22,69,11,6,,07/01/2017,12/01/2019
+MO,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,25,29,6,18,,04/01/2017,10/02/2019
+MP,PAYM_30_AMI,Payment for heart attack patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,12/01/2019
+MP,PAYM_30_HF,Payment for heart failure patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,12/01/2019
+MP,PAYM_30_PN,Payment for pneumonia patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,12/01/2019
+MP,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,Not Available,Not Available,Not Available,Not Available,5,04/01/2017,10/02/2019
+MS,PAYM_30_AMI,Payment for heart attack patients,2,19,3,40,,07/01/2017,12/01/2019
+MS,PAYM_30_HF,Payment for heart failure patients,9,45,4,31,,07/01/2017,12/01/2019
+MS,PAYM_30_PN,Payment for pneumonia patients,9,55,13,13,,07/01/2017,12/01/2019
+MS,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,3,6,16,10,,04/01/2017,10/02/2019
+MT,PAYM_30_AMI,Payment for heart attack patients,1,6,2,20,,07/01/2017,12/01/2019
+MT,PAYM_30_HF,Payment for heart failure patients,2,14,1,40,,07/01/2017,12/01/2019
+MT,PAYM_30_PN,Payment for pneumonia patients,12,17,0,29,,07/01/2017,12/01/2019
+MT,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,13,6,2,5,,04/01/2017,10/02/2019
+NC,PAYM_30_AMI,Payment for heart attack patients,11,45,0,38,,07/01/2017,12/01/2019
+NC,PAYM_30_HF,Payment for heart failure patients,37,53,1,11,,07/01/2017,12/01/2019
+NC,PAYM_30_PN,Payment for pneumonia patients,35,64,0,4,,07/01/2017,12/01/2019
+NC,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,35,34,8,10,,04/01/2017,10/02/2019
+ND,PAYM_30_AMI,Payment for heart attack patients,0,6,0,22,,07/01/2017,12/01/2019
+ND,PAYM_30_HF,Payment for heart failure patients,3,10,0,30,,07/01/2017,12/01/2019
+ND,PAYM_30_PN,Payment for pneumonia patients,7,16,5,15,,07/01/2017,12/01/2019
+ND,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,6,3,0,1,,04/01/2017,10/02/2019
+NE,PAYM_30_AMI,Payment for heart attack patients,0,14,3,42,,07/01/2017,12/01/2019
+NE,PAYM_30_HF,Payment for heart failure patients,0,27,2,53,,07/01/2017,12/01/2019
+NE,PAYM_30_PN,Payment for pneumonia patients,5,53,7,18,,07/01/2017,12/01/2019
+NE,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,9,20,7,20,,04/01/2017,10/02/2019
+NH,PAYM_30_AMI,Payment for heart attack patients,0,12,0,14,,07/01/2017,12/01/2019
+NH,PAYM_30_HF,Payment for heart failure patients,3,21,1,1,,07/01/2017,12/01/2019
+NH,PAYM_30_PN,Payment for pneumonia patients,5,21,0,0,,07/01/2017,12/01/2019
+NH,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,9,9,3,3,,04/01/2017,10/02/2019
+NJ,PAYM_30_AMI,Payment for heart attack patients,0,49,13,2,,07/01/2017,12/01/2019
+NJ,PAYM_30_HF,Payment for heart failure patients,0,24,40,0,,07/01/2017,12/01/2019
+NJ,PAYM_30_PN,Payment for pneumonia patients,0,25,39,0,,07/01/2017,12/01/2019
+NJ,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,12,20,17,12,,04/01/2017,10/02/2019
+NM,PAYM_30_AMI,Payment for heart attack patients,2,8,1,24,,07/01/2017,12/01/2019
+NM,PAYM_30_HF,Payment for heart failure patients,2,24,1,12,,07/01/2017,12/01/2019
+NM,PAYM_30_PN,Payment for pneumonia patients,12,20,2,6,,07/01/2017,12/01/2019
+NM,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,8,6,2,9,,04/01/2017,10/02/2019
+NV,PAYM_30_AMI,Payment for heart attack patients,2,14,2,11,,07/01/2017,12/01/2019
+NV,PAYM_30_HF,Payment for heart failure patients,4,14,7,7,,07/01/2017,12/01/2019
+NV,PAYM_30_PN,Payment for pneumonia patients,3,11,15,6,,07/01/2017,12/01/2019
+NV,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,8,7,7,4,,04/01/2017,10/02/2019
+NY,PAYM_30_AMI,Payment for heart attack patients,10,85,6,51,,07/01/2017,12/01/2019
+NY,PAYM_30_HF,Payment for heart failure patients,21,87,32,19,,07/01/2017,12/01/2019
+NY,PAYM_30_PN,Payment for pneumonia patients,43,76,30,13,,07/01/2017,12/01/2019
+NY,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,32,40,24,39,,04/01/2017,10/02/2019
+OH,PAYM_30_AMI,Payment for heart attack patients,2,73,4,64,,07/01/2017,12/01/2019
+OH,PAYM_30_HF,Payment for heart failure patients,6,112,16,17,,07/01/2017,12/01/2019
+OH,PAYM_30_PN,Payment for pneumonia patients,18,103,21,11,,07/01/2017,12/01/2019
+OH,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,34,67,27,20,,04/01/2017,10/02/2019
+OK,PAYM_30_AMI,Payment for heart attack patients,1,27,2,49,,07/01/2017,12/01/2019
+OK,PAYM_30_HF,Payment for heart failure patients,5,53,3,54,,07/01/2017,12/01/2019
+OK,PAYM_30_PN,Payment for pneumonia patients,15,63,15,22,,07/01/2017,12/01/2019
+OK,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,8,30,9,13,,04/01/2017,10/02/2019
+OR,PAYM_30_AMI,Payment for heart attack patients,5,17,0,33,,07/01/2017,12/01/2019
+OR,PAYM_30_HF,Payment for heart failure patients,18,28,0,12,,07/01/2017,12/01/2019
+OR,PAYM_30_PN,Payment for pneumonia patients,22,32,0,5,,07/01/2017,12/01/2019
+OR,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,31,7,1,8,,04/01/2017,10/02/2019
+PA,PAYM_30_AMI,Payment for heart attack patients,10,84,4,50,,07/01/2017,12/01/2019
+PA,PAYM_30_HF,Payment for heart failure patients,3,123,16,10,,07/01/2017,12/01/2019
+PA,PAYM_30_PN,Payment for pneumonia patients,13,109,25,6,,07/01/2017,12/01/2019
+PA,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,48,55,19,26,,04/01/2017,10/02/2019
+PR,PAYM_30_AMI,Payment for heart attack patients,3,6,0,35,,07/01/2017,12/01/2019
+PR,PAYM_30_HF,Payment for heart failure patients,2,12,0,31,,07/01/2017,12/01/2019
+PR,PAYM_30_PN,Payment for pneumonia patients,5,13,0,32,,07/01/2017,12/01/2019
+PR,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,0,1,3,23,,04/01/2017,10/02/2019
+RI,PAYM_30_AMI,Payment for heart attack patients,3,4,0,3,,07/01/2017,12/01/2019
+RI,PAYM_30_HF,Payment for heart failure patients,0,9,0,1,,07/01/2017,12/01/2019
+RI,PAYM_30_PN,Payment for pneumonia patients,3,5,1,2,,07/01/2017,12/01/2019
+RI,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,1,5,2,2,,04/01/2017,10/02/2019
+SC,PAYM_30_AMI,Payment for heart attack patients,2,24,3,22,,07/01/2017,12/01/2019
+SC,PAYM_30_HF,Payment for heart failure patients,9,35,5,9,,07/01/2017,12/01/2019
+SC,PAYM_30_PN,Payment for pneumonia patients,6,43,6,3,,07/01/2017,12/01/2019
+SC,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,20,9,7,15,,04/01/2017,10/02/2019
+SD,PAYM_30_AMI,Payment for heart attack patients,0,4,2,27,,07/01/2017,12/01/2019
+SD,PAYM_30_HF,Payment for heart failure patients,1,13,1,37,,07/01/2017,12/01/2019
+SD,PAYM_30_PN,Payment for pneumonia patients,8,26,2,17,,07/01/2017,12/01/2019
+SD,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,9,5,1,2,,04/01/2017,10/02/2019
+TN,PAYM_30_AMI,Payment for heart attack patients,4,37,3,48,,07/01/2017,12/01/2019
+TN,PAYM_30_HF,Payment for heart failure patients,6,71,5,20,,07/01/2017,12/01/2019
+TN,PAYM_30_PN,Payment for pneumonia patients,15,69,10,11,,07/01/2017,12/01/2019
+TN,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,33,14,4,15,,04/01/2017,10/02/2019
+TX,PAYM_30_AMI,Payment for heart attack patients,4,154,13,109,,07/01/2017,12/01/2019
+TX,PAYM_30_HF,Payment for heart failure patients,5,174,56,108,,07/01/2017,12/01/2019
+TX,PAYM_30_PN,Payment for pneumonia patients,24,155,100,83,,07/01/2017,12/01/2019
+TX,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,22,91,92,55,,04/01/2017,10/02/2019
+UT,PAYM_30_AMI,Payment for heart attack patients,1,12,0,17,,07/01/2017,12/01/2019
+UT,PAYM_30_HF,Payment for heart failure patients,1,18,3,21,,07/01/2017,12/01/2019
+UT,PAYM_30_PN,Payment for pneumonia patients,7,25,3,8,,07/01/2017,12/01/2019
+UT,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,6,20,8,2,,04/01/2017,10/02/2019
+VA,PAYM_30_AMI,Payment for heart attack patients,5,46,1,27,,07/01/2017,12/01/2019
+VA,PAYM_30_HF,Payment for heart failure patients,12,62,2,4,,07/01/2017,12/01/2019
+VA,PAYM_30_PN,Payment for pneumonia patients,19,53,6,4,,07/01/2017,12/01/2019
+VA,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,32,19,7,11,,04/01/2017,10/02/2019
+VI,PAYM_30_AMI,Payment for heart attack patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,12/01/2019
+VI,PAYM_30_HF,Payment for heart failure patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,12/01/2019
+VI,PAYM_30_PN,Payment for pneumonia patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,12/01/2019
+VI,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,Not Available,Not Available,Not Available,Not Available,5,04/01/2017,10/02/2019
+VT,PAYM_30_AMI,Payment for heart attack patients,0,7,0,6,,07/01/2017,12/01/2019
+VT,PAYM_30_HF,Payment for heart failure patients,5,8,0,1,,07/01/2017,12/01/2019
+VT,PAYM_30_PN,Payment for pneumonia patients,9,4,1,0,,07/01/2017,12/01/2019
+VT,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,7,3,1,1,,04/01/2017,10/02/2019
+WA,PAYM_30_AMI,Payment for heart attack patients,8,33,0,37,,07/01/2017,12/01/2019
+WA,PAYM_30_HF,Payment for heart failure patients,20,39,0,27,,07/01/2017,12/01/2019
+WA,PAYM_30_PN,Payment for pneumonia patients,21,51,2,16,,07/01/2017,12/01/2019
+WA,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,38,14,2,8,,04/01/2017,10/02/2019
+WI,PAYM_30_AMI,Payment for heart attack patients,2,38,0,70,,07/01/2017,12/01/2019
+WI,PAYM_30_HF,Payment for heart failure patients,6,85,0,31,,07/01/2017,12/01/2019
+WI,PAYM_30_PN,Payment for pneumonia patients,27,80,0,14,,07/01/2017,12/01/2019
+WI,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,58,26,0,20,,04/01/2017,10/02/2019
+WV,PAYM_30_AMI,Payment for heart attack patients,0,18,1,29,,07/01/2017,12/01/2019
+WV,PAYM_30_HF,Payment for heart failure patients,4,26,2,17,,07/01/2017,12/01/2019
+WV,PAYM_30_PN,Payment for pneumonia patients,12,28,4,5,,07/01/2017,12/01/2019
+WV,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,8,11,5,9,,04/01/2017,10/02/2019
+WY,PAYM_30_AMI,Payment for heart attack patients,1,3,0,13,,07/01/2017,12/01/2019
+WY,PAYM_30_HF,Payment for heart failure patients,2,12,1,11,,07/01/2017,12/01/2019
+WY,PAYM_30_PN,Payment for pneumonia patients,7,14,0,6,,07/01/2017,12/01/2019
+WY,PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,8,7,1,3,,04/01/2017,10/02/2019

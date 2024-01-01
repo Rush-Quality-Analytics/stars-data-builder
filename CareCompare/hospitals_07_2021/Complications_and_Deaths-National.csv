@@ -1,0 +1,20 @@
+"Measure ID","Measure Name","National Rate","Number of Hospitals Worse","Number of Hospitals Same","Number of Hospitals Better","Number of Hospitals Too Few","Footnote","Start Date","End Date"
+COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,2.4,36,2668,50,727,,04/01/2017,10/02/2019
+MORT_30_AMI,Death rate for heart attack patients,12.3,12,2120,16,1911,,07/01/2017,12/01/2019
+MORT_30_CABG,Death rate for CABG surgery patients,2.9,17,921,11,192,,07/01/2017,12/01/2019
+MORT_30_COPD,Death rate for COPD patients,8.1,53,3352,29,1177,,07/01/2017,12/01/2019
+MORT_30_HF,Death rate for heart failure patients,11.2,126,3074,226,1164,,07/01/2017,12/01/2019
+MORT_30_PN,Death rate for pneumonia patients,15.3,221,3600,216,631,,07/01/2017,12/01/2019
+MORT_30_STK,Death rate for stroke patients,13.5,89,2168,35,1870,,07/01/2017,12/01/2019
+PSI_03,Pressure ulcer rate,0.59,200,3067,29,59,,07/01/2018,12/31/2019
+PSI_04,Death rate among surgical inpatients with serious treatable complications,159.03,34,1489,27,1131,,07/01/2018,12/31/2019
+PSI_06,Iatrogenic pneumothorax rate,0.23,13,3319,0,37,,07/01/2018,12/31/2019
+PSI_08,In-hospital fall with hip fracture rate,0.10,0,3326,0,40,,07/01/2018,12/31/2019
+PSI_09,Perioperative hemorrhage or hematoma rate,2.55,25,2999,6,151,,07/01/2018,12/31/2019
+PSI_10,Postoperative acute kidney injury requiring dialysis rate,1.42,16,2753,3,260,,07/01/2018,12/31/2019
+PSI_11,Postoperative respiratory failure rate,5.03,50,2677,16,291,,07/01/2018,12/31/2019
+PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,3.63,90,2922,22,150,,07/01/2018,12/31/2019
+PSI_13,Postoperative sepsis rate,4.90,36,2678,14,280,,07/01/2018,12/31/2019
+PSI_14,Postoperative wound dehiscence rate,0.86,1,2691,0,409,,07/01/2018,12/31/2019
+PSI_15,Abdominopelvic accidental puncture or laceration rate,1.20,39,2949,2,202,,07/01/2018,12/31/2019
+PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,1.00,149,3177,43,Not Available,,07/01/2018,12/31/2019
