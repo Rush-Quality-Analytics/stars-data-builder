@@ -1,0 +1,138 @@
+"Facility ID","Facility Name","Address","City","State","ZIP Code","County Name","Phone Number","Hospital Type","Hospital Ownership","Emergency Services","Hospital overall rating","Hospital overall rating footnote"
+01014F,BIRMINGHAM VA MEDICAL CENTER,700 SOUTH 19TH STREET,BIRMINGHAM,AL,35233,Jefferson,(205) 933-4515,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+01019F,VA CENTRAL ALABAMA HEALTHCARE SYSTEM - MONTGOMERY,215 PERRY HILL ROAD,MONTGOMERY,AL,36109,Montgomery,(334) 260-4100,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+01021F,TUSCALOOSA VA MEDICAL CENTER,3701 LOOP ROAD EAST,TUSCALOOSA,AL,35404,Tuscaloosa,(205) 554-2000,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available,22
+03012F,PHOENIX VA MEDICAL CENTER,650 E. INDIAN SCHOOL ROAD,PHOENIX,AZ,85012,Maricopa,(602) 222-6444,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+03013F,VA S. ARIZONA HEALTHCARE SYSTEM,3601 SOUTH SIXTH AVENUE,TUCSON,AZ,85723,Pima,(520) 629-1821,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+03033F,VA NORTHERN ARIZONA HEALTHCARE SYSTEM,500 HIGHWAY 89 NORTH,PRESCOTT,AZ,86313,Yavapai,(928) 445-4860,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+04009F,FAYETTEVILLE AR VA MEDICAL CENTER,1100 N. COLLEGE AVENUE,FAYETTEVILLE,AR,72703,Washington,(479) 444-5058,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+04010F,VA CENTRAL AR. VETERANS HEALTHCARE SYSTEM LR,4300 WEST SEVENTH STREET,LITTLE ROCK,AR,72205,Pulaski,(501) 257-1000,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+05025F,FRESNO VA MEDICAL CENTER (VA CENTRAL CALIFORNIA HEALTHCARE SYSTEM),2615 E. CLINTON AVENUE,FRESNO,CA,93703,Fresno,(559) 228-5338,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+05027F,VA LONG BEACH HEALTHCARE SYSTEM,5901 E. SEVENTH STREET,LONG BEACH,CA,90822,Los Angeles,(562) 826-8000,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+05030F,VA N CALIFORNIA HEALTHCARE SYSTEM,10535 HOSPITAL WAY,MATHER,CA,95655,Sacramento,(800) 382-8387,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+05031F,PALO ALTO VA MEDICAL CENTER,3801 MIRANDA AVENUE,PALO ALTO,CA,94304,Santa Clara,(650) 858-3939,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+05114F,VA SAN DIEGO HEALTHCARE SYSTEM,3350 LA JOLLA VILLAGE DRIVE,SAN DIEGO,CA,92161,San Diego,(858) 552-8585,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+05127F,LOMA LINDA VA MEDICAL CENTER,11201 BENTON STREET,LOMA LINDA,CA,92357,San Bernardino,(909) 825-7084,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+05128F,VA GREATER LOS ANGELES HEALTHCARE SYSTEM,11301 WILSHIRE BLVD.,LOS ANGELES,CA,90073,Los Angeles,(310) 478-3711,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+05130F,SAN FRANCISCO VA MEDICAL CENTER,4150 CLEMENT STREET,SAN FRANCISCO,CA,94121,San Francisco,(415) 221-4810,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+06005F,VA EASTERN COLORADO HEALTHCARE SYSTEM,1700 NORTH WHEELING STREET,AURORA,CO,80045,Adams,(303) 399-8020,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+06007F,GRAND JUNCTION VA MEDICAL CENTER,2121 N. AVENUE,GRAND JUNCTION,CO,81501,Mesa,(970) 244-1329,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+07003F,WEST HAVEN VA MEDICAL CENTER,950 CAMPBELL AVENUE,WEST HAVEN,CT,06516,New Haven,(203) 932-5711,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+08002F,WILMINGTON VA MEDICAL CENTER,1601 KIRKWOOD HIGHWAY,WILMINGTON,DE,19805,New Castle,(302) 994-2511,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+09002F,WASHINGTON DC VA MEDICAL CENTER,50 IRVING STREET N.W.,WASHINGTON,DC,20422,District of Columbia,(202) 745-8000,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+10009F,BAY PINES VA MEDICAL CENTER,10000 BAY PINES BLVD.,BAY PINES,FL,33744,Pinellas,(727) 398-6661,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+10015F,VA NORTH FLORIDA/SOUTH GEORGIA HEALTHCARE SYSTEM - LAKE CITY,619 SOUTH MARION AVENUE,LAKE CITY,FL,32025,Columbia,(386) 755-3016,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+10057F,VA NORTH FLORIDA/SOUTH GEORGIA HEALTHCARE SYSTEM - GAINESVILLE,1601 S W ARCHER ROAD,GAINESVILLE,FL,32608,Alachua,(352) 376-1611,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+10063F,TAMPA VA MEDICAL CENTER,13000 BRUCE B DOWNS BLVD.,TAMPA,FL,33612,Hillsborough,(813) 972-2000,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+10064F,MIAMI VA MEDICAL CENTER,1201 N W 16TH STREET,MIAMI,FL,33125,Miami-Dade,(305) 324-4455,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+10065F,W PALM BEACH VA MEDICAL CENTER,7305 N. MILITARY TRAIL,WEST PALM BEACH,FL,33410,Palm Beach,(561) 422-8600,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+10099F,ORLANDO VA MEDICAL CENTER,13800 VETERANS WAY,ORLANDO,FL,32827,Orange,(407) 631-1000,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+11029F,DECATUR (ATLANTA) VA MEDICAL CENTER,1670 CLAIRMONT ROAD,DECATUR,GA,30033,DeKalb,(404) 321-6111,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+11030F,AUGUSTA VA MEDICAL CENTER,1 FREEDOM WAY,AUGUSTA,GA,30904,Richmond,(706) 823-2201,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+11031F,DUBLIN VA MEDICAL CENTER,1826 VETERANS BOULEVARD,DUBLIN,GA,31021,Laurens,(478) 277-2701,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+13003F,BOISE VA MEDICAL CENTER,500 W. FORT STREET,BOISE,ID,83702,Ada,(208) 422-1000,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+14003F,JESSE BROWN VA MEDICAL CENTER - VA CHICAGO HEALTHCARE SYSTEM,820 S DAMEN STREET,CHICAGO,IL,60612,Cook,(312) 569-8387,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+14004F,VA ILLIANA HEALTHCARE SYSTEM - DANVILLE,1900 E. MAIN,DANVILLE,IL,61832,Vermilion,(217) 554-3000,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available,22
+14007F,HINES VA MEDICAL CENTER,5000 SOUTH 5TH AVENUE,HINES,IL,60141,Cook,(708) 202-8387,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+14008F,MARION IL VA MEDICAL CENTER,2401 WEST MAIN,MARION,IL,62959,Williamson,(618) 997-5311,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+14034F,NORTH CHICAGO VA MEDICAL CENTER,3001 GREENBAY ROAD,NORTH CHICAGO,IL,60064,Lake,(847) 688-1900,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+15002F,VA N. INDIANA HEALTHCARE SYSTEM - FT. WAYNE,2121 LAKE AVENUE,FORT WAYNE,IN,46805,Allen,(260) 426-5431,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+15003F,INDIANAPOLIS VA MEDICAL CENTER,1481 W. TENTH STREET,INDIANAPOLIS,IN,46202,Marion,(317) 554-0000,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+15004F,VA N. INDIANA HEALTHCARE SYSTEM - MARION,1700 E. 38TH STREET,MARION,IN,46953,Grant,(765) 674-3321,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+16003F,VA CENTRAL IOWA HEALTHCARE SYSTEM,3600 30TH STREET,DES MOINES,IA,50310,Polk,(515) 699-5999,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+16004F,IOWA CITY VA MEDICAL CENTER,601 HIGHWAY 6 WEST,IOWA CITY,IA,52246,Johnson,(319) 338-0581,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+17005F,COLMERY-O'NEIL VA MEDICAL CENTER,2200 SW GAGE BOULEVARD,TOPEKA,KS,66622,Shawnee,(913) 682-2000,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+17006F,VA EASTERN KANSAS HEALTHCARE SYSTEM - LEAVENWORTH,4101 S. 4TH STREET,LEAVENWORTH,KS,66048,Leavenworth,(913) 682-2000,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+17008F,WICHITA VA MEDICAL CENTER,5500 E. KELLOG,WICHITA,KS,67218,Sedgwick,(316) 685-2221,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+18006F,LOUISVILLE VA MEDICAL CENTER,800 ZORN AVENUE,LOUISVILLE,KY,40206,Jefferson,(502) 287-4000,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+18007F,LEXINGTON VA MEDICAL CENTER,1101 VETERANS DRIVE,LEXINGTON,KY,40502,Fayette,(859) 233-4511,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+19043F,ALEXANDRIA VA MEDICAL CENTER,2495 SHREVEPORT HIGHWAY 71 N,PINEVILLE,LA,71360,Rapides,(318) 473-0010,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available,22
+19047F,SOUTHEAST LOUISIANA VETERANS HEALTH CARE SYSTEM,2400 CANAL STREET,NEW ORLEANS,LA,70119,Orleans,(800) 935-8387,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+19048F,OVERTON BROOKS VA MEDICAL CENTER (SHREVEPORT),510 EAST STONER AVENUE,SHREVEPORT,LA,71101,Caddo,(318) 424-6037,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+20003F,TOGUS VA MEDICAL CENTER,1 VA CENTER,AUGUSTA,ME,04330,Kennebec,(207) 623-8411,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+21010F,VA MARYLAND HEALTHCARE SYSTEM - PERRY POINT,VA MEDICAL CENTER,PERRY POINT,MD,21902,Cecil,(410) 642-2411,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available,22
+21020F,VA MARYLAND HEALTHCARE SYSTEM - BALTIMORE,10 NORTH GREENE STREET,BALTIMORE,MD,21201,Baltimore City,(410) 605-7016,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+22001F,BEDFORD VA MEDICAL CENTER,200 SPRINGS ROAD,BEDFORD,MA,01730,Middlesex,(781) 275-7500,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available,22
+22009F,NORTHAMPTON VA MEDICAL CENTER,421 N MAIN ST,LEEDS,MA,01053,Hampshire,(413) 584-4040,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available,22
+22010F,VA BOSTON HEALTHCARE SYSTEM - JAMAICA PLAIN,150 S. HUNTINGTON AVENUE,JAMAICA PLAIN,MA,02130,Suffolk,(617) 232-9500,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+23005F,IRON MOUNTAIN MI VA MEDICAL CENTER,325 EAST H STREET,IRON MOUNTAIN,MI,49801,Dickinson,(906) 774-3300,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available,22
+23009F,SAGINAW VA MEDICAL CENTER,1500 WEISS STREET,SAGINAW,MI,48602,Saginaw,(989) 497-2500,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available,22
+23011F,VA ANN ARBOR HEALTHCARE SYSTEM,2215 FULLER ROAD,ANN ARBOR,MI,48105,Washtenaw,(734) 769-7100,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+23012F,BATTLE CREEK VA MEDICAL CENTER,5500 ARMSTRONG RD.,BATTLE CREEK,MI,49037,Calhoun,(269) 966-5600,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available,22
+23037F,DETROIT (JOHN D. DINGELL) VA MEDICAL CENTER,4646 JOHN R.,DETROIT,MI,48201,Wayne,(313) 576-1000,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+24002F,ST CLOUD VA MEDICAL CENTER,4801 VETERANS DRIVE,ST. CLOUD,MN,56303,Stearns,(320) 252-1670,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available,22
+24003F,MINNEAPOLIS VA MEDICAL CENTER,ONE VETERANS DRIVE,MINNEAPOLIS,MN,55417,Hennepin,(612) 725-2000,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+25042F,VA GULF COAST HEALTHCARE SYSTEM,400 VETERANS AVENUE,BILOXI,MS,39531,Harrison,(228) 523-5000,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+25043F,G. V. (SONNY) MONTGOMERY VA MEDICAL CENTER (JACKSON),1500 E. WOODROW WILSON DRIVE,JACKSON,MS,39216,Hinds,(601) 362-4471,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+26004F,KANSAS CITY VA MEDICAL CENTER,4801 LINWOOD BLVD.,KANSAS CITY,MO,64128,Jackson,(816) 861-4700,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+26007F,POPLAR BLUFF VA MEDICAL CENTER,1500 N. WESTWOOD BLVD.,POPLAR BLUFF,MO,63901,Butler,(573) 686-4151,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available,22
+26009F,ST LOUIS-JOHN COCHRAN VA MEDICAL CENTER,915 NORTH GRAND,ST. LOUIS,MO,63106,Saint Louis City,(314) 652-4100,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+26023F,COLUMBIA MO VA MEDICAL CENTER,800 HOSPITAL DR,COLUMBIA,MO,65201,Boone,(573) 814-6000,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+27003F,VA MONTANA HEALTHCARE SYSTEM,3687 VETERANS DRIVE,FORT HARRISON,MT,59636,Lewis and Clark,(406) 447-7900,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+28006F,OMAHA VA MEDICAL CENTER (VA NEBRASKA WESTERN IOWA HEALTHCARE SYSTEM),4101 WOOLWORTH AVENUE,OMAHA,NE,68105,Douglas,(402) 346-8800,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+29002F,VA SIERRA NEVADA HEALTHCARE SYSTEM,975 KIRMAN AVENUE,RENO,NV,89502,Washoe,(775) 328-1263,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+29004F,VA SOUTHERN NEVADA HEALTHCARE SYSTEM,6900 NORTH PECOS ROAD,N. LAS VEGAS,NV,89086,Clark,(702) 791-9024,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+31001F,VA NEW JERSEY HEALTH CARE SYSTEM,385 TREMONT AVENUE,EAST ORANGE,NJ,07018,Essex,(973) 676-1000,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+32005F,VA NEW MEXICO HEALTHCARE SYSTEM,1501 SAN PEDRO DRIVE SE,ALBUQUERQUE,NM,87108,Bernalillo,(505) 256-2889,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+33009F,ALBANY VA MEDICAL CENTER,113 HOLLAND AVENUE,ALBANY,NY,12208,Albany,(518) 626-5000,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+33011F,BATH VA MEDICAL CENTER,76 VETERANS AVE.,BATH,NY,14810,Steuben,(607) 664-4000,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available,22
+33012F,UPSTATE NEW YORK VA HEALTHCARE SYSTEM (WESTERN NY VA HEALTHCARE SYSTEM),3495 BAILEY AVENUE,BUFFALO,NY,14215,Erie,(716) 862-3611,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+33014F,VA HUDSON VALLEY HEALTHCARE SYSTEM - CASTLE POINT,41 CASTLE POINT ROAD,WAPPINGERS FALLS,NY,12590,Dutchess,(845) 831-2000,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available,22
+33015F,VA HUDSON VALLEY HEALTHCARE SYSTEM,2094 ALBANY POST ROAD,MONTROSE,NY,10548,Westchester,(914) 737-4400,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available,22
+33016F,BRONX VA MEDICAL CENTER,130 WEST KINGSBRIDGE ROAD,BRONX,NY,10468,Bronx,(718) 584-9000,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+33017F,VA NEW YORK HARBOR HEALTHCARE SYSTEM - NY DIV.,423 EAST 23RD STREET,NEW YORK,NY,10010,New York,(212) 686-7500,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+33019F,NORTHPORT VA MEDICAL CENTER,79 MIDDLEVILLE ROAD,NORTHPORT,NY,11768,Suffolk,(516) 261-4400,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+33020F,VA NEW YORK HARBOR HEALTHCARE SYSTEM - BROOKLYN,800 POLY PLACE,BROOKLYN,NY,11209,Kings,(718) 836-6600,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+33024F,SYRACUSE VA MEDICAL CENTER,800 IRVING AVE.,SYRACUSE,NY,13210,Onondaga,(315) 425-4400,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+34012F,DURHAM VA MEDICAL CENTER,508 FULTON STREET,DURHAM,NC,27705,Durham,(919) 286-0411,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+34013F,FAYETTEVILLE NC VA MEDICAL CENTER,2300 RAMSEY STREET,FAYETTEVILLE,NC,28301,Cumberland,(910) 488-2120,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available,22
+34017F,W.G. (BILL) HEFNER SALISBURY VA MEDICAL CENTER (SALSBURY),1601 BRENNER AVENUE,SALISBURY,NC,28144,Rowan,(704) 638-9000,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+34036F,ASHEVILLE-OTEEN VA MEDICAL CENTER,1100 TUNNEL ROAD,ASHEVILLE,NC,28805,Buncombe,(828) 298-7911,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+35002F,FARGO VA MEDICAL CENTER,2101 ELM STREET,FARGO,ND,58102,Cass,(701) 232-3241,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+36001F,CLEVELAND-WADE PARK VA MEDICAL CENTER,10701 EAST BLVD,CLEVELAND,OH,44106,Cuyahoga,(216) 791-3800,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+36003F,CINCINNATI VA MEDICAL CENTER,3200 VINE STREET,CINCINNATI,OH,45220,Hamilton,(513) 861-3100,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+36007F,DAYTON VA MEDICAL CENTER,4100 WEST THIRD STREET,DAYTON,OH,45428,Montgomery,(937) 268-6511,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+36008F,CHILLICOTHE VA MEDICAL CENTER,17273 STATE ROUTE 104,CHILLICOTHE,OH,45601,Ross,(740) 773-1141,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available,22
+37012F,MUSKOGEE VA MEDICAL CENTER,1011 HONOR HEIGHTS DRIVE,MUSKOGEE,OK,74401,Muskogee,(918) 577-3000,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+37014F,OKLAHOMA CITY VA MEDICAL CENTER,921 NE 13TH STREET,OKLAHOMA CITY,OK,73104,Oklahoma,(405) 270-0501,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+38003F,PORTLAND VA MEDICAL CENTER,3710 SW US VETERANS HOSPITAL,PORTLAND,OR,97239,Multnomah,(503) 220-8262,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+38004F,VA ROSEBURG HEALTHCARE SYSTEM,913 NW GARDEN VALLEY BLVD.,ROSEBURG,OR,97471,Douglas,(541) 440-1000,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+39001F,JAMES E. VAN ZANDT VA MEDICAL CENTER (ALTOONA),2907 PLEASANT VALLEY BOULEVARD,ALTOONA,PA,16602,Blair,(814) 943-8164,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available,22
+39004F,COATESVILLE VA MEDICAL CENTER,1400 BLACK HORSE HILL ROAD,COATESVILLE,PA,19320,Chester,(610) 384-7711,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available,22
+39005F,ERIE VA MEDICAL CENTER,135 EAST 38TH STREET,ERIE,PA,16504,Erie,(814) 860-2576,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available,22
+39006F,LEBANON VA MEDICAL CENTER,1700 SOUTH LINCOLN AVENUE,LEBANON,PA,17042,Lebanon,(717) 228-5901,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+39009F,PHILADELPHIA VA MEDICAL CENTER,3900 WOODLAND AVENUE,PHILADELPHIA,PA,19104,Philadelphia,(215) 823-5857,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+39012F,VA PITTSBURGH HEALTHCARE SYSTEM - UNIV DR,UNIVERSITY DRIVE,PITTSBURGH,PA,15240,Allegheny,(412) 688-6100,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+39013F,WILKES BARRE VA MEDICAL CENTER,1111 EAST END BOULEVARD,WILKES-BARRE,PA,18711,Luzerne,(570) 824-3521,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+40003F,SAN JUAN VA MEDICAL CENTER,10 CALLE CASIA,SAN JUAN,PR,00921,San Juan,(800) 449-8729,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+41005F,PROVIDENCE VA MEDICAL CENTER,830 CHALKSTONE AVENUE,PROVIDENCE,RI,02908,Providence,(401) 457-3042,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+42011F,COLUMBIA SC VA MEDICAL CENTER,6439 GARNERS FERRY ROAD,COLUMBIA,SC,29209,Richland,(803) 695-7980,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+42029F,CHARLESTON VA MEDICAL CENTER,109 BEE STREET,CHARLESTON,SC,29401,Charleston,(843) 577-5011,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+43002F,VA BLACK HILLS HEALTHCARE SYSTEM - FORT MEADE,113 COMANCHE ROAD,FORT MEADE,SD,57741,Meade,(605) 347-2511,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+43003F,VA BLACK HILLS HEALTHCARE SYSTEM - HOT SPRINGS,500 NORTH 5TH STREET,HOT SPRINGS,SD,57747,Fall River,(605) 745-2000,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available,22
+43005F,SIOUX FALLS VA MEDICAL CENTER,2501 WEST 22ND STREET,SIOUX FALLS,SD,57117,Minnehaha,(605) 336-3230,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+44013F,MEMPHIS VA MEDICAL CENTER,1030 JEFFERSON AVENUE,MEMPHIS,TN,38104,Shelby,(901) 577-7200,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+44016F,MOUNTAIN HOME VA MEDICAL CENTER,CORNER OF LAMONT STREET AND VETERANS WAY,MOUNTAIN HOME,TN,37684,Washington,(423) 926-1171,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+44017F,VA MIDDLE TENNESSEE HEALTHCARE SYSTEM - MURFREESBORO,3400 LEBANON PIKE,MURFREESBORO,TN,37129,Rutherford,(615) 867-6000,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available,22
+44018F,VA MIDDLE TENNESSEE HEALTHCARE SYSTEM,1310 24TH AVENUE SOUTH,NASHVILLE,TN,37212,Davidson,(615) 327-5332,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+45060F,VA AMARILLO HEALTHCARE SYSTEM,6010 AMARILLO BLVD. WEST,AMARILLO,TX,79106,Potter,(806) 355-9703,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+45066F,DALLAS VA MEDICAL CENTER (VA NORTH TEXAS HEALTHCARE SYSTEM),4500 S. LANCASTER ROAD,DALLAS,TX,75216,Dallas,(214) 742-8387,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+45074F,HOUSTON VA MEDICAL CENTER,2002 HOLCOMBE BLVD.,HOUSTON,TX,77030,Harris,(713) 794-7100,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+45086F,TEMPLE VA MEDICAL CENTER (VA CENTRAL TEXAS HEALTHCARE SYSTEM),1901 VETERANS MEMORIAL DRIVE,TEMPLE,TX,76504,Bell,(254) 778-4811,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+45090F,SAN ANTONIO VA MEDICAL CENTER (VA SOUTH TEXAS HEALTHCARE SYSTEM),7400 MERTON MINTER BLVD.,SAN ANTONIO,TX,78229,Bexar,(210) 617-5300,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+46002F,VA SALT LAKE CITY HEALTHCARE - GEORGE E. WAHLEN VA MEDICAL CENTER,500 FOOTHILL BLVD.,SALT LAKE CITY,UT,84148,Salt Lake,(801) 584-1211,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+47001F,WHITE RIVER JCT VA MEDICAL CENTER,163 VETERANS DRIVE,WHITE RIVER JUNCTION,VT,05009,Windsor,(802) 295-9363,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+49006F,HAMPTON VA MEDICAL CENTER,100 EMANCIPATION DRIVE,HAMPTON,VA,23667,Hampton City,(757) 722-9961,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+49010F,RICHMOND VA MEDICAL CENTER,1201 BROAD ROCK BOULEVARD,RICHMOND,VA,23249,Richmond City,(804) 675-5000,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+49011F,SALEM VA MEDICAL CENTER,1970 ROANOKE BOULEVARD,SALEM,VA,24153,Salem,(540) 982-2463,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+50011F,SPOKANE VA MEDICAL CENTER,4815 N. ASSEMBLY STREET,SPOKANE,WA,99205,Spokane,(509) 434-7000,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+50030F,SEATTLE VA MEDICAL CENTER (VA PUGET SOUND HEALTHCARE SYSTEM),1660 S. COLUMBIAN WAY,SEATTLE,WA,98108,King,(206) 764-2299,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+51002F,BECKLEY VA MEDICAL CENTER,200 VETERANS AVENUE,BECKLEY,WV,25801,Raleigh,(304) 255-2121,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+51003F,CLARKSBURG VA MEDICAL CENTER,1 MEDICAL CENTER DRIVE,CLARKSBURG,WV,26301,Harrison,(304) 623-3461,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+51004F,HUNTINGTON VA MEDICAL CENTER,1540 SPRING VALLEY ROAD,HUNTINGTON,WV,25704,Wayne,(304) 429-0241,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+51005F,MARTINSBURG VA MEDICAL CENTER,510 BUTLER AVE.,MARTINSBURG,WV,25405,Berkeley,(304) 263-0811,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+52002F,TOMAH VA MEDICAL CENTER,500 EAST VETERANS STREET,TOMAH,WI,54660,Monroe,(608) 372-3971,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available,22
+52003F,MILWAUKEE VA MEDICAL CENTER,5000 W. NATIONAL AVENUE,MILWAUKEE,WI,53295,Milwaukee,(414) 384-2000,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+52004F,MADISON VA MEDICAL CENTER,2500 OVERLOOK TERRACE,MADISON,WI,53705,Dane,(608) 256-1901,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+53004F,CHEYENNE VA MEDICAL CENTER,2360 E. PERSHING BLVD.,CHEYENNE,WY,82001,Laramie,(307) 778-7300,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Not Available,22
+53005F,SHERIDAN VA MEDICAL CENTER,1898 FORT ROAD,SHERIDAN,WY,82801,Sheridan,(307) 672-1675,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available,22

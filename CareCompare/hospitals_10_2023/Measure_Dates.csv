@@ -1,0 +1,171 @@
+"Measure ID","Measure Name","Measure Start Quarter","Start Date","Measure End Quarter","End Date"
+ASC_11,Percentage of patients who had cataract surgery and had improvement in visual function within 90 days following the surgery,1Q2021,01/01/2021,4Q2021,12/31/2021
+ASC_12,Facility 7-Day Risk Standardized Hospital Visit Rate after Outpatient Colonoscopy,1Q2019,01/01/2019,4Q2021,12/31/2021
+ASC_13,Percentage of patients who received anesthesia who had a body temperature of 96.8 Fahrenheit within 15 minutes of arriving in the post-anesthesia care unit,1Q2021,01/01/2021,4Q2021,12/31/2021
+ASC_14,Percentage of cataract surgeries that had an unplanned additional eye surgery (anterior vitrectomy),1Q2021,01/01/2021,4Q2021,12/31/2021
+ASC_17,Hospital Visits after Orthopedic Ambulatory Surgical Center Procedures,3Q2020,07/01/2020,4Q2021,12/31/2021
+ASC_18,Hospital Visits after Urology Ambulatory Surgical Center Procedures,3Q2020,07/01/2020,4Q2021,12/31/2021
+ASC_20,HCP COVID-19 vaccination coverage Adherence Rate,3Q2022,07/01/2022,3Q2022,09/30/2022
+ASC_9,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy,1Q2021,01/01/2021,4Q2021,12/31/2021
+COMP_HIP_KNEE,Complication Rate Following Elective Primary Total Hip Arthroplasty (THA) and/or Total Knee Arthroplasty (TKA),2Q2019,04/01/2019,1Q2022,03/31/2022
+COMP_HIP_KNEE_HVBP_Baseline,Complication Rate Following Elective Primary Total Hip Arthroplasty (THA) and/or Total Knee Arthroplasty (TKA),2Q2013,04/01/2013,1Q2016,03/31/2016
+COMP_HIP_KNEE_HVBP_Performance,Complication Rate Following Elective Primary Total Hip Arthroplasty (THA) and/or Total Knee Arthroplasty (TKA),2Q2018,04/01/2018,1Q2021,03/31/2021
+Composite 1 Q1 to Q3,Communication with Nurses,4Q2021,10/01/2021,3Q2022,09/30/2022
+Composite 2 Q5 to Q7,Communication with Doctors,4Q2021,10/01/2021,3Q2022,09/30/2022
+Composite 3 Q4 and Q11,Responsiveness of Hospital Staff,4Q2021,10/01/2021,3Q2022,09/30/2022
+Composite 5 Q13 to Q14,Communication about Medicines,4Q2021,10/01/2021,3Q2022,09/30/2022
+Composite 6 Q16 to Q17,Discharge Information,4Q2021,10/01/2021,3Q2022,09/30/2022
+Composite 7 Q20 to Q22,Care Transition,4Q2021,10/01/2021,3Q2022,09/30/2022
+EDAC_30_AMI,Excess Days in Acute Care after Hospitalization for Acute Myocardial Infarction,3Q2019,07/01/2019,2Q2022,06/30/2022
+EDAC_30_HF,Excess Days in Acute Care after Hospitalization for Heart Failure,3Q2019,07/01/2019,2Q2022,06/30/2022
+EDAC_30_PN,Excess Days in Acute Care after Hospitalization for Pneumonia,3Q2019,07/01/2019,2Q2022,06/30/2022
+EDV,Emergency Department Volume,1Q2021,01/01/2021,4Q2021,12/31/2021
+ED_2_Strata_1,Admit Decision Time to ED Departure Time for Admitted Patients - non psychiatric/mental health disorders,1Q2021,01/01/2021,4Q2021,12/31/2021
+ED_2_Strata_2,Admit Decision Time to ED Departure Time for Admitted Patients – psychiatric/mental health disorders,1Q2021,01/01/2021,4Q2021,12/31/2021
+FUH_30,Follow-up after Hospitalization for Mental Illness 30-Days,3Q2020,07/01/2020,2Q2021,06/30/2021
+FUH_7,Follow-up after Hospitalization for Mental Illness 7-Days,3Q2020,07/01/2020,2Q2021,06/30/2021
+HACRP_CAUTI,Catheter-associated Urinary Tract Infection (CAUTI) Outcome Measure,1Q2021,01/01/2021,4Q2021,12/31/2021
+HACRP_CDI,Clostridium difficile Infection (CDI) Outcome Measure,1Q2021,01/01/2021,4Q2021,12/31/2021
+HACRP_CLABSI,Central line-associated Bloodstream Infection (CLABSI) Outcome Measure,1Q2021,01/01/2021,4Q2021,12/31/2021
+HACRP_MRSA,Methicillin-resistant Staphylococcus aureus (MRSA) Bacteremia Outcome Measure,1Q2021,01/01/2021,4Q2021,12/31/2021
+HACRP_PSI90,Patient Safety and Adverse Events Composite (CMS PSI 90),N/A,N/A,N/A,N/A
+HACRP_SSI,Surgical Site Infection (SSI) for Abdominal Hysterectomy and Colon Procedures Outcome Measure,1Q2021,01/01/2021,4Q2021,12/31/2021
+HACRP_Total,Total_HAC_Score,3Q2019,07/01/2019,4Q2021,12/31/2021
+HAI_1,Central Line Associated Bloodstream Infection (ICU + select Wards),4Q2021,10/01/2021,3Q2022,09/30/2022
+HAI_1_HVBP_Baseline,Central Line Associated Bloodstream Infection,1Q2019,01/01/2019,4Q2019,12/31/2019
+HAI_1_HVBP_Performance,Central Line Associated Bloodstream Infection,1Q2021,01/01/2021,4Q2021,12/31/2021
+HAI_2,Catheter Associated Urinary Tract Infections (ICU + select Wards),4Q2021,10/01/2021,3Q2022,09/30/2022
+HAI_2_HVBP_Baseline,Catheter Associated Urinary Tract Infections,1Q2019,01/01/2019,4Q2019,12/31/2019
+HAI_2_HVBP_Performance,Catheter Associated Urinary Tract Infections,1Q2021,01/01/2021,4Q2021,12/31/2021
+HAI_3,SSI - Colon Surgery,4Q2021,10/01/2021,3Q2022,09/30/2022
+HAI_3_HVBP_Baseline,SSI - Colon Surgery,1Q2019,01/01/2019,4Q2019,12/31/2019
+HAI_3_HVBP_Performance,SSI - Colon Surgery,1Q2021,01/01/2021,4Q2021,12/31/2021
+HAI_4,SSI - Abdominal Hysterectomy,4Q2021,10/01/2021,3Q2022,09/30/2022
+HAI_4_HVBP_Baseline,SSI - Abdominal Hysterectomy,1Q2019,01/01/2019,4Q2019,12/31/2019
+HAI_4_HVBP_Performance,SSI - Abdominal Hysterectomy,1Q2021,01/01/2021,4Q2021,12/31/2021
+HAI_5,MRSA Bacteremia,4Q2021,10/01/2021,3Q2022,09/30/2022
+HAI_5_HVBP_Baseline,MRSA,1Q2019,01/01/2019,4Q2019,12/31/2019
+HAI_5_HVBP_Performance,MRSA,1Q2021,01/01/2021,4Q2021,12/31/2021
+HAI_6,Clostridium Difficile (C.Diff),4Q2021,10/01/2021,3Q2022,09/30/2022
+HAI_6_HVBP_Baseline,CDI,1Q2019,01/01/2019,4Q2019,12/31/2019
+HAI_6_HVBP_Performance,CDI,1Q2021,01/01/2021,4Q2021,12/31/2021
+HBIPS_2,Hours of physical-restraint use,1Q2021,01/01/2021,4Q2021,12/31/2021
+HBIPS_3,Hours of seclusion,1Q2021,01/01/2021,4Q2021,12/31/2021
+HBIPS_5,Patients discharged on multiple antipsychotic medications with appropriate justification,1Q2021,01/01/2021,4Q2021,12/31/2021
+HCAHPS,Patient satisfaction survey results,4Q2021,10/01/2021,3Q2022,09/30/2022
+HCAHPS_HVBP_Baseline,HCAHPS Measures,1Q2019,01/01/2019,4Q2019,12/31/2019
+HCAHPS_HVBP_Performance,HCAHPS Measures,1Q2021,01/01/2021,4Q2021,12/31/2021
+HCP_COVID_19,Percentage of healthcare personnel who completed COVID-19 primary vaccination series,3Q2022,07/01/2022,3Q2022,09/30/2022
+IMM_3,Healthcare Personnel Influenza Vaccination,4Q2021,10/01/2021,1Q2022,03/31/2022
+IPFQR_HCP_COVID_19,Percentage of healthcare personnel who completed COVID-19 primary vaccination series (IPFQR-HCP COVID-19),3Q2022,07/01/2022,3Q2022,09/30/2022
+IPFQR_IMM_2,Influenza Immunization,4Q2021,10/01/2021,1Q2022,03/31/2022
+Linear Score,PCH HCAHPS Linear Score,4Q2021,10/01/2021,3Q2022,09/30/2022
+Linear Score,HCAHPS Linear Score for each measure,4Q2021,10/01/2021,3Q2022,09/30/2022
+MORT_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,3Q2019,07/01/2019,2Q2022,06/30/2022
+MORT_30_AMI_HVBP_Baseline,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,3Q2013,07/01/2013,2Q2016,06/30/2016
+MORT_30_AMI_HVBP_Performance,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,3Q2018,07/01/2018,2Q2021,06/30/2021
+MORT_30_CABG,30-Day All-Cause Mortality Following Coronary Artery Bypass Graft (CABG) Surgery,3Q2019,07/01/2019,2Q2022,06/30/2022
+MORT_30_CABG_HVBP_Baseline,30-Day All-Cause Mortality Following Coronary Artery Bypass Graft (CABG) Surgery,3Q2013,07/01/2013,2Q2016,06/30/2016
+MORT_30_CABG_HVBP_Performance,30-Day All-Cause Mortality Following Coronary Artery Bypass Graft (CABG) Surgery,3Q2018,07/01/2018,2Q2021,06/30/2021
+MORT_30_COPD,Chronic Obstructive Pulmonary Disease (COPD) 30-Day Mortality Rate,3Q2019,07/01/2019,2Q2022,06/30/2022
+MORT_30_COPD_HVBP_Baseline,Chronic Obstructive Pulmonary Disease (COPD) 30-Day Mortality Rate,3Q2013,07/01/2013,2Q2016,06/30/2016
+MORT_30_COPD_HVBP_Performance,Chronic Obstructive Pulmonary Disease (COPD) 30-Day Mortality Rate,3Q2018,07/01/2018,2Q2021,06/30/2021
+MORT_30_HF,Heart Failure (HF) 30-Day Mortality Rate,3Q2019,07/01/2019,2Q2022,06/30/2022
+MORT_30_HF_HVBP_Baseline,Heart Failure (HF) 30-Day Mortality Rate,3Q2013,07/01/2013,2Q2016,06/30/2016
+MORT_30_HF_HVBP_Performance,Heart Failure (HF) 30-Day Mortality Rate,3Q2018,07/01/2018,2Q2021,06/30/2021
+MORT_30_PN,Pneumonia 30-Day Mortality Rate,3Q2019,07/01/2019,2Q2022,06/30/2022
+MORT_30_PN_HVBP_Baseline,Pneumonia 30-Day Mortality Rate,3Q2013,07/01/2013,2Q2016,06/30/2016
+MORT_30_PN_HVBP_Performance,Pneumonia 30-Day Mortality Rate,3Q2018,07/01/2018,2Q2021,06/30/2021
+MORT_30_STK,Acute Ischemic Stroke (STK) 30-Day Mortality Rate,3Q2019,07/01/2019,2Q2022,06/30/2022
+MSPB_1,Spending per Hospital Patient with Medicare (Medicare Spending per Beneficiary),1Q2021,01/01/2021,4Q2021,12/31/2021
+MSPB_1_HVBP_Baseline,Spending per Hospital Patient with Medicare (Medicare Spending per Beneficiary),1Q2019,01/01/2019,4Q2019,12/31/2019
+MSPB_1_HVBP_Performance,Spending per Hospital Patient with Medicare (Medicare Spending per Beneficiary),1Q2021,01/01/2021,4Q2021,12/31/2021
+MedCont,Medication Continuation Following Inpatient Psychiatric Discharge,3Q2019,07/01/2019,2Q2021,06/30/2021
+OP_10,Abdomen CT - Use of Contrast Material,3Q2021,07/01/2021,2Q2022,06/30/2022
+OP_13,Cardiac Imaging for Preoperative Risk Assessment for Non-Cardiac Low-Risk Surgery,3Q2021,07/01/2021,2Q2022,06/30/2022
+OP_18b,Median Time from ED Arrival to ED Departure for Discharged ED Patients,4Q2021,10/01/2021,3Q2022,09/30/2022
+OP_18c,Median Time from ED Arrival to ED Departure for Discharged ED Patients-Psychiatric/Mental Health Patients,4Q2021,10/01/2021,3Q2022,09/30/2022
+OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,4Q2021,10/01/2021,3Q2022,09/30/2022
+OP_22,Left without being seen,1Q2021,01/01/2021,4Q2021,12/31/2021
+OP_23,Head CT or MRI Scan Results for Acute Ischemic Stroke or Hemorrhagic Stroke Patients who Received Head CT or MRI Scan Interpretation Within 45 Minutes of E,4Q2021,10/01/2021,3Q2022,09/30/2022
+OP_29,Appropriate Follow-Up Interval for Normal Colonoscopy in Average Risk Patients,1Q2021,01/01/2021,4Q2021,12/31/2021
+OP_31,Cataracts - Improvement in Patient's Visual Function within 90 Days Following Cataract Surgery,1Q2021,01/01/2021,4Q2021,12/31/2021
+OP_32,Facility 7-Day Risk Standardized Hospital Visit Rate after Outpatient Colonoscopy,1Q2019,01/01/2019,4Q2021,12/31/2021
+OP_35_ADM,Admissions for patients receiving outpatient chemotherapy,1Q2021,01/01/2021,4Q2021,12/31/2021
+OP_35_ED,Emergency department (ED) visits for patients receiving outpatient chemotherapy,1Q2021,01/01/2021,4Q2021,12/31/2021
+OP_36,Hospital visits after hospital outpatient surgery,1Q2021,01/01/2021,4Q2021,12/31/2021
+OP_39,Breast Cancer Screening Recall Rates,3Q2021,07/01/2021,2Q2022,06/30/2022
+OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention- Reporting Rate,4Q2021,10/01/2021,3Q2022,09/30/2022
+OP_8,MRI Lumbar Spine for Low Back Pain,3Q2021,07/01/2021,2Q2022,06/30/2022
+PAYM_30_AMI,Risk-Standardized Payment Associated with a 30-Day AMI Episode-of-Care for Acute Myocardial Infarction,3Q2019,07/01/2019,2Q2022,06/30/2022
+PAYM_30_HF,Risk-Standardized Payment Associated with a 30-Day Episode of Care for Heart Failure,3Q2019,07/01/2019,2Q2022,06/30/2022
+PAYM_30_PN,Risk-Standardized Payment Associated with a 30-Day Episode of Care for Pneumonia,3Q2019,07/01/2019,2Q2022,06/30/2022
+PAYM_90_HIP_KNEE,Risk-Standardized Payment Associated with a 90-Day Episode of Care for THA/TKA,2Q2019,04/01/2019,1Q2022,03/31/2022
+PCH_15,Plan of Care for Pain - Medical Oncology and Radiation Oncology,1Q2021,01/01/2021,4Q2021,12/31/2021
+PCH_26,Clostridium Difficile (C.Diff),4Q2021,10/01/2021,3Q2022,09/30/2022
+PCH_27,MRSA Bacteremia,4Q2021,10/01/2021,3Q2022,09/30/2022
+PCH_28,Influenza Vaccination Coverage Among Healthcare Personnel (HCP),4Q2021,10/01/2021,1Q2022,03/31/2022
+PCH_30,Admissions for Patients Receiving Outpatient Chemotherapy,3Q2021,07/01/2021,2Q2022,06/30/2022
+PCH_31,Emergency Department (ED) Visits for Patients Receiving Outpatient Chemotherapy,3Q2021,07/01/2021,2Q2022,06/30/2022
+PCH_38,Percentage of healthcare personnel who completed COVID-19 primary vaccination series,3Q2022,07/01/2022,3Q2022,09/30/2022
+PCH_4,Central Line-Associated Bloodstream Infection (CLABSI),4Q2021,10/01/2021,3Q2022,09/30/2022
+PCH_5,Catheter-Associated Urinary Tract Infections (CAUTI),4Q2021,10/01/2021,3Q2022,09/30/2022
+PCH_6,Surgical Site Infection from colon surgery (SSI: Colon),4Q2021,10/01/2021,3Q2022,09/30/2022
+PCH_7,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),4Q2021,10/01/2021,3Q2022,09/30/2022
+PC_01,Elective Delivery,4Q2021,10/01/2021,3Q2022,09/30/2022
+PC_05,Exclusive Breast Milk Feeding,1Q2021,01/01/2021,4Q2021,12/31/2021
+PSI_03,Pressure Ulcer Rate,3Q2019,07/01/2019,2Q2021,06/30/2021
+PSI_04,Death rate among surgical inpatients with serious treatable complications,3Q2019,07/01/2019,2Q2021,06/30/2021
+PSI_06,Iatrogenic pneumothorax rate,3Q2019,07/01/2019,2Q2021,06/30/2021
+PSI_08,In-Hospital Fall With Hip Fracture Rate,3Q2019,07/01/2019,2Q2021,06/30/2021
+PSI_09,Postoperative Hemorrhage or Hematoma Rate,3Q2019,07/01/2019,2Q2021,06/30/2021
+PSI_10,Postoperative Acute Kidney Injury Requiring Dialysis Rate,3Q2019,07/01/2019,2Q2021,06/30/2021
+PSI_11,Postoperative Respiratory Failure Rate,3Q2019,07/01/2019,2Q2021,06/30/2021
+PSI_12,Perioperative Pulmonary Embolism (PE) or Deep Vein Thrombosis (DVT) Rate,3Q2019,07/01/2019,2Q2021,06/30/2021
+PSI_13,Postoperative Sepsis Rate,3Q2019,07/01/2019,2Q2021,06/30/2021
+PSI_14,Postoperative Wound Dehiscence Rate,3Q2019,07/01/2019,2Q2021,06/30/2021
+PSI_15,Abdominopelvic accidental puncture or laceration rate,3Q2019,07/01/2019,2Q2021,06/30/2021
+PSI_90,Patient Safety and Adverse Events Composite,3Q2019,07/01/2019,2Q2021,06/30/2021
+Q18,Overall Rating of Hospital,4Q2021,10/01/2021,3Q2022,09/30/2022
+Q19,Willingness to Recommend this Hospital,4Q2021,10/01/2021,3Q2022,09/30/2022
+Q8,Cleanliness of Hospital Environment,4Q2021,10/01/2021,3Q2022,09/30/2022
+Q9,Quietness of Hospital Environment,4Q2021,10/01/2021,3Q2022,09/30/2022
+READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,3Q2019,07/01/2019,2Q2022,06/30/2022
+READM_30_AMI_HRRP,30-Day All-Cause Risk-Standardized Readmission Rate Following Acute Myocardial Infarction (AMI) Hospitalization,3Q2018,07/01/2018,2Q2021,06/30/2021
+READM_30_CABG,30-Day All-Cause Unplanned Readmission Following Coronary Artery Bypass Graft Surgery (CABG),3Q2019,07/01/2019,2Q2022,06/30/2022
+READM_30_CABG_HRRP,30-Day All-Cause Risk-Standardized Readmission Rate Following Coronary Artery Bypass Graft (CABG) Surgery,3Q2018,07/01/2018,2Q2021,06/30/2021
+READM_30_COPD,Chronic Obstructive Pulmonary Disease (COPD) 30-Day Readmission Rate,3Q2019,07/01/2019,2Q2022,06/30/2022
+READM_30_COPD_HRRP,30-Day All-Cause Risk-Standardized Readmission Rate Following Chronic Obstructive Pulmonary Disease (COPD) Hospitalization,3Q2018,07/01/2018,2Q2021,06/30/2021
+READM_30_HF,Heart Failure (HF) 30-Day Readmission Rate,3Q2019,07/01/2019,2Q2022,06/30/2022
+READM_30_HF_HRRP,30-Day All-Cause Risk-Standardized Readmission Rate Following Heart Failure (HF) Hospitalization,3Q2018,07/01/2018,2Q2021,06/30/2021
+READM_30_HIP_KNEE,30-Day Readmission Rate Following Elective Primary Total Hip Arthroplasty (THA) and/or Total Knee Arthroplasty,3Q2019,07/01/2019,2Q2022,06/30/2022
+READM_30_HIP_KNEE_HRRP,30-Day All-Cause Risk-Standardized Readmission Rate Following Elective Primary Total Hip Arthroplasty (THA) and/or Total Knee Arthroplasty (TKA),3Q2018,07/01/2018,2Q2021,06/30/2021
+READM_30_HOSP_WIDE,30-Day Hospital-Wide All-Cause Unplanned Readmission Rate,3Q2021,07/01/2021,2Q2022,06/30/2022
+READM_30_IPF,Rate of readmission after discharge from hospital,3Q2019,07/01/2019,2Q2021,06/30/2021
+READM_30_PN,Pneumonia 30-Day Readmission Rate,3Q2019,07/01/2019,2Q2022,06/30/2022
+READM_30_PN_HRRP,30-Day All-Cause Risk-Standardized Readmission Rate Following Pneumonia Hospitalization,3Q2018,07/01/2018,2Q2021,06/30/2021
+SAFE_USE_OF_OPIOIDS,Safe Use of Opioids – Concurrent Prescribing,1Q2021,01/01/2021,4Q2021,12/31/2021
+SEP_1,Severe Sepsis and Septic Shock,4Q2021,10/01/2021,3Q2022,09/30/2022
+SEP_SH_3HR,Septic Shock 3-Hour Bundle,4Q2021,10/01/2021,3Q2022,09/30/2022
+SEP_SH_6HR,Septic Shock 6-Hour Bundle,4Q2021,10/01/2021,3Q2022,09/30/2022
+SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,4Q2021,10/01/2021,3Q2022,09/30/2022
+SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,4Q2021,10/01/2021,3Q2022,09/30/2022
+SMD,Screening for Metabolic Disorders,1Q2021,01/01/2021,4Q2021,12/31/2021
+SM_7,Maternal Morbidity Structural Measure,4Q2021,10/01/2021,4Q2021,12/31/2021
+STK_02,Discharged on Antithrombotic Therapy,1Q2021,01/01/2021,4Q2021,12/31/2021
+STK_03,Anticoagulation Therapy for Atrial Fibrillation/Flutter,1Q2021,01/01/2021,4Q2021,12/31/2021
+STK_05,Antithrombotic Therapy by End of Hospital Day 2,1Q2021,01/01/2021,4Q2021,12/31/2021
+STK_06,Discharged on Statin Medication,1Q2021,01/01/2021,4Q2021,12/31/2021
+SUB_2,Alcohol Use Brief Intervention Provided or Offered,1Q2021,01/01/2021,4Q2021,12/31/2021
+SUB_2a,Alcohol Use Brief Intervention,1Q2021,01/01/2021,4Q2021,12/31/2021
+SUB_3,Alcohol and other Drug Use Disorder Treatment Provided or Offered at Discharge,1Q2021,01/01/2021,4Q2021,12/31/2021
+SUB_3a,Alcohol and other Drug Use Disorder Treatment Provided at Discharge,1Q2021,01/01/2021,4Q2021,12/31/2021
+Star Rating,HCAHPS Summary Star Rating,4Q2021,10/01/2021,3Q2022,09/30/2022
+TOB_2,Tobacco Use Treatment Provided or Offered,1Q2021,01/01/2021,4Q2021,12/31/2021
+TOB_2a,Tobacco Use Treatment (during the hospital stay),1Q2021,01/01/2021,4Q2021,12/31/2021
+TOB_3,Tobacco Use Treatment Provided or Offered at Discharge,1Q2021,01/01/2021,4Q2021,12/31/2021
+TOB_3a,Tobacco Use Treatment at Discharge,1Q2021,01/01/2021,4Q2021,12/31/2021
+TR1,Transition Record with Specified Elements,1Q2021,01/01/2021,4Q2021,12/31/2021
+TR2,Timely Transmission of Transition Record,1Q2021,01/01/2021,4Q2021,12/31/2021
+VTE_1,Venous Thromboembolism Prophylaxis,1Q2021,01/01/2021,4Q2021,12/31/2021
+VTE_2,Intensive Care Unit Venous Thromboembolism Prophylaxis,1Q2021,01/01/2021,4Q2021,12/31/2021

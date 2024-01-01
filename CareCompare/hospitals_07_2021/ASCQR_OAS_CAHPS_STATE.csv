@@ -1,0 +1,57 @@
+"State","Patients who reported that staff definitely gave care in a professional way and the facility was clean","Patients who reported that staff somewhat gave care in a professional way or the facility was somewhat clean","Patients who reported that staff did not give care in a professional way or the facility was not clean","Facilities and staff linear mean score","Patients who reported that staff definitely communicated about what to expect during and after the procedure","Patients who reported that staff somewhat communicated about what to expect during and after the procedure","Patients who reported that staff did not communicate about what to expect during and after the procedure","Communication about your procedure linear mean score","Patients who gave the facility a rating of 9 or 10 on a scale from 0 (lowest) to 10 (highest)","Patients who gave the facility a rating of 7 or 8 on a scale from 0 (lowest) to 10 (highest)","Patients who gave the facility a rating of 0 to 6 on a scale from 0 (lowest) to 10 (highest)","Patients’ rating of the facility linear mean score","Patients who reported YES they would DEFINITELY recommend the facility to family or friends","Patients who reported PROBABLY YES they would recommend the facility to family or friends","Patients who reported NO, they would not recommend the facility to family or friends","Patients recommending the facility linear mean score","Number of Sampled Patients","Number of Completed Surveys","Survey Response Rate Percent","Start Date","End Date"
+Alabama,97,3,0,98,94,5,1,96,89,9,2,95,88,11,1,95,3906,955,25,07/01/2019,12/31/2020
+Alaska,,,,,,,,,,,,,,,,,,,,,
+American Samoa,,,,,,,,,,,,,,,,,,,,,
+Arizona,97,3,0,99,91,7,2,95,90,9,1,95,87,11,2,95,14004,3760,27,07/01/2019,12/31/2020
+Arkansas,,,,,,,,,,,,,,,,,,,,,
+California,97,3,0,98,91,7,2,94,88,10,2,95,86,12,2,94,43175,12858,30,07/01/2019,12/31/2020
+Colorado,97,2,1,99,91,7,2,95,88,10,2,95,85,13,2,94,14602,4192,29,07/01/2019,12/31/2020
+Commonwealth of the Northern Marianas Islands,,,,,,,,,,,,,,,,,,,,,
+Connecticut,97,3,0,98,91,7,2,95,90,9,1,95,87,12,1,95,714,194,27,07/01/2019,12/31/2020
+Delaware,,,,,,,,,,,,,,,,,,,,,
+District of Columbia,,,,,,,,,,,,,,,,,,,,,
+Florida,97,3,0,98,91,7,2,94,88,10,2,95,87,11,2,95,25348,9155,36,07/01/2019,12/31/2020
+Georgia,97,3,0,98,92,7,1,95,90,8,2,96,90,8,2,96,17520,4224,24,07/01/2019,12/31/2020
+Guam,,,,,,,,,,,,,,,,,,,,,
+Hawaii,98,2,0,99,92,6,2,95,88,10,2,95,87,11,2,95,4880,1944,40,07/01/2019,12/31/2020
+Idaho,97,3,0,98,96,3,1,98,91,7,2,96,90,7,3,95,1076,332,31,07/01/2019,12/31/2020
+Illinois,97,3,0,98,91,7,2,95,88,10,2,95,86,12,2,94,9089,3129,34,07/01/2019,12/31/2020
+Indiana,99,1,0,99,93,5,2,96,93,6,1,96,90,9,1,96,1859,772,42,07/01/2019,12/31/2020
+Iowa,97,2,1,98,90,8,2,94,88,10,2,94,83,15,2,94,2120,817,39,07/01/2019,12/31/2020
+Kansas,97,3,0,99,89,9,2,94,87,11,2,94,84,14,2,94,1641,708,43,07/01/2019,12/31/2020
+Kentucky,,,,,,,,,,,,,,,,,,,,,
+Louisiana,98,2,0,99,92,6,2,95,90,8,2,95,89,9,2,96,7542,1941,26,07/01/2019,12/31/2020
+Maine,98,2,0,99,93,6,1,96,93,6,1,96,89,9,2,95,778,243,31,07/01/2019,12/31/2020
+Maryland,95,4,1,97,89,9,2,94,84,12,4,93,83,14,3,93,3275,443,14,07/01/2019,12/31/2020
+Massachusetts,98,2,0,99,91,7,2,95,87,11,2,95,88,10,2,95,1810,795,44,07/01/2019,12/31/2020
+Michigan,97,3,0,99,90,8,2,94,88,10,2,95,88,11,1,96,11281,3747,34,07/01/2019,12/31/2020
+Minnesota,98,2,0,99,92,7,1,96,87,11,2,95,85,14,1,95,4137,1518,37,07/01/2019,12/31/2020
+Mississippi,98,2,0,99,94,5,1,96,92,7,1,96,92,6,2,96,3275,816,25,07/01/2019,12/31/2020
+Missouri,98,2,0,99,92,6,2,95,89,9,2,95,86,12,2,95,21241,7388,35,07/01/2019,12/31/2020
+Montana,98,2,0,99,91,7,2,95,91,8,1,96,92,7,1,97,933,281,30,07/01/2019,12/31/2020
+Nebraska,97,3,0,99,93,6,1,96,87,12,1,94,85,14,1,94,1445,514,36,07/01/2019,12/31/2020
+Nevada,98,2,0,99,91,7,2,95,89,9,2,95,89,9,2,95,4698,1177,25,07/01/2019,12/31/2020
+New Hampshire,98,2,0,99,94,5,1,96,89,9,2,96,88,10,2,96,3576,1014,28,07/01/2019,12/31/2020
+New Jersey,98,2,0,99,91,7,2,94,90,9,1,95,87,12,1,95,19877,6476,33,07/01/2019,12/31/2020
+New Mexico,96,3,1,98,88,9,3,93,82,14,4,92,77,19,4,90,3502,988,28,07/01/2019,12/31/2020
+New York,,,,,,,,,,,,,,,,,,,,,
+North Carolina,97,3,0,98,93,6,1,96,91,8,1,96,88,11,1,95,28096,7070,25,07/01/2019,12/31/2020
+North Dakota,97,3,0,99,92,7,1,96,89,9,2,94,87,10,3,94,665,227,34,07/01/2019,12/31/2020
+Ohio,98,2,0,99,93,5,2,95,92,6,2,96,89,9,2,95,5960,2133,36,07/01/2019,12/31/2020
+Oklahoma,97,2,1,98,91,7,2,95,86,12,2,95,87,11,2,95,3437,1212,35,07/01/2019,12/31/2020
+Oregon,97,3,0,99,91,7,2,95,87,11,2,95,86,12,2,95,19754,6500,33,07/01/2019,12/31/2020
+Pennsylvania,98,2,0,99,92,7,1,95,91,8,1,96,89,10,1,96,17120,6426,38,07/01/2019,12/31/2020
+Puerto Rico,,,,,,,,,,,,,,,,,,,,,
+Rhode Island,,,,,,,,,,,,,,,,,,,,,
+South Carolina,98,2,0,99,93,5,2,96,92,7,1,96,90,8,2,96,5754,2291,40,07/01/2019,12/31/2020
+South Dakota,,,,,,,,,,,,,,,,,,,,,
+Tennessee,98,2,0,99,92,7,1,95,90,9,1,96,89,10,1,96,33308,8894,27,07/01/2019,12/31/2020
+Texas,97,3,0,98,91,7,2,95,89,9,2,95,87,11,2,95,84155,20865,25,07/01/2019,12/31/2020
+Utah,98,2,0,99,91,7,2,95,92,6,2,96,87,11,2,95,2910,830,29,07/01/2019,12/31/2020
+Vermont,,,,,,,,,,,,,,,,,,,,,
+Virgin Islands,,,,,,,,,,,,,,,,,,,,,
+Virginia,98,2,0,99,93,6,1,96,91,8,1,95,89,10,1,96,8048,2362,29,07/01/2019,12/31/2020
+Washington,98,2,0,99,93,6,1,96,88,10,2,95,87,12,1,95,24213,7005,29,07/01/2019,12/31/2020
+West Virginia,,,,,,,,,,,,,,,,,,,,,
+Wisconsin,98,1,1,99,92,6,2,96,86,12,2,94,87,11,2,95,1849,726,39,07/01/2019,12/31/2020
+Wyoming,98,1,1,99,92,7,1,95,89,9,2,95,87,11,2,95,2931,1079,37,07/01/2019,12/31/2020

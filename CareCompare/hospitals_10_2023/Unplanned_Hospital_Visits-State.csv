@@ -1,0 +1,785 @@
+"State","Measure ID","Measure Name","Number of Hospitals Worse","Number of Hospitals Same","Number of Hospitals Better","Number of Hospitals Too Few","Footnote","Start Date","End Date","Number of Hospitals Fewer","Number of Hospitals Average","Number of Hospitals More","Number of Hospitals Too Small"
+AK,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,0,4,0,13
+AK,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,6,1,11
+AK,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,8,2,9
+AK,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,7,0,3,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AK,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0,8,0,6,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AK,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,8,0,6,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AK,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,1,5,0,3,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AK,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,5,0,12,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AK,READM_30_CABG,Rate of readmission for CABG,0,2,0,0,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AK,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,10,0,9,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AK,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,8,0,11,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AK,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,8,0,2,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AK,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0,17,1,3,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AK,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,11,0,9,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AL,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,4,14,8,42
+AL,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,46,15,24
+AL,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,2,49,16,21
+AL,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,72,0,3,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AL,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0,16,1,35,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AL,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,17,0,35,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AL,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,1,40,4,27,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AL,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,29,0,39,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AL,READM_30_CABG,Rate of readmission for CABG,0,20,0,2,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AL,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,50,0,36,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AL,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,62,0,24,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AL,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,36,0,10,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AL,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),1,83,0,5,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AL,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,67,0,21,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AR,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,4,14,6,33
+AR,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,5,33,12,24
+AR,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,5,40,17,13
+AR,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,54,0,6,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AR,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,2,14,0,26,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AR,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,16,0,26,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AR,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0,34,0,18,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AR,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,26,0,31,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AR,READM_30_CABG,Rate of readmission for CABG,0,13,0,3,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AR,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,40,0,34,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AR,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,49,1,24,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AR,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,25,1,14,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AR,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),3,69,1,3,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AR,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,1,61,0,13,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AS,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,5,07/01/2019,06/30/2022,Not Available,Not Available,Not Available,Not Available
+AS,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,5,07/01/2019,06/30/2022,Not Available,Not Available,Not Available,Not Available
+AS,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,5,07/01/2019,06/30/2022,Not Available,Not Available,Not Available,Not Available
+AS,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",Not Available,Not Available,Not Available,Not Available,5,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AS,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,Not Available,Not Available,Not Available,Not Available,5,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AS,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,Not Available,Not Available,Not Available,Not Available,5,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AS,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,Not Available,Not Available,Not Available,Not Available,5,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AS,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AS,READM_30_CABG,Rate of readmission for CABG,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AS,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AS,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AS,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AS,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AS,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AZ,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,5,29,4,19
+AZ,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,6,40,8,21
+AZ,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,5,39,17,18
+AZ,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,51,0,8,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AZ,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0,21,1,36,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AZ,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,22,0,36,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AZ,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,2,52,1,8,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AZ,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,39,0,18,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AZ,READM_30_CABG,Rate of readmission for CABG,0,20,0,4,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AZ,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,44,0,33,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AZ,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,52,2,21,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AZ,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,2,31,2,25,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AZ,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),2,73,5,3,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+AZ,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,1,60,0,18,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CA,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,9,91,29,166
+CA,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,22,189,44,65
+CA,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,21,152,97,55
+CA,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,198,0,60,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CA,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,11,90,1,111,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CA,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,5,95,2,111,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CA,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,8,174,14,91,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CA,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,147,0,148,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CA,READM_30_CABG,Rate of readmission for CABG,0,82,0,37,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CA,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,1,203,0,114,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CA,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,7,248,0,65,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CA,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,165,2,93,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CA,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),18,287,14,9,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CA,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,5,265,0,55,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CO,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,5,15,1,40
+CO,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,15,31,0,35
+CO,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,15,34,1,33
+CO,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,59,0,9,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CO,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0,36,0,31,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CO,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,1,35,0,31,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CO,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,6,48,0,14,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CO,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,31,0,30,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CO,READM_30_CABG,Rate of readmission for CABG,0,13,0,4,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CO,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,34,0,48,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CO,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,45,1,35,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CO,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,40,0,28,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CO,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0,75,5,4,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CO,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,50,0,33,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CT,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,6,6,12
+CT,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,19,6,3
+CT,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,0,14,12,2
+CT,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,27,0,0,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CT,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,1,18,0,6,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CT,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,18,1,6,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CT,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0,24,1,0,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CT,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,16,0,9,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CT,READM_30_CABG,Rate of readmission for CABG,0,8,0,2,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CT,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,26,0,2,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CT,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,1,25,0,3,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CT,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,20,0,6,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CT,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),1,25,0,1,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CT,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,26,0,2,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+DC,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,0,1,2,4
+DC,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,2,4,0
+DC,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,0,2,5,0
+DC,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,6,0,0,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+DC,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0,4,0,2,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+DC,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,4,0,2,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+DC,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,1,4,0,1,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+DC,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,5,0,2,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+DC,READM_30_CABG,Rate of readmission for CABG,0,2,0,0,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+DC,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,7,0,0,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+DC,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,1,6,0,0,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+DC,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,5,0,1,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+DC,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0,7,0,0,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+DC,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,7,0,0,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+DE,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,0,4,0,3
+DE,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,5,1,0
+DE,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,2,4,0
+DE,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,6,0,0,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+DE,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0,4,1,1,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+DE,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,5,0,1,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+DE,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,1,5,0,0,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+DE,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,6,0,1,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+DE,READM_30_CABG,Rate of readmission for CABG,0,3,0,0,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+DE,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,7,0,0,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+DE,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,7,0,0,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+DE,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,5,0,1,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+DE,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0,6,1,0,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+DE,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,7,0,0,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+FL,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,7,81,29,61
+FL,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,7,103,60,15
+FL,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,10,88,77,14
+FL,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",1,139,0,29,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+FL,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,1,47,0,91,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+FL,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,1,44,3,91,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+FL,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,11,134,6,17,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+FL,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,1,133,0,44,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+FL,READM_30_CABG,Rate of readmission for CABG,1,65,0,13,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+FL,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,3,158,1,24,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+FL,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,9,159,2,15,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+FL,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,121,0,45,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+FL,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),30,140,9,5,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+FL,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,4,170,1,14,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+GA,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,4,37,10,52
+GA,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,8,59,19,44
+GA,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,4,68,29,31
+GA,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,106,0,9,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+GA,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,3,39,0,40,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+GA,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,40,2,40,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+GA,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,4,76,3,27,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+GA,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,57,0,46,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+GA,READM_30_CABG,Rate of readmission for CABG,0,18,0,4,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+GA,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,79,0,52,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+GA,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,1,85,0,44,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+GA,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,42,0,39,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+GA,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),2,118,0,10,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+GA,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,101,0,31,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+GU,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,5,07/01/2019,06/30/2022,Not Available,Not Available,Not Available,Not Available
+GU,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,5,07/01/2019,06/30/2022,Not Available,Not Available,Not Available,Not Available
+GU,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,5,07/01/2019,06/30/2022,Not Available,Not Available,Not Available,Not Available
+GU,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",Not Available,Not Available,Not Available,Not Available,5,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+GU,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,Not Available,Not Available,Not Available,Not Available,5,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+GU,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,Not Available,Not Available,Not Available,Not Available,5,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+GU,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,Not Available,Not Available,Not Available,Not Available,5,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+GU,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+GU,READM_30_CABG,Rate of readmission for CABG,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+GU,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+GU,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+GU,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+GU,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+GU,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+HI,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,0,4,2,8
+HI,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,2,7,2,3
+HI,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,0,9,3,3
+HI,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,10,0,3,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+HI,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0,9,0,5,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+HI,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,9,0,5,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+HI,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0,10,0,2,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+HI,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,7,0,7,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+HI,READM_30_CABG,Rate of readmission for CABG,0,2,0,3,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+HI,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,6,0,9,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+HI,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,9,2,3,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+HI,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,4,0,7,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+HI,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0,10,3,4,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+HI,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,12,0,3,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IA,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,3,15,3,81
+IA,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,9,45,3,59
+IA,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,14,75,4,23
+IA,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,72,0,13,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IA,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0,29,0,68,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IA,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,2,27,0,68,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IA,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0,41,0,59,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IA,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,23,0,79,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IA,READM_30_CABG,Rate of readmission for CABG,0,9,0,2,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IA,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,33,0,84,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IA,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,55,2,59,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IA,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,33,0,43,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IA,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0,106,6,4,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IA,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,93,0,23,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ID,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,4,4,0,21
+ID,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,8,10,1,21
+ID,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,10,16,1,15
+ID,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,23,0,8,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ID,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0,13,0,22,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ID,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,1,12,0,22,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ID,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,1,20,0,11,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ID,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,10,0,19,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ID,READM_30_CABG,Rate of readmission for CABG,0,5,0,0,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ID,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,13,0,28,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ID,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,17,2,21,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ID,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,19,0,14,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ID,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0,33,6,4,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ID,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,26,1,15,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IL,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,2,53,13,86
+IL,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,10,90,37,43
+IL,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,20,88,46,26
+IL,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,139,4,18,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IL,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,8,62,0,71,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IL,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,1,67,2,71,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IL,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0,111,3,43,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IL,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,85,0,69,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IL,READM_30_CABG,Rate of readmission for CABG,0,41,0,14,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IL,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,124,0,55,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IL,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,4,132,1,43,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IL,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,1,87,1,47,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IL,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),15,155,0,6,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IL,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,3,151,0,26,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IN,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,8,23,8,60
+IN,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,15,72,8,17
+IN,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,13,75,11,14
+IN,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,105,0,3,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IN,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,3,51,0,41,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IN,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,54,0,41,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IN,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,3,79,2,30,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IN,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,46,0,53,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IN,READM_30_CABG,Rate of readmission for CABG,0,25,0,3,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IN,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,80,0,32,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IN,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,1,94,0,17,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IN,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,58,1,34,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IN,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),3,111,3,3,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+IN,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,98,1,14,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+KS,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,3,16,0,67
+KS,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,10,41,3,71
+KS,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,19,65,3,40
+KS,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,81,0,20,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+KS,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,3,13,0,58,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+KS,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,15,1,58,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+KS,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,5,37,2,50,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+KS,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,23,0,63,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+KS,READM_30_CABG,Rate of readmission for CABG,0,13,0,1,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+KS,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,40,0,82,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+KS,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,53,1,71,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+KS,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,38,2,17,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+KS,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0,119,5,10,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+KS,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,87,0,40,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+KY,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,2,18,8,47
+KY,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,4,50,12,27
+KY,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,5,53,23,12
+KY,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,75,0,7,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+KY,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,3,30,0,29,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+KY,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,32,1,29,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+KY,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,1,52,0,22,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+KY,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,33,0,42,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+KY,READM_30_CABG,Rate of readmission for CABG,0,14,0,3,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+KY,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,1,58,0,33,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+KY,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,65,1,27,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+KY,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,30,0,27,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+KY,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),2,85,2,3,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+KY,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,81,0,12,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+LA,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,2,15,8,51
+LA,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,5,51,8,34
+LA,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,10,50,12,32
+LA,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,79,0,9,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+LA,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0,31,0,36,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+LA,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,31,0,36,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+LA,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,1,56,1,30,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+LA,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,1,32,0,43,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+LA,READM_30_CABG,Rate of readmission for CABG,0,21,0,5,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+LA,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,52,0,45,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+LA,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,2,62,0,34,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+LA,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,31,0,28,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+LA,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),4,97,1,13,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+LA,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,1,71,0,32,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MA,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,0,13,13,30
+MA,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,31,24,2
+MA,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,4,29,23,2
+MA,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,53,2,0,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MA,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,2,36,0,16,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MA,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,1,35,2,16,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MA,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,1,49,4,2,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MA,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,2,29,0,25,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MA,READM_30_CABG,Rate of readmission for CABG,0,12,0,1,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MA,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,2,53,0,3,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MA,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,5,51,0,2,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MA,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,47,1,7,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MA,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),18,39,1,0,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MA,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,3,53,0,2,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MD,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,0,17,9,17
+MD,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,32,10,4
+MD,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,0,27,16,4
+MD,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,39,0,4,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MD,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,3,20,0,18,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MD,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,23,0,18,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MD,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,2,41,0,1,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MD,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,31,0,12,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MD,READM_30_CABG,Rate of readmission for CABG,0,10,0,1,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MD,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,41,1,4,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MD,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,41,2,4,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MD,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,35,0,8,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MD,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),1,38,6,0,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MD,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,43,0,4,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ME,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,2,0,31
+ME,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,23,2,8
+ME,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,4,22,3,5
+ME,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,19,0,6,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ME,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0,16,1,13,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ME,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,17,0,13,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ME,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0,17,0,7,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ME,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,6,1,27,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ME,READM_30_CABG,Rate of readmission for CABG,0,3,0,0,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ME,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,19,0,15,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ME,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,23,3,8,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ME,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,12,0,14,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ME,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),1,29,3,1,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ME,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,29,0,5,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MI,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,4,31,9,62
+MI,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,11,66,20,25
+MI,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,16,59,28,23
+MI,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,107,1,10,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MI,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0,69,1,43,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MI,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,1,69,0,43,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MI,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,2,90,2,21,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MI,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,3,52,0,51,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MI,READM_30_CABG,Rate of readmission for CABG,0,31,0,5,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MI,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,2,86,0,35,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MI,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,2,91,4,25,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MI,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,70,0,40,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MI,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),5,107,8,11,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MI,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,1,102,0,23,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MN,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,4,11,3,77
+MN,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,13,41,2,69
+MN,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,11,51,2,62
+MN,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,75,0,22,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MN,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,2,44,0,59,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MN,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,1,45,0,59,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MN,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,1,46,0,47,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MN,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,20,1,74,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MN,READM_30_CABG,Rate of readmission for CABG,0,12,0,3,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MN,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,27,0,93,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MN,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,54,2,69,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MN,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,47,0,39,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MN,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),1,103,4,16,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MN,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,64,0,62,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MO,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,4,31,10,41
+MO,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,7,61,10,29
+MO,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,9,72,16,11
+MO,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,89,0,4,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MO,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,4,36,0,46,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MO,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,40,0,46,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MO,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,3,63,1,22,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MO,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,48,0,38,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MO,READM_30_CABG,Rate of readmission for CABG,0,24,0,6,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MO,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,71,0,35,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MO,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,2,76,0,29,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MO,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,50,0,27,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MO,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),3,99,3,1,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MO,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,97,0,11,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MP,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,5,07/01/2019,06/30/2022,Not Available,Not Available,Not Available,Not Available
+MP,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,5,07/01/2019,06/30/2022,Not Available,Not Available,Not Available,Not Available
+MP,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,5,07/01/2019,06/30/2022,Not Available,Not Available,Not Available,Not Available
+MP,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",Not Available,Not Available,Not Available,Not Available,5,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MP,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,Not Available,Not Available,Not Available,Not Available,5,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MP,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,Not Available,Not Available,Not Available,Not Available,5,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MP,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,Not Available,Not Available,Not Available,Not Available,5,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MP,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MP,READM_30_CABG,Rate of readmission for CABG,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MP,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MP,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MP,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MP,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MP,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MS,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,17,2,36
+MS,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,6,35,11,34
+MS,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,3,54,12,22
+MS,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,47,0,12,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MS,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,2,16,0,26,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MS,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,1,17,0,26,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MS,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,1,34,1,16,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MS,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,1,22,0,33,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MS,READM_30_CABG,Rate of readmission for CABG,0,14,0,3,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MS,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,41,0,47,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MS,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,1,51,0,34,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MS,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,19,0,14,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MS,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),3,79,0,11,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MS,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,1,68,0,22,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MT,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,4,4,1,19
+MT,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,5,15,0,32
+MT,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,7,16,1,37
+MT,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,17,0,7,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MT,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0,17,0,19,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MT,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,17,0,19,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MT,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0,13,1,11,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MT,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,10,0,18,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MT,READM_30_CABG,Rate of readmission for CABG,0,5,0,1,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MT,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,14,0,43,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MT,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,20,0,32,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MT,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,20,0,7,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MT,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0,40,4,17,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+MT,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,24,0,37,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NC,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,4,30,5,58
+NC,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,6,70,17,13
+NC,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,14,62,21,9
+NC,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,89,0,7,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NC,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,1,47,1,36,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NC,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,49,0,36,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NC,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0,80,5,11,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NC,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,47,1,49,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NC,READM_30_CABG,Rate of readmission for CABG,0,21,0,1,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NC,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,85,0,20,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NC,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,4,87,2,13,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NC,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,62,0,26,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NC,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),2,95,10,1,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NC,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,97,0,9,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ND,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,2,4,0,17
+ND,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,2,11,0,30
+ND,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,6,17,1,20
+ND,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,17,0,6,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ND,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,1,7,0,19,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ND,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,8,0,19,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ND,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0,8,0,10,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ND,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,6,0,17,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ND,READM_30_CABG,Rate of readmission for CABG,0,6,0,0,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ND,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,1,8,0,32,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ND,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,12,1,30,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ND,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,8,0,3,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ND,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),1,37,1,6,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+ND,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,24,0,20,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NE,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,2,8,3,41
+NE,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,4,26,2,52
+NE,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,7,39,5,34
+NE,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,59,0,17,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NE,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,1,14,0,51,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NE,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,15,0,51,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NE,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,1,29,1,44,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NE,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,16,0,38,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NE,READM_30_CABG,Rate of readmission for CABG,0,8,0,0,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NE,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,23,0,59,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NE,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,31,1,52,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NE,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,29,0,29,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NE,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0,79,2,7,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NE,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,51,0,34,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NH,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,0,8,2,14
+NH,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,20,2,3
+NH,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,3,19,3,1
+NH,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,17,0,3,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NH,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0,16,0,8,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NH,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,1,15,0,8,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NH,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,2,13,0,4,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NH,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,11,0,13,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NH,READM_30_CABG,Rate of readmission for CABG,0,4,0,0,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NH,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,20,0,6,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NH,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,23,0,3,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NH,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,16,0,8,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NH,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0,26,0,0,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NH,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,25,0,1,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NJ,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,2,29,10,24
+NJ,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,33,30,1
+NJ,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,22,42,0
+NJ,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,61,0,1,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NJ,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,6,35,0,16,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NJ,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,39,2,16,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NJ,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0,54,4,5,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NJ,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,47,1,17,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NJ,READM_30_CABG,Rate of readmission for CABG,1,14,0,2,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NJ,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,1,61,0,3,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NJ,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,4,59,1,1,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NJ,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,40,1,20,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NJ,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),13,48,3,0,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NJ,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,3,61,1,0,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NM,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,9,1,17
+NM,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,3,21,2,15
+NM,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,6,19,9,8
+NM,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,27,0,3,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NM,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0,10,0,20,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NM,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,10,0,20,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NM,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0,23,0,5,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NM,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,11,0,17,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NM,READM_30_CABG,Rate of readmission for CABG,0,3,0,2,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NM,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,13,0,27,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NM,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,25,1,15,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NM,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,14,0,14,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NM,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),1,38,1,1,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NM,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,34,0,8,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NV,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,2,11,2,14
+NV,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,3,16,7,10
+NV,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,0,15,11,11
+NV,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,22,0,3,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NV,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0,7,0,19,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NV,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,7,0,19,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NV,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,3,18,0,6,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NV,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,19,0,10,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NV,READM_30_CABG,Rate of readmission for CABG,0,12,0,0,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NV,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,27,0,9,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NV,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,25,1,10,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NV,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,20,0,7,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NV,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),3,29,1,3,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NV,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,1,25,0,11,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NY,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,35,23,95
+NY,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,81,64,17
+NY,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,5,71,74,15
+NY,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,132,2,5,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NY,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,7,66,0,61,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NY,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,1,68,4,61,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NY,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,1,107,6,24,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NY,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,74,0,80,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NY,READM_30_CABG,Rate of readmission for CABG,0,28,0,7,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NY,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,1,136,0,29,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NY,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,6,139,1,17,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NY,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,89,1,47,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NY,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),15,135,6,5,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+NY,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,7,142,1,15,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OH,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,5,53,8,71
+OH,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,17,101,13,19
+OH,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,18,97,24,13
+OH,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,139,0,7,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OH,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,5,70,0,63,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OH,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,74,1,63,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OH,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,3,126,3,18,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OH,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,1,75,0,61,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OH,READM_30_CABG,Rate of readmission for CABG,0,44,0,7,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OH,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,116,0,36,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OH,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,2,126,3,19,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OH,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,1,88,1,54,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OH,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),3,144,5,6,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OH,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,139,0,13,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OK,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,3,17,3,37
+OK,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,11,41,6,51
+OK,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,15,51,9,38
+OK,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,68,0,10,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OK,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,2,19,1,41,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OK,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,22,0,41,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OK,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,4,53,0,14,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OK,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,25,0,35,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OK,READM_30_CABG,Rate of readmission for CABG,0,11,0,4,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OK,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,49,0,62,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OK,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,58,0,51,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OK,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,37,2,20,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OK,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),1,105,5,9,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OK,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,1,73,1,38,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OR,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,4,14,0,34
+OR,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,7,34,4,15
+OR,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,7,33,5,14
+OR,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,44,0,6,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OR,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0,24,0,25,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OR,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,2,22,0,25,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OR,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,1,31,1,19,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OR,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,22,0,30,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OR,READM_30_CABG,Rate of readmission for CABG,0,10,0,1,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OR,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,30,0,30,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OR,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,42,3,15,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OR,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,29,0,17,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OR,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0,54,4,2,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+OR,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,45,0,14,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+PA,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,3,60,7,75
+PA,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,12,103,22,25
+PA,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,9,104,26,23
+PA,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,132,0,8,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+PA,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,8,78,1,49,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+PA,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,1,83,3,49,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+PA,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,5,120,3,18,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+PA,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,85,0,60,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+PA,READM_30_CABG,Rate of readmission for CABG,0,44,0,10,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+PA,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,1,113,0,46,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+PA,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,1,133,3,25,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+PA,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,103,1,40,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+PA,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),13,141,4,4,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+PA,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,1,138,0,23,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+PR,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,0,1,2,39
+PR,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,0,4,4,36
+PR,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,0,4,2,42
+PR,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,8,0,25,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+PR,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0,1,0,14,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+PR,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,1,0,14,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+PR,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0,4,0,34,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+PR,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,7,0,35,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+PR,READM_30_CABG,Rate of readmission for CABG,0,0,0,7,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+PR,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,1,1,0,34,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+PR,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,1,7,0,36,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+PR,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,6,0,26,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+PR,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),2,45,0,4,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+PR,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,1,5,0,42,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+RI,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,1,2,6
+RI,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,0,8,2,0
+RI,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,0,8,2,0
+RI,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,10,0,0,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+RI,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0,7,1,2,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+RI,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,7,1,2,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+RI,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0,10,0,0,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+RI,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,4,0,6,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+RI,READM_30_CABG,Rate of readmission for CABG,0,1,0,0,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+RI,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,10,0,0,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+RI,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,1,9,0,0,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+RI,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,6,0,3,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+RI,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),1,10,0,0,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+RI,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,10,0,0,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SC,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,2,12,7,34
+SC,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,4,35,11,8
+SC,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,5,31,18,6
+SC,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,51,0,4,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SC,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,1,20,0,18,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SC,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,20,1,18,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SC,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0,43,4,8,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SC,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,25,0,30,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SC,READM_30_CABG,Rate of readmission for CABG,0,16,0,1,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SC,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,48,0,9,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SC,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,50,0,8,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SC,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,32,0,19,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SC,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),1,54,3,1,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SC,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,54,0,6,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SD,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,3,0,35
+SD,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,5,12,0,39
+SD,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,6,16,1,34
+SD,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,28,0,11,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SD,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,1,8,0,29,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SD,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,1,8,0,29,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SD,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0,15,1,11,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SD,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,6,0,33,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SD,READM_30_CABG,Rate of readmission for CABG,0,3,0,0,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SD,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,10,0,46,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SD,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,15,2,39,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SD,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,14,0,4,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SD,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),1,48,4,8,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+SD,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,23,0,34,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+TN,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,2,21,11,49
+TN,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,7,56,9,27
+TN,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,11,58,13,19
+TN,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,75,0,5,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+TN,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,4,19,0,37,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+TN,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,23,0,37,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+TN,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0,61,3,13,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+TN,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,1,39,0,43,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+TN,READM_30_CABG,Rate of readmission for CABG,0,19,0,6,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+TN,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,66,0,34,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+TN,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,2,68,2,27,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+TN,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,40,1,22,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+TN,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),5,86,1,4,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+TN,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,1,81,0,19,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+TX,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,10,86,27,138
+TX,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,23,149,40,139
+TX,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,22,191,42,103
+TX,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,250,1,40,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+TX,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,4,54,0,142,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+TX,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,57,1,142,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+TX,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,9,218,2,74,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+TX,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,2,153,1,105,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+TX,READM_30_CABG,Rate of readmission for CABG,0,81,0,30,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+TX,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,1,170,0,167,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+TX,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,3,206,3,139,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+TX,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,143,3,108,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+TX,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),11,324,10,39,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+TX,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,3,249,3,103,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+UT,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,5,5,0,21
+UT,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,12,13,1,19
+UT,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,13,19,0,13
+UT,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,35,0,5,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+UT,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0,6,1,25,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+UT,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,7,0,25,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+UT,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0,33,1,9,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+UT,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,12,1,18,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+UT,READM_30_CABG,Rate of readmission for CABG,0,7,0,2,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+UT,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,7,0,36,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+UT,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,24,2,19,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+UT,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,26,0,11,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+UT,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0,39,6,2,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+UT,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,32,0,13,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VA,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,3,34,4,38
+VA,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,8,52,19,2
+VA,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,8,49,23,4
+VA,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,72,2,1,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VA,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,2,32,1,32,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VA,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,33,2,32,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VA,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0,63,2,7,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VA,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,45,0,34,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VA,READM_30_CABG,Rate of readmission for CABG,0,18,0,5,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VA,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,71,0,11,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VA,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,2,73,4,2,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VA,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,49,1,20,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VA,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),1,74,4,3,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VA,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,1,78,1,4,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VI,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,5,07/01/2019,06/30/2022,Not Available,Not Available,Not Available,Not Available
+VI,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,5,07/01/2019,06/30/2022,Not Available,Not Available,Not Available,Not Available
+VI,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,5,07/01/2019,06/30/2022,Not Available,Not Available,Not Available,Not Available
+VI,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",Not Available,Not Available,Not Available,Not Available,5,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VI,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,Not Available,Not Available,Not Available,Not Available,5,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VI,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,Not Available,Not Available,Not Available,Not Available,5,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VI,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,Not Available,Not Available,Not Available,Not Available,5,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VI,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VI,READM_30_CABG,Rate of readmission for CABG,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VI,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VI,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VI,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VI,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VI,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VT,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,0,1,0,14
+VT,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,11,2,1
+VT,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,3,10,1,1
+VT,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,9,0,2,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VT,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,1,7,0,5,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VT,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,8,0,5,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VT,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0,8,0,4,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VT,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,4,0,11,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VT,READM_30_CABG,Rate of readmission for CABG,0,1,0,0,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VT,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,13,0,2,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VT,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,14,0,1,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VT,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,12,0,1,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VT,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),1,14,0,0,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+VT,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,14,0,1,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WA,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,2,27,1,44
+WA,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,12,39,6,29
+WA,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,14,41,9,26
+WA,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",1,55,0,7,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WA,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0,32,0,32,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WA,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,1,31,0,32,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WA,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,2,51,1,8,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WA,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,34,0,40,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WA,READM_30_CABG,Rate of readmission for CABG,1,14,0,1,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WA,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,47,0,40,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WA,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,55,2,29,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WA,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,41,0,21,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WA,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0,63,17,8,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WA,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,64,0,26,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WI,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,5,21,5,77
+WI,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,17,69,6,32
+WI,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,25,57,10,33
+WI,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,89,0,15,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WI,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0,56,0,58,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WI,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,56,0,58,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WI,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,1,72,0,32,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WI,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,39,0,69,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WI,READM_30_CABG,Rate of readmission for CABG,0,20,0,8,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WI,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,1,62,0,62,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WI,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,1,91,0,32,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WI,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,54,0,49,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WI,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),2,116,6,4,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WI,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,92,0,33,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WV,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,0,5,6,38
+WV,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,23,10,18
+WV,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,5,25,9,13
+WV,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,26,0,12,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WV,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,2,12,0,18,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WV,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,14,0,18,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WV,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0,22,1,9,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WV,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,14,0,35,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WV,READM_30_CABG,Rate of readmission for CABG,1,5,0,0,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WV,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,1,31,0,19,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WV,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,34,0,18,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WV,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,18,0,16,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WV,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),3,42,0,4,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WV,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,39,0,13,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WY,EDAC_30_AMI,Hospital return days for heart attack patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,1,1,1,15
+WY,EDAC_30_HF,Hospital return days for heart failure patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,4,11,0,12
+WY,EDAC_30_PN,Hospital return days for pneumonia patients,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,07/01/2019,06/30/2022,3,17,0,8
+WY,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0,17,0,3,,01/01/2019,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WY,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,1,8,0,10,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WY,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0,9,0,10,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WY,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0,13,0,8,,01/01/2021,12/31/2021,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WY,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0,4,0,14,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WY,READM_30_CABG,Rate of readmission for CABG,0,1,0,1,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WY,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0,10,0,18,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WY,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0,15,0,12,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WY,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0,10,0,9,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WY,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0,27,1,0,,07/01/2021,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+WY,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0,20,0,8,,07/01/2019,06/30/2022,Not Applicable,Not Applicable,Not Applicable,Not Applicable

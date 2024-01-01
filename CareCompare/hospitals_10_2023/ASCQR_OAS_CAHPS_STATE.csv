@@ -1,0 +1,57 @@
+"State","Patients who reported that staff definitely gave care in a professional way and the facility was clean","Patients who reported that staff somewhat gave care in a professional way or the facility was somewhat clean","Patients who reported that staff did not give care in a professional way or the facility was not clean","Facilities and staff linear mean score","Patients who reported that staff definitely communicated about what to expect during and after the procedure","Patients who reported that staff somewhat communicated about what to expect during and after the procedure","Patients who reported that staff did not communicate about what to expect during and after the procedure","Communication about your procedure linear mean score","Patients who gave the facility a rating of 9 or 10 on a scale from 0 (lowest) to 10 (highest)","Patients who gave the facility a rating of 7 or 8 on a scale from 0 (lowest) to 10 (highest)","Patients who gave the facility a rating of 0 to 6 on a scale from 0 (lowest) to 10 (highest)","Patients’ rating of the facility linear mean score","Patients who reported YES they would DEFINITELY recommend the facility to family or friends","Patients who reported PROBABLY YES they would recommend the facility to family or friends","Patients who reported NO, they would not recommend the facility to family or friends","Patients recommending the facility linear mean score","Number of Sampled Patients","Number of Completed Surveys","Survey Response Rate Percent","Start Date","End Date"
+Alabama,97,3,0,98,93,5,2,95,90,8,2,95,89,10,1,96,2627,718,27,01/01/2022,12/31/2022
+Alaska,,,,,,,,,,,,,,,,,,,,,
+American Samoa,,,,,,,,,,,,,,,,,,,,,
+Arizona,97,3,0,98,91,7,2,95,90,8,2,95,88,11,1,95,23251,6398,28,01/01/2022,12/31/2022
+Arkansas,,,,,,,,,,,,,,,,,,,,,
+California,97,3,0,98,90,8,2,94,87,11,2,95,85,13,2,94,59460,16300,27,01/01/2022,12/31/2022
+Colorado,98,2,0,99,92,6,2,95,89,9,2,95,85,13,2,94,14362,4096,29,01/01/2022,12/31/2022
+Commonwealth of the Northern Marianas Islands,,,,,,,,,,,,,,,,,,,,,
+Connecticut,98,2,0,99,93,6,1,96,89,11,0,96,88,11,1,95,1045,266,25,01/01/2022,12/31/2022
+Delaware,,,,,,,,,,,,,,,,,,,,,
+District of Columbia,,,,,,,,,,,,,,,,,,,,,
+Florida,97,3,0,98,90,8,2,94,88,10,2,95,86,12,2,94,50328,16350,32,01/01/2022,12/31/2022
+Georgia,98,2,0,99,92,6,2,95,91,7,2,96,89,9,2,95,15585,3752,24,01/01/2022,12/31/2022
+Guam,,,,,,,,,,,,,,,,,,,,,
+Hawaii,99,1,0,99,94,4,2,96,90,9,1,96,89,10,1,96,3783,1312,35,01/01/2022,12/31/2022
+Idaho,99,1,0,99,93,6,1,96,91,8,1,96,87,11,2,95,2714,715,27,01/01/2022,12/31/2022
+Illinois,98,2,0,99,92,6,2,95,89,9,2,95,87,11,2,95,8699,2598,30,01/01/2022,12/31/2022
+Indiana,97,3,0,98,91,7,2,94,89,9,2,95,85,13,2,94,11637,3922,34,01/01/2022,12/31/2022
+Iowa,98,2,0,99,93,6,1,96,90,8,2,95,90,9,1,96,1190,506,43,01/01/2022,12/31/2022
+Kansas,98,2,0,99,90,8,2,94,88,10,2,95,86,13,1,95,990,388,39,01/01/2022,12/31/2022
+Kentucky,,,,,,,,,,,,,,,,,,,,,
+Louisiana,97,3,0,99,92,7,1,96,90,8,2,95,87,12,1,95,4562,1346,30,01/01/2022,12/31/2022
+Maine,99,1,0,99,95,4,1,97,92,7,1,96,90,8,2,96,883,279,32,01/01/2022,12/31/2022
+Maryland,97,3,0,98,92,6,2,95,88,10,2,95,84,14,2,93,27776,7251,26,01/01/2022,12/31/2022
+Massachusetts,97,2,1,98,91,7,2,95,87,11,2,94,84,14,2,94,1124,418,37,01/01/2022,12/31/2022
+Michigan,97,3,0,99,89,9,2,93,89,9,2,95,88,11,1,96,12431,3575,29,01/01/2022,12/31/2022
+Minnesota,99,1,0,99,94,5,1,97,90,9,1,95,85,14,1,95,5448,1726,32,01/01/2022,12/31/2022
+Mississippi,97,3,0,99,92,7,1,95,90,9,1,96,90,9,1,96,2017,492,24,01/01/2022,12/31/2022
+Missouri,97,3,0,99,92,6,2,95,90,9,1,96,87,12,1,95,22208,7127,32,01/01/2022,12/31/2022
+Montana,98,1,1,99,91,7,2,95,89,10,1,96,86,13,1,95,2776,922,33,01/01/2022,12/31/2022
+Nebraska,98,2,0,99,92,7,1,95,87,10,3,94,86,13,1,95,1053,345,33,01/01/2022,12/31/2022
+Nevada,97,3,0,98,90,8,2,94,90,8,2,95,86,12,2,94,4342,912,21,01/01/2022,12/31/2022
+New Hampshire,99,1,0,99,93,6,1,96,93,6,1,97,91,8,1,96,4687,1626,35,01/01/2022,12/31/2022
+New Jersey,97,3,0,99,91,7,2,94,89,9,2,95,87,12,1,95,25469,7359,29,01/01/2022,12/31/2022
+New Mexico,96,3,1,98,89,9,2,94,86,12,2,94,84,13,3,93,1637,494,30,01/01/2022,12/31/2022
+New York,,,,,,,,,,,,,,,,,,,,,
+North Carolina,97,2,1,98,92,7,1,95,89,9,2,95,88,11,1,95,7818,1362,17,01/01/2022,12/31/2022
+North Dakota,98,2,0,99,93,6,1,96,89,10,1,95,89,11,0,96,508,197,39,01/01/2022,12/31/2022
+Ohio,98,1,1,99,92,6,2,95,92,7,1,96,90,9,1,96,8859,2831,32,01/01/2022,12/31/2022
+Oklahoma,97,3,0,99,90,7,3,93,87,11,2,94,85,14,1,94,1162,392,34,01/01/2022,12/31/2022
+Oregon,97,3,0,98,91,7,2,95,85,13,2,94,84,14,2,94,14421,4367,30,01/01/2022,12/31/2022
+Pennsylvania,98,2,0,99,93,6,1,96,93,6,1,96,90,9,1,96,16445,5806,35,01/01/2022,12/31/2022
+Puerto Rico,,,,,,,,,,,,,,,,,,,,,
+Rhode Island,,,,,,,,,,,,,,,,,,,,,
+South Carolina,97,3,0,99,93,6,1,96,90,8,2,96,88,10,2,95,4801,1760,37,01/01/2022,12/31/2022
+South Dakota,,,,,,,,,,,,,,,,,,,,,
+Tennessee,98,2,0,99,92,7,1,95,90,9,1,95,88,11,1,96,29029,7232,25,01/01/2022,12/31/2022
+Texas,97,3,0,98,92,6,2,95,89,9,2,95,87,11,2,95,97454,21670,22,01/01/2022,12/31/2022
+Utah,98,2,0,99,92,7,1,95,90,8,2,96,88,11,1,96,2938,774,26,01/01/2022,12/31/2022
+Vermont,,,,,,,,,,,,,,,,,,,,,
+Virgin Islands,,,,,,,,,,,,,,,,,,,,,
+Virginia,98,2,0,99,92,7,1,96,90,9,1,95,88,11,1,95,12713,3878,31,01/01/2022,12/31/2022
+Washington,97,3,0,98,92,7,1,95,89,9,2,95,87,12,1,95,29513,7763,26,01/01/2022,12/31/2022
+West Virginia,,,,,,,,,,,,,,,,,,,,,
+Wisconsin,99,1,0,100,93,6,1,96,91,8,1,96,90,9,1,96,2249,696,31,01/01/2022,12/31/2022
+Wyoming,97,3,0,99,91,7,2,95,89,8,3,95,88,12,0,96,2416,776,32,01/01/2022,12/31/2022

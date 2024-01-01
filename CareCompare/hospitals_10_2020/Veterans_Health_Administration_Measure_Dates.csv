@@ -1,0 +1,63 @@
+"Measure ID","Measure Name","Measure Start Quarter","Start Date","Measure End Quarter","End Date"
+Composite 1 Q1 to Q3,Communication with nurses (summary measure),1Q2019,01/01/2019,4Q2019,12/31/2019
+Composite 2 Q5 to Q7,Communication with doctors (summary measure),1Q2019,01/01/2019,4Q2019,12/31/2019
+Composite 3 Q4 to Q11,Responsiveness of hospital staff (summary measure),1Q2019,01/01/2019,4Q2019,12/31/2019
+Composite 5 Q16 to Q17,Communication about medicines (summary measure),1Q2019,01/01/2019,4Q2019,12/31/2019
+Composite 6 Q19 to Q20,Discharge information (summary measure),1Q2019,01/01/2019,4Q2019,12/31/2019
+Composite 7 (Q23 to 25),HCAHPS Care Transition Measure (CTM) [Composite of questions 23 through 25],1Q2019,01/01/2019,4Q2019,12/31/2019
+EDAC_30_AMI,Excess Days in Acute Care after Hospitalization for Acute Myocardial Infarction,3Q2016,07/01/2016,2Q2019,06/30/2019
+EDAC_30_HF,Excess Days in Acute Care after Hospitalization for Heart Failure,3Q2016,07/01/2016,2Q2019,06/30/2019
+EDAC_30_PN,Excess Days in Acute Care after Hospitalization for Pneumonia,3Q2016,07/01/2016,2Q2019,06/30/2019
+ED_2b,Admit Decision Time to ED Departure Time for Admitted Patients,1Q2019,01/01/2019,4Q2019,12/31/2019
+HAI_1,Central Line Associated Bloodstream Infection (ICU + select Wards),1Q2019,01/01/2019,4Q2019,12/31/2019
+HAI_2,Catheter Associated Urinary Tract Infections (ICU + select Wards),1Q2019,01/01/2019,4Q2019,12/31/2019
+HBIPS_2,Hours of physical-restraint use,1Q2018,01/01/2018,4Q2018,12/31/2018
+HBIPS_3,Hours of seclusion,1Q2018,01/01/2018,4Q2018,12/31/2018
+HBIPS_5,Patients discharged on multiple antipsychotic medications with appropriate justification,1Q2018,01/01/2018,4Q2018,12/31/2018
+H_CLEAN_STAR_RATING,Cleanliness of hospital environment - star rating,1Q2019,01/01/2019,4Q2019,12/31/2019
+H_COMP_1_STAR_RATING,Communication with nurses - star rating,1Q2019,01/01/2019,4Q2019,12/31/2019
+H_COMP_2_STAR_RATING,Communication with doctors  - star rating,1Q2019,01/01/2019,4Q2019,12/31/2019
+H_COMP_3_STAR_RATING,Responsiveness of hospital staff  - star rating,1Q2019,01/01/2019,4Q2019,12/31/2019
+H_COMP_5_STAR_RATING,Communication about medicines  - star rating,1Q2019,01/01/2019,4Q2019,12/31/2019
+H_COMP_6_STAR_RATING,Discharge information- star rating,1Q2019,01/01/2019,4Q2019,12/31/2019
+H_COMP_7_STAR_RATING,Care Transition - star rating,1Q2019,01/01/2019,4Q2019,12/31/2019
+H_HSP_RATING_STAR_RATIN,Patient hospital 1-10 rating - star rating,1Q2019,01/01/2019,4Q2019,12/31/2019
+H_QUIET_STAR_RATING,Quietness of hospital environment  - star rating,1Q2019,01/01/2019,4Q2019,12/31/2019
+H_RECMND_STAR_RATING,Recommend hospital - star rating,1Q2019,01/01/2019,4Q2019,12/31/2019
+IMM_3,Healthcare worker Influenza vaccination,4Q2019,10/01/2019,1Q2020,03/31/2020
+Linear Score,Linear Score,1Q2019,01/01/2019,4Q2019,12/31/2019
+OP_18b,Median time from ED arrival to ED departure for discharged ED patients,1Q2019,01/01/2019,4Q2019,12/31/2019
+OP_18c,Median Time from ED Arrival to ED Departure for Discharged ED Patients – Psychiatric/Men,1Q2019,01/01/2019,4Q2019,12/31/2019
+OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,1Q2019,01/01/2019,4Q2019,12/31/2019
+OP_23,Head CT scan results for acute ischemic stroke or hemorrhagic stroke who received head C,1Q2019,01/01/2019,4Q2019,12/31/2019
+OP_3b,Median Time to transfer to another facility for acute coronary intervention,1Q2019,01/01/2019,4Q2019,12/31/2019
+PSI_10,Postoperative kidney & diabetic complications,3Q2017,07/01/2017,2Q2019,06/30/2019
+PSI_11,Postoperative respiratory failure rate,3Q2017,07/01/2017,2Q2019,06/30/2019
+PSI_12,Postoperative pulmonary embolism or deep vein thrombosis rate,3Q2017,07/01/2017,2Q2019,06/30/2019
+PSI_13,Postoperative Sepsis Rate,3Q2017,07/01/2017,2Q2019,06/30/2019
+PSI_14,Postoperative wound dehiscence,3Q2017,07/01/2017,2Q2019,06/30/2019
+PSI_15,Accidental puncture or laceration,3Q2017,07/01/2017,2Q2019,06/30/2019
+PSI_3,Pressure Ulcer Rate,3Q2017,07/01/2017,2Q2019,06/30/2019
+PSI_4,"Death among surgical patients with serious, treatable complications",3Q2017,07/01/2017,2Q2019,06/30/2019
+PSI_6,Iatrogenic pneumothorax,3Q2017,07/01/2017,2Q2019,06/30/2019
+PSI_7,Central Venous Catheter-Related Bloodstream Infections Rate,3Q2017,07/01/2017,2Q2019,06/30/2019
+PSI_8,Postoperative Hip Fracture Rate,3Q2017,07/01/2017,2Q2019,06/30/2019
+PSI_9,Perioperative bleeding/ bruise,3Q2017,07/01/2017,2Q2019,06/30/2019
+PSI_90,Patient Safety and Adverse Events Composite,3Q2017,07/01/2017,2Q2019,06/30/2019
+Q21,Overall rating of hospital (global measure),1Q2019,01/01/2019,4Q2019,12/31/2019
+Q22,Willingness to recommend the hospital (global measure),1Q2019,01/01/2019,4Q2019,12/31/2019
+Q8,Cleanliness of hospital environment (individual measure),1Q2019,01/01/2019,4Q2019,12/31/2019
+Q9,Quietness of hospital environment (individual measure),1Q2019,01/01/2019,4Q2019,12/31/2019
+READM_30_HOSP_WIDE,30-Day Hospital-Wide All-Cause Unplanned Readmission Rate,3Q2018,07/01/2018,2Q2019,06/30/2019
+SUB_2,Alcohol Use Brief Intervention Provided or Offered,1Q2018,01/01/2018,4Q2018,12/31/2018
+SUB_3,Alcohol and other Drug Use Disorder Treatment Provided or Offered at Discharge,1Q2018,01/01/2018,4Q2018,12/31/2018
+Star Rating,Patient survey summary star rating,1Q2019,01/01/2019,4Q2019,12/31/2019
+TOB_2,Tobacco Use Treatment Provided or Offered,1Q2018,01/01/2018,4Q2018,12/31/2018
+VA_MORT_30_AMI,Acute Myocardial Infarction (AMI) 30-day mortality rate,3Q2016,07/01/2016,2Q2019,06/30/2019
+VA_MORT_30_COPD,Chronic Obstructive Pulmonary Disease (COPD) 30-day mortality rate,3Q2016,07/01/2016,2Q2019,06/30/2019
+VA_MORT_30_HF,Heart Failure (HF) 30-day mortality rate,3Q2016,07/01/2016,2Q2019,06/30/2019
+VA_MORT_30_PN,Pneumonia (PN) 30-day mortality rate,3Q2016,07/01/2016,2Q2019,06/30/2019
+VA_READM_30_AMI,Acute Myocardial Infarction (AMI) 30-day readmission rate,3Q2016,07/01/2016,2Q2019,06/30/2019
+VA_READM_30_COPD,Chronic Obstructive Pulmonary Disease (COPD) 30-day readmission rate,3Q2016,07/01/2016,2Q2019,06/30/2019
+VA_READM_30_HF,Heart Failure (HF) 30-day readmission rate,3Q2016,07/01/2016,2Q2019,06/30/2019
+VA_READM_30_PN,Pneumonia (PN) 30-day readmission rate,3Q2016,07/01/2016,2Q2019,06/30/2019

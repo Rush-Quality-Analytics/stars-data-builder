@@ -1,0 +1,5 @@
+"Measure ID","Measure Name","National Payment","Number Less Than National Payment","Number Same as National Payment","Number Greater Than National Payment","Number of Hospitals Too Few","Footnote","Start Date","End Date"
+PAYM_30_AMI,Payment for heart attack patients,"$26,304",130,1766,133,1851,,07/01/2017,12/01/2019
+PAYM_30_HF,Payment for heart failure patients,"$18,060",316,2498,430,1214,,07/01/2017,12/01/2019
+PAYM_30_PN,Payment for pneumonia patients,"$18,776",721,2492,656,669,,07/01/2017,12/01/2019
+PAYM_90_HIP_KNEE,Payment for hip/knee replacement patients,"$20,839",986,1109,553,734,,04/01/2017,10/02/2019

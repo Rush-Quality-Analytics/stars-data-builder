@@ -1,0 +1,1065 @@
+"State","Measure ID","Measure Name","Number of Hospitals Worse","Number of Hospitals Same","Number of Hospitals Better","Number of Hospitals Too Few","Footnote","Start Date","End Date"
+AK,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,8,0,1,,04/01/2016,03/31/2019
+AK,MORT_30_AMI,Death rate for heart attack patients,0,5,0,16,,07/01/2016,06/30/2019
+AK,MORT_30_CABG,Death rate for CABG surgery patients,0,2,0,0,,07/01/2016,06/30/2019
+AK,MORT_30_COPD,Death rate for COPD patients,0,12,0,10,,07/01/2016,06/30/2019
+AK,MORT_30_HF,Death rate for heart failure patients,0,9,0,12,,07/01/2016,06/30/2019
+AK,MORT_30_PN,Death rate for pneumonia patients,0,13,0,9,,07/01/2016,06/30/2019
+AK,MORT_30_STK,Death rate for stroke patients,0,7,0,15,,07/01/2016,06/30/2019
+AK,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,6,0,0,,07/01/2017,06/30/2019
+AK,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,0,6,0,0,,07/01/2017,06/30/2019
+AK,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,0,7,0,0,,07/01/2017,06/30/2019
+AK,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,6,0,0,,07/01/2017,06/30/2019
+AK,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,7,0,0,,07/01/2017,06/30/2019
+AK,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,1,6,0,1,,07/01/2017,06/30/2019
+AK,PSI_3_ULCER,Pressure sores,2,6,0,0,,07/01/2017,06/30/2019
+AK,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,5,0,2,,07/01/2017,06/30/2019
+AK,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,8,0,0,,07/01/2017,06/30/2019
+AK,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,8,0,0,,07/01/2017,06/30/2019
+AK,PSI_90_SAFETY,Serious complications,1,7,0,Not Available,,07/01/2017,06/30/2019
+AK,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,7,0,0,,07/01/2017,06/30/2019
+AL,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,40,0,9,,04/01/2016,03/31/2019
+AL,MORT_30_AMI,Death rate for heart attack patients,1,36,0,46,,07/01/2016,06/30/2019
+AL,MORT_30_CABG,Death rate for CABG surgery patients,0,21,0,2,,07/01/2016,06/30/2019
+AL,MORT_30_COPD,Death rate for COPD patients,1,78,0,10,,07/01/2016,06/30/2019
+AL,MORT_30_HF,Death rate for heart failure patients,3,69,1,16,,07/01/2016,06/30/2019
+AL,MORT_30_PN,Death rate for pneumonia patients,13,68,3,5,,07/01/2016,06/30/2019
+AL,MORT_30_STK,Death rate for stroke patients,3,47,0,36,,07/01/2016,06/30/2019
+AL,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,1,46,0,10,,07/01/2017,06/30/2019
+AL,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,0,46,0,10,,07/01/2017,06/30/2019
+AL,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,4,55,0,11,,07/01/2017,06/30/2019
+AL,PSI_13_POST_SEPSIS,Blood stream infection after surgery,1,44,0,10,,07/01/2017,06/30/2019
+AL,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,51,0,14,,07/01/2017,06/30/2019
+AL,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,63,0,7,,07/01/2017,06/30/2019
+AL,PSI_3_ULCER,Pressure sores,3,79,0,1,,07/01/2017,06/30/2019
+AL,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,6,23,2,17,,07/01/2017,06/30/2019
+AL,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,83,0,0,,07/01/2017,06/30/2019
+AL,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,83,0,0,,07/01/2017,06/30/2019
+AL,PSI_90_SAFETY,Serious complications,2,81,0,Not Available,,07/01/2017,06/30/2019
+AL,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,58,0,11,,07/01/2017,06/30/2019
+AR,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,34,1,6,,04/01/2016,03/31/2019
+AR,MORT_30_AMI,Death rate for heart attack patients,0,26,0,43,,07/01/2016,06/30/2019
+AR,MORT_30_CABG,Death rate for CABG surgery patients,1,15,0,1,,07/01/2016,06/30/2019
+AR,MORT_30_COPD,Death rate for COPD patients,1,65,0,8,,07/01/2016,06/30/2019
+AR,MORT_30_HF,Death rate for heart failure patients,6,55,0,13,,07/01/2016,06/30/2019
+AR,MORT_30_PN,Death rate for pneumonia patients,9,63,1,2,,07/01/2016,06/30/2019
+AR,MORT_30_STK,Death rate for stroke patients,2,31,0,36,,07/01/2016,06/30/2019
+AR,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,35,0,6,,07/01/2017,06/30/2019
+AR,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,3,29,1,8,,07/01/2017,06/30/2019
+AR,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,1,40,1,1,,07/01/2017,06/30/2019
+AR,PSI_13_POST_SEPSIS,Blood stream infection after surgery,2,30,0,9,,07/01/2017,06/30/2019
+AR,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,32,0,10,,07/01/2017,06/30/2019
+AR,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,1,39,0,4,,07/01/2017,06/30/2019
+AR,PSI_3_ULCER,Pressure sores,1,42,3,1,,07/01/2017,06/30/2019
+AR,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,3,17,2,12,,07/01/2017,06/30/2019
+AR,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,46,0,1,,07/01/2017,06/30/2019
+AR,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,46,0,0,,07/01/2017,06/30/2019
+AR,PSI_90_SAFETY,Serious complications,2,41,4,Not Available,,07/01/2017,06/30/2019
+AR,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,1,41,0,1,,07/01/2017,06/30/2019
+AS,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,Not Available,Not Available,Not Available,Not Available,5,04/01/2016,03/31/2019
+AS,MORT_30_AMI,Death rate for heart attack patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+AS,MORT_30_CABG,Death rate for CABG surgery patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+AS,MORT_30_COPD,Death rate for COPD patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+AS,MORT_30_HF,Death rate for heart failure patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+AS,MORT_30_PN,Death rate for pneumonia patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+AS,MORT_30_STK,Death rate for stroke patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+AS,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+AS,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+AS,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+AS,PSI_13_POST_SEPSIS,Blood stream infection after surgery,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+AS,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+AS,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+AS,PSI_3_ULCER,Pressure sores,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+AS,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+AS,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+AS,PSI_8_POST_HIP,Broken hip from a fall after surgery,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+AS,PSI_90_SAFETY,Serious complications,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+AS,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+AZ,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,50,1,4,,04/01/2016,03/31/2019
+AZ,MORT_30_AMI,Death rate for heart attack patients,0,44,1,20,,07/01/2016,06/30/2019
+AZ,MORT_30_CABG,Death rate for CABG surgery patients,0,24,0,2,,07/01/2016,06/30/2019
+AZ,MORT_30_COPD,Death rate for COPD patients,1,54,0,23,,07/01/2016,06/30/2019
+AZ,MORT_30_HF,Death rate for heart failure patients,1,50,3,23,,07/01/2016,06/30/2019
+AZ,MORT_30_PN,Death rate for pneumonia patients,6,53,6,13,,07/01/2016,06/30/2019
+AZ,MORT_30_STK,Death rate for stroke patients,2,40,0,20,,07/01/2016,06/30/2019
+AZ,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,49,0,4,,07/01/2017,06/30/2019
+AZ,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,4,43,2,4,,07/01/2017,06/30/2019
+AZ,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,1,54,0,6,,07/01/2017,06/30/2019
+AZ,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,49,0,4,,07/01/2017,06/30/2019
+AZ,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,53,0,7,,07/01/2017,06/30/2019
+AZ,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,1,56,0,4,,07/01/2017,06/30/2019
+AZ,PSI_3_ULCER,Pressure sores,2,60,1,0,,07/01/2017,06/30/2019
+AZ,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,36,2,11,,07/01/2017,06/30/2019
+AZ,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,1,62,0,0,,07/01/2017,06/30/2019
+AZ,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,63,0,0,,07/01/2017,06/30/2019
+AZ,PSI_90_SAFETY,Serious complications,1,61,1,Not Available,,07/01/2017,06/30/2019
+AZ,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,2,53,0,6,,07/01/2017,06/30/2019
+CA,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,3,192,5,80,,04/01/2016,03/31/2019
+CA,MORT_30_AMI,Death rate for heart attack patients,3,195,4,119,,07/01/2016,06/30/2019
+CA,MORT_30_CABG,Death rate for CABG surgery patients,0,97,0,29,,07/01/2016,06/30/2019
+CA,MORT_30_COPD,Death rate for COPD patients,5,252,10,59,,07/01/2016,06/30/2019
+CA,MORT_30_HF,Death rate for heart failure patients,7,226,45,51,,07/01/2016,06/30/2019
+CA,MORT_30_PN,Death rate for pneumonia patients,18,238,40,37,,07/01/2016,06/30/2019
+CA,MORT_30_STK,Death rate for stroke patients,7,208,5,93,,07/01/2016,06/30/2019
+CA,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,260,0,24,,07/01/2017,06/30/2019
+CA,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,5,244,3,31,,07/01/2017,06/30/2019
+CA,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,11,272,3,4,,07/01/2017,06/30/2019
+CA,PSI_13_POST_SEPSIS,Blood stream infection after surgery,5,248,0,28,,07/01/2017,06/30/2019
+CA,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,268,0,21,,07/01/2017,06/30/2019
+CA,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,5,279,0,7,,07/01/2017,06/30/2019
+CA,PSI_3_ULCER,Pressure sores,21,257,14,5,,07/01/2017,06/30/2019
+CA,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,5,159,2,101,,07/01/2017,06/30/2019
+CA,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,1,295,0,1,,07/01/2017,06/30/2019
+CA,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,295,0,2,,07/01/2017,06/30/2019
+CA,PSI_90_SAFETY,Serious complications,13,276,8,Not Available,,07/01/2017,06/30/2019
+CA,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,286,0,4,,07/01/2017,06/30/2019
+CO,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,55,0,13,,04/01/2016,03/31/2019
+CO,MORT_30_AMI,Death rate for heart attack patients,1,34,0,32,,07/01/2016,06/30/2019
+CO,MORT_30_CABG,Death rate for CABG surgery patients,0,14,0,1,,07/01/2016,06/30/2019
+CO,MORT_30_COPD,Death rate for COPD patients,1,53,0,26,,07/01/2016,06/30/2019
+CO,MORT_30_HF,Death rate for heart failure patients,0,53,1,27,,07/01/2016,06/30/2019
+CO,MORT_30_PN,Death rate for pneumonia patients,0,65,2,15,,07/01/2016,06/30/2019
+CO,MORT_30_STK,Death rate for stroke patients,0,36,0,38,,07/01/2016,06/30/2019
+CO,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,1,46,0,0,,07/01/2017,06/30/2019
+CO,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,4,43,0,0,,07/01/2017,06/30/2019
+CO,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,2,45,0,0,,07/01/2017,06/30/2019
+CO,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,47,0,0,,07/01/2017,06/30/2019
+CO,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,43,0,2,,07/01/2017,06/30/2019
+CO,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,2,42,0,2,,07/01/2017,06/30/2019
+CO,PSI_3_ULCER,Pressure sores,2,45,0,2,,07/01/2017,06/30/2019
+CO,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,1,25,0,17,,07/01/2017,06/30/2019
+CO,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,47,0,3,,07/01/2017,06/30/2019
+CO,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,47,0,3,,07/01/2017,06/30/2019
+CO,PSI_90_SAFETY,Serious complications,2,48,0,Not Available,,07/01/2017,06/30/2019
+CO,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,47,0,0,,07/01/2017,06/30/2019
+CT,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,22,1,2,,04/01/2016,03/31/2019
+CT,MORT_30_AMI,Death rate for heart attack patients,0,24,0,5,,07/01/2016,06/30/2019
+CT,MORT_30_CABG,Death rate for CABG surgery patients,0,10,0,0,,07/01/2016,06/30/2019
+CT,MORT_30_COPD,Death rate for COPD patients,1,28,0,1,,07/01/2016,06/30/2019
+CT,MORT_30_HF,Death rate for heart failure patients,0,27,2,1,,07/01/2016,06/30/2019
+CT,MORT_30_PN,Death rate for pneumonia patients,2,24,3,1,,07/01/2016,06/30/2019
+CT,MORT_30_STK,Death rate for stroke patients,1,24,1,2,,07/01/2016,06/30/2019
+CT,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,26,0,0,,07/01/2017,06/30/2019
+CT,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,1,24,0,1,,07/01/2017,06/30/2019
+CT,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,2,25,0,0,,07/01/2017,06/30/2019
+CT,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,25,0,1,,07/01/2017,06/30/2019
+CT,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,27,0,0,,07/01/2017,06/30/2019
+CT,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,27,0,0,,07/01/2017,06/30/2019
+CT,PSI_3_ULCER,Pressure sores,1,27,1,1,,07/01/2017,06/30/2019
+CT,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,20,0,7,,07/01/2017,06/30/2019
+CT,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,29,0,1,,07/01/2017,06/30/2019
+CT,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,29,0,1,,07/01/2017,06/30/2019
+CT,PSI_90_SAFETY,Serious complications,0,30,0,Not Available,,07/01/2017,06/30/2019
+CT,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,2,24,1,0,,07/01/2017,06/30/2019
+DC,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,5,0,1,,04/01/2016,03/31/2019
+DC,MORT_30_AMI,Death rate for heart attack patients,0,7,0,1,,07/01/2016,06/30/2019
+DC,MORT_30_CABG,Death rate for CABG surgery patients,0,1,1,1,,07/01/2016,06/30/2019
+DC,MORT_30_COPD,Death rate for COPD patients,0,8,0,0,,07/01/2016,06/30/2019
+DC,MORT_30_HF,Death rate for heart failure patients,0,6,2,0,,07/01/2016,06/30/2019
+DC,MORT_30_PN,Death rate for pneumonia patients,1,6,1,0,,07/01/2016,06/30/2019
+DC,MORT_30_STK,Death rate for stroke patients,0,7,0,0,,07/01/2016,06/30/2019
+DC,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,6,0,1,,07/01/2017,06/30/2019
+DC,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,1,5,0,1,,07/01/2017,06/30/2019
+DC,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,4,3,0,0,,07/01/2017,06/30/2019
+DC,PSI_13_POST_SEPSIS,Blood stream infection after surgery,1,5,0,1,,07/01/2017,06/30/2019
+DC,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,7,0,0,,07/01/2017,06/30/2019
+DC,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,2,5,0,0,,07/01/2017,06/30/2019
+DC,PSI_3_ULCER,Pressure sores,2,5,0,0,,07/01/2017,06/30/2019
+DC,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,7,0,0,,07/01/2017,06/30/2019
+DC,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,7,0,0,,07/01/2017,06/30/2019
+DC,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,7,0,0,,07/01/2017,06/30/2019
+DC,PSI_90_SAFETY,Serious complications,2,5,0,Not Available,,07/01/2017,06/30/2019
+DC,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,1,6,0,0,,07/01/2017,06/30/2019
+DE,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,5,1,0,,04/01/2016,03/31/2019
+DE,MORT_30_AMI,Death rate for heart attack patients,0,6,0,1,,07/01/2016,06/30/2019
+DE,MORT_30_CABG,Death rate for CABG surgery patients,0,3,0,0,,07/01/2016,06/30/2019
+DE,MORT_30_COPD,Death rate for COPD patients,0,7,0,0,,07/01/2016,06/30/2019
+DE,MORT_30_HF,Death rate for heart failure patients,0,7,0,0,,07/01/2016,06/30/2019
+DE,MORT_30_PN,Death rate for pneumonia patients,0,7,0,0,,07/01/2016,06/30/2019
+DE,MORT_30_STK,Death rate for stroke patients,0,6,0,0,,07/01/2016,06/30/2019
+DE,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,6,0,0,,07/01/2017,06/30/2019
+DE,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,1,5,0,0,,07/01/2017,06/30/2019
+DE,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,0,5,1,0,,07/01/2017,06/30/2019
+DE,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,6,0,0,,07/01/2017,06/30/2019
+DE,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,6,0,0,,07/01/2017,06/30/2019
+DE,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,6,0,0,,07/01/2017,06/30/2019
+DE,PSI_3_ULCER,Pressure sores,2,4,0,0,,07/01/2017,06/30/2019
+DE,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,5,0,1,,07/01/2017,06/30/2019
+DE,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,1,5,0,0,,07/01/2017,06/30/2019
+DE,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,6,0,0,,07/01/2017,06/30/2019
+DE,PSI_90_SAFETY,Serious complications,2,4,0,Not Available,,07/01/2017,06/30/2019
+DE,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,6,0,0,,07/01/2017,06/30/2019
+FL,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,3,130,11,21,,04/01/2016,03/31/2019
+FL,MORT_30_AMI,Death rate for heart attack patients,2,152,1,27,,07/01/2016,06/30/2019
+FL,MORT_30_CABG,Death rate for CABG surgery patients,1,67,0,9,,07/01/2016,06/30/2019
+FL,MORT_30_COPD,Death rate for COPD patients,9,165,7,8,,07/01/2016,06/30/2019
+FL,MORT_30_HF,Death rate for heart failure patients,11,155,14,8,,07/01/2016,06/30/2019
+FL,MORT_30_PN,Death rate for pneumonia patients,23,136,24,6,,07/01/2016,06/30/2019
+FL,MORT_30_STK,Death rate for stroke patients,7,134,5,30,,07/01/2016,06/30/2019
+FL,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,2,148,1,10,,07/01/2017,06/30/2019
+FL,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,9,135,4,13,,07/01/2017,06/30/2019
+FL,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,9,149,3,4,,07/01/2017,06/30/2019
+FL,PSI_13_POST_SEPSIS,Blood stream infection after surgery,5,142,2,12,,07/01/2017,06/30/2019
+FL,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,158,0,5,,07/01/2017,06/30/2019
+FL,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,162,0,3,,07/01/2017,06/30/2019
+FL,PSI_3_ULCER,Pressure sores,17,142,8,1,,07/01/2017,06/30/2019
+FL,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,110,8,41,,07/01/2017,06/30/2019
+FL,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,1,166,0,1,,07/01/2017,06/30/2019
+FL,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,167,0,1,,07/01/2017,06/30/2019
+FL,PSI_90_SAFETY,Serious complications,13,148,7,Not Available,,07/01/2017,06/30/2019
+FL,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,2,159,0,4,,07/01/2017,06/30/2019
+GA,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,71,1,15,,04/01/2016,03/31/2019
+GA,MORT_30_AMI,Death rate for heart attack patients,0,63,0,52,,07/01/2016,06/30/2019
+GA,MORT_30_CABG,Death rate for CABG surgery patients,1,17,0,3,,07/01/2016,06/30/2019
+GA,MORT_30_COPD,Death rate for COPD patients,4,100,0,28,,07/01/2016,06/30/2019
+GA,MORT_30_HF,Death rate for heart failure patients,1,90,5,35,,07/01/2016,06/30/2019
+GA,MORT_30_PN,Death rate for pneumonia patients,8,108,2,14,,07/01/2016,06/30/2019
+GA,MORT_30_STK,Death rate for stroke patients,2,70,0,48,,07/01/2016,06/30/2019
+GA,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,1,72,0,10,,07/01/2017,06/30/2019
+GA,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,6,66,1,10,,07/01/2017,06/30/2019
+GA,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,6,79,0,6,,07/01/2017,06/30/2019
+GA,PSI_13_POST_SEPSIS,Blood stream infection after surgery,3,70,0,9,,07/01/2017,06/30/2019
+GA,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,80,0,9,,07/01/2017,06/30/2019
+GA,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,3,84,0,8,,07/01/2017,06/30/2019
+GA,PSI_3_ULCER,Pressure sores,3,95,1,2,,07/01/2017,06/30/2019
+GA,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,50,0,29,,07/01/2017,06/30/2019
+GA,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,1,98,0,2,,07/01/2017,06/30/2019
+GA,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,99,0,1,,07/01/2017,06/30/2019
+GA,PSI_90_SAFETY,Serious complications,5,96,0,Not Available,,07/01/2017,06/30/2019
+GA,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,2,83,0,6,,07/01/2017,06/30/2019
+GU,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,Not Available,Not Available,Not Available,Not Available,5,04/01/2016,03/31/2019
+GU,MORT_30_AMI,Death rate for heart attack patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+GU,MORT_30_CABG,Death rate for CABG surgery patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+GU,MORT_30_COPD,Death rate for COPD patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+GU,MORT_30_HF,Death rate for heart failure patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+GU,MORT_30_PN,Death rate for pneumonia patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+GU,MORT_30_STK,Death rate for stroke patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+GU,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+GU,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+GU,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+GU,PSI_13_POST_SEPSIS,Blood stream infection after surgery,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+GU,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+GU,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+GU,PSI_3_ULCER,Pressure sores,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+GU,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+GU,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+GU,PSI_8_POST_HIP,Broken hip from a fall after surgery,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+GU,PSI_90_SAFETY,Serious complications,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+GU,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+HI,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,10,0,2,,04/01/2016,03/31/2019
+HI,MORT_30_AMI,Death rate for heart attack patients,0,10,0,3,,07/01/2016,06/30/2019
+HI,MORT_30_CABG,Death rate for CABG surgery patients,0,2,0,4,,07/01/2016,06/30/2019
+HI,MORT_30_COPD,Death rate for COPD patients,0,12,0,3,,07/01/2016,06/30/2019
+HI,MORT_30_HF,Death rate for heart failure patients,0,12,0,2,,07/01/2016,06/30/2019
+HI,MORT_30_PN,Death rate for pneumonia patients,1,11,0,4,,07/01/2016,06/30/2019
+HI,MORT_30_STK,Death rate for stroke patients,0,11,0,2,,07/01/2016,06/30/2019
+HI,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,11,0,1,,07/01/2017,06/30/2019
+HI,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,0,11,0,1,,07/01/2017,06/30/2019
+HI,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,0,12,0,0,,07/01/2017,06/30/2019
+HI,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,11,0,0,,07/01/2017,06/30/2019
+HI,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,11,0,1,,07/01/2017,06/30/2019
+HI,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,12,0,0,,07/01/2017,06/30/2019
+HI,PSI_3_ULCER,Pressure sores,0,12,0,0,,07/01/2017,06/30/2019
+HI,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,8,0,4,,07/01/2017,06/30/2019
+HI,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,12,0,0,,07/01/2017,06/30/2019
+HI,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,12,0,0,,07/01/2017,06/30/2019
+HI,PSI_90_SAFETY,Serious complications,0,11,1,Not Available,,07/01/2017,06/30/2019
+HI,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,12,0,0,,07/01/2017,06/30/2019
+IA,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,3,56,0,18,,04/01/2016,03/31/2019
+IA,MORT_30_AMI,Death rate for heart attack patients,0,26,0,79,,07/01/2016,06/30/2019
+IA,MORT_30_CABG,Death rate for CABG surgery patients,0,11,0,1,,07/01/2016,06/30/2019
+IA,MORT_30_COPD,Death rate for COPD patients,2,70,0,46,,07/01/2016,06/30/2019
+IA,MORT_30_HF,Death rate for heart failure patients,9,73,0,36,,07/01/2016,06/30/2019
+IA,MORT_30_PN,Death rate for pneumonia patients,5,107,2,4,,07/01/2016,06/30/2019
+IA,MORT_30_STK,Death rate for stroke patients,0,39,0,73,,07/01/2016,06/30/2019
+IA,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,32,0,0,,07/01/2017,06/30/2019
+IA,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,1,31,0,0,,07/01/2017,06/30/2019
+IA,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,1,31,1,1,,07/01/2017,06/30/2019
+IA,PSI_13_POST_SEPSIS,Blood stream infection after surgery,1,31,0,0,,07/01/2017,06/30/2019
+IA,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,30,0,4,,07/01/2017,06/30/2019
+IA,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,1,32,0,1,,07/01/2017,06/30/2019
+IA,PSI_3_ULCER,Pressure sores,3,31,0,0,,07/01/2017,06/30/2019
+IA,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,1,19,0,11,,07/01/2017,06/30/2019
+IA,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,34,0,0,,07/01/2017,06/30/2019
+IA,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,34,0,0,,07/01/2017,06/30/2019
+IA,PSI_90_SAFETY,Serious complications,2,32,0,Not Available,,07/01/2017,06/30/2019
+IA,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,33,0,1,,07/01/2017,06/30/2019
+ID,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,25,0,5,,04/01/2016,03/31/2019
+ID,MORT_30_AMI,Death rate for heart attack patients,0,11,0,22,,07/01/2016,06/30/2019
+ID,MORT_30_CABG,Death rate for CABG surgery patients,0,5,0,0,,07/01/2016,06/30/2019
+ID,MORT_30_COPD,Death rate for COPD patients,2,24,0,14,,07/01/2016,06/30/2019
+ID,MORT_30_HF,Death rate for heart failure patients,4,19,0,18,,07/01/2016,06/30/2019
+ID,MORT_30_PN,Death rate for pneumonia patients,1,31,0,10,,07/01/2016,06/30/2019
+ID,MORT_30_STK,Death rate for stroke patients,3,10,0,24,,07/01/2016,06/30/2019
+ID,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,14,0,1,,07/01/2017,06/30/2019
+ID,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,0,13,1,1,,07/01/2017,06/30/2019
+ID,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,0,14,0,1,,07/01/2017,06/30/2019
+ID,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,14,0,1,,07/01/2017,06/30/2019
+ID,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,14,0,0,,07/01/2017,06/30/2019
+ID,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,14,0,0,,07/01/2017,06/30/2019
+ID,PSI_3_ULCER,Pressure sores,0,14,0,2,,07/01/2017,06/30/2019
+ID,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,8,0,4,,07/01/2017,06/30/2019
+ID,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,15,0,1,,07/01/2017,06/30/2019
+ID,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,15,0,1,,07/01/2017,06/30/2019
+ID,PSI_90_SAFETY,Serious complications,0,16,0,Not Available,,07/01/2017,06/30/2019
+ID,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,14,0,1,,07/01/2017,06/30/2019
+IL,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,4,108,0,30,,04/01/2016,03/31/2019
+IL,MORT_30_AMI,Death rate for heart attack patients,0,102,2,71,,07/01/2016,06/30/2019
+IL,MORT_30_CABG,Death rate for CABG surgery patients,1,49,0,14,,07/01/2016,06/30/2019
+IL,MORT_30_COPD,Death rate for COPD patients,1,161,6,13,,07/01/2016,06/30/2019
+IL,MORT_30_HF,Death rate for heart failure patients,7,132,24,18,,07/01/2016,06/30/2019
+IL,MORT_30_PN,Death rate for pneumonia patients,9,151,16,5,,07/01/2016,06/30/2019
+IL,MORT_30_STK,Death rate for stroke patients,1,99,6,68,,07/01/2016,06/30/2019
+IL,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,2,112,0,6,,07/01/2017,06/30/2019
+IL,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,4,106,1,9,,07/01/2017,06/30/2019
+IL,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,11,109,0,4,,07/01/2017,06/30/2019
+IL,PSI_13_POST_SEPSIS,Blood stream infection after surgery,3,108,1,8,,07/01/2017,06/30/2019
+IL,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,111,0,11,,07/01/2017,06/30/2019
+IL,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,3,117,1,3,,07/01/2017,06/30/2019
+IL,PSI_3_ULCER,Pressure sores,7,112,6,0,,07/01/2017,06/30/2019
+IL,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,74,3,40,,07/01/2017,06/30/2019
+IL,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,1,124,0,0,,07/01/2017,06/30/2019
+IL,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,125,0,0,,07/01/2017,06/30/2019
+IL,PSI_90_SAFETY,Serious complications,9,114,2,Not Available,,07/01/2017,06/30/2019
+IL,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,1,119,0,4,,07/01/2017,06/30/2019
+IN,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,76,2,18,,04/01/2016,03/31/2019
+IN,MORT_30_AMI,Death rate for heart attack patients,0,60,1,51,,07/01/2016,06/30/2019
+IN,MORT_30_CABG,Death rate for CABG surgery patients,0,28,1,7,,07/01/2016,06/30/2019
+IN,MORT_30_COPD,Death rate for COPD patients,1,106,2,7,,07/01/2016,06/30/2019
+IN,MORT_30_HF,Death rate for heart failure patients,6,97,2,10,,07/01/2016,06/30/2019
+IN,MORT_30_PN,Death rate for pneumonia patients,9,98,2,7,,07/01/2016,06/30/2019
+IN,MORT_30_STK,Death rate for stroke patients,3,66,1,39,,07/01/2016,06/30/2019
+IN,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,2,78,0,4,,07/01/2017,06/30/2019
+IN,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,4,74,0,6,,07/01/2017,06/30/2019
+IN,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,1,81,1,1,,07/01/2017,06/30/2019
+IN,PSI_13_POST_SEPSIS,Blood stream infection after surgery,2,78,0,4,,07/01/2017,06/30/2019
+IN,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,74,0,9,,07/01/2017,06/30/2019
+IN,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,1,81,0,2,,07/01/2017,06/30/2019
+IN,PSI_3_ULCER,Pressure sores,2,79,4,1,,07/01/2017,06/30/2019
+IN,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,45,0,27,,07/01/2017,06/30/2019
+IN,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,1,85,0,0,,07/01/2017,06/30/2019
+IN,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,86,0,0,,07/01/2017,06/30/2019
+IN,PSI_90_SAFETY,Serious complications,1,84,1,Not Available,,07/01/2017,06/30/2019
+IN,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,82,0,2,,07/01/2017,06/30/2019
+KS,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,41,3,9,,04/01/2016,03/31/2019
+KS,MORT_30_AMI,Death rate for heart attack patients,0,26,0,82,,07/01/2016,06/30/2019
+KS,MORT_30_CABG,Death rate for CABG surgery patients,0,13,0,2,,07/01/2016,06/30/2019
+KS,MORT_30_COPD,Death rate for COPD patients,2,72,0,54,,07/01/2016,06/30/2019
+KS,MORT_30_HF,Death rate for heart failure patients,5,65,3,56,,07/01/2016,06/30/2019
+KS,MORT_30_PN,Death rate for pneumonia patients,4,109,3,14,,07/01/2016,06/30/2019
+KS,MORT_30_STK,Death rate for stroke patients,2,27,1,87,,07/01/2016,06/30/2019
+KS,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,43,1,3,,07/01/2017,06/30/2019
+KS,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,2,42,0,3,,07/01/2017,06/30/2019
+KS,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,0,43,3,1,,07/01/2017,06/30/2019
+KS,PSI_13_POST_SEPSIS,Blood stream infection after surgery,2,42,0,3,,07/01/2017,06/30/2019
+KS,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,37,0,7,,07/01/2017,06/30/2019
+KS,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,43,0,2,,07/01/2017,06/30/2019
+KS,PSI_3_ULCER,Pressure sores,2,45,2,2,,07/01/2017,06/30/2019
+KS,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,16,3,13,,07/01/2017,06/30/2019
+KS,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,1,50,0,0,,07/01/2017,06/30/2019
+KS,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,51,0,0,,07/01/2017,06/30/2019
+KS,PSI_90_SAFETY,Serious complications,2,47,2,Not Available,,07/01/2017,06/30/2019
+KS,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,46,0,1,,07/01/2017,06/30/2019
+KY,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,42,0,15,,04/01/2016,03/31/2019
+KY,MORT_30_AMI,Death rate for heart attack patients,0,47,0,42,,07/01/2016,06/30/2019
+KY,MORT_30_CABG,Death rate for CABG surgery patients,1,14,0,1,,07/01/2016,06/30/2019
+KY,MORT_30_COPD,Death rate for COPD patients,4,84,0,5,,07/01/2016,06/30/2019
+KY,MORT_30_HF,Death rate for heart failure patients,3,73,5,12,,07/01/2016,06/30/2019
+KY,MORT_30_PN,Death rate for pneumonia patients,8,78,4,3,,07/01/2016,06/30/2019
+KY,MORT_30_STK,Death rate for stroke patients,4,34,0,51,,07/01/2016,06/30/2019
+KY,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,1,41,0,11,,07/01/2017,06/30/2019
+KY,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,7,34,0,11,,07/01/2017,06/30/2019
+KY,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,1,58,0,4,,07/01/2017,06/30/2019
+KY,PSI_13_POST_SEPSIS,Blood stream infection after surgery,3,39,0,10,,07/01/2017,06/30/2019
+KY,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,50,0,12,,07/01/2017,06/30/2019
+KY,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,61,0,2,,07/01/2017,06/30/2019
+KY,PSI_3_ULCER,Pressure sores,5,58,1,0,,07/01/2017,06/30/2019
+KY,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,3,27,1,19,,07/01/2017,06/30/2019
+KY,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,64,0,0,,07/01/2017,06/30/2019
+KY,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,64,0,0,,07/01/2017,06/30/2019
+KY,PSI_90_SAFETY,Serious complications,5,58,1,Not Available,,07/01/2017,06/30/2019
+KY,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,59,0,4,,07/01/2017,06/30/2019
+LA,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,54,0,13,,04/01/2016,03/31/2019
+LA,MORT_30_AMI,Death rate for heart attack patients,1,40,0,49,,07/01/2016,06/30/2019
+LA,MORT_30_CABG,Death rate for CABG surgery patients,0,23,0,7,,07/01/2016,06/30/2019
+LA,MORT_30_COPD,Death rate for COPD patients,0,80,0,22,,07/01/2016,06/30/2019
+LA,MORT_30_HF,Death rate for heart failure patients,1,81,2,18,,07/01/2016,06/30/2019
+LA,MORT_30_PN,Death rate for pneumonia patients,2,87,5,9,,07/01/2016,06/30/2019
+LA,MORT_30_STK,Death rate for stroke patients,1,41,1,47,,07/01/2016,06/30/2019
+LA,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,1,63,1,15,,07/01/2017,06/30/2019
+LA,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,3,60,1,13,,07/01/2017,06/30/2019
+LA,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,2,73,0,7,,07/01/2017,06/30/2019
+LA,PSI_13_POST_SEPSIS,Blood stream infection after surgery,1,62,1,13,,07/01/2017,06/30/2019
+LA,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,60,0,19,,07/01/2017,06/30/2019
+LA,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,1,71,0,11,,07/01/2017,06/30/2019
+LA,PSI_3_ULCER,Pressure sores,5,81,0,1,,07/01/2017,06/30/2019
+LA,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,31,0,26,,07/01/2017,06/30/2019
+LA,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,86,0,3,,07/01/2017,06/30/2019
+LA,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,86,0,3,,07/01/2017,06/30/2019
+LA,PSI_90_SAFETY,Serious complications,5,84,0,Not Available,,07/01/2017,06/30/2019
+LA,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,74,0,8,,07/01/2017,06/30/2019
+MA,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,2,51,1,1,,04/01/2016,03/31/2019
+MA,MORT_30_AMI,Death rate for heart attack patients,0,49,2,8,,07/01/2016,06/30/2019
+MA,MORT_30_CABG,Death rate for CABG surgery patients,0,13,0,1,,07/01/2016,06/30/2019
+MA,MORT_30_COPD,Death rate for COPD patients,0,45,11,3,,07/01/2016,06/30/2019
+MA,MORT_30_HF,Death rate for heart failure patients,0,42,14,4,,07/01/2016,06/30/2019
+MA,MORT_30_PN,Death rate for pneumonia patients,1,42,14,4,,07/01/2016,06/30/2019
+MA,MORT_30_STK,Death rate for stroke patients,0,48,3,6,,07/01/2016,06/30/2019
+MA,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,53,0,1,,07/01/2017,06/30/2019
+MA,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,0,50,3,1,,07/01/2017,06/30/2019
+MA,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,5,48,0,1,,07/01/2017,06/30/2019
+MA,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,52,1,1,,07/01/2017,06/30/2019
+MA,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,51,0,2,,07/01/2017,06/30/2019
+MA,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,53,0,2,,07/01/2017,06/30/2019
+MA,PSI_3_ULCER,Pressure sores,5,50,1,0,,07/01/2017,06/30/2019
+MA,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,1,37,1,13,,07/01/2017,06/30/2019
+MA,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,1,55,0,0,,07/01/2017,06/30/2019
+MA,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,56,0,0,,07/01/2017,06/30/2019
+MA,PSI_90_SAFETY,Serious complications,3,52,1,Not Available,,07/01/2017,06/30/2019
+MA,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,1,52,0,1,,07/01/2017,06/30/2019
+MD,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,2,35,3,5,,04/01/2016,03/31/2019
+MD,MORT_30_AMI,Death rate for heart attack patients,1,40,0,5,,07/01/2016,06/30/2019
+MD,MORT_30_CABG,Death rate for CABG surgery patients,1,8,1,1,,07/01/2016,06/30/2019
+MD,MORT_30_COPD,Death rate for COPD patients,4,42,0,1,,07/01/2016,06/30/2019
+MD,MORT_30_HF,Death rate for heart failure patients,2,37,7,2,,07/01/2016,06/30/2019
+MD,MORT_30_PN,Death rate for pneumonia patients,7,37,2,1,,07/01/2016,06/30/2019
+MD,MORT_30_STK,Death rate for stroke patients,3,39,0,4,,07/01/2016,06/30/2019
+MD,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,44,0,2,,07/01/2017,06/30/2019
+MD,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,3,39,2,2,,07/01/2017,06/30/2019
+MD,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,3,42,0,1,,07/01/2017,06/30/2019
+MD,PSI_13_POST_SEPSIS,Blood stream infection after surgery,1,42,1,2,,07/01/2017,06/30/2019
+MD,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,44,0,1,,07/01/2017,06/30/2019
+MD,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,44,0,2,,07/01/2017,06/30/2019
+MD,PSI_3_ULCER,Pressure sores,13,33,1,0,,07/01/2017,06/30/2019
+MD,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,1,35,0,9,,07/01/2017,06/30/2019
+MD,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,47,0,0,,07/01/2017,06/30/2019
+MD,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,47,0,0,,07/01/2017,06/30/2019
+MD,PSI_90_SAFETY,Serious complications,7,38,2,Not Available,,07/01/2017,06/30/2019
+MD,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,1,44,0,1,,07/01/2017,06/30/2019
+ME,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,22,1,6,,04/01/2016,03/31/2019
+ME,MORT_30_AMI,Death rate for heart attack patients,0,23,0,11,,07/01/2016,06/30/2019
+ME,MORT_30_CABG,Death rate for CABG surgery patients,0,3,0,0,,07/01/2016,06/30/2019
+ME,MORT_30_COPD,Death rate for COPD patients,1,32,0,1,,07/01/2016,06/30/2019
+ME,MORT_30_HF,Death rate for heart failure patients,1,32,0,1,,07/01/2016,06/30/2019
+ME,MORT_30_PN,Death rate for pneumonia patients,3,30,0,1,,07/01/2016,06/30/2019
+ME,MORT_30_STK,Death rate for stroke patients,2,25,0,6,,07/01/2016,06/30/2019
+ME,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,17,0,0,,07/01/2017,06/30/2019
+ME,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,0,17,0,0,,07/01/2017,06/30/2019
+ME,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,0,17,0,0,,07/01/2017,06/30/2019
+ME,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,17,0,0,,07/01/2017,06/30/2019
+ME,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,16,0,1,,07/01/2017,06/30/2019
+ME,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,17,0,0,,07/01/2017,06/30/2019
+ME,PSI_3_ULCER,Pressure sores,1,16,0,0,,07/01/2017,06/30/2019
+ME,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,1,4,0,11,,07/01/2017,06/30/2019
+ME,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,17,0,0,,07/01/2017,06/30/2019
+ME,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,17,0,0,,07/01/2017,06/30/2019
+ME,PSI_90_SAFETY,Serious complications,1,16,0,Not Available,,07/01/2017,06/30/2019
+ME,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,17,0,0,,07/01/2017,06/30/2019
+MI,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,96,2,15,,04/01/2016,03/31/2019
+MI,MORT_30_AMI,Death rate for heart attack patients,0,66,2,50,,07/01/2016,06/30/2019
+MI,MORT_30_CABG,Death rate for CABG surgery patients,0,31,0,2,,07/01/2016,06/30/2019
+MI,MORT_30_COPD,Death rate for COPD patients,1,110,4,12,,07/01/2016,06/30/2019
+MI,MORT_30_HF,Death rate for heart failure patients,7,86,13,21,,07/01/2016,06/30/2019
+MI,MORT_30_PN,Death rate for pneumonia patients,5,105,8,8,,07/01/2016,06/30/2019
+MI,MORT_30_STK,Death rate for stroke patients,2,74,3,42,,07/01/2016,06/30/2019
+MI,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,1,87,1,0,,07/01/2017,06/30/2019
+MI,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,2,83,4,0,,07/01/2017,06/30/2019
+MI,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,3,86,1,0,,07/01/2017,06/30/2019
+MI,PSI_13_POST_SEPSIS,Blood stream infection after surgery,5,83,1,0,,07/01/2017,06/30/2019
+MI,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,79,0,10,,07/01/2017,06/30/2019
+MI,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,2,84,0,3,,07/01/2017,06/30/2019
+MI,PSI_3_ULCER,Pressure sores,4,87,1,1,,07/01/2017,06/30/2019
+MI,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,1,46,2,29,,07/01/2017,06/30/2019
+MI,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,1,92,0,0,,07/01/2017,06/30/2019
+MI,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,92,0,1,,07/01/2017,06/30/2019
+MI,PSI_90_SAFETY,Serious complications,3,85,5,Not Available,,07/01/2017,06/30/2019
+MI,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,1,87,1,1,,07/01/2017,06/30/2019
+MN,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,52,1,32,,04/01/2016,03/31/2019
+MN,MORT_30_AMI,Death rate for heart attack patients,0,20,2,88,,07/01/2016,06/30/2019
+MN,MORT_30_CABG,Death rate for CABG surgery patients,0,13,0,1,,07/01/2016,06/30/2019
+MN,MORT_30_COPD,Death rate for COPD patients,0,53,0,74,,07/01/2016,06/30/2019
+MN,MORT_30_HF,Death rate for heart failure patients,0,60,2,65,,07/01/2016,06/30/2019
+MN,MORT_30_PN,Death rate for pneumonia patients,0,84,2,41,,07/01/2016,06/30/2019
+MN,MORT_30_STK,Death rate for stroke patients,0,27,1,89,,07/01/2016,06/30/2019
+MN,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,1,45,0,1,,07/01/2017,06/30/2019
+MN,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,0,44,1,2,,07/01/2017,06/30/2019
+MN,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,1,46,0,0,,07/01/2017,06/30/2019
+MN,PSI_13_POST_SEPSIS,Blood stream infection after surgery,1,44,0,2,,07/01/2017,06/30/2019
+MN,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,37,0,10,,07/01/2017,06/30/2019
+MN,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,47,0,0,,07/01/2017,06/30/2019
+MN,PSI_3_ULCER,Pressure sores,1,45,1,1,,07/01/2017,06/30/2019
+MN,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,16,1,22,,07/01/2017,06/30/2019
+MN,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,48,0,1,,07/01/2017,06/30/2019
+MN,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,48,0,1,,07/01/2017,06/30/2019
+MN,PSI_90_SAFETY,Serious complications,0,48,1,Not Available,,07/01/2017,06/30/2019
+MN,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,1,46,0,0,,07/01/2017,06/30/2019
+MO,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,2,60,1,16,,04/01/2016,03/31/2019
+MO,MORT_30_AMI,Death rate for heart attack patients,1,51,0,51,,07/01/2016,06/30/2019
+MO,MORT_30_CABG,Death rate for CABG surgery patients,0,29,0,4,,07/01/2016,06/30/2019
+MO,MORT_30_COPD,Death rate for COPD patients,3,97,1,10,,07/01/2016,06/30/2019
+MO,MORT_30_HF,Death rate for heart failure patients,7,80,2,22,,07/01/2016,06/30/2019
+MO,MORT_30_PN,Death rate for pneumonia patients,10,89,10,2,,07/01/2016,06/30/2019
+MO,MORT_30_STK,Death rate for stroke patients,2,45,2,56,,07/01/2016,06/30/2019
+MO,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,2,59,0,5,,07/01/2017,06/30/2019
+MO,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,1,59,1,5,,07/01/2017,06/30/2019
+MO,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,3,64,0,3,,07/01/2017,06/30/2019
+MO,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,59,1,5,,07/01/2017,06/30/2019
+MO,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,60,0,9,,07/01/2017,06/30/2019
+MO,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,67,0,3,,07/01/2017,06/30/2019
+MO,PSI_3_ULCER,Pressure sores,3,66,3,0,,07/01/2017,06/30/2019
+MO,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,4,39,0,21,,07/01/2017,06/30/2019
+MO,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,72,0,0,,07/01/2017,06/30/2019
+MO,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,72,0,0,,07/01/2017,06/30/2019
+MO,PSI_90_SAFETY,Serious complications,4,64,4,Not Available,,07/01/2017,06/30/2019
+MO,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,65,1,4,,07/01/2017,06/30/2019
+MP,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,Not Available,Not Available,Not Available,Not Available,5,04/01/2016,03/31/2019
+MP,MORT_30_AMI,Death rate for heart attack patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+MP,MORT_30_CABG,Death rate for CABG surgery patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+MP,MORT_30_COPD,Death rate for COPD patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+MP,MORT_30_HF,Death rate for heart failure patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+MP,MORT_30_PN,Death rate for pneumonia patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+MP,MORT_30_STK,Death rate for stroke patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+MP,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+MP,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+MP,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+MP,PSI_13_POST_SEPSIS,Blood stream infection after surgery,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+MP,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+MP,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+MP,PSI_3_ULCER,Pressure sores,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+MP,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+MP,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+MP,PSI_8_POST_HIP,Broken hip from a fall after surgery,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+MP,PSI_90_SAFETY,Serious complications,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+MP,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+MS,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,2,27,0,6,,04/01/2016,03/31/2019
+MS,MORT_30_AMI,Death rate for heart attack patients,2,24,0,48,,07/01/2016,06/30/2019
+MS,MORT_30_CABG,Death rate for CABG surgery patients,1,13,0,3,,07/01/2016,06/30/2019
+MS,MORT_30_COPD,Death rate for COPD patients,4,67,0,20,,07/01/2016,06/30/2019
+MS,MORT_30_HF,Death rate for heart failure patients,5,64,0,23,,07/01/2016,06/30/2019
+MS,MORT_30_PN,Death rate for pneumonia patients,14,71,0,7,,07/01/2016,06/30/2019
+MS,MORT_30_STK,Death rate for stroke patients,0,31,1,47,,07/01/2016,06/30/2019
+MS,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,2,34,0,6,,07/01/2017,06/30/2019
+MS,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,3,33,0,5,,07/01/2017,06/30/2019
+MS,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,2,37,1,6,,07/01/2017,06/30/2019
+MS,PSI_13_POST_SEPSIS,Blood stream infection after surgery,1,35,0,5,,07/01/2017,06/30/2019
+MS,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,37,0,6,,07/01/2017,06/30/2019
+MS,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,42,0,4,,07/01/2017,06/30/2019
+MS,PSI_3_ULCER,Pressure sores,4,54,1,1,,07/01/2017,06/30/2019
+MS,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,1,21,0,15,,07/01/2017,06/30/2019
+MS,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,60,0,0,,07/01/2017,06/30/2019
+MS,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,60,0,0,,07/01/2017,06/30/2019
+MS,PSI_90_SAFETY,Serious complications,5,54,1,Not Available,,07/01/2017,06/30/2019
+MS,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,40,0,6,,07/01/2017,06/30/2019
+MT,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,22,1,3,,04/01/2016,03/31/2019
+MT,MORT_30_AMI,Death rate for heart attack patients,0,9,0,27,,07/01/2016,06/30/2019
+MT,MORT_30_CABG,Death rate for CABG surgery patients,0,5,0,0,,07/01/2016,06/30/2019
+MT,MORT_30_COPD,Death rate for COPD patients,0,26,0,32,,07/01/2016,06/30/2019
+MT,MORT_30_HF,Death rate for heart failure patients,1,21,0,39,,07/01/2016,06/30/2019
+MT,MORT_30_PN,Death rate for pneumonia patients,0,41,0,20,,07/01/2016,06/30/2019
+MT,MORT_30_STK,Death rate for stroke patients,0,13,0,30,,07/01/2016,06/30/2019
+MT,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,12,0,0,,07/01/2017,06/30/2019
+MT,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,1,10,1,0,,07/01/2017,06/30/2019
+MT,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,0,12,0,1,,07/01/2017,06/30/2019
+MT,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,12,0,0,,07/01/2017,06/30/2019
+MT,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,11,0,1,,07/01/2017,06/30/2019
+MT,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,1,10,0,2,,07/01/2017,06/30/2019
+MT,PSI_3_ULCER,Pressure sores,1,12,0,0,,07/01/2017,06/30/2019
+MT,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,7,0,3,,07/01/2017,06/30/2019
+MT,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,13,0,0,,07/01/2017,06/30/2019
+MT,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,13,0,0,,07/01/2017,06/30/2019
+MT,PSI_90_SAFETY,Serious complications,0,12,1,Not Available,,07/01/2017,06/30/2019
+MT,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,1,11,0,1,,07/01/2017,06/30/2019
+NC,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,2,72,5,9,,04/01/2016,03/31/2019
+NC,MORT_30_AMI,Death rate for heart attack patients,1,66,0,36,,07/01/2016,06/30/2019
+NC,MORT_30_CABG,Death rate for CABG surgery patients,1,21,0,1,,07/01/2016,06/30/2019
+NC,MORT_30_COPD,Death rate for COPD patients,5,93,0,9,,07/01/2016,06/30/2019
+NC,MORT_30_HF,Death rate for heart failure patients,3,91,2,11,,07/01/2016,06/30/2019
+NC,MORT_30_PN,Death rate for pneumonia patients,18,86,2,2,,07/01/2016,06/30/2019
+NC,MORT_30_STK,Death rate for stroke patients,5,77,0,20,,07/01/2016,06/30/2019
+NC,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,76,0,3,,07/01/2017,06/30/2019
+NC,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,1,73,2,3,,07/01/2017,06/30/2019
+NC,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,3,77,1,1,,07/01/2017,06/30/2019
+NC,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,74,1,4,,07/01/2017,06/30/2019
+NC,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,79,0,1,,07/01/2017,06/30/2019
+NC,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,1,79,0,3,,07/01/2017,06/30/2019
+NC,PSI_3_ULCER,Pressure sores,7,75,3,0,,07/01/2017,06/30/2019
+NC,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,3,45,0,28,,07/01/2017,06/30/2019
+NC,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,1,84,0,0,,07/01/2017,06/30/2019
+NC,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,85,0,0,,07/01/2017,06/30/2019
+NC,PSI_90_SAFETY,Serious complications,4,78,3,Not Available,,07/01/2017,06/30/2019
+NC,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,80,1,1,,07/01/2017,06/30/2019
+ND,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,9,0,0,,04/01/2016,03/31/2019
+ND,MORT_30_AMI,Death rate for heart attack patients,0,7,0,27,,07/01/2016,06/30/2019
+ND,MORT_30_CABG,Death rate for CABG surgery patients,0,6,0,0,,07/01/2016,06/30/2019
+ND,MORT_30_COPD,Death rate for COPD patients,1,16,0,27,,07/01/2016,06/30/2019
+ND,MORT_30_HF,Death rate for heart failure patients,1,15,0,28,,07/01/2016,06/30/2019
+ND,MORT_30_PN,Death rate for pneumonia patients,1,32,1,11,,07/01/2016,06/30/2019
+ND,MORT_30_STK,Death rate for stroke patients,0,7,0,25,,07/01/2016,06/30/2019
+ND,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,6,0,0,,07/01/2017,06/30/2019
+ND,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,1,5,0,0,,07/01/2017,06/30/2019
+ND,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,0,6,0,0,,07/01/2017,06/30/2019
+ND,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,6,0,0,,07/01/2017,06/30/2019
+ND,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,6,0,0,,07/01/2017,06/30/2019
+ND,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,1,5,0,0,,07/01/2017,06/30/2019
+ND,PSI_3_ULCER,Pressure sores,2,5,0,0,,07/01/2017,06/30/2019
+ND,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,1,5,0,0,,07/01/2017,06/30/2019
+ND,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,7,0,0,,07/01/2017,06/30/2019
+ND,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,7,0,0,,07/01/2017,06/30/2019
+ND,PSI_90_SAFETY,Serious complications,2,5,0,Not Available,,07/01/2017,06/30/2019
+ND,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,6,0,0,,07/01/2017,06/30/2019
+NE,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,41,0,15,,04/01/2016,03/31/2019
+NE,MORT_30_AMI,Death rate for heart attack patients,0,18,0,54,,07/01/2016,06/30/2019
+NE,MORT_30_CABG,Death rate for CABG surgery patients,0,8,0,0,,07/01/2016,06/30/2019
+NE,MORT_30_COPD,Death rate for COPD patients,0,45,0,37,,07/01/2016,06/30/2019
+NE,MORT_30_HF,Death rate for heart failure patients,2,39,0,42,,07/01/2016,06/30/2019
+NE,MORT_30_PN,Death rate for pneumonia patients,1,73,0,10,,07/01/2016,06/30/2019
+NE,MORT_30_STK,Death rate for stroke patients,1,21,0,57,,07/01/2016,06/30/2019
+NE,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,23,0,0,,07/01/2017,06/30/2019
+NE,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,3,20,0,0,,07/01/2017,06/30/2019
+NE,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,0,23,0,0,,07/01/2017,06/30/2019
+NE,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,23,0,0,,07/01/2017,06/30/2019
+NE,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,21,0,2,,07/01/2017,06/30/2019
+NE,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,22,0,1,,07/01/2017,06/30/2019
+NE,PSI_3_ULCER,Pressure sores,1,22,0,0,,07/01/2017,06/30/2019
+NE,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,14,0,6,,07/01/2017,06/30/2019
+NE,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,23,0,0,,07/01/2017,06/30/2019
+NE,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,23,0,0,,07/01/2017,06/30/2019
+NE,PSI_90_SAFETY,Serious complications,1,21,1,Not Available,,07/01/2017,06/30/2019
+NE,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,2,21,0,0,,07/01/2017,06/30/2019
+NH,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,21,0,3,,04/01/2016,03/31/2019
+NH,MORT_30_AMI,Death rate for heart attack patients,0,15,1,10,,07/01/2016,06/30/2019
+NH,MORT_30_CABG,Death rate for CABG surgery patients,0,3,1,0,,07/01/2016,06/30/2019
+NH,MORT_30_COPD,Death rate for COPD patients,0,25,1,0,,07/01/2016,06/30/2019
+NH,MORT_30_HF,Death rate for heart failure patients,2,23,1,0,,07/01/2016,06/30/2019
+NH,MORT_30_PN,Death rate for pneumonia patients,0,26,0,0,,07/01/2016,06/30/2019
+NH,MORT_30_STK,Death rate for stroke patients,1,16,1,8,,07/01/2016,06/30/2019
+NH,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,13,0,0,,07/01/2017,06/30/2019
+NH,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,0,13,0,0,,07/01/2017,06/30/2019
+NH,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,0,13,0,0,,07/01/2017,06/30/2019
+NH,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,13,0,0,,07/01/2017,06/30/2019
+NH,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,13,0,0,,07/01/2017,06/30/2019
+NH,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,13,0,0,,07/01/2017,06/30/2019
+NH,PSI_3_ULCER,Pressure sores,0,12,1,0,,07/01/2017,06/30/2019
+NH,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,11,0,2,,07/01/2017,06/30/2019
+NH,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,13,0,0,,07/01/2017,06/30/2019
+NH,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,13,0,0,,07/01/2017,06/30/2019
+NH,PSI_90_SAFETY,Serious complications,0,13,0,Not Available,,07/01/2017,06/30/2019
+NH,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,2,11,0,0,,07/01/2017,06/30/2019
+NJ,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,48,2,13,,04/01/2016,03/31/2019
+NJ,MORT_30_AMI,Death rate for heart attack patients,0,62,2,1,,07/01/2016,06/30/2019
+NJ,MORT_30_CABG,Death rate for CABG surgery patients,0,16,1,1,,07/01/2016,06/30/2019
+NJ,MORT_30_COPD,Death rate for COPD patients,1,63,0,1,,07/01/2016,06/30/2019
+NJ,MORT_30_HF,Death rate for heart failure patients,2,55,8,0,,07/01/2016,06/30/2019
+NJ,MORT_30_PN,Death rate for pneumonia patients,10,51,4,0,,07/01/2016,06/30/2019
+NJ,MORT_30_STK,Death rate for stroke patients,0,57,4,2,,07/01/2016,06/30/2019
+NJ,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,62,0,2,,07/01/2017,06/30/2019
+NJ,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,1,60,1,2,,07/01/2017,06/30/2019
+NJ,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,5,58,1,0,,07/01/2017,06/30/2019
+NJ,PSI_13_POST_SEPSIS,Blood stream infection after surgery,2,59,1,2,,07/01/2017,06/30/2019
+NJ,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,63,0,1,,07/01/2017,06/30/2019
+NJ,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,1,63,0,0,,07/01/2017,06/30/2019
+NJ,PSI_3_ULCER,Pressure sores,8,55,1,0,,07/01/2017,06/30/2019
+NJ,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,2,52,1,9,,07/01/2017,06/30/2019
+NJ,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,64,0,0,,07/01/2017,06/30/2019
+NJ,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,64,0,0,,07/01/2017,06/30/2019
+NJ,PSI_90_SAFETY,Serious complications,8,54,2,Not Available,,07/01/2017,06/30/2019
+NJ,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,1,62,1,0,,07/01/2017,06/30/2019
+NM,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,17,0,7,,04/01/2016,03/31/2019
+NM,MORT_30_AMI,Death rate for heart attack patients,0,13,0,26,,07/01/2016,06/30/2019
+NM,MORT_30_CABG,Death rate for CABG surgery patients,0,5,0,0,,07/01/2016,06/30/2019
+NM,MORT_30_COPD,Death rate for COPD patients,0,32,0,9,,07/01/2016,06/30/2019
+NM,MORT_30_HF,Death rate for heart failure patients,0,30,1,9,,07/01/2016,06/30/2019
+NM,MORT_30_PN,Death rate for pneumonia patients,0,37,0,4,,07/01/2016,06/30/2019
+NM,MORT_30_STK,Death rate for stroke patients,1,12,0,24,,07/01/2016,06/30/2019
+NM,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,21,0,3,,07/01/2017,06/30/2019
+NM,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,0,21,0,3,,07/01/2017,06/30/2019
+NM,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,0,25,0,2,,07/01/2017,06/30/2019
+NM,PSI_13_POST_SEPSIS,Blood stream infection after surgery,1,20,0,3,,07/01/2017,06/30/2019
+NM,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,23,0,5,,07/01/2017,06/30/2019
+NM,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,26,0,2,,07/01/2017,06/30/2019
+NM,PSI_3_ULCER,Pressure sores,2,27,0,3,,07/01/2017,06/30/2019
+NM,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,1,6,1,13,,07/01/2017,06/30/2019
+NM,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,29,0,3,,07/01/2017,06/30/2019
+NM,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,29,0,3,,07/01/2017,06/30/2019
+NM,PSI_90_SAFETY,Serious complications,2,30,0,Not Available,,07/01/2017,06/30/2019
+NM,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,25,0,2,,07/01/2017,06/30/2019
+NV,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,22,0,2,,04/01/2016,03/31/2019
+NV,MORT_30_AMI,Death rate for heart attack patients,0,21,0,10,,07/01/2016,06/30/2019
+NV,MORT_30_CABG,Death rate for CABG surgery patients,0,12,0,1,,07/01/2016,06/30/2019
+NV,MORT_30_COPD,Death rate for COPD patients,1,29,0,6,,07/01/2016,06/30/2019
+NV,MORT_30_HF,Death rate for heart failure patients,1,25,3,6,,07/01/2016,06/30/2019
+NV,MORT_30_PN,Death rate for pneumonia patients,1,27,3,7,,07/01/2016,06/30/2019
+NV,MORT_30_STK,Death rate for stroke patients,1,19,0,11,,07/01/2016,06/30/2019
+NV,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,20,0,1,,07/01/2017,06/30/2019
+NV,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,1,19,0,1,,07/01/2017,06/30/2019
+NV,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,2,16,2,1,,07/01/2017,06/30/2019
+NV,PSI_13_POST_SEPSIS,Blood stream infection after surgery,1,19,0,1,,07/01/2017,06/30/2019
+NV,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,20,0,1,,07/01/2017,06/30/2019
+NV,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,20,0,1,,07/01/2017,06/30/2019
+NV,PSI_3_ULCER,Pressure sores,2,19,1,0,,07/01/2017,06/30/2019
+NV,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,2,13,1,4,,07/01/2017,06/30/2019
+NV,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,22,0,0,,07/01/2017,06/30/2019
+NV,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,22,0,0,,07/01/2017,06/30/2019
+NV,PSI_90_SAFETY,Serious complications,4,17,1,Not Available,,07/01/2017,06/30/2019
+NV,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,1,19,0,1,,07/01/2017,06/30/2019
+NY,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,97,2,36,,04/01/2016,03/31/2019
+NY,MORT_30_AMI,Death rate for heart attack patients,0,117,3,44,,07/01/2016,06/30/2019
+NY,MORT_30_CABG,Death rate for CABG surgery patients,0,30,2,4,,07/01/2016,06/30/2019
+NY,MORT_30_COPD,Death rate for COPD patients,1,146,9,13,,07/01/2016,06/30/2019
+NY,MORT_30_HF,Death rate for heart failure patients,7,123,23,17,,07/01/2016,06/30/2019
+NY,MORT_30_PN,Death rate for pneumonia patients,11,129,24,10,,07/01/2016,06/30/2019
+NY,MORT_30_STK,Death rate for stroke patients,3,103,10,38,,07/01/2016,06/30/2019
+NY,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,126,1,13,,07/01/2017,06/30/2019
+NY,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,1,121,3,14,,07/01/2017,06/30/2019
+NY,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,13,126,0,3,,07/01/2017,06/30/2019
+NY,PSI_13_POST_SEPSIS,Blood stream infection after surgery,3,122,2,13,,07/01/2017,06/30/2019
+NY,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,128,0,11,,07/01/2017,06/30/2019
+NY,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,6,132,1,1,,07/01/2017,06/30/2019
+NY,PSI_3_ULCER,Pressure sores,37,106,1,2,,07/01/2017,06/30/2019
+NY,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,5,72,2,49,,07/01/2017,06/30/2019
+NY,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,144,1,1,,07/01/2017,06/30/2019
+NY,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,144,0,2,,07/01/2017,06/30/2019
+NY,PSI_90_SAFETY,Serious complications,29,113,4,Not Available,,07/01/2017,06/30/2019
+NY,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,4,134,1,3,,07/01/2017,06/30/2019
+OH,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,130,1,15,,04/01/2016,03/31/2019
+OH,MORT_30_AMI,Death rate for heart attack patients,0,93,2,56,,07/01/2016,06/30/2019
+OH,MORT_30_CABG,Death rate for CABG surgery patients,0,50,1,7,,07/01/2016,06/30/2019
+OH,MORT_30_COPD,Death rate for COPD patients,4,137,5,10,,07/01/2016,06/30/2019
+OH,MORT_30_HF,Death rate for heart failure patients,4,122,19,10,,07/01/2016,06/30/2019
+OH,MORT_30_PN,Death rate for pneumonia patients,3,129,18,6,,07/01/2016,06/30/2019
+OH,MORT_30_STK,Death rate for stroke patients,0,93,2,52,,07/01/2016,06/30/2019
+OH,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,1,122,0,2,,07/01/2017,06/30/2019
+OH,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,2,119,2,2,,07/01/2017,06/30/2019
+OH,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,5,118,2,0,,07/01/2017,06/30/2019
+OH,PSI_13_POST_SEPSIS,Blood stream infection after surgery,1,120,2,2,,07/01/2017,06/30/2019
+OH,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,117,0,5,,07/01/2017,06/30/2019
+OH,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,121,0,2,,07/01/2017,06/30/2019
+OH,PSI_3_ULCER,Pressure sores,3,118,4,3,,07/01/2017,06/30/2019
+OH,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,64,4,46,,07/01/2017,06/30/2019
+OH,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,2,127,0,0,,07/01/2017,06/30/2019
+OH,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,129,0,0,,07/01/2017,06/30/2019
+OH,PSI_90_SAFETY,Serious complications,7,120,2,Not Available,,07/01/2017,06/30/2019
+OH,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,1,124,0,0,,07/01/2017,06/30/2019
+OK,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,48,0,11,,04/01/2016,03/31/2019
+OK,MORT_30_AMI,Death rate for heart attack patients,0,34,0,64,,07/01/2016,06/30/2019
+OK,MORT_30_CABG,Death rate for CABG surgery patients,3,13,0,2,,07/01/2016,06/30/2019
+OK,MORT_30_COPD,Death rate for COPD patients,2,84,0,32,,07/01/2016,06/30/2019
+OK,MORT_30_HF,Death rate for heart failure patients,1,71,1,44,,07/01/2016,06/30/2019
+OK,MORT_30_PN,Death rate for pneumonia patients,8,94,0,18,,07/01/2016,06/30/2019
+OK,MORT_30_STK,Death rate for stroke patients,2,35,0,60,,07/01/2016,06/30/2019
+OK,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,2,57,0,9,,07/01/2017,06/30/2019
+OK,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,3,55,1,9,,07/01/2017,06/30/2019
+OK,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,2,59,2,10,,07/01/2017,06/30/2019
+OK,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,59,0,8,,07/01/2017,06/30/2019
+OK,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,52,0,13,,07/01/2017,06/30/2019
+OK,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,60,0,15,,07/01/2017,06/30/2019
+OK,PSI_3_ULCER,Pressure sores,1,77,1,5,,07/01/2017,06/30/2019
+OK,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,3,26,0,20,,07/01/2017,06/30/2019
+OK,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,1,82,0,2,,07/01/2017,06/30/2019
+OK,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,83,0,2,,07/01/2017,06/30/2019
+OK,PSI_90_SAFETY,Serious complications,2,82,1,Not Available,,07/01/2017,06/30/2019
+OK,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,63,0,10,,07/01/2017,06/30/2019
+OR,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,40,0,8,,04/01/2016,03/31/2019
+OR,MORT_30_AMI,Death rate for heart attack patients,0,25,0,34,,07/01/2016,06/30/2019
+OR,MORT_30_CABG,Death rate for CABG surgery patients,0,10,0,2,,07/01/2016,06/30/2019
+OR,MORT_30_COPD,Death rate for COPD patients,0,50,1,10,,07/01/2016,06/30/2019
+OR,MORT_30_HF,Death rate for heart failure patients,7,44,1,8,,07/01/2016,06/30/2019
+OR,MORT_30_PN,Death rate for pneumonia patients,2,53,2,4,,07/01/2016,06/30/2019
+OR,MORT_30_STK,Death rate for stroke patients,4,35,0,20,,07/01/2016,06/30/2019
+OR,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,32,0,1,,07/01/2017,06/30/2019
+OR,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,1,30,1,1,,07/01/2017,06/30/2019
+OR,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,0,33,0,0,,07/01/2017,06/30/2019
+OR,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,31,1,1,,07/01/2017,06/30/2019
+OR,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,32,0,1,,07/01/2017,06/30/2019
+OR,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,33,0,1,,07/01/2017,06/30/2019
+OR,PSI_3_ULCER,Pressure sores,1,33,0,0,,07/01/2017,06/30/2019
+OR,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,18,1,14,,07/01/2017,06/30/2019
+OR,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,34,0,0,,07/01/2017,06/30/2019
+OR,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,34,0,0,,07/01/2017,06/30/2019
+OR,PSI_90_SAFETY,Serious complications,1,29,4,Not Available,,07/01/2017,06/30/2019
+OR,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,33,0,0,,07/01/2017,06/30/2019
+PA,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,2,119,3,26,,04/01/2016,03/31/2019
+PA,MORT_30_AMI,Death rate for heart attack patients,0,110,2,46,,07/01/2016,06/30/2019
+PA,MORT_30_CABG,Death rate for CABG surgery patients,0,52,2,5,,07/01/2016,06/30/2019
+PA,MORT_30_COPD,Death rate for COPD patients,1,151,1,7,,07/01/2016,06/30/2019
+PA,MORT_30_HF,Death rate for heart failure patients,2,141,10,8,,07/01/2016,06/30/2019
+PA,MORT_30_PN,Death rate for pneumonia patients,7,134,14,6,,07/01/2016,06/30/2019
+PA,MORT_30_STK,Death rate for stroke patients,1,106,3,41,,07/01/2016,06/30/2019
+PA,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,2,130,0,13,,07/01/2017,06/30/2019
+PA,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,2,124,5,14,,07/01/2017,06/30/2019
+PA,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,5,135,2,4,,07/01/2017,06/30/2019
+PA,PSI_13_POST_SEPSIS,Blood stream infection after surgery,1,130,1,13,,07/01/2017,06/30/2019
+PA,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,127,0,13,,07/01/2017,06/30/2019
+PA,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,132,0,12,,07/01/2017,06/30/2019
+PA,PSI_3_ULCER,Pressure sores,13,134,2,0,,07/01/2017,06/30/2019
+PA,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,1,70,4,50,,07/01/2017,06/30/2019
+PA,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,150,0,0,,07/01/2017,06/30/2019
+PA,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,150,0,0,,07/01/2017,06/30/2019
+PA,PSI_90_SAFETY,Serious complications,10,136,4,Not Available,,07/01/2017,06/30/2019
+PA,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,2,139,1,4,,07/01/2017,06/30/2019
+PR,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,5,0,27,,04/01/2016,03/31/2019
+PR,MORT_30_AMI,Death rate for heart attack patients,0,11,0,33,,07/01/2016,06/30/2019
+PR,MORT_30_CABG,Death rate for CABG surgery patients,0,2,0,7,,07/01/2016,06/30/2019
+PR,MORT_30_COPD,Death rate for COPD patients,1,6,0,38,,07/01/2016,06/30/2019
+PR,MORT_30_HF,Death rate for heart failure patients,0,23,0,23,,07/01/2016,06/30/2019
+PR,MORT_30_PN,Death rate for pneumonia patients,3,22,0,25,,07/01/2016,06/30/2019
+PR,MORT_30_STK,Death rate for stroke patients,0,6,0,38,,07/01/2016,06/30/2019
+PR,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+PR,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+PR,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+PR,PSI_13_POST_SEPSIS,Blood stream infection after surgery,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+PR,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+PR,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+PR,PSI_3_ULCER,Pressure sores,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+PR,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+PR,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+PR,PSI_8_POST_HIP,Broken hip from a fall after surgery,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+PR,PSI_90_SAFETY,Serious complications,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+PR,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+RI,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,8,1,1,,04/01/2016,03/31/2019
+RI,MORT_30_AMI,Death rate for heart attack patients,0,10,0,1,,07/01/2016,06/30/2019
+RI,MORT_30_CABG,Death rate for CABG surgery patients,0,1,0,0,,07/01/2016,06/30/2019
+RI,MORT_30_COPD,Death rate for COPD patients,0,11,0,0,,07/01/2016,06/30/2019
+RI,MORT_30_HF,Death rate for heart failure patients,0,10,1,0,,07/01/2016,06/30/2019
+RI,MORT_30_PN,Death rate for pneumonia patients,0,10,1,1,,07/01/2016,06/30/2019
+RI,MORT_30_STK,Death rate for stroke patients,1,7,0,2,,07/01/2016,06/30/2019
+RI,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,10,0,1,,07/01/2017,06/30/2019
+RI,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,0,9,1,1,,07/01/2017,06/30/2019
+RI,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,1,10,0,0,,07/01/2017,06/30/2019
+RI,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,10,0,1,,07/01/2017,06/30/2019
+RI,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,10,0,1,,07/01/2017,06/30/2019
+RI,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,10,0,1,,07/01/2017,06/30/2019
+RI,PSI_3_ULCER,Pressure sores,3,8,0,0,,07/01/2017,06/30/2019
+RI,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,1,2,0,7,,07/01/2017,06/30/2019
+RI,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,11,0,0,,07/01/2017,06/30/2019
+RI,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,11,0,0,,07/01/2017,06/30/2019
+RI,PSI_90_SAFETY,Serious complications,2,9,0,Not Available,,07/01/2017,06/30/2019
+RI,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,11,0,0,,07/01/2017,06/30/2019
+SC,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,35,3,14,,04/01/2016,03/31/2019
+SC,MORT_30_AMI,Death rate for heart attack patients,0,32,0,25,,07/01/2016,06/30/2019
+SC,MORT_30_CABG,Death rate for CABG surgery patients,0,17,0,0,,07/01/2016,06/30/2019
+SC,MORT_30_COPD,Death rate for COPD patients,2,51,0,7,,07/01/2016,06/30/2019
+SC,MORT_30_HF,Death rate for heart failure patients,6,43,3,9,,07/01/2016,06/30/2019
+SC,MORT_30_PN,Death rate for pneumonia patients,10,46,1,3,,07/01/2016,06/30/2019
+SC,MORT_30_STK,Death rate for stroke patients,3,41,1,11,,07/01/2016,06/30/2019
+SC,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,1,45,0,2,,07/01/2017,06/30/2019
+SC,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,2,44,0,2,,07/01/2017,06/30/2019
+SC,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,3,48,0,1,,07/01/2017,06/30/2019
+SC,PSI_13_POST_SEPSIS,Blood stream infection after surgery,1,45,0,2,,07/01/2017,06/30/2019
+SC,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,46,0,4,,07/01/2017,06/30/2019
+SC,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,49,0,2,,07/01/2017,06/30/2019
+SC,PSI_3_ULCER,Pressure sores,4,48,1,1,,07/01/2017,06/30/2019
+SC,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,1,25,0,21,,07/01/2017,06/30/2019
+SC,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,1,53,0,0,,07/01/2017,06/30/2019
+SC,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,54,0,0,,07/01/2017,06/30/2019
+SC,PSI_90_SAFETY,Serious complications,6,48,0,Not Available,,07/01/2017,06/30/2019
+SC,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,1,50,0,1,,07/01/2017,06/30/2019
+SD,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,14,0,4,,04/01/2016,03/31/2019
+SD,MORT_30_AMI,Death rate for heart attack patients,0,7,0,35,,07/01/2016,06/30/2019
+SD,MORT_30_CABG,Death rate for CABG surgery patients,0,3,0,0,,07/01/2016,06/30/2019
+SD,MORT_30_COPD,Death rate for COPD patients,0,23,0,32,,07/01/2016,06/30/2019
+SD,MORT_30_HF,Death rate for heart failure patients,1,23,0,32,,07/01/2016,06/30/2019
+SD,MORT_30_PN,Death rate for pneumonia patients,0,44,0,12,,07/01/2016,06/30/2019
+SD,MORT_30_STK,Death rate for stroke patients,1,11,0,32,,07/01/2016,06/30/2019
+SD,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,16,0,0,,07/01/2017,06/30/2019
+SD,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,1,15,0,0,,07/01/2017,06/30/2019
+SD,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,0,15,1,0,,07/01/2017,06/30/2019
+SD,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,15,1,0,,07/01/2017,06/30/2019
+SD,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,13,0,3,,07/01/2017,06/30/2019
+SD,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,2,14,0,0,,07/01/2017,06/30/2019
+SD,PSI_3_ULCER,Pressure sores,1,16,0,2,,07/01/2017,06/30/2019
+SD,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,5,0,6,,07/01/2017,06/30/2019
+SD,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,19,0,0,,07/01/2017,06/30/2019
+SD,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,19,0,0,,07/01/2017,06/30/2019
+SD,PSI_90_SAFETY,Serious complications,0,19,0,Not Available,,07/01/2017,06/30/2019
+SD,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,16,0,0,,07/01/2017,06/30/2019
+TN,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,2,48,2,13,,04/01/2016,03/31/2019
+TN,MORT_30_AMI,Death rate for heart attack patients,0,51,0,49,,07/01/2016,06/30/2019
+TN,MORT_30_CABG,Death rate for CABG surgery patients,0,20,0,2,,07/01/2016,06/30/2019
+TN,MORT_30_COPD,Death rate for COPD patients,5,93,0,11,,07/01/2016,06/30/2019
+TN,MORT_30_HF,Death rate for heart failure patients,4,84,3,18,,07/01/2016,06/30/2019
+TN,MORT_30_PN,Death rate for pneumonia patients,14,83,4,9,,07/01/2016,06/30/2019
+TN,MORT_30_STK,Death rate for stroke patients,7,48,1,41,,07/01/2016,06/30/2019
+TN,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,2,64,0,9,,07/01/2017,06/30/2019
+TN,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,4,62,0,7,,07/01/2017,06/30/2019
+TN,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,2,73,2,2,,07/01/2017,06/30/2019
+TN,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,65,0,10,,07/01/2017,06/30/2019
+TN,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,61,0,17,,07/01/2017,06/30/2019
+TN,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,78,0,5,,07/01/2017,06/30/2019
+TN,PSI_3_ULCER,Pressure sores,7,77,4,2,,07/01/2017,06/30/2019
+TN,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,1,37,0,29,,07/01/2017,06/30/2019
+TN,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,2,87,0,1,,07/01/2017,06/30/2019
+TN,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,89,0,1,,07/01/2017,06/30/2019
+TN,PSI_90_SAFETY,Serious complications,5,85,0,Not Available,,07/01/2017,06/30/2019
+TN,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,76,0,3,,07/01/2017,06/30/2019
+TX,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,6,212,1,49,,04/01/2016,03/31/2019
+TX,MORT_30_AMI,Death rate for heart attack patients,1,185,1,121,,07/01/2016,06/30/2019
+TX,MORT_30_CABG,Death rate for CABG surgery patients,3,99,1,19,,07/01/2016,06/30/2019
+TX,MORT_30_COPD,Death rate for COPD patients,3,257,3,110,,07/01/2016,06/30/2019
+TX,MORT_30_HF,Death rate for heart failure patients,5,231,22,102,,07/01/2016,06/30/2019
+TX,MORT_30_PN,Death rate for pneumonia patients,9,270,25,73,,07/01/2016,06/30/2019
+TX,MORT_30_STK,Death rate for stroke patients,5,166,1,137,,07/01/2016,06/30/2019
+TX,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,238,0,23,,07/01/2017,06/30/2019
+TX,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,7,227,1,27,,07/01/2017,06/30/2019
+TX,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,6,249,4,18,,07/01/2017,06/30/2019
+TX,PSI_13_POST_SEPSIS,Blood stream infection after surgery,6,224,5,24,,07/01/2017,06/30/2019
+TX,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,227,0,42,,07/01/2017,06/30/2019
+TX,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,246,0,35,,07/01/2017,06/30/2019
+TX,PSI_3_ULCER,Pressure sores,10,280,5,14,,07/01/2017,06/30/2019
+TX,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,1,135,6,75,,07/01/2017,06/30/2019
+TX,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,1,299,0,9,,07/01/2017,06/30/2019
+TX,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,300,0,8,,07/01/2017,06/30/2019
+TX,PSI_90_SAFETY,Serious complications,11,289,9,Not Available,,07/01/2017,06/30/2019
+TX,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,2,256,0,19,,07/01/2017,06/30/2019
+UT,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,33,0,3,,04/01/2016,03/31/2019
+UT,MORT_30_AMI,Death rate for heart attack patients,0,14,1,18,,07/01/2016,06/30/2019
+UT,MORT_30_CABG,Death rate for CABG surgery patients,0,8,0,1,,07/01/2016,06/30/2019
+UT,MORT_30_COPD,Death rate for COPD patients,0,20,0,24,,07/01/2016,06/30/2019
+UT,MORT_30_HF,Death rate for heart failure patients,1,25,0,17,,07/01/2016,06/30/2019
+UT,MORT_30_PN,Death rate for pneumonia patients,0,39,1,5,,07/01/2016,06/30/2019
+UT,MORT_30_STK,Death rate for stroke patients,1,12,1,26,,07/01/2016,06/30/2019
+UT,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,31,0,1,,07/01/2017,06/30/2019
+UT,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,0,30,1,1,,07/01/2017,06/30/2019
+UT,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,0,30,1,1,,07/01/2017,06/30/2019
+UT,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,31,0,1,,07/01/2017,06/30/2019
+UT,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,24,0,6,,07/01/2017,06/30/2019
+UT,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,29,0,2,,07/01/2017,06/30/2019
+UT,PSI_3_ULCER,Pressure sores,0,31,0,0,,07/01/2017,06/30/2019
+UT,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,1,9,0,15,,07/01/2017,06/30/2019
+UT,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,31,0,1,,07/01/2017,06/30/2019
+UT,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,31,0,1,,07/01/2017,06/30/2019
+UT,PSI_90_SAFETY,Serious complications,0,30,2,Not Available,,07/01/2017,06/30/2019
+UT,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,31,0,1,,07/01/2017,06/30/2019
+VA,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,58,1,10,,04/01/2016,03/31/2019
+VA,MORT_30_AMI,Death rate for heart attack patients,1,61,0,20,,07/01/2016,06/30/2019
+VA,MORT_30_CABG,Death rate for CABG surgery patients,1,16,2,5,,07/01/2016,06/30/2019
+VA,MORT_30_COPD,Death rate for COPD patients,1,78,1,4,,07/01/2016,06/30/2019
+VA,MORT_30_HF,Death rate for heart failure patients,2,72,7,2,,07/01/2016,06/30/2019
+VA,MORT_30_PN,Death rate for pneumonia patients,6,73,3,3,,07/01/2016,06/30/2019
+VA,MORT_30_STK,Death rate for stroke patients,2,64,2,12,,07/01/2016,06/30/2019
+VA,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,2,63,0,3,,07/01/2017,06/30/2019
+VA,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,2,62,0,4,,07/01/2017,06/30/2019
+VA,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,4,63,1,3,,07/01/2017,06/30/2019
+VA,PSI_13_POST_SEPSIS,Blood stream infection after surgery,1,63,0,4,,07/01/2017,06/30/2019
+VA,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,65,0,5,,07/01/2017,06/30/2019
+VA,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,70,0,2,,07/01/2017,06/30/2019
+VA,PSI_3_ULCER,Pressure sores,3,65,5,1,,07/01/2017,06/30/2019
+VA,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,1,40,1,24,,07/01/2017,06/30/2019
+VA,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,73,0,1,,07/01/2017,06/30/2019
+VA,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,73,0,1,,07/01/2017,06/30/2019
+VA,PSI_90_SAFETY,Serious complications,3,68,3,Not Available,,07/01/2017,06/30/2019
+VA,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,1,67,0,3,,07/01/2017,06/30/2019
+VI,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,Not Available,Not Available,Not Available,Not Available,5,04/01/2016,03/31/2019
+VI,MORT_30_AMI,Death rate for heart attack patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+VI,MORT_30_CABG,Death rate for CABG surgery patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+VI,MORT_30_COPD,Death rate for COPD patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+VI,MORT_30_HF,Death rate for heart failure patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+VI,MORT_30_PN,Death rate for pneumonia patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+VI,MORT_30_STK,Death rate for stroke patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2016,06/30/2019
+VI,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+VI,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+VI,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+VI,PSI_13_POST_SEPSIS,Blood stream infection after surgery,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+VI,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+VI,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+VI,PSI_3_ULCER,Pressure sores,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+VI,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+VI,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+VI,PSI_8_POST_HIP,Broken hip from a fall after surgery,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+VI,PSI_90_SAFETY,Serious complications,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+VI,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2017,06/30/2019
+VT,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,10,0,1,,04/01/2016,03/31/2019
+VT,MORT_30_AMI,Death rate for heart attack patients,0,10,0,4,,07/01/2016,06/30/2019
+VT,MORT_30_CABG,Death rate for CABG surgery patients,0,1,0,0,,07/01/2016,06/30/2019
+VT,MORT_30_COPD,Death rate for COPD patients,0,14,0,1,,07/01/2016,06/30/2019
+VT,MORT_30_HF,Death rate for heart failure patients,1,13,0,1,,07/01/2016,06/30/2019
+VT,MORT_30_PN,Death rate for pneumonia patients,0,12,3,0,,07/01/2016,06/30/2019
+VT,MORT_30_STK,Death rate for stroke patients,1,11,0,2,,07/01/2016,06/30/2019
+VT,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,6,0,0,,07/01/2017,06/30/2019
+VT,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,0,6,0,0,,07/01/2017,06/30/2019
+VT,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,0,6,0,0,,07/01/2017,06/30/2019
+VT,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,6,0,0,,07/01/2017,06/30/2019
+VT,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,6,0,0,,07/01/2017,06/30/2019
+VT,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,6,0,0,,07/01/2017,06/30/2019
+VT,PSI_3_ULCER,Pressure sores,1,5,0,0,,07/01/2017,06/30/2019
+VT,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,1,0,5,,07/01/2017,06/30/2019
+VT,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,6,0,0,,07/01/2017,06/30/2019
+VT,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,6,0,0,,07/01/2017,06/30/2019
+VT,PSI_90_SAFETY,Serious complications,0,6,0,Not Available,,07/01/2017,06/30/2019
+VT,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,6,0,0,,07/01/2017,06/30/2019
+WA,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,2,51,2,8,,04/01/2016,03/31/2019
+WA,MORT_30_AMI,Death rate for heart attack patients,0,45,0,40,,07/01/2016,06/30/2019
+WA,MORT_30_CABG,Death rate for CABG surgery patients,0,16,0,1,,07/01/2016,06/30/2019
+WA,MORT_30_COPD,Death rate for COPD patients,6,67,0,15,,07/01/2016,06/30/2019
+WA,MORT_30_HF,Death rate for heart failure patients,8,55,2,25,,07/01/2016,06/30/2019
+WA,MORT_30_PN,Death rate for pneumonia patients,7,70,1,14,,07/01/2016,06/30/2019
+WA,MORT_30_STK,Death rate for stroke patients,2,55,0,27,,07/01/2016,06/30/2019
+WA,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,46,0,1,,07/01/2017,06/30/2019
+WA,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,1,44,1,1,,07/01/2017,06/30/2019
+WA,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,1,43,2,3,,07/01/2017,06/30/2019
+WA,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,46,0,1,,07/01/2017,06/30/2019
+WA,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,45,0,2,,07/01/2017,06/30/2019
+WA,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,1,45,0,4,,07/01/2017,06/30/2019
+WA,PSI_3_ULCER,Pressure sores,2,44,2,2,,07/01/2017,06/30/2019
+WA,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,2,36,1,5,,07/01/2017,06/30/2019
+WA,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,49,0,1,,07/01/2017,06/30/2019
+WA,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,48,0,2,,07/01/2017,06/30/2019
+WA,PSI_90_SAFETY,Serious complications,0,47,3,Not Available,,07/01/2017,06/30/2019
+WA,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,1,45,0,3,,07/01/2017,06/30/2019
+WI,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,84,1,19,,04/01/2016,03/31/2019
+WI,MORT_30_AMI,Death rate for heart attack patients,0,49,1,67,,07/01/2016,06/30/2019
+WI,MORT_30_CABG,Death rate for CABG surgery patients,0,26,0,5,,07/01/2016,06/30/2019
+WI,MORT_30_COPD,Death rate for COPD patients,2,96,0,26,,07/01/2016,06/30/2019
+WI,MORT_30_HF,Death rate for heart failure patients,6,93,4,22,,07/01/2016,06/30/2019
+WI,MORT_30_PN,Death rate for pneumonia patients,8,103,4,9,,07/01/2016,06/30/2019
+WI,MORT_30_STK,Death rate for stroke patients,2,63,0,54,,07/01/2016,06/30/2019
+WI,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,2,64,0,0,,07/01/2017,06/30/2019
+WI,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,3,61,2,0,,07/01/2017,06/30/2019
+WI,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,1,65,0,0,,07/01/2017,06/30/2019
+WI,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,66,0,0,,07/01/2017,06/30/2019
+WI,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,63,0,3,,07/01/2017,06/30/2019
+WI,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,2,64,0,0,,07/01/2017,06/30/2019
+WI,PSI_3_ULCER,Pressure sores,3,63,0,0,,07/01/2017,06/30/2019
+WI,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,29,0,34,,07/01/2017,06/30/2019
+WI,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,66,0,0,,07/01/2017,06/30/2019
+WI,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,66,0,0,,07/01/2017,06/30/2019
+WI,PSI_90_SAFETY,Serious complications,1,63,2,Not Available,,07/01/2017,06/30/2019
+WI,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,2,64,0,0,,07/01/2017,06/30/2019
+WV,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,25,0,8,,04/01/2016,03/31/2019
+WV,MORT_30_AMI,Death rate for heart attack patients,1,24,0,27,,07/01/2016,06/30/2019
+WV,MORT_30_CABG,Death rate for CABG surgery patients,0,6,0,1,,07/01/2016,06/30/2019
+WV,MORT_30_COPD,Death rate for COPD patients,2,42,1,8,,07/01/2016,06/30/2019
+WV,MORT_30_HF,Death rate for heart failure patients,1,35,1,16,,07/01/2016,06/30/2019
+WV,MORT_30_PN,Death rate for pneumonia patients,1,44,5,3,,07/01/2016,06/30/2019
+WV,MORT_30_STK,Death rate for stroke patients,2,17,0,27,,07/01/2016,06/30/2019
+WV,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,1,25,0,1,,07/01/2017,06/30/2019
+WV,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,3,23,0,1,,07/01/2017,06/30/2019
+WV,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,1,25,0,2,,07/01/2017,06/30/2019
+WV,PSI_13_POST_SEPSIS,Blood stream infection after surgery,1,25,0,0,,07/01/2017,06/30/2019
+WV,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,24,0,2,,07/01/2017,06/30/2019
+WV,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,26,0,1,,07/01/2017,06/30/2019
+WV,PSI_3_ULCER,Pressure sores,2,27,0,0,,07/01/2017,06/30/2019
+WV,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,14,1,9,,07/01/2017,06/30/2019
+WV,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,29,0,0,,07/01/2017,06/30/2019
+WV,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,29,0,0,,07/01/2017,06/30/2019
+WV,PSI_90_SAFETY,Serious complications,2,26,1,Not Available,,07/01/2017,06/30/2019
+WV,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,26,0,2,,07/01/2017,06/30/2019
+WY,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,15,0,5,,04/01/2016,03/31/2019
+WY,MORT_30_AMI,Death rate for heart attack patients,0,4,0,19,,07/01/2016,06/30/2019
+WY,MORT_30_CABG,Death rate for CABG surgery patients,0,2,0,0,,07/01/2016,06/30/2019
+WY,MORT_30_COPD,Death rate for COPD patients,0,20,0,8,,07/01/2016,06/30/2019
+WY,MORT_30_HF,Death rate for heart failure patients,2,18,0,8,,07/01/2016,06/30/2019
+WY,MORT_30_PN,Death rate for pneumonia patients,1,21,0,6,,07/01/2016,06/30/2019
+WY,MORT_30_STK,Death rate for stroke patients,0,7,0,15,,07/01/2016,06/30/2019
+WY,PSI_10_POST_KIDNEY,Postoperative Acute Kidney Injury Requiring Dialysis Rate,0,10,0,1,,07/01/2017,06/30/2019
+WY,PSI_11_POST_RESP,Postoperative Respiratory Failure Rate,1,9,0,1,,07/01/2017,06/30/2019
+WY,PSI_12_POSTOP_PULMEMB_DVT,Serious blood clots after surgery,0,11,0,0,,07/01/2017,06/30/2019
+WY,PSI_13_POST_SEPSIS,Blood stream infection after surgery,0,10,0,1,,07/01/2017,06/30/2019
+WY,PSI_14_POSTOP_DEHIS,A wound that splits open after surgery on the abdomen or pelvis,0,9,0,2,,07/01/2017,06/30/2019
+WY,PSI_15_ACC_LAC,Accidental cuts and tears from medical treatment,0,10,0,1,,07/01/2017,06/30/2019
+WY,PSI_3_ULCER,Pressure sores,0,10,0,1,,07/01/2017,06/30/2019
+WY,PSI_4_SURG_COMP,Deaths among Patients with Serious Treatable Complications after Surgery,0,2,0,7,,07/01/2017,06/30/2019
+WY,PSI_6_IAT_PTX,Collapsed lung due to medical treatment,0,11,0,0,,07/01/2017,06/30/2019
+WY,PSI_8_POST_HIP,Broken hip from a fall after surgery,0,11,0,0,,07/01/2017,06/30/2019
+WY,PSI_90_SAFETY,Serious complications,0,11,0,Not Available,,07/01/2017,06/30/2019
+WY,PSI_9_POST_HEM,Perioperative Hemorrhage or Hematoma Rate,0,11,0,0,,07/01/2017,06/30/2019

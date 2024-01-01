@@ -1,0 +1,961 @@
+﻿Data.Medicare.gov location affected,Downloadable CSV revised file affected,Data Last Updated,Data Last Updated Details
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-Facility/4jcv-atw7,Ambulatory Surgical Measures-Facility,28-Oct-20,"Data Refreshed; Retired ASC-1, ASC-2,ASC-3,ASC-4 and ASC-10"
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-National/wue8-3vwe ,Ambulatory Surgical Measures-National,28-Oct-20,"Data Refreshed; Retired ASC-1, ASC-2,ASC-3,ASC-4 and ASC-10"
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-State/axe7-s95e,Ambulatory Surgical Measures-State,28-Oct-20,"Data Refreshed; Retired ASC-1, ASC-2,ASC-3,ASC-4 and ASC-10"
+ https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-Hospital/ynj2-r877,Complications and Deaths- Hospital,28-Oct-20,No updates; Open/Closed List applied 
+https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-National/qqw3-t4ie,Complications and Deaths - National,28-Oct-20,No updates; Open/Closed List applied 
+https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-State/bs2r-24vh,Complications and Deaths- State,28-Oct-20,No updates; Open/Closed List applied 
+https://data.medicare.gov/Hospital-Compare/Comprehensive-Care-For-Joint-Replacement-Model-Pro/tqkv-mgxq,Comprehensive Care For Joint Replacement Model - Provider Data,28-Oct-20,No updates
+https://data.medicare.gov/Hospital-Compare/Data-Updates/bzsr-4my4,Data Updates,28-Oct-20,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Footnote-Crosswalk/y9us-9xdf,Footnote Crosswalk,28-Oct-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-Hospital/77hc-ibv8,Healthcare Associated Infections - Hospital,28-Oct-20,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-National/yd3s-jyhd,Healthcare Associated Infections - National,28-Oct-20,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-State/k2ze-bqvw,Healthcare Associated Infections - State,28-Oct-20,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Acquired-Condition-Reduction-Program/yq43-i98g,Hospital-Acquired Condition Reduction Program,28-Oct-20,No updates
+https://data.medicare.gov/Hospital-Compare/Hospital-ACS-Measures/akfs-5dgr,Hospital ACS Measures,28-Oct-20,Data Refreshed 
+https://data.medicare.gov/Hospital-Compare/Hospital-Compare-CASPER-ASPEN-Contacts/su86-ag6b,Hospital Compare- Casper/ASPEN Contacts,28-Oct-20,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-General-Information/xubh-q36u,Hospital General Information,28-Oct-20,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Readmissions-Reduction-Program/9n3s-kdb3,Hospital Readmissions Reduction Program,28-Oct-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Clinical-Care/pudb-wetr,Hospital Value-Based Purchasing (HVBP)- Clinical Care Outcomes Scores,28-Oct-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Efficiency-Sc/su9h-3pvj,Hospital Value-Based Purchasing (HVBP)- Efficiency Scores,28-Oct-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Patient-Exper/avtz-f2ge,Hospital Value-Based Purchasing (HVBP)- Patient Experience of Care Domain Scores (HCAHPS),28-Oct-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Safety/dgmq-aat3,Hospital Value-Based Purchasing (HVBP)- Safety,28-Oct-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Total-Perform/ypbt-wvdk,Hospital Value-Based Purchasing (HVBP)- Total Performance Score,28-Oct-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/q9vs-r7wp,Inpatient Psychiatric Facility Quality Measure Data – by Facility,28-Oct-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/dc76-gh7x,Inpatient Psychiatric Facility Quality Measure Data – by State,28-Oct-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/s5xg-sys6,Inpatient Psychiatric Facility Quality Measure Data – National ,28-Oct-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Measure-Dates/4j6d-yzce,Measure Dates,28-Oct-20,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-by-Claim/nrth-mfg3,Medicare Hospital Spending by Claim,28-Oct-20,No updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-Hospital/rrqw-56er,Medicare Spending Per Beneficiary – Hospital,28-Oct-20,No updates
+https://data.medicare.gov/Hospital-Compare/Medicare-hospital-spending-per-patient-Medicare-Sp/5hk7-b79m,Medicare Spending Per Beneficiary – Hospital Additional Decimal Places,28-Oct-20,No updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-National/3n5g-6b7f,Medicare Spending Per Beneficiary– National,28-Oct-20,No updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-State/rs6n-9qwg,Medicare Spending Per Beneficiary – State,28-Oct-20,No updates
+https://data.medicare.gov/Hospital-Compare/Oncology-Care-Measures-PPS-Exempt-Cancer-Hospital/g3fg-3myg,Oncology Care Measures-PPS- Excempt Cancer Hospital,28-Oct-20,No updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-CAHPS-Survey-Foo/e6hj-umam,Outpatient and Ambulatory Surgery CAHPS Survey Footnotes,28-Oct-20,No updates  
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-CAHPS-Survey-mea/xzuw-fups,Outpatient and Ambulatory Surgery CAHPS Survey measure label crosswalk,28-Oct-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/48nr-hqxx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers – Facility ,28-Oct-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/tf3h-mrrs,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - National,28-Oct-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/x663-bwbj,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - State,28-Oct-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/yizn-abxn,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - Facility,28-Oct-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/s5pj-hua3,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - National,28-Oct-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/6pfg-whmx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - State,28-Oct-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-Hospital/wkfw-kthe,Outpatient Imaging Efficiency - Hospital,28-Oct-20,No updates; Open/Closed List applied 
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-National/di9i-zzrc,Outpatient Imaging Efficiency - National,28-Oct-20,No updates; Open/Closed List applied 
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-State/if5v-4x48,Outpatient Imaging Efficiency - State,28-Oct-20,No updates; Open/Closed List applied 
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-Hospital/dgck-syfz,Patient survey (HCAHPS) - Hospital,28-Oct-20,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-National/nsaf-d4nh/data,Patient survey (HCAHPS)  - National.csv,28-Oct-20,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-State/499t-8gqf/data,Patient survey (HCAHPS) - State.csv,28-Oct-20,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/iy27-wz37,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - Hospital ,28-Oct-20,Data Refreshed 
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/9g7e-btyt,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - National,28-Oct-20,Data Refreshed 
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/qatj-nmws,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - State,28-Oct-20,Data Refreshed 
+https://data.medicare.gov/Hospital-Compare/Safety-and-Health-Care-Associated-Measures-PPS-Exe/k653-4ka8,Safety and Health-Care Associated Measures – PPS-Exempt Cancer Hospital,28-Oct-20,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Payment-and-value-of-care-Hospital/c7us-v4mf,Payment and Value of Care - Hospital,28-Oct-20,No updates
+https://data.medicare.gov/Hospital-Compare/Payment-National/ygty-mm5a,Payment - National,28-Oct-20,No updates
+https://data.medicare.gov/Hospital-Compare/Payment-State/98ix-2iqy,Payment - State,28-Oct-20,No updates
+https://data.medicare.gov/Hospital-Compare/Prospective-Payment-System-PPS-Exempt-Cancer-Hospi/p7bc-fjpi,Prospective Payment System (PPS)-Exempt Cancer Hospital Quality Reporting (PCHQR) ,28-Oct-20,No updates
+https://data.medicare.gov/Hospital-Compare/PSI-90-and-Component-Measures-Six-Digit-Precision/muwa-iene,PSI 90 and Component Measures - Six-Digit Precision,28-Oct-20,No updates
+https://data.medicare.gov/Hospital-Compare/Outcome-Measures-PPS-Exempt-Cancer-Hospital-Hospit/6qip-a4gp,Outcome Measures – PPS-Exempt Cancer Hospital - Hospital,28-Oct-20,No updates
+https://data.medicare.gov/Hospital-Compare/Outcome-Measures-PPS-Exempt-Cancer-Hospital-Nation/guec-4v2s,Outcome Measures – PPS-Exempt Cancer Hospital - National,28-Oct-20,No updates
+https://data.medicare.gov/Hospital-Compare/Structural-Measures-Hospital/4hje-vua3,Structural Measures - Hospital,28-Oct-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Table-2-FY2016-Distribution-of-Net-Change-in-Base-/xrgf-x36b,Table 1: FY2018 Net Change in Base Operating DRG Payment Amount,28-Oct-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Table-1-FY2016-Net-Change-in-Base-Operating-DRG-Pa/5gv4-jwyv,Table 2: FY2018 Distribution of Net Change in Base Operating DRG Payment Amount,28-Oct-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Table-3-FY2016-Percent-Change-in-Medicare-Payments/u625-zae7,Table 3: FY2018 Percent Change in Medicare Payments,28-Oct-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Table-4-FY2016-Value-Based-Incentive-Payment-Amoun/vtqa-m4zn,Table 4: FY2018 Value-Based Incentive Payment Amount,28-Oct-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-Hospital/yv7e-xc69,Timely and effective care - Hospital,28-Oct-20,"Data Refreshed; No updates EDV -1, OP-22, OP-29, OP-30, OP-31, OP-33"
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-National/isrn-hqyy,Timely and Effective Care - National,28-Oct-20,"Data Refreshed; No updates EDV -1, OP-22, OP-29, OP-30, OP-31, OP-33"
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-State/apyc-v239,Timely and Effective Care - State,28-Oct-20,"Data Refreshed; No updates EDV -1, OP-22, OP-29, OP-30, OP-31, OP-33"
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-Hospital/632h-zaca,Unplanned Hospital Visits - Hospital,28-Oct-20,No updates; Open/Closed List applied 
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-National/cvcs-xecj,Unplanned Hospital Visits - National ,28-Oct-20,No updates; Open/Closed List applied 
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-State/4gkm-5ypv,Unplanned Hospital Visits - State,28-Oct-20,No updates; Open/Closed List applied 
+https://data.medicare.gov/Hospital-Compare/Value-of-care-National/gbq5-7hzr,Value of Care- National,28-Oct-20,No updates; Open/Closed List applied 
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Behavioral-Health-D/6qxe-iqz8,Veterans Health Administration Behavioral Health Data,28-Oct-20,No updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Measure-Dates/4aav-bsmy,Veterans Health Administration Measure Dates,28-Oct-20,No updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Patient-Safety-Indi/esr2-9zyn,Veterans Health Administration Patient Safety Indicators Data,28-Oct-20,No updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Provider-Level-Data/uyx4-5s7f,Veterans Health Administration Provider Level Data,28-Oct-20,No updates
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-Facility/4jcv-atw7,Ambulatory Surgical Measures-Facility,22-Jul-20,Dataset removed; included in the Unplanned Hospital Visits data sets
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-National/wue8-3vwe ,Ambulatory Surgical Measures-National,22-Jul-20,Data Refreshed; No updates IMM-3
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-State/axe7-s95e,Ambulatory Surgical Measures-State,22-Jul-20,No updates
+ https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-Hospital/ynj2-r877,Complications and Deaths- Hospital,22-Jul-20,No updates
+https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-National/qqw3-t4ie,Complications and Deaths - National,22-Jul-20,No updates
+https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-State/bs2r-24vh,Complications and Deaths- State,22-Jul-20,Open/Closed List applied
+https://data.medicare.gov/Hospital-Compare/Comprehensive-Care-For-Joint-Replacement-Model-Pro/tqkv-mgxq,Comprehensive Care For Joint Replacement Model - Provider Data,22-Jul-20,Open/Closed List applied
+https://data.medicare.gov/Hospital-Compare/Data-Updates/bzsr-4my4,Data Updates,22-Jul-20,Open/Closed List applied
+https://data.medicare.gov/Hospital-Compare/Footnote-Crosswalk/y9us-9xdf,Footnote Crosswalk,22-Jul-20,No updates
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-Hospital/77hc-ibv8,Healthcare Associated Infections - Hospital,22-Jul-20,Data Updated 
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-National/yd3s-jyhd,Healthcare Associated Infections - National,22-Jul-20,No Updates 
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-State/k2ze-bqvw,Healthcare Associated Infections - State,22-Jul-20,Data Refreshed; DoD now reporting HAI- 1 and HAI-2
+https://data.medicare.gov/Hospital-Compare/Hospital-Acquired-Condition-Reduction-Program/yq43-i98g,Hospital-Acquired Condition Reduction Program,22-Jul-20,Data Refreshed; DoD now reporting HAI- 1 and HAI-2
+https://data.medicare.gov/Hospital-Compare/Hospital-ACS-Measures/akfs-5dgr,Hospital ACS Measures,22-Jul-20,Data Refreshed; DoD now reporting HAI- 1 and HAI-2
+https://data.medicare.gov/Hospital-Compare/Hospital-Compare-CASPER-ASPEN-Contacts/su86-ag6b,Hospital Compare- Casper/ASPEN Contacts,22-Jul-20,No updates
+https://data.medicare.gov/Hospital-Compare/Hospital-General-Information/xubh-q36u,Hospital General Information,22-Jul-20,No updates
+https://data.medicare.gov/Hospital-Compare/Hospital-Readmissions-Reduction-Program/9n3s-kdb3,Hospital Readmissions Reduction Program,22-Jul-20,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Clinical-Care/pudb-wetr,Hospital Value-Based Purchasing (HVBP)- Clinical Care Outcomes Scores,22-Jul-20,Data Updated
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Efficiency-Sc/su9h-3pvj,Hospital Value-Based Purchasing (HVBP)- Efficiency Scores,22-Jul-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Patient-Exper/avtz-f2ge,Hospital Value-Based Purchasing (HVBP)- Patient Experience of Care Domain Scores (HCAHPS),22-Jul-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Safety/dgmq-aat3,Hospital Value-Based Purchasing (HVBP)- Safety,22-Jul-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Total-Perform/ypbt-wvdk,Hospital Value-Based Purchasing (HVBP)- Total Performance Score,22-Jul-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/q9vs-r7wp,Inpatient Psychiatric Facility Quality Measure Data – by Facility,22-Jul-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/dc76-gh7x,Inpatient Psychiatric Facility Quality Measure Data – by State,22-Jul-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/s5xg-sys6,Inpatient Psychiatric Facility Quality Measure Data – National ,22-Jul-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Measure-Dates/4j6d-yzce,Measure Dates,22-Jul-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-by-Claim/nrth-mfg3,Medicare Hospital Spending by Claim,22-Jul-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-Hospital/rrqw-56er,Medicare Spending Per Beneficiary – Hospital,22-Jul-20,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Medicare-hospital-spending-per-patient-Medicare-Sp/5hk7-b79m,Medicare Spending Per Beneficiary – Hospital Additional Decimal Places,22-Jul-20,Open/Closed List applied
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-National/3n5g-6b7f,Medicare Spending Per Beneficiary– National,22-Jul-20,Open/Closed List applied
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-State/rs6n-9qwg,Medicare Spending Per Beneficiary – State,22-Jul-20,Open/Closed List applied
+https://data.medicare.gov/Hospital-Compare/Oncology-Care-Measures-PPS-Exempt-Cancer-Hospital/g3fg-3myg,Oncology Care Measures-PPS- Excempt Cancer Hospital,22-Jul-20,Open/Closed List applied
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-CAHPS-Survey-Foo/e6hj-umam,Outpatient and Ambulatory Surgery CAHPS Survey Footnotes,22-Jul-20,Open/Closed List applied
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-CAHPS-Survey-mea/xzuw-fups,Outpatient and Ambulatory Surgery CAHPS Survey measure label crosswalk,22-Jul-20,No updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/48nr-hqxx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers – Facility ,22-Jul-20,Data Refreshed 
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/tf3h-mrrs,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - National,22-Jul-20,Data Refreshed 
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/x663-bwbj,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - State,22-Jul-20,Data Refreshed 
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/yizn-abxn,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - Facility,22-Jul-20,Data Refreshed 
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/s5pj-hua3,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - National,22-Jul-20,Data Refreshed 
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/6pfg-whmx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - State,22-Jul-20,Data Refreshed 
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-Hospital/wkfw-kthe,Outpatient Imaging Efficiency - Hospital,22-Jul-20,Data Refreshed 
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-National/di9i-zzrc,Outpatient Imaging Efficiency - National,22-Jul-20,Open/Closed List applied 
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-State/if5v-4x48,Outpatient Imaging Efficiency - State,22-Jul-20,Open/Closed List applied 
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-Hospital/dgck-syfz,Patient survey (HCAHPS) - Hospital,22-Jul-20,Open/Closed List applied 
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-National/nsaf-d4nh/data,Patient survey (HCAHPS)  - National.csv,22-Jul-20,Data Refreshed 
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-State/499t-8gqf/data,Patient survey (HCAHPS) - State.csv,22-Jul-20,Data Refreshed 
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/iy27-wz37,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - Hospital ,22-Jul-20,Data Refreshed 
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/9g7e-btyt,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - National,22-Jul-20,Data Refreshed 
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/qatj-nmws,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - State,22-Jul-20,Data Refreshed 
+https://data.medicare.gov/Hospital-Compare/Safety-and-Health-Care-Associated-Measures-PPS-Exe/k653-4ka8,Safety and Health-Care Associated Measures – PPS-Exempt Cancer Hospital,22-Jul-20,Data Refreshed 
+https://data.medicare.gov/Hospital-Compare/Payment-and-value-of-care-Hospital/c7us-v4mf,Payment and Value of Care - Hospital,22-Jul-20,Data Updated
+https://data.medicare.gov/Hospital-Compare/Payment-National/ygty-mm5a,Payment - National,22-Jul-20,Open/Closed List applied
+https://data.medicare.gov/Hospital-Compare/Payment-State/98ix-2iqy,Payment - State,22-Jul-20,Open/Closed List applied
+https://data.medicare.gov/Hospital-Compare/Prospective-Payment-System-PPS-Exempt-Cancer-Hospi/p7bc-fjpi,Prospective Payment System (PPS)-Exempt Cancer Hospital Quality Reporting (PCHQR) ,22-Jul-20,Open/Closed List applied
+https://data.medicare.gov/Hospital-Compare/PSI-90-and-Component-Measures-Six-Digit-Precision/muwa-iene,PSI 90 and Component Measures - Six-Digit Precision,22-Jul-20,Data Refreshed; No updates to PCH-25
+https://data.medicare.gov/Hospital-Compare/Outcome-Measures-PPS-Exempt-Cancer-Hospital-Hospit/6qip-a4gp,Outcome Measures – PPS-Exempt Cancer Hospital - Hospital,22-Jul-20,Open/Closed List applied 
+https://data.medicare.gov/Hospital-Compare/Outcome-Measures-PPS-Exempt-Cancer-Hospital-Nation/guec-4v2s,Outcome Measures – PPS-Exempt Cancer Hospital - National,22-Jul-20,Data Updated 
+https://data.medicare.gov/Hospital-Compare/Structural-Measures-Hospital/4hje-vua3,Structural Measures - Hospital,22-Jul-20,Data Updated 
+https://data.medicare.gov/Hospital-Compare/Table-2-FY2016-Distribution-of-Net-Change-in-Base-/xrgf-x36b,Table 1: FY2018 Net Change in Base Operating DRG Payment Amount,22-Jul-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Table-1-FY2016-Net-Change-in-Base-Operating-DRG-Pa/5gv4-jwyv,Table 2: FY2018 Distribution of Net Change in Base Operating DRG Payment Amount,22-Jul-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Table-3-FY2016-Percent-Change-in-Medicare-Payments/u625-zae7,Table 3: FY2018 Percent Change in Medicare Payments,22-Jul-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Table-4-FY2016-Value-Based-Incentive-Payment-Amoun/vtqa-m4zn,Table 4: FY2018 Value-Based Incentive Payment Amount,22-Jul-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-Hospital/yv7e-xc69,Timely and effective care - Hospital,22-Jul-20,No updates 
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-National/isrn-hqyy,Timely and Effective Care - National,22-Jul-20,"Data Refreshed; No updates EDV -1, IMM-3, OP-31, OP-33, OP-22, OP-29, OP-30; Retired OP-5"
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-State/apyc-v239,Timely and Effective Care - State,22-Jul-20,"Data Refreshed; No updates EDV -1, IMM-3, OP-31, OP-33, OP-22, OP-29, OP-30; Retired OP-5"
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-Hospital/632h-zaca,Unplanned Hospital Visits - Hospital,22-Jul-20,"Data Refreshed; No updates EDV -1, IMM-3, OP-31, OP-33, OP-22, OP-29, OP-30; Retired OP-5"
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-National/cvcs-xecj,Unplanned Hospital Visits - National ,22-Jul-20,Open/Closed List applied 
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-State/4gkm-5ypv,Unplanned Hospital Visits - State,22-Jul-20,Open/Closed List applied 
+https://data.medicare.gov/Hospital-Compare/Value-of-care-National/gbq5-7hzr,Value of Care- National,22-Jul-20,Open/Closed List applied 
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Behavioral-Health-D/6qxe-iqz8,Veterans Health Administration Behavioral Health Data,22-Jul-20,Open/Closed List applied 
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Measure-Dates/4aav-bsmy,Veterans Health Administration Measure Dates,22-Jul-20,No updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Patient-Safety-Indi/esr2-9zyn,Veterans Health Administration Patient Safety Indicators Data,22-Jul-20,Data Refreshed 
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Provider-Level-Data/uyx4-5s7f,Veterans Health Administration Provider Level Data,22-Jul-20,No updates 
+,Veterans Health Administration Readmissions and Deaths COPD Data,22-Jul-20,No Updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Timely-and-Effectiv/ptds-r8im,Veterans Health Administration Timely and Effective Care Data,22-Jul-20,No Updates
+https://data.cms.gov/provider-data/dataset/4jcv-atw7,Ambulatory Surgical Measures-Facility,22-Apr-20,Data Refreshed; No updates IMM-3; Retired OP-5
+https://data.cms.gov/provider-data/dataset/wue8-3vwe,Ambulatory Surgical Measures-National,22-Apr-20,
+https://data.cms.gov/provider-data/dataset/axe7-s95e,Ambulatory Surgical Measures-State,22-Apr-20,ASC-12 refreshed; remaning ASC measures were not refreshed
+https://data.cms.gov/provider-data/dataset/ynj2-r877,Complications and Deaths- Hospital,22-Apr-20,ASC-12 refreshed; remaning ASC measures were not refreshed
+https://data.cms.gov/provider-data/dataset/qqw3-t4ie,Complications and Deaths - National,22-Apr-20,ASC-12 refreshed; remaning ASC measures were not refreshed
+https://.data.cms.gov/provider-data/dataset/bs2r-24vh,Complications and Deaths- State,22-Apr-20,Retired PCH-3; dataset removed
+https://data.cms.gov/provider-data/dataset/tqkv-mgxq,Comprehensive Care For Joint Replacement Model - Provider Data,22-Apr-20,"Retired the CEBP-1, CEBP-2, CEBP-3, CEBP-4, CEBP-5, and CEBP-6; dataset removed"
+https://data.cms.gov/provider-data/dataset/bzsr-4my4,Data Updates,22-Apr-20,"Retired the CEBP-1, CEBP-2, CEBP-3, CEBP-4, CEBP-5, and CEBP-6; dataset removed"
+https://data.cms.gov/provider-data/dataset/y9us-9xdf,Footnote Crosswalk,22-Apr-20,"Retired the CEBP-1, CEBP-2, CEBP-3, CEBP-4, CEBP-5, and CEBP-6; dataset removed"
+https://data.cms.gov/provider-data/dataset/77hc-ibv8,Healthcare Associated Infections - Hospital,22-Apr-20,"Retired the CEBP-1, CEBP-2, CEBP-3, CEBP-4, CEBP-5, and CEBP-6; dataset removed"
+https://data.cms.gov/provider-data/dataset/yd3s-jyhd,Healthcare Associated Infections - National,22-Apr-20,"Retired the CEBP-1, CEBP-2, CEBP-3, CEBP-4, CEBP-5, and CEBP-6; dataset removed"
+https://data.cms.gov/provider-data/dataset/k2ze-bqvw,Healthcare Associated Infections - State,22-Apr-20,Open/Close list applied
+https://data.cms.gov/provider-data/dataset/yq43-i98g,Hospital-Acquired Condition Reduction Program,22-Apr-20,Open/Close list applied
+https://data.cms.gov/provider-data/dataset/akfs-5dgr,Hospital ACS Measures,22-Apr-20,Open/Close list applied
+https://data.cms.gov/provider-data/dataset/su86-ag6b,Hospital Compare- Casper/ASPEN Contacts,22-Apr-20,No updates
+https://data.cms.gov/provider-data/dataset/xubh-q36u,Hospital General Information,22-Apr-20,Updated
+https://data.cms.gov/provider-data/dataset/9n3s-kdb3,Hospital Readmissions Reduction Program,22-Apr-20,DoD has been included in the Timely and Effective Care datasets; dataset removed
+https://data.cms.gov/provider-data/dataset/pudb-wetr,Hospital Value-Based Purchasing (HVBP)- Clinical Care Outcomes Scores,22-Apr-20,DoD has been included in the HCAHPS datasets; dataset removed
+https://data.cms.gov/provider-data/dataset/su9h-3pvj,Hospital Value-Based Purchasing (HVBP)- Efficiency Scores,22-Apr-20,No Updates
+https://data.cms.gov/provider-data/dataset/avtz-f2ge,Hospital Value-Based Purchasing (HVBP)- Patient Experience of Care Domain Scores (HCAHPS),22-Apr-20,Data Refreshed
+https://data.cms.gov/provider-data/dataset/dgmq-aat3,Hospital Value-Based Purchasing (HVBP)- Safety,22-Apr-20,Data Refreshed
+https://data.cms.gov/provider-data/dataset/ypbt-wvdk,Hospital Value-Based Purchasing (HVBP)- Total Performance Score,22-Apr-20,Data Refreshed
+https://data.cms.gov/provider-data/dataset/q9vs-r7wp,Inpatient Psychiatric Facility Quality Measure Data – by Facility,22-Apr-20,Data Refreshed
+https://data.cms.gov/provider-data/dataset/dc76-gh7x,Inpatient Psychiatric Facility Quality Measure Data – by State,22-Apr-20,Data Refreshed
+https://data.cms.gov/provider-data/dataset/s5xg-sys6,Inpatient Psychiatric Facility Quality Measure Data – National ,22-Apr-20,Data Refreshed
+https://data.cms.gov/provider-data/dataset/4j6d-yzce,Measure Dates,22-Apr-20,Data Refreshed
+https://data.cms.gov/provider-data/dataset/nrth-mfg3,Medicare Hospital Spending by Claim,22-Apr-20,Data Refreshed
+https://data.cms.gov/provider-data/dataset/rrqw-56er,Medicare Spending Per Beneficiary – Hospital,22-Apr-20,Data Refreshed; data set renamed in DDBs
+https://data.cms.gov/provider-data/dataset/5hk7-b79m,Medicare Spending Per Beneficiary – Hospital Additional Decimal Places,22-Apr-20,Data Refreshed
+https://data.cms.gov/provider-data/dataset/3n5g-6b7f,Medicare Spending Per Beneficiary– National,22-Apr-20,Data Refreshed
+https://data.cms.gov/provider-data/dataset/rs6n-9qwg,Medicare Spending Per Beneficiary – State,22-Apr-20,Data Refreshed
+https://data.cms.gov/provider-data/dataset/g3fg-3myg,Oncology Care Measures-PPS- Excempt Cancer Hospital,22-Apr-20,Data Refreshed
+https://data.cms.gov/provider-data/dataset/e6hj-umam,Outpatient and Ambulatory Surgery CAHPS Survey Footnotes,22-Apr-20,Data Refreshed
+https://data.cms.gov/provider-data/dataset/48nr-hqxx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers – Facility ,22-Apr-20,Data Refreshed
+https://data.cms.gov/provider-data/dataset/tf3h-mrrs,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - National,22-Apr-20,Data Refreshed
+https://data.cms.gov/provider-data/dataset/x663-bwbj,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - State,22-Apr-20,Data refreshed
+https://data.cms.gov/provider-data/dataset/yizn-abxn,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - Facility,22-Apr-20,Data refreshed
+https://data.cms.gov/provider-data/dataset/s5pj-hua3,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - National,22-Apr-20,Data refreshed
+https://data.cms.gov/provider-data/dataset/6pfg-whmx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - State,22-Apr-20,Data refreshed
+https://data.cms.gov/provider-data/dataset/wkfw-kthe,Outpatient Imaging Efficiency - Hospital,22-Apr-20,Data refreshed
+https://data.cms.gov/provider-data/dataset/di9i-zzrc,Outpatient Imaging Efficiency - National,22-Apr-20,Data refreshed
+https://data.cms.gov/provider-data/dataset/if5v-4x48,Outpatient Imaging Efficiency - State,22-Apr-20,No Updates
+https://data.cms.gov/provider-data/dataset/dgck-syfz,Patient survey (HCAHPS) - Hospital,22-Apr-20,Data refreshed 
+https://data.cms.gov/provider-data/dataset/99ue-w85f,Patient survey (HCAHPS)  - National.csv,22-Apr-20,Data refreshed 
+https://data.cms.gov/provider-data/dataset/84jm-wiui,Patient survey (HCAHPS) - State.csv,22-Apr-20,Data refreshed
+https://data.cms.gov/provider-data/dataset/iy27-wz37,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - Hospital ,22-Apr-20,Data refreshed
+https://data.cms.gov/provider-data/dataset/9g7e-btyt,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - National,22-Apr-20,Data refreshed
+https://data.cms.gov/provider-data/dataset/qatj-nmws,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - State,22-Apr-20,Data refreshed
+https://data.cms.gov/provider-data/dataset/k653-4ka8,Safety and Health-Care Associated Measures – PPS-Exempt Cancer Hospital,22-Apr-20,Data refreshed
+https://data.cms.gov/provider-data/dataset/c7us-v4mf,Payment and Value of Care - Hospital,22-Apr-20,Data refreshed
+https://data.cms.gov/provider-data/dataset/ygty-mm5a,Payment - National,22-Apr-20,Open/Close list applied
+https://data.cms.gov/provider-data/dataset/98ix-2iqy,Payment - State,22-Apr-20,Open/Close list applied
+https://data.cms.gov/provider-data/dataset/p7bc-fjpi,Prospective Payment System (PPS)-Exempt Cancer Hospital Quality Reporting (PCHQR) ,22-Apr-20,Open/Close list applied
+https://data.cms.gov/provider-data/dataset/muwa-iene,PSI 90 and Component Measures - Six-Digit Precision,22-Apr-20,Retired OP-26; dataset removed
+https://data.cms.gov/provider-data/dataset/g3fg-3myg,Outcome Measures – PPS-Exempt Cancer Hospital - Hospital,22-Apr-20,Data refreshed
+https://data.cms.gov/provider-data/dataset/jfnd-nl7s,Outcome Measures – PPS-Exempt Cancer Hospital - National,22-Apr-20,Data refreshed
+https://data.cms.gov/provider-data/dataset/4hje-vua3,Structural Measures - Hospital,22-Apr-20,Data refreshed
+https://data.cms.gov/provider-data/dataset/5gv4-jwyv,Table 1: FY2018 Net Change in Base Operating DRG Payment Amount,22-Apr-20,Data refreshed
+https://data.cms.gov/provider-data/dataset/xrgf-x36b,Table 2: FY2018 Distribution of Net Change in Base Operating DRG Payment Amount,22-Apr-20,Data refreshed
+https://data.cms.gov/provider-data/dataset/u625-zae7,Table 3: FY2018 Percent Change in Medicare Payments,22-Apr-20,Data refreshed
+https://data.cms.gov/provider-data/dataset/vtqa-m4zn,Table 4: FY2018 Value-Based Incentive Payment Amount,22-Apr-20,Data refreshed except PCH-28
+https://data.cms.gov/provider-data/dataset/yv7e-xc69,Timely and effective care - Hospital,22-Apr-20,Open/Close list applied
+https://data.cms.gov/provider-data/dataset/isrn-hqyy,Timely and Effective Care - National,22-Apr-20,Open/Close list applied
+https://data.cms.gov/provider-data/dataset/apyc-v239,Timely and Effective Care - State,22-Apr-20,Open/Close list applied
+https://data.cms.gov/provider-data/dataset/632h-zaca,Unplanned Hospital Visits - Hospital,22-Apr-20,Data refreshed
+https://data.cms.gov/provider-data/dataset/cvcs-xecj,Unplanned Hospital Visits - National ,22-Apr-20,Open/Close list applied
+https://data.cms.gov/provider-data/dataset/4gkm-5ypv,Unplanned Hospital Visits - State,22-Apr-20,New PCH dataset; PCH-30 and PCH-31
+https://data.cms.gov/provider-data/dataset/gbq5-7hzr,Value of Care- National,22-Apr-20,New PCH dataset; PCH-30 and PCH-31
+https://data.cms.gov/provider-data/dataset/6qxe-iqz8,Veterans Health Administration Behavioral Health Data,22-Apr-20,"Open/Close list applied; retired SM-5, SM-6, and OP-25"
+https://data.cms.gov/provider-data/dataset/4aav-bsmy,Veterans Health Administration Measure Dates,22-Apr-20,Data refreshed
+https://data.cms.gov/provider-data/dataset/esr2-9zyn,Veterans Health Administration Patient Safety Indicators Data,22-Apr-20,Data refreshed
+https://data.cms.gov/provider-data/dataset/uyx4-5s7f,Veterans Health Administration Provider Level Data,22-Apr-20,Data refreshed
+https://data.cms.gov/provider-data/dataset/94w6-h55e,Veterans Health Administration Readmissions and Deaths COPD Data,22-Apr-20,Data refreshed
+https://data.cms.gov/provider-data/dataset/ptds-r8im,Veterans Health Administration Timely and Effective Care Data,22-Apr-20,"Data refreshed; no updates to IMM-3; retired ED-1b, VTE-6, IMM-2, OP-25, and OP-26; new measures Severe Sepsis and Septic Shock 3-hr and 6-hr bundle data - only available in DDBs"
+Archived datasets from Hospital Compare site,,,"Data refreshed; no updates to IMM-3; retired ED-1b, VTE-6, IMM-2, OP-25, and OP-26; new measures Severe Sepsis and Septic Shock 3-hr and 6-hr bundle data - only available in DDBs"
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-Facility/4jcv-atw7,Ambulatory Surgical Measures-Facility,29-Jan-20,"Data refreshed; no updates to IMM-3; retired ED-1b, VTE-6, IMM-2, OP-25, and OP-26; new measures Severe Sepsis and Septic Shock 3-hr and 6-hr bundle data - only available in DDBs"
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-National/wue8-3vwe ,Ambulatory Surgical Measures-National,29-Jan-20,"Open/Close list applied; refreshed OP-32; new measures OP-35-ADM, OP-35-ED, and OP-36"
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-State/axe7-s95e,Ambulatory Surgical Measures-State,29-Jan-20,"Open/Close list applied; refreshed OP-32; new measures OP-35-ADM, OP-35-ED, and OP-36"
+,Cancer Treatment Measures- PPS-Excempt Cancer Hospital,29-Jan-20,"Open/Close list applied; refreshed OP-32; new measures OP-35-ADM, OP-35-ED, and OP-36"
+,Clinical Episode-Based Payment - 6 Decimals,29-Jan-20,No updates
+,Clinical Episode-Based Payment - by Facility,29-Jan-20,"Data refreshed; retired SUB-1, TOB-1; new measure SUB-3"
+,Clinical Episode-Based Payment - by State,29-Jan-20,Data refreshed
+,Clinical Episode-Based Payment - National,29-Jan-20,No updates
+,Clinical Episode-Based Payment - Breakdown by Claim Type,29-Jan-20,No updates
+ https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-Hospital/ynj2-r877,Complications and Deaths- Hospital,29-Jan-20,No updates
+https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-National/qqw3-t4ie,Complications and Deaths - National,29-Jan-20,"Data refreshed except IMM-3; retired ED-1b, IMM-2, and VTE-6"
+https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-State/bs2r-24vh,Complications and Deaths- State,29-Jan-20,Data refreshed; new measures ASC-13 and ASC-14; ASC-12 not refreshed; retired ASC-08
+https://data.medicare.gov/Hospital-Compare/Comprehensive-Care-For-Joint-Replacement-Model-Pro/tqkv-mgxq,Comprehensive Care For Joint Replacement Model - Provider Data,29-Jan-20,Data refreshed; new measures ASC-13 and ASC-14; ASC-12 not refreshed; retired ASC-08
+https://data.medicare.gov/Hospital-Compare/Data-Updates/bzsr-4my4,Data Updates,29-Jan-20,Data refreshed; new measures ASC-13 and ASC-14; ASC-12 not refreshed; retired ASC-08
+https://data.medicare.gov/Hospital-Compare/Department-of-Defense-Timely-Effective-Care-Data-m/azt5-rvvx,Department of Defense Timely &Effective Care Data- military hospitals,29-Jan-20,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Department-of-Defense-TRICARE-Inpatient-Satisfacti/5ff8-7qi2,Department of Defense TRICARE Inpatient Satisfaction Survey (TRISS) Data- military hospitals,29-Jan-20,No Updates
+https://data.medicare.gov/Hospital-Compare/Footnote-Crosswalk/y9us-9xdf,Footnote Crosswalk,29-Jan-20,No Updates
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-Hospital/77hc-ibv8,Healthcare Associated Infections - Hospital,29-Jan-20,No Updates
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-National/yd3s-jyhd,Healthcare Associated Infections - National,29-Jan-20,No Updates
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-State/k2ze-bqvw,Healthcare Associated Infections - State,29-Jan-20,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-Acquired-Condition-Reduction-Program/yq43-i98g,Hospital-Acquired Condition Reduction Program,29-Jan-20,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Hospital-ACS-Measures/akfs-5dgr,Hospital ACS Measures,29-Jan-20,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Hospital-Compare-CASPER-ASPEN-Contacts/su86-ag6b,Hospital Compare- Casper/ASPEN Contacts,29-Jan-20,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Hospital-General-Information/xubh-q36u,Hospital General Information,29-Jan-20,Data refreshed 
+https://data.medicare.gov/Hospital-Compare/Hospital-Readmissions-Reduction-Program/9n3s-kdb3,Hospital Readmissions Reduction Program,29-Jan-20,Updated
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Clinical-Care/pudb-wetr,Hospital Value-Based Purchasing (HVBP)- Clinical Care Outcomes Scores,29-Jan-20,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Efficiency-Sc/su9h-3pvj,Hospital Value-Based Purchasing (HVBP)- Efficiency Scores,29-Jan-20,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Patient-Exper/avtz-f2ge,Hospital Value-Based Purchasing (HVBP)- Patient Experience of Care Domain Scores (HCAHPS),29-Jan-20,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Safety/dgmq-aat3,Hospital Value-Based Purchasing (HVBP)- Safety,29-Jan-20,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Total-Perform/ypbt-wvdk,Hospital Value-Based Purchasing (HVBP)- Total Performance Score,29-Jan-20,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/q9vs-r7wp,Inpatient Psychiatric Facility Quality Measure Data – by Facility,29-Jan-20,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/dc76-gh7x,Inpatient Psychiatric Facility Quality Measure Data – by State,29-Jan-20,No Updates
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/s5xg-sys6,Inpatient Psychiatric Facility Quality Measure Data – National ,29-Jan-20,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Measure-Dates/4j6d-yzce,Measure Dates,29-Jan-20,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-by-Claim/nrth-mfg3,Medicare Hospital Spending by Claim,29-Jan-20,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-Hospital/rrqw-56er,Medicare Spending Per Beneficiary – Hospital,29-Jan-20,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-hospital-spending-per-patient-Medicare-Sp/5hk7-b79m,Medicare Spending Per Beneficiary – Hospital Additional Decimal Places,29-Jan-20,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-National/3n5g-6b7f,Medicare Spending Per Beneficiary– National,29-Jan-20,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-State/rs6n-9qwg,Medicare Spending Per Beneficiary – State,29-Jan-20,No Updates
+https://data.medicare.gov/Hospital-Compare/Oncology-Care-Measures-PPS-Exempt-Cancer-Hospital/g3fg-3myg,Oncology Care Measures-PPS- Excempt Cancer Hospital,29-Jan-20,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-CAHPS-Survey-Foo/e6hj-umam,Outpatient and Ambulatory Surgery CAHPS Survey Footnotes,29-Jan-20,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-CAHPS-Survey-mea/xzuw-fups,Outpatient and Ambulatory Surgery CAHPS Survey measure label crosswalk,29-Jan-20,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/48nr-hqxx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers – Facility ,29-Jan-20,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/tf3h-mrrs,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - National,29-Jan-20,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/x663-bwbj,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - State,29-Jan-20,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/yizn-abxn,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - Facility,29-Jan-20,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/s5pj-hua3,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - National,29-Jan-20,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/6pfg-whmx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - State,29-Jan-20,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-Hospital/wkfw-kthe,Outpatient Imaging Efficiency - Hospital,29-Jan-20,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-National/di9i-zzrc,Outpatient Imaging Efficiency - National,29-Jan-20,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-State/if5v-4x48,Outpatient Imaging Efficiency - State,29-Jan-20,No Updates
+,Outpatient Procedures - Volume,29-Jan-20,Data refreshed 
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-Hospital/dgck-syfz,Patient survey (HCAHPS) - Hospital,29-Jan-20,Data refreshed 
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-National/nsaf-d4nh/data,Patient survey (HCAHPS)  - National.csv,29-Jan-20,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-State/499t-8gqf/data,Patient survey (HCAHPS) - State.csv,29-Jan-20,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/iy27-wz37,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - Hospital ,29-Jan-20,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/9g7e-btyt,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - National,29-Jan-20,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/qatj-nmws,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - State,29-Jan-20,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Safety-and-Health-Care-Associated-Measures-PPS-Exe/k653-4ka8,Safety and Health-Care Associated Measures – PPS-Exempt Cancer Hospital,29-Jan-20,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Payment-and-value-of-care-Hospital/c7us-v4mf,Payment and Value of Care - Hospital,29-Jan-20,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Payment-National/ygty-mm5a,Payment - National,29-Jan-20,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Payment-State/98ix-2iqy,Payment - State,29-Jan-20,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Prospective-Payment-System-PPS-Exempt-Cancer-Hospi/p7bc-fjpi,Prospective Payment System (PPS)-Exempt Cancer Hospital Quality Reporting (PCHQR) ,29-Jan-20,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/PSI-90-and-Component-Measures-Six-Digit-Precision/muwa-iene,PSI 90 and Component Measures - Six-Digit Precision,29-Jan-20,Data refreshed
+,Outcome Measures – PPS-Exempt Cancer Hospital - Hospital,30-Jan-20,Data refreshed
+,Outcome Measures – PPS-Exempt Cancer Hospital - National,31-Jan-20,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Structural-Measures-Hospital/4hje-vua3,Structural Measures - Hospital,29-Jan-20,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Table-2-FY2016-Distribution-of-Net-Change-in-Base-/xrgf-x36b,Table 1: FY2018 Net Change in Base Operating DRG Payment Amount,29-Jan-20,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Table-1-FY2016-Net-Change-in-Base-Operating-DRG-Pa/5gv4-jwyv,Table 2: FY2018 Distribution of Net Change in Base Operating DRG Payment Amount,29-Jan-20,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Table-3-FY2016-Percent-Change-in-Medicare-Payments/u625-zae7,Table 3: FY2018 Percent Change in Medicare Payments,29-Jan-20,"New PCH dataset; PCH-06, PCH-07, PCH-27, PCH-26, PCH-28"
+https://data.medicare.gov/Hospital-Compare/Table-4-FY2016-Value-Based-Incentive-Payment-Amoun/vtqa-m4zn,Table 4: FY2018 Value-Based Incentive Payment Amount,29-Jan-20,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-Hospital/yv7e-xc69,Timely and effective care - Hospital,29-Jan-20,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-National/isrn-hqyy,Timely and Effective Care - National,29-Jan-20,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-State/apyc-v239,Timely and Effective Care - State,29-Jan-20,No Updates
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-Hospital/632h-zaca,Unplanned Hospital Visits - Hospital,29-Jan-20,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-National/cvcs-xecj,Unplanned Hospital Visits - National ,29-Jan-20,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-State/4gkm-5ypv,Unplanned Hospital Visits - State,29-Jan-20,No Updates
+https://data.medicare.gov/Hospital-Compare/Value-of-care-National/gbq5-7hzr,Value of Care- National,29-Jan-20,No Updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Behavioral-Health-D/6qxe-iqz8,Veterans Health Administration Behavioral Health Data,29-Jan-20,No Updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Measure-Dates/4aav-bsmy,Veterans Health Administration Measure Dates,29-Jan-20,No Updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Patient-Safety-Indi/esr2-9zyn,Veterans Health Administration Patient Safety Indicators Data,29-Jan-20,"Data refreshed; no updates to measures EDV-1, IMM 2, OP 33, OP 22, OP 29 and OP 30"
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Provider-Level-Data/uyx4-5s7f,Veterans Health Administration Provider Level Data,29-Jan-20,"Data refreshed; no updates to measures EDV-1, IMM 2, OP 33, OP 22, OP 29 and OP 30"
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Readmissions-and-De/94w6-h55e,Veterans Health Administration Readmissions and Deaths COPD Data,29-Jan-20,"Data refreshed; no updates to measures EDV-1, IMM 2, OP 33, OP 22, OP 29 and OP 30"
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Timely-and-Effectiv/ptds-r8im,Veterans Health Administration Timely and Effective Care Data,29-Jan-20,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-Facility/4jcv-atw7,Ambulatory Surgical Measures-Facility,30-Oct-19,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-National/wue8-3vwe ,Ambulatory Surgical Measures-National,30-Oct-19,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-State/axe7-s95e,Ambulatory Surgical Measures-State,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Cancer-Treatment-Measures-PPS-Exempt-Cancer-Hospit/42wc-33ci,Cancer Treatment Measures- PPS-Excempt Cancer Hospital,30-Oct-19,No Updates
+,Clinical Episode-Based Payment - 6 Decimals,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Clinical-Episode-Based-Payment-Hospital/jucd-knau/data?firstRun=true,Clinical Episode-Based Payment - by Facility,30-Oct-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Clinical-Episode-Based-Payment-State/j9zm-cdbi/data?firstRun=true,Clinical Episode-Based Payment - by State,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Clinical-Episode-Based-Payment-National/9gfz-cw9v/data?firstRun=true,Clinical Episode-Based Payment - National,30-Oct-19,Data Refreshed
+,Clinical Episode-Based Payment - Breakdown by Claim Type,30-Oct-19,Data refreshed; new added measure OP-18c
+ https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-Hospital/ynj2-r877,Complications and Deaths- Hospital,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-National/qqw3-t4ie,Complications and Deaths - National,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-State/bs2r-24vh,Complications and Deaths- State,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Comprehensive-Care-For-Joint-Replacement-Model-Pro/tqkv-mgxq,Comprehensive Care For Joint Replacement Model - Provider Data,30-Oct-19,Data refreshed; removed PCH-1 and PCH-2
+https://data.medicare.gov/Hospital-Compare/Data-Updates/bzsr-4my4,Data Updates,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Department-of-Defense-Timely-Effective-Care-Data-m/azt5-rvvx,Department of Defense Timely &Effective Care Data- military hospitals,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Department-of-Defense-TRICARE-Inpatient-Satisfacti/5ff8-7qi2,Department of Defense TRICARE Inpatient Satisfaction Survey (TRISS) Data- military hospitals,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Footnote-Crosswalk/y9us-9xdf,Footnote Crosswalk,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-Hospital/77hc-ibv8,Healthcare Associated Infections - Hospital,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-National/yd3s-jyhd,Healthcare Associated Infections - National,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-State/k2ze-bqvw,Healthcare Associated Infections - State,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Acquired-Condition-Reduction-Program/yq43-i98g,Hospital-Acquired Condition Reduction Program,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-ACS-Measures/akfs-5dgr,Hospital ACS Measures,30-Oct-19,Data refreshed 
+https://data.medicare.gov/Hospital-Compare/Hospital-Compare-CASPER-ASPEN-Contacts/su86-ag6b,Hospital Compare- Casper/ASPEN Contacts,30-Oct-19,Updated
+https://data.medicare.gov/Hospital-Compare/Hospital-General-Information/xubh-q36u,Hospital General Information,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Readmissions-Reduction-Program/9n3s-kdb3,Hospital Readmissions Reduction Program,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Clinical-Care/pudb-wetr,Hospital Value-Based Purchasing (HVBP)- Clinical Care Domain Scores,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Efficiency-Sc/su9h-3pvj,Hospital Value-Based Purchasing (HVBP)- Efficiency Scores,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Patient-Exper/avtz-f2ge,Hospital Value-Based Purchasing (HVBP)- Patient Experience of Care Domain Scores (HCAHPS),30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Safety/dgmq-aat3,Hospital Value-Based Purchasing (HVBP)- Safety,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Total-Perform/ypbt-wvdk,Hospital Value-Based Purchasing (HVBP)- Total Performance Score,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/q9vs-r7wp,Inpatient Psychiatric Facility Quality Measure Data – by Facility,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/dc76-gh7x,Inpatient Psychiatric Facility Quality Measure Data – by State,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/s5xg-sys6,Inpatient Psychiatric Facility Quality Measure Data – National ,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Measure-Dates/4j6d-yzce,Measure Dates,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-by-Claim/nrth-mfg3,Medicare Hospital Spending by Claim,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-Hospital/rrqw-56er,Medicare Spending Per Beneficiary – Hospital,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-hospital-spending-per-patient-Medicare-Sp/5hk7-b79m,Medicare Spending Per Beneficiary – Hospital Additional Decimal Places,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-National/3n5g-6b7f,Medicare Spending Per Beneficiary– National,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-State/rs6n-9qwg,Medicare Spending Per Beneficiary – State,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Oncology-Care-Measures-PPS-Exempt-Cancer-Hospital/g3fg-3myg,Oncology Care Measures-PPS- Excempt Cancer Hospital,30-Oct-19,The IPFQR data joined the Hospital Compare workflow
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-CAHPS-Survey-Foo/e6hj-umam,Outpatient and Ambulatory Surgery CAHPS Survey Footnotes,30-Oct-19,The IPFQR data joined the Hospital Compare workflow
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-CAHPS-Survey-mea/xzuw-fups,Outpatient and Ambulatory Surgery CAHPS Survey measure label crosswalk,30-Oct-19,The IPFQR data joined the Hospital Compare workflow
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/48nr-hqxx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers – Facility ,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/tf3h-mrrs,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - National,30-Oct-19,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/x663-bwbj,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - State,30-Oct-19,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/yizn-abxn,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - Facility,30-Oct-19,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/s5pj-hua3,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - National,30-Oct-19,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/6pfg-whmx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - State,30-Oct-19,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-Hospital/wkfw-kthe,Outpatient Imaging Efficiency - Hospital,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-National/di9i-zzrc,Outpatient Imaging Efficiency - National,30-Oct-19,Data refreshed 
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-State/if5v-4x48,Outpatient Imaging Efficiency - State,30-Oct-19,Data refreshed 
+https://data.medicare.gov/Hospital-Compare/Outpatient-Procedures-Volume/xbz4-gvaz,Outpatient Procedures - Volume,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-Hospital/dgck-syfz,Patient survey (HCAHPS) - Hospital,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-National/nsaf-d4nh/data,Patient survey (HCAHPS)  - National.csv,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-State/499t-8gqf/data,Patient survey (HCAHPS) - State.csv,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/iy27-wz37,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - Hospital ,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/9g7e-btyt,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - National,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/qatj-nmws,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - State,30-Oct-19,Data refreshed
+,Prospective Payment System (PPS)-Exempt Cancer Hospital Quality Reporting (PCHQR) Program Healthcare Associated Infections,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Payment-and-value-of-care-Hospital/c7us-v4mf,Payment and Value of Care - Hospital,30-Oct-19,Data refreshed 
+https://data.medicare.gov/Hospital-Compare/Payment-National/ygty-mm5a,Payment - National,30-Oct-19,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Payment-State/98ix-2iqy,Payment - State,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Prospective-Payment-System-PPS-Exempt-Cancer-Hospi/p7bc-fjpi,Prospective Payment System (PPS)-Exempt Cancer Hospital Quality Reporting (PCHQR) ,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/PSI-90-and-Component-Measures-Six-Digit-Precision/muwa-iene,PSI 90 and Component Measures - Six-Digit Precision,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Structural-Measures-Hospital/4hje-vua3,Structural Measures - Hospital,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Table-2-FY2016-Distribution-of-Net-Change-in-Base-/xrgf-x36b,Table 1: FY2017 Net Change in Base Operating DRG Payment Amount,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Table-1-FY2016-Net-Change-in-Base-Operating-DRG-Pa/5gv4-jwyv,Table 2: FY2017 Distribution of Net Change in Base Operating DRG Payment Amount,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Table-3-FY2016-Percent-Change-in-Medicare-Payments/u625-zae7,Table 3: FY2017 Percent Change in Medicare Payments,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Table-4-FY2016-Value-Based-Incentive-Payment-Amoun/vtqa-m4zn,Table 4: FY2017 Value-Based Incentive Payment Amount,30-Oct-19,Data refreshed 
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-Hospital/yv7e-xc69,Timely and effective care - Hospital,30-Oct-19,Data refreshed 
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-National/isrn-hqyy,Timely and Effective Care - National,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-State/apyc-v239,Timely and Effective Care - State,30-Oct-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-Hospital/632h-zaca,Unplanned Hospital Visits - Hospital,30-Oct-19,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-National/cvcs-xecj,Unplanned Hospital Visits - National ,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-State/4gkm-5ypv,Unplanned Hospital Visits - State,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Value-of-care-National/gbq5-7hzr,Value of Care- National,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Behavioral-Health-D/6qxe-iqz8,Veterans Health Administration Behavioral Health Data,30-Oct-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Measure-Dates/4aav-bsmy,Veterans Health Administration Measure Dates,30-Oct-19,"Data refreshed; no updates to measures EDV-1, IMM 2, IMM 3_OP 27, OP 33, OP 22, OP 29 and OP 30"
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Patient-Safety-Indi/esr2-9zyn,Veterans Health Administration Patient Safety Indicators Data,30-Oct-19,"Data refreshed; no updates to measures EDV-1, IMM 2, IMM 3_OP 27, OP 33, OP 22, OP 29 and OP 31"
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Provider-Level-Data/uyx4-5s7f,Veterans Health Administration Provider Level Data,30-Oct-19,"Data refreshed; no updates to measures EDV-1, IMM 2, IMM 3_OP 27, OP 33, OP 22, OP 29 and OP 32"
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Readmissions-and-De/94w6-h55e,Veterans Health Administration Readmissions and Deaths COPD Data,30-Oct-19,"Data refreshed, Open/Close list applied for OP 32, removed READM-30 STK"
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Timely-and-Effectiv/ptds-r8im,Veterans Health Administration Timely and Effective Care Data,30-Oct-19,Data Updated; Open/Closed list applied; removed READM-30 STK
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-Facility/4jcv-atw7,Ambulatory Surgical Measures-Facility,30-Jul-19,Data Updated; Open/Closed list applied; removed READM-30 STK
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-National/wue8-3vwe ,Ambulatory Surgical Measures-National,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-State/axe7-s95e,Ambulatory Surgical Measures-State,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Cancer-Treatment-Measures-PPS-Exempt-Cancer-Hospit/42wc-33ci,Cancer Treatment Measures- PPS-Excempt Cancer Hospital,30-Jul-19,Data refreshed
+,Clinical Episode-Based Payment - 6 Decimals,30-Jul-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Clinical-Episode-Based-Payment-Hospital/jucd-knau/data?firstRun=true,Clinical Episode-Based Payment - by Facility,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Clinical-Episode-Based-Payment-State/j9zm-cdbi/data?firstRun=true,Clinical Episode-Based Payment - by State,30-Jul-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Clinical-Episode-Based-Payment-National/9gfz-cw9v/data?firstRun=true,Clinical Episode-Based Payment - National,30-Jul-19,Data refreshed
+,Clinical Episode-Based Payment - Breakdown by Claim Type,30-Jul-19,No Updates
+ https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-Hospital/ynj2-r877,Complications and Deaths- Hospital,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-National/qqw3-t4ie,Complications and Deaths - National,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-State/bs2r-24vh,Complications and Deaths- State,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Comprehensive-Care-For-Joint-Replacement-Model-Pro/tqkv-mgxq,Comprehensive Care For Joint Replacement Model - Provider Data,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Data-Updates/bzsr-4my4,Data Updates,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Department-of-Defense-Timely-Effective-Care-Data-m/azt5-rvvx,Department of Defense Timely &Effective Care Data- military hospitals,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Department-of-Defense-TRICARE-Inpatient-Satisfacti/5ff8-7qi2,Department of Defense TRICARE Inpatient Satisfaction Survey (TRISS) Data- military hospitals,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Footnote-Crosswalk/y9us-9xdf,Footnote Crosswalk,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-Hospital/77hc-ibv8,Healthcare Associated Infections - Hospital,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-National/yd3s-jyhd,Healthcare Associated Infections - National,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-State/k2ze-bqvw,Healthcare Associated Infections - State,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Acquired-Condition-Reduction-Program/yq43-i98g,Hospital-Acquired Condition Reduction Program,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-ACS-Measures/akfs-5dgr,Hospital ACS Measures,30-Jul-19,Updated
+https://data.medicare.gov/Hospital-Compare/Hospital-Compare-CASPER-ASPEN-Contacts/su86-ag6b,Hospital Compare- Casper/ASPEN Contacts,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-General-Information/xubh-q36u,Hospital General Information,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Readmissions-Reduction-Program/9n3s-kdb3,Hospital Readmissions Reduction Program,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Clinical-Care/pudb-wetr,Hospital Value-Based Purchasing (HVBP)- Clinical Care Domain Scores,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Efficiency-Sc/su9h-3pvj,Hospital Value-Based Purchasing (HVBP)- Efficiency Scores,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Patient-Exper/avtz-f2ge,Hospital Value-Based Purchasing (HVBP)- Patient Experience of Care Domain Scores (HCAHPS),30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Safety/dgmq-aat3,Hospital Value-Based Purchasing (HVBP)- Safety,30-Jul-19,Updated Measure Dates 
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Total-Perform/ypbt-wvdk,Hospital Value-Based Purchasing (HVBP)- Total Performance Score,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/q9vs-r7wp,Inpatient Psychiatric Facility Quality Measure Data – by Facility,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/dc76-gh7x,Inpatient Psychiatric Facility Quality Measure Data – by State,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/s5xg-sys6,Inpatient Psychiatric Facility Quality Measure Data – National ,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Measure-Dates/4j6d-yzce,Measure Dates,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-by-Claim/nrth-mfg3,Medicare Hospital Spending by Claim,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-Hospital/rrqw-56er,Medicare Spending Per Beneficiary – Hospital,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-hospital-spending-per-patient-Medicare-Sp/5hk7-b79m,Medicare Spending Per Beneficiary – Hospital Additional Decimal Places,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-National/3n5g-6b7f,Medicare Spending Per Beneficiary– National,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-State/rs6n-9qwg,Medicare Spending Per Beneficiary – State,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Oncology-Care-Measures-PPS-Exempt-Cancer-Hospital/g3fg-3myg,Oncology Care Measures-PPS- Excempt Cancer Hospital,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-CAHPS-Survey-Foo/e6hj-umam,Outpatient and Ambulatory Surgery CAHPS Survey Footnotes,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-CAHPS-Survey-mea/xzuw-fups,Outpatient and Ambulatory Surgery CAHPS Survey measure label crosswalk,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/48nr-hqxx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers – Facility ,30-Jul-19,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/tf3h-mrrs,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - National,30-Jul-19,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/x663-bwbj,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - State,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/yizn-abxn,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - Facility,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/s5pj-hua3,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - National,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/6pfg-whmx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - State,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-Hospital/wkfw-kthe,Outpatient Imaging Efficiency - Hospital,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-National/di9i-zzrc,Outpatient Imaging Efficiency - National,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-State/if5v-4x48,Outpatient Imaging Efficiency - State,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Outpatient-Procedures-Volume/xbz4-gvaz,Outpatient Procedures - Volume,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-Hospital/dgck-syfz,Patient survey (HCAHPS) - Hospital,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-National/nsaf-d4nh/data,Patient survey (HCAHPS)  - National.csv,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-State/499t-8gqf/data,Patient survey (HCAHPS) - State.csv,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/iy27-wz37,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - Hospital ,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/9g7e-btyt,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - National,30-Jul-19,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/qatj-nmws,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - State,30-Jul-19,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Payment-and-value-of-care-Hospital/c7us-v4mf,Payment and Value of Care - Hospital,30-Jul-19,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Payment-National/ygty-mm5a,Payment - National,30-Jul-19,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Payment-State/98ix-2iqy,Payment - State,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Prospective-Payment-System-PPS-Exempt-Cancer-Hospi/p7bc-fjpi,Prospective Payment System (PPS)-Exempt Cancer Hospital Quality Reporting (PCHQR) ,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/PSI-90-and-Component-Measures-Six-Digit-Precision/muwa-iene,PSI 90 and Component Measures - Six-Digit Precision,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Structural-Measures-Hospital/4hje-vua3,Structural Measures - Hospital,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Table-2-FY2016-Distribution-of-Net-Change-in-Base-/xrgf-x36b,Table 1: FY2017 Net Change in Base Operating DRG Payment Amount,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Table-1-FY2016-Net-Change-in-Base-Operating-DRG-Pa/5gv4-jwyv,Table 2: FY2017 Distribution of Net Change in Base Operating DRG Payment Amount,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Table-3-FY2016-Percent-Change-in-Medicare-Payments/u625-zae7,Table 3: FY2017 Percent Change in Medicare Payments,30-Jul-19,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Table-4-FY2016-Value-Based-Incentive-Payment-Amoun/vtqa-m4zn,Table 4: FY2017 Value-Based Incentive Payment Amount,30-Jul-19,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-Hospital/yv7e-xc69,Timely and effective care - Hospital,30-Jul-19,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-National/isrn-hqyy,Timely and Effective Care - National,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-State/apyc-v239,Timely and Effective Care - State,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-Hospital/632h-zaca,Unplanned Hospital Visits - Hospital,30-Jul-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-National/cvcs-xecj,Unplanned Hospital Visits - National ,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-State/4gkm-5ypv,Unplanned Hospital Visits - State,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Value-of-care-National/gbq5-7hzr,Value of Care- National,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Behavioral-Health-D/6qxe-iqz8,Veterans Health Administration Behavioral Health Data,30-Jul-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Measure-Dates/4aav-bsmy,Veterans Health Administration Measure Dates,30-Jul-19,"Data refreshed; removed OP-1, OP-4, OP-20, and OP-22"
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Patient-Safety-Indi/esr2-9zyn,Veterans Health Administration Patient Safety Indicators Data,30-Jul-19,"Data refreshed; removed OP-1, OP-4, OP-20, and OP-23"
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Provider-Level-Data/uyx4-5s7f,Veterans Health Administration Provider Level Data,30-Jul-19,"Data refreshed; removed OP-1, OP-4, OP-20, and OP-24"
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Readmissions-and-De/94w6-h55e,Veterans Health Administration Readmissions and Deaths COPD Data,30-Jul-19,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Timely-and-Effectiv/ptds-r8im,Veterans Health Administration Timely and Effective Care Data,30-Jul-19,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-Facility/4jcv-atw7,Ambulatory Surgical Measures-Facility,24-Apr-19,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-National/wue8-3vwe ,Ambulatory Surgical Measures-National,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-State/axe7-s95e,Ambulatory Surgical Measures-State,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Cancer-Treatment-Measures-PPS-Exempt-Cancer-Hospit/42wc-33ci,Cancer Treatment Measures- PPS-Excempt Cancer Hospital,24-Apr-19,No Updates
+,Clinical Episode-Based Payment - 6 Decimals,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Clinical-Episode-Based-Payment-Hospital/jucd-knau/data?firstRun=true,Clinical Episode-Based Payment - by Facility,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Clinical-Episode-Based-Payment-State/j9zm-cdbi/data?firstRun=true,Clinical Episode-Based Payment - by State,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Clinical-Episode-Based-Payment-National/9gfz-cw9v/data?firstRun=true,Clinical Episode-Based Payment - National,24-Apr-19,"Data refreshed; removed OP-1, OP-4, OP-20, and OP-22"
+,Clinical Episode-Based Payment - Breakdown by Claim Type,24-Apr-19,No Updates
+ https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-Hospital/ynj2-r877,Complications and Deaths- Hospital,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-National/qqw3-t4ie,Complications and Deaths - National,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-State/bs2r-24vh,Complications and Deaths- State,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Comprehensive-Care-For-Joint-Replacement-Model-Pro/tqkv-mgxq,Comprehensive Care For Joint Replacement Model - Provider Data,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Data-Updates/bzsr-4my4,Data Updates,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Department-of-Defense-Timely-Effective-Care-Data-m/azt5-rvvx,Department of Defense Timely &Effective Care Data- military hospitals,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Department-of-Defense-TRICARE-Inpatient-Satisfacti/5ff8-7qi2,Department of Defense TRICARE Inpatient Satisfaction Survey (TRISS) Data- military hospitals,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Footnote-Crosswalk/y9us-9xdf,Footnote Crosswalk,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-Hospital/77hc-ibv8,Healthcare Associated Infections - Hospital,24-Apr-19,Added PSI measure dates
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-National/yd3s-jyhd,Healthcare Associated Infections - National,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-State/k2ze-bqvw,Healthcare Associated Infections - State,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-Acquired-Condition-Reduction-Program/yq43-i98g,Hospital-Acquired Condition Reduction Program,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-ACS-Measures/akfs-5dgr,Hospital ACS Measures,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-Compare-CASPER-ASPEN-Contacts/su86-ag6b,Hospital Compare- Casper/ASPEN Contacts,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-General-Information/xubh-q36u,Hospital General Information,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-Readmissions-Reduction-Program/9n3s-kdb3,Hospital Readmissions Reduction Program,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Clinical-Care/pudb-wetr,Hospital Value-Based Purchasing (HVBP)- Clinical Care Domain Scores,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Efficiency-Sc/su9h-3pvj,Hospital Value-Based Purchasing (HVBP)- Efficiency Scores,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Patient-Exper/avtz-f2ge,Hospital Value-Based Purchasing (HVBP)- Patient Experience of Care Domain Scores (HCAHPS),24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Safety/dgmq-aat3,Hospital Value-Based Purchasing (HVBP)- Safety,24-Apr-19,Updated Measure Dates 
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Total-Perform/ypbt-wvdk,Hospital Value-Based Purchasing (HVBP)- Total Performance Score,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/q9vs-r7wp,Inpatient Psychiatric Facility Quality Measure Data – by Facility,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/dc76-gh7x,Inpatient Psychiatric Facility Quality Measure Data – by State,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/s5xg-sys6,Inpatient Psychiatric Facility Quality Measure Data – National ,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Measure-Dates/4j6d-yzce,Measure Dates,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-by-Claim/nrth-mfg3,Medicare Hospital Spending by Claim,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-Hospital/rrqw-56er,Medicare Spending Per Beneficiary – Hospital,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-hospital-spending-per-patient-Medicare-Sp/5hk7-b79m,Medicare Spending Per Beneficiary – Hospital Additional Decimal Places,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-National/3n5g-6b7f,Medicare Spending Per Beneficiary– National,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-State/rs6n-9qwg,Medicare Spending Per Beneficiary – State,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Oncology-Care-Measures-PPS-Exempt-Cancer-Hospital/g3fg-3myg,Oncology Care Measures-PPS- Excempt Cancer Hospital,24-Apr-19,Added IPF Readmission Category column
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-CAHPS-Survey-Foo/e6hj-umam,Outpatient and Ambulatory Surgery CAHPS Survey Footnotes,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-CAHPS-Survey-mea/xzuw-fups,Outpatient and Ambulatory Surgery CAHPS Survey measure label crosswalk,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/48nr-hqxx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers – Facility ,24-Apr-19,Updated HACRP Domain 2 measure dates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/tf3h-mrrs,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - National,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/x663-bwbj,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - State,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/yizn-abxn,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - Facility,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/s5pj-hua3,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - National,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/6pfg-whmx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - State,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-Hospital/wkfw-kthe,Outpatient Imaging Efficiency - Hospital,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-National/di9i-zzrc,Outpatient Imaging Efficiency - National,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-State/if5v-4x48,Outpatient Imaging Efficiency - State,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-Procedures-Volume/xbz4-gvaz,Outpatient Procedures - Volume,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-Hospital/dgck-syfz,Patient survey (HCAHPS) - Hospital,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-National/nsaf-d4nh/data,Patient survey (HCAHPS)  - National.csv,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-State/499t-8gqf/data,Patient survey (HCAHPS) - State.csv,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/iy27-wz37,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - Hospital ,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/9g7e-btyt,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - National,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/qatj-nmws,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - State,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Payment-and-value-of-care-Hospital/c7us-v4mf,Payment and Value of Care - Hospital,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Payment-National/ygty-mm5a,Payment - National,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Payment-State/98ix-2iqy,Payment - State,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Prospective-Payment-System-PPS-Exempt-Cancer-Hospi/p7bc-fjpi,Prospective Payment System (PPS)-Exempt Cancer Hospital Quality Reporting (PCHQR) ,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/PSI-90-and-Component-Measures-Six-Digit-Precision/muwa-iene,PSI 90 and Component Measures - Six-Digit Precision,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Structural-Measures-Hospital/4hje-vua3,Structural Measures - Hospital,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Table-2-FY2016-Distribution-of-Net-Change-in-Base-/xrgf-x36b,Table 1: FY2017 Net Change in Base Operating DRG Payment Amount,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Table-1-FY2016-Net-Change-in-Base-Operating-DRG-Pa/5gv4-jwyv,Table 2: FY2017 Distribution of Net Change in Base Operating DRG Payment Amount,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Table-3-FY2016-Percent-Change-in-Medicare-Payments/u625-zae7,Table 3: FY2017 Percent Change in Medicare Payments,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Table-4-FY2016-Value-Based-Incentive-Payment-Amoun/vtqa-m4zn,Table 4: FY2017 Value-Based Incentive Payment Amount,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-Hospital/yv7e-xc69,Timely and effective care - Hospital,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-National/isrn-hqyy,Timely and Effective Care - National,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-State/apyc-v239,Timely and Effective Care - State,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-Hospital/632h-zaca,Unplanned Hospital Visits - Hospital,24-Apr-19,Open/Close list applied; number of providers updated 
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-National/cvcs-xecj,Unplanned Hospital Visits - National ,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-State/4gkm-5ypv,Unplanned Hospital Visits - State,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Value-of-care-National/gbq5-7hzr,Value of Care- National,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Behavioral-Health-D/6qxe-iqz8,Veterans Health Administration Behavioral Health Data,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Measure-Dates/4aav-bsmy,Veterans Health Administration Measure Dates,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Patient-Safety-Indi/esr2-9zyn,Veterans Health Administration Patient Safety Indicators Data,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Provider-Level-Data/uyx4-5s7f,Veterans Health Administration Provider Level Data,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Readmissions-and-De/94w6-h55e,Veterans Health Administration Readmissions and Deaths COPD Data,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Timely-and-Effectiv/ptds-r8im,Veterans Health Administration Timely and Effective Care Data,24-Apr-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-Facility/4jcv-atw7,Ambulatory Surgical Measures-Facility,21-Mar-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-National/wue8-3vwe ,Ambulatory Surgical Measures-National,21-Mar-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-State/axe7-s95e,Ambulatory Surgical Measures-State,21-Mar-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Cancer-Treatment-Measures-PPS-Exempt-Cancer-Hospit/42wc-33ci,Cancer Treatment Measures- PPS-Excempt Cancer Hospital,21-Mar-19,No Updates
+,Clinical Episode-Based Payment - 6 Decimals,21-Mar-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Clinical-Episode-Based-Payment-Hospital/jucd-knau/data?firstRun=true,Clinical Episode-Based Payment - by Facility,21-Mar-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Clinical-Episode-Based-Payment-State/j9zm-cdbi/data?firstRun=true,Clinical Episode-Based Payment - by State,21-Mar-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Clinical-Episode-Based-Payment-National/9gfz-cw9v/data?firstRun=true,Clinical Episode-Based Payment - National,21-Mar-19,No Updates
+,Clinical Episode-Based Payment - Breakdown by Claim Type,21-Mar-19,No Updates
+ https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-Hospital/ynj2-r877,Complications and Deaths- Hospital,21-Mar-19,"Data Refreshed; removed ASC-5, ASC-6, and ASC-7"
+https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-National/qqw3-t4ie,Complications and Deaths - National,21-Mar-19,"Data Refreshed; removed ASC-5, ASC-6, and ASC-7"
+https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-State/bs2r-24vh,Complications and Deaths- State,21-Mar-19,"Data Refreshed; removed ASC-5, ASC-6, and ASC-7"
+https://data.medicare.gov/Hospital-Compare/Comprehensive-Care-For-Joint-Replacement-Model-Pro/tqkv-mgxq,Comprehensive Care For Joint Replacement Model - Provider Data,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Data-Updates/bzsr-4my4,Data Updates,21-Mar-19,New measures; in DDB set only
+https://data.medicare.gov/Hospital-Compare/Department-of-Defense-Timely-Effective-Care-Data-m/azt5-rvvx,Department of Defense Timely &Effective Care Data- military hospitals,21-Mar-19,New measures
+https://data.medicare.gov/Hospital-Compare/Department-of-Defense-TRICARE-Inpatient-Satisfacti/5ff8-7qi2,Department of Defense TRICARE Inpatient Satisfaction Survey (TRISS) Data- military hospitals,21-Mar-19,New measures
+https://data.medicare.gov/Hospital-Compare/Footnote-Crosswalk/y9us-9xdf,Footnote Crosswalk,21-Mar-19,New measures
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-Hospital/77hc-ibv8,Healthcare Associated Infections - Hospital,21-Mar-19,New measures; in DDB set only
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-National/yd3s-jyhd,Healthcare Associated Infections - National,21-Mar-19,"Open/Close list applied, added VA MORT-30- AMI, VA MORT-30-HF, & VA MORT-30-PN"
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-State/k2ze-bqvw,Healthcare Associated Infections - State,21-Mar-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Acquired-Condition-Reduction-Program/yq43-i98g,Hospital-Acquired Condition Reduction Program,21-Mar-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-ACS-Measures/akfs-5dgr,Hospital ACS Measures,21-Mar-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-Compare-CASPER-ASPEN-Contacts/su86-ag6b,Hospital Compare- Casper/ASPEN Contacts,21-Mar-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-General-Information/xubh-q36u,Hospital General Information,21-Mar-19,"Data Refreshed,except IMM-2; added OP-29,OP-30, OP-33"
+https://data.medicare.gov/Hospital-Compare/Hospital-Readmissions-Reduction-Program/9n3s-kdb3,Hospital Readmissions Reduction Program,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Clinical-Care/pudb-wetr,Hospital Value-Based Purchasing (HVBP)- Clinical Care Domain Scores,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Efficiency-Sc/su9h-3pvj,Hospital Value-Based Purchasing (HVBP)- Efficiency Scores,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Patient-Exper/avtz-f2ge,Hospital Value-Based Purchasing (HVBP)- Patient Experience of Care Domain Scores (HCAHPS),21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Safety/dgmq-aat3,Hospital Value-Based Purchasing (HVBP)- Safety,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Total-Perform/ypbt-wvdk,Hospital Value-Based Purchasing (HVBP)- Total Performance Score,21-Mar-19,Data Refreshed
+,Hospital Value-Based Purchasing (HVBP)- Measure dates,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/q9vs-r7wp,Inpatient Psychiatric Facility Quality Measure Data – by Facility,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/dc76-gh7x,Inpatient Psychiatric Facility Quality Measure Data – by State,21-Mar-19,Data Refreshed; Removed SM-3 and SM-4
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/s5xg-sys6,Inpatient Psychiatric Facility Quality Measure Data – National ,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Measure-Dates/4j6d-yzce,Measure Dates,21-Mar-19,Data Refreshed; added HVBP-COMP-HIP-KNEE
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-by-Claim/nrth-mfg3,Medicare Hospital Spending by Claim,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-Hospital/rrqw-56er,Medicare Spending Per Beneficiary – Hospital,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Medicare-hospital-spending-per-patient-Medicare-Sp/5hk7-b79m,Medicare Spending Per Beneficiary – Hospital Additional Decimal Places,21-Mar-19,Data Refreshed; removed HVBP- PSI-90
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-National/3n5g-6b7f,Medicare Spending Per Beneficiary– National,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-State/rs6n-9qwg,Medicare Spending Per Beneficiary – State,21-Mar-19,New measures; in DDB set only
+https://data.medicare.gov/Hospital-Compare/Oncology-Care-Measures-PPS-Exempt-Cancer-Hospital/g3fg-3myg,Oncology Care Measures-PPS- Excempt Cancer Hospital,21-Mar-19,Dataset removed; included in the Inpatient Psychiatric Facility Quality Measure Data sets
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-CAHPS-Survey-Foo/e6hj-umam,Outpatient and Ambulatory Surgery CAHPS Survey Footnotes,21-Mar-19,Dataset removed; included in the Inpatient Psychiatric Facility Quality Measure Data sets
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-CAHPS-Survey-mea/xzuw-fups,Outpatient and Ambulatory Surgery CAHPS Survey measure label crosswalk,21-Mar-19,Dataset removed; included in the Inpatient Psychiatric Facility Quality Measure Data sets
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/48nr-hqxx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers – Facility ,21-Mar-19,"No Updates; added READM-30-IPF, SMD, SUB-3, SUB-3a, TR1 and TR2"
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/tf3h-mrrs,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - National,21-Mar-19,"No Updates; added READM-30-IPF, SMD, SUB-3, SUB-3a, TR1 and TR2"
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/x663-bwbj,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - State,21-Mar-19,"No Updates; added READM-30-IPF, SMD, SUB-3, SUB-3a, TR1 and TR2"
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/yizn-abxn,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - Facility,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/s5pj-hua3,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - National,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/6pfg-whmx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - State,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-Hospital/wkfw-kthe,Outpatient Imaging Efficiency - Hospital,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-National/di9i-zzrc,Outpatient Imaging Efficiency - National,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-State/if5v-4x48,Outpatient Imaging Efficiency - State,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Outpatient-Procedures-Volume/xbz4-gvaz,Outpatient Procedures - Volume,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-Hospital/dgck-syfz,Patient survey (HCAHPS) - Hospital,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-National/nsaf-d4nh/data,Patient survey (HCAHPS)  - National.csv,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-State/499t-8gqf/data,Patient survey (HCAHPS) - State.csv,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/iy27-wz37,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - Hospital ,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/9g7e-btyt,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - National,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/qatj-nmws,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - State,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Payment-and-value-of-care-Hospital/c7us-v4mf,Payment and Value of Care - Hospital,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Payment-National/ygty-mm5a,Payment - National,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Payment-State/98ix-2iqy,Payment - State,21-Mar-19,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Prospective-Payment-System-PPS-Exempt-Cancer-Hospi/p7bc-fjpi,Prospective Payment System (PPS)-Exempt Cancer Hospital Quality Reporting (PCHQR) ,21-Mar-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/PSI-90-and-Component-Measures-Six-Digit-Precision/muwa-iene,PSI 90 and Component Measures - Six-Digit Precision,21-Mar-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Structural-Measures-Hospital/4hje-vua3,Structural Measures - Hospital,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Table-2-FY2016-Distribution-of-Net-Change-in-Base-/xrgf-x36b,Table 1: FY2017 Net Change in Base Operating DRG Payment Amount,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Table-1-FY2016-Net-Change-in-Base-Operating-DRG-Pa/5gv4-jwyv,Table 2: FY2017 Distribution of Net Change in Base Operating DRG Payment Amount,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Table-3-FY2016-Percent-Change-in-Medicare-Payments/u625-zae7,Table 3: FY2017 Percent Change in Medicare Payments,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Table-4-FY2016-Value-Based-Incentive-Payment-Amoun/vtqa-m4zn,Table 4: FY2017 Value-Based Incentive Payment Amount,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-Hospital/yv7e-xc69,Timely and effective care - Hospital,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-National/isrn-hqyy,Timely and Effective Care - National,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-State/apyc-v239,Timely and Effective Care - State,21-Mar-19,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-Hospital/632h-zaca,Unplanned Hospital Visits - Hospital,21-Mar-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-National/cvcs-xecj,Unplanned Hospital Visits - National ,21-Mar-19,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-State/4gkm-5ypv,Unplanned Hospital Visits - State,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Value-of-care-National/gbq5-7hzr,Value of Care- National,21-Mar-19,No Updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Behavioral-Health-D/6qxe-iqz8,Veterans Health Administration Behavioral Health Data,21-Mar-19,Data Refreshed; Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Measure-Dates/4aav-bsmy,Veterans Health Administration Measure Dates,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Patient-Safety-Indi/esr2-9zyn,Veterans Health Administration Patient Safety Indicators Data,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Provider-Level-Data/uyx4-5s7f,Veterans Health Administration Provider Level Data,21-Mar-19,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Readmissions-and-De/94w6-h55e,Veterans Health Administration Readmissions and Deaths COPD Data,21-Mar-19,Data Refreshed except IMM-2 and IMM-3; Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Timely-and-Effectiv/ptds-r8im,Veterans Health Administration Timely and Effective Care Data,21-Mar-19,Data Refreshed except IMM-2 and IMM-3; Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-Facility/4jcv-atw7,Ambulatory Surgical Measures-Facility, 28-Feb-2019,Data Refreshed except IMM-2 and IMM-3
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-National/wue8-3vwe ,Ambulatory Surgical Measures-National, 28-Feb-2019,Data Refreshed except IMM-2 and IMM-3
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-State/axe7-s95e,Ambulatory Surgical Measures-State, 28-Feb-2019,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Cancer-Treatment-Measures-PPS-Exempt-Cancer-Hospit/42wc-33ci,Cancer Treatment Measures- PPS-Excempt Cancer Hospital, 28-Feb-2019,Data refreshed
+,Clinical Episode-Based Payment - 6 Decimals, 28-Feb-2019,Data refreshed
+https://data.medicare.gov/Hospital-Compare/Clinical-Episode-Based-Payment-Hospital/jucd-knau/data?firstRun=true,Clinical Episode-Based Payment - by Facility, 28-Feb-2019,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Clinical-Episode-Based-Payment-State/j9zm-cdbi/data?firstRun=true,Clinical Episode-Based Payment - by State, 28-Feb-2019,"Data Refreshed for SUB-1, TOB-1, TOB-2; removed TOB-2a"
+https://data.medicare.gov/Hospital-Compare/Clinical-Episode-Based-Payment-National/9gfz-cw9v/data?firstRun=true,Clinical Episode-Based Payment - National, 28-Feb-2019,Data Refreshed
+,Clinical Episode-Based Payment - Breakdown by Claim Type, 28-Feb-2019,No updates
+ https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-Hospital/ynj2-r877,Complications and Deaths- Hospital, 28-Feb-2019,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-National/qqw3-t4ie,Complications and Deaths - National, 28-Feb-2019,No updates
+https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-State/bs2r-24vh,Complications and Deaths- State, 28-Feb-2019,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Comprehensive-Care-For-Joint-Replacement-Model-Pro/tqkv-mgxq,Comprehensive Care For Joint Replacement Model - Provider Data, 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Data-Updates/bzsr-4my4,Data Updates, 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Department-of-Defense-Timely-Effective-Care-Data-m/azt5-rvvx,Department of Defense Timely &Effective Care Data- military hospitals, 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Department-of-Defense-TRICARE-Inpatient-Satisfacti/5ff8-7qi2,Department of Defense TRICARE Inpatient Satisfaction Survey (TRISS) Data- military hospitals, 28-Feb-2019,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Footnote-Crosswalk/y9us-9xdf,Footnote Crosswalk, 28-Feb-2019,"Open/Close list applied, Added VA MORT-30- AMI, VA MORT-30-HF, & VA MORT-30-PN"
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-Hospital/77hc-ibv8,Healthcare Associated Infections - Hospital, 28-Feb-2019,"Open/Close list applied, Added VA MORT-30- AMI, VA MORT-30-HF, & VA MORT-30-PN"
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-National/yd3s-jyhd,Healthcare Associated Infections - National, 28-Feb-2019,"Open/Close list applied, Added VA MORT-30- AMI, VA MORT-30-HF, & VA MORT-30-PN"
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-State/k2ze-bqvw,Healthcare Associated Infections - State, 28-Feb-2019,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Acquired-Condition-Reduction-Program/yq43-i98g,Hospital-Acquired Condition Reduction Program, 28-Feb-2019,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-ACS-Measures/akfs-5dgr,Hospital ACS Measures, 28-Feb-2019,"Data Refreshed,except IMM-2 "
+https://data.medicare.gov/Hospital-Compare/Hospital-Compare-CASPER-ASPEN-Contacts/su86-ag6b,Hospital Compare- Casper/ASPEN Contacts, 28-Feb-2019,"Data Refreshed, COMP-4 retired"
+https://data.medicare.gov/Hospital-Compare/Hospital-General-Information/xubh-q36u,Hospital General Information, 28-Feb-2019,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Readmissions-Reduction-Program/9n3s-kdb3,Hospital Readmissions Reduction Program, 28-Feb-2019,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Clinical-Care/pudb-wetr,Hospital Value-Based Purchasing (HVBP)- Clinical Care Domain Scores, 28-Feb-2019,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Efficiency-Sc/su9h-3pvj,Hospital Value-Based Purchasing (HVBP)- Efficiency Scores, 28-Feb-2019,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Patient-Exper/avtz-f2ge,Hospital Value-Based Purchasing (HVBP)- Patient Experience of Care Domain Scores (HCAHPS), 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Safety/dgmq-aat3,Hospital Value-Based Purchasing (HVBP)- Safety, 28-Feb-2019,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Total-Perform/ypbt-wvdk,Hospital Value-Based Purchasing (HVBP)- Total Performance Score, 28-Feb-2019,Data Refreshed
+,Hospital Value-Based Purchasing (HVBP)- Measure dates, 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Follow-Up-After-Hos/698s-bszb,Inpatient Psychiatric Facility Follow-Up After Hospitalization for Mental Illness (FUH) Quality Measure Data – by Facility, 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Follow-Up-After-Hos/wmm7-vj54,Inpatient Psychiatric Facility Follow-Up After Hospitalization for Mental Illness (FUH) Quality Measure Data – by State, 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Follow-Up-After-Hos/twwm-t8ug,Inpatient Psychiatric Facility Follow-Up After Hospitalization for Mental Illness (FUH) Quality Measure Data – National, 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/q9vs-r7wp,Inpatient Psychiatric Facility Quality Measure Data – by Facility, 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/dc76-gh7x,Inpatient Psychiatric Facility Quality Measure Data – by State, 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/s5xg-sys6,Inpatient Psychiatric Facility Quality Measure Data – National , 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Measure-Dates/4j6d-yzce,Measure Dates, 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-by-Claim/nrth-mfg3,Medicare Hospital Spending by Claim, 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-Hospital/rrqw-56er,Medicare Spending Per Beneficiary – Hospital, 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-hospital-spending-per-patient-Medicare-Sp/5hk7-b79m,Medicare Spending Per Beneficiary – Hospital Additional Decimal Places, 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-National/3n5g-6b7f,Medicare Spending Per Beneficiary– National, 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-State/rs6n-9qwg,Medicare Spending Per Beneficiary – State, 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Oncology-Care-Measures-PPS-Exempt-Cancer-Hospital/g3fg-3myg,Oncology Care Measures-PPS- Excempt Cancer Hospital, 28-Feb-2019,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-CAHPS-Survey-Foo/e6hj-umam,Outpatient and Ambulatory Surgery CAHPS Survey Footnotes, 28-Feb-2019,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-CAHPS-Survey-mea/xzuw-fups,Outpatient and Ambulatory Surgery CAHPS Survey measure label crosswalk, 28-Feb-2019,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/48nr-hqxx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers – Facility , 28-Feb-2019,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/tf3h-mrrs,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - National, 28-Feb-2019,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/x663-bwbj,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - State, 28-Feb-2019,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/yizn-abxn,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - Facility, 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/s5pj-hua3,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - National, 28-Feb-2019,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/6pfg-whmx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - State, 28-Feb-2019,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-Hospital/wkfw-kthe,Outpatient Imaging Efficiency - Hospital, 28-Feb-2019,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-National/di9i-zzrc,Outpatient Imaging Efficiency - National, 28-Feb-2019,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-State/if5v-4x48,Outpatient Imaging Efficiency - State, 28-Feb-2019,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Outpatient-Procedures-Volume/xbz4-gvaz,Outpatient Procedures - Volume, 28-Feb-2019,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-Hospital/dgck-syfz,Patient survey (HCAHPS) - Hospital, 28-Feb-2019,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-National/nsaf-d4nh/data,Patient survey (HCAHPS)  - National.csv, 28-Feb-2019,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-State/499t-8gqf/data,Patient survey (HCAHPS) - State.csv, 28-Feb-2019,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/iy27-wz37,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - Hospital , 28-Feb-2019,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/9g7e-btyt,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - National, 28-Feb-2019,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/qatj-nmws,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - State, 28-Feb-2019,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Payment-and-value-of-care-Hospital/c7us-v4mf,Payment and Value of Care - Hospital, 28-Feb-2019,"Data Refreshed, Added VA HCAHPS H-CLEAN-HSP-A-P,H-CLEAN-HSP-U-P,H-CLEAN-HSP-SN-P,H-CLEAN-STAR-RATING,H-COMP-1-A-P,H-COMP-1-U-P,H-COMP-1-SN-P,H-COMP-1-STAR-RATING,H-COMP-2-A-P,H-COMP-2-U-P,H-COMP-2-SN-P,H-COMP-2-STAR-RATING,H-COMP-3-A-P,H-COMP-3-U-P,H-COMP-3-SN-P,H-COMP-3-STAR-RATING,H-COMP-5-A-P,H-COMP-5-U-P,H-COMP-5-SN-P,H-COMP-5-STAR-RATING,H-COMP-6-STAR-RATING,H-COMP-6-Y-P,H-COMP-6-N-P,H-COMP-7-SA ,H-COMP-7-A,H-COMP-7-D-SD,H-COMP-7-STAR-RATING,H-HSP-RATING-0-6,H-HSP-RATING-7-8,H-HSP-RATING-9-10,H-HSP-RATING-STAR-RATING,H-QUIET-HSP-A-P,H-QUIET-HSP-U-P,H-QUIET-HSP-SN-P,H-QUIET-STAR-RATING,H-RECMND-DY,H-RECMND-PY,H-RECMND-DN,H-RECMND-STAR-RATING,H-STAR-RATING"
+https://data.medicare.gov/Hospital-Compare/Payment-National/ygty-mm5a,Payment - National, 28-Feb-2019,"Data Refreshed, Added VA HCAHPS H-CLEAN-HSP-A-P,H-CLEAN-HSP-U-P,H-CLEAN-HSP-SN-P,H-CLEAN-STAR-RATING,H-COMP-1-A-P,H-COMP-1-U-P,H-COMP-1-SN-P,H-COMP-1-STAR-RATING,H-COMP-2-A-P,H-COMP-2-U-P,H-COMP-2-SN-P,H-COMP-2-STAR-RATING,H-COMP-3-A-P,H-COMP-3-U-P,H-COMP-3-SN-P,H-COMP-3-STAR-RATING,H-COMP-5-A-P,H-COMP-5-U-P,H-COMP-5-SN-P,H-COMP-5-STAR-RATING,H-COMP-6-STAR-RATING,H-COMP-6-Y-P,H-COMP-6-N-P,H-COMP-7-SA ,H-COMP-7-A,H-COMP-7-D-SD,H-COMP-7-STAR-RATING,H-HSP-RATING-0-6,H-HSP-RATING-7-8,H-HSP-RATING-9-10,H-HSP-RATING-STAR-RATING,H-QUIET-HSP-A-P,H-QUIET-HSP-U-P,H-QUIET-HSP-SN-P,H-QUIET-STAR-RATING,H-RECMND-DY,H-RECMND-PY,H-RECMND-DN,H-RECMND-STAR-RATING,H-STAR-RATING"
+https://data.medicare.gov/Hospital-Compare/Payment-State/98ix-2iqy,Payment - State, 28-Feb-2019,"Data Refreshed, Added VA HCAHPS H-CLEAN-HSP-A-P,H-CLEAN-HSP-U-P,H-CLEAN-HSP-SN-P,H-CLEAN-STAR-RATING,H-COMP-1-A-P,H-COMP-1-U-P,H-COMP-1-SN-P,H-COMP-1-STAR-RATING,H-COMP-2-A-P,H-COMP-2-U-P,H-COMP-2-SN-P,H-COMP-2-STAR-RATING,H-COMP-3-A-P,H-COMP-3-U-P,H-COMP-3-SN-P,H-COMP-3-STAR-RATING,H-COMP-5-A-P,H-COMP-5-U-P,H-COMP-5-SN-P,H-COMP-5-STAR-RATING,H-COMP-6-STAR-RATING,H-COMP-6-Y-P,H-COMP-6-N-P,H-COMP-7-SA ,H-COMP-7-A,H-COMP-7-D-SD,H-COMP-7-STAR-RATING,H-HSP-RATING-0-6,H-HSP-RATING-7-8,H-HSP-RATING-9-10,H-HSP-RATING-STAR-RATING,H-QUIET-HSP-A-P,H-QUIET-HSP-U-P,H-QUIET-HSP-SN-P,H-QUIET-STAR-RATING,H-RECMND-DY,H-RECMND-PY,H-RECMND-DN,H-RECMND-STAR-RATING,H-STAR-RATING"
+https://data.medicare.gov/Hospital-Compare/Prospective-Payment-System-PPS-Exempt-Cancer-Hospi/p7bc-fjpi,Prospective Payment System (PPS)-Exempt Cancer Hospital Quality Reporting (PCHQR) , 28-Feb-2019,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/PSI-90-and-Component-Measures-Six-Digit-Precision/muwa-iene,PSI 90 and Component Measures - Six-Digit Precision, 28-Feb-2019,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Structural-Measures-Hospital/4hje-vua3,Structural Measures - Hospital, 28-Feb-2019,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Table-2-FY2016-Distribution-of-Net-Change-in-Base-/xrgf-x36b,Table 1: FY2017 Net Change in Base Operating DRG Payment Amount, 28-Feb-2019,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Table-1-FY2016-Net-Change-in-Base-Operating-DRG-Pa/5gv4-jwyv,Table 2: FY2017 Distribution of Net Change in Base Operating DRG Payment Amount, 28-Feb-2019,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Table-3-FY2016-Percent-Change-in-Medicare-Payments/u625-zae7,Table 3: FY2017 Percent Change in Medicare Payments, 28-Feb-2019,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Table-4-FY2016-Value-Based-Incentive-Payment-Amoun/vtqa-m4zn,Table 4: FY2017 Value-Based Incentive Payment Amount, 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-Hospital/yv7e-xc69,Timely and effective care - Hospital, 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-National/isrn-hqyy,Timely and Effective Care - National, 28-Feb-2019,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-State/apyc-v239,Timely and Effective Care - State, 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-Hospital/632h-zaca,Unplanned Hospital Visits - Hospital, 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-National/cvcs-xecj,Unplanned Hospital Visits - National , 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-State/4gkm-5ypv,Unplanned Hospital Visits - State, 28-Feb-2019,No Updates
+https://data.medicare.gov/Hospital-Compare/Value-of-care-National/gbq5-7hzr,Value of Care- National, 28-Feb-2019,"Data Refreshed. Open/close list applied to EDV-1, IMM-2, OP-29, OP-30, OP-33
+"
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Behavioral-Health-D/6qxe-iqz8,Veterans Health Administration Behavioral Health Data, 28-Feb-2019,"Data Refreshed. Open/close list applied to EDV-1, IMM-2, OP-29, OP-30, OP-33
+"
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Measure-Dates/4aav-bsmy,Veterans Health Administration Measure Dates, 28-Feb-2019,"Data Refreshed. Open/close list applied to EDV-1, IMM-2, OP-29, OP-30, OP-33
+"
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Patient-Safety-Indi/esr2-9zyn,Veterans Health Administration Patient Safety Indicators Data, 28-Feb-2019,"Open/Close list applied,Added VA READ-30- AMI, VA READ-30-HF, & VA READ-30-PN"
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Provider-Level-Data/uyx4-5s7f,Veterans Health Administration Provider Level Data, 28-Feb-2019,"Open/Close list applied,Added VA READ-30- AMI, VA READ-30-HF, & VA READ-30-PN"
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Readmissions-and-De/94w6-h55e,Veterans Health Administration Readmissions and Deaths COPD Data, 28-Feb-2019,"Open/Close list applied,Added VA READ-30- AMI, VA READ-30-HF, & VA READ-30-PN"
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Timely-and-Effectiv/ptds-r8im,Veterans Health Administration Timely and Effective Care Data, 28-Feb-2019,Open/Close list applied
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-Facility/4jcv-atw7,Ambulatory Surgical Measures-Facility,31-Oct-18,No updates
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-National/wue8-3vwe ,Ambulatory Surgical Measures-National,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-State/axe7-s95e,Ambulatory Surgical Measures-State,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Cancer-Treatment-Measures-PPS-Exempt-Cancer-Hospit/42wc-33ci,Cancer Treatment Measures- PPS-Excempt Cancer Hospital,31-Oct-18,Data Refreshed
+ https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-Hospital/ynj2-r877,Complications and Deaths- Hospital,31-Oct-18,"New Data VA- MORT-30 COPD, VA-READ-30-COPD"
+https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-National/qqw3-t4ie,Complications and Deaths - National,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-State/bs2r-24vh,Complications and Deaths- State,31-Oct-18,Open/Closed list applied
+https://data.medicare.gov/Hospital-Compare/Comprehensive-Care-For-Joint-Replacement-Model-Pro/tqkv-mgxq,Comprehensive Care For Joint Replacement Model - Provider Data,31-Oct-18,Open/Closed list applied
+https://data.medicare.gov/Hospital-Compare/Data-Updates/bzsr-4my4,Data Updates,31-Oct-18,Open/Closed list applied
+https://data.medicare.gov/Hospital-Compare/Department-of-Defense-Timely-Effective-Care-Data-m/azt5-rvvx,Department of Defense Timely &Effective Care Data- military hospitals,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Department-of-Defense-TRICARE-Inpatient-Satisfacti/5ff8-7qi2,Department of Defense TRICARE Inpatient Satisfaction Survey (TRISS) Data- military hospitals,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Footnote-Crosswalk/y9us-9xdf,Footnote Crosswalk,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-Hospital/77hc-ibv8,Healthcare Associated Infections - Hospital,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-National/yd3s-jyhd,Healthcare Associated Infections - National,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-State/k2ze-bqvw,Healthcare Associated Infections - State,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Acquired-Condition-Reduction-Program/yq43-i98g,Hospital-Acquired Condition Reduction Program,31-Oct-18,Data Refreshed except IMM-2
+https://data.medicare.gov/Hospital-Compare/Hospital-ACS-Measures/akfs-5dgr,Hospital ACS Measures,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Compare-CASPER-ASPEN-Contacts/su86-ag6b,Hospital Compare- Casper/ASPEN Contacts,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-General-Information/xubh-q36u,Hospital General Information,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Readmissions-Reduction-Program/9n3s-kdb3,Hospital Readmissions Reduction Program,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Clinical-Care/pudb-wetr,Hospital Value-Based Purchasing (HVBP)- Clinical Care Domain Scores,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Efficiency-Sc/su9h-3pvj,Hospital Value-Based Purchasing (HVBP)- Efficiency Scores,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Patient-Exper/avtz-f2ge,Hospital Value-Based Purchasing (HVBP)- Patient Experience of Care Domain Scores (HCAHPS),31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Safety/dgmq-aat3,Hospital Value-Based Purchasing (HVBP)- Safety,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Total-Perform/ypbt-wvdk,Hospital Value-Based Purchasing (HVBP)- Total Performance Score,31-Oct-18,Open/Closed list applied
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Follow-Up-After-Hos/698s-bszb,Inpatient Psychiatric Facility Follow-Up After Hospitalization for Mental Illness (FUH) Quality Measure Data – by Facility,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Follow-Up-After-Hos/wmm7-vj54,Inpatient Psychiatric Facility Follow-Up After Hospitalization for Mental Illness (FUH) Quality Measure Data – by State,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Follow-Up-After-Hos/twwm-t8ug,Inpatient Psychiatric Facility Follow-Up After Hospitalization for Mental Illness (FUH) Quality Measure Data – National,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/q9vs-r7wp,Inpatient Psychiatric Facility Quality Measure Data – by Facility,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/dc76-gh7x,Inpatient Psychiatric Facility Quality Measure Data – by State,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/s5xg-sys6,Inpatient Psychiatric Facility Quality Measure Data – National ,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Measure-Dates/4j6d-yzce,Measure Dates,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-by-Claim/nrth-mfg3,Medicare Hospital Spending by Claim,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-Hospital/rrqw-56er,Medicare Spending Per Beneficiary – Hospital,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-hospital-spending-per-patient-Medicare-Sp/5hk7-b79m,Medicare Spending Per Beneficiary – Hospital Additional Decimal Places,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-National/3n5g-6b7f,Medicare Spending Per Beneficiary– National,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-State/rs6n-9qwg,Medicare Spending Per Beneficiary – State,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Oncology-Care-Measures-PPS-Exempt-Cancer-Hospital/g3fg-3myg,Oncology Care Measures-PPS- Excempt Cancer Hospital,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-CAHPS-Survey-Foo/e6hj-umam,Outpatient and Ambulatory Surgery CAHPS Survey Footnotes,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-CAHPS-Survey-mea/xzuw-fups,Outpatient and Ambulatory Surgery CAHPS Survey measure label crosswalk,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/48nr-hqxx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers – Facility ,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/tf3h-mrrs,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - National,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/x663-bwbj,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - State,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/yizn-abxn,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - Facility,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/s5pj-hua3,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - National,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/6pfg-whmx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - State,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-Hospital/wkfw-kthe,Outpatient Imaging Efficiency - Hospital,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-National/di9i-zzrc,Outpatient Imaging Efficiency - National,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-State/if5v-4x48,Outpatient Imaging Efficiency - State,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Outpatient-Procedures-Volume/xbz4-gvaz,Outpatient Procedures - Volume,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-Hospital/dgck-syfz,Patient survey (HCAHPS) - Hospital,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-National/nsaf-d4nh/data,Patient survey (HCAHPS)  - National.csv,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-State/499t-8gqf/data,Patient survey (HCAHPS) - State.csv,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/iy27-wz37,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - Hospital ,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/9g7e-btyt,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - National,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/qatj-nmws,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - State,31-Oct-18,Open/Closed list applied
+https://data.medicare.gov/Hospital-Compare/Payment-and-value-of-care-Hospital/c7us-v4mf,Payment and Value of Care - Hospital,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Payment-National/ygty-mm5a,Payment - National,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Payment-State/98ix-2iqy,Payment - State,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Prospective-Payment-System-PPS-Exempt-Cancer-Hospi/p7bc-fjpi,Prospective Payment System (PPS)-Exempt Cancer Hospital Quality Reporting (PCHQR) ,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/PSI-90-and-Component-Measures-Six-Digit-Precision/muwa-iene,PSI 90 and Component Measures - Six-Digit Precision,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Structural-Measures-Hospital/4hje-vua3,Structural Measures - Hospital,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Table-2-FY2016-Distribution-of-Net-Change-in-Base-/xrgf-x36b,Table 1: FY2016 Net Change in Base Operating DRG Payment Amount,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Table-1-FY2016-Net-Change-in-Base-Operating-DRG-Pa/5gv4-jwyv,Table 2: FY2016 Distribution of Net Change in Base Operating DRG Payment Amount,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Table-3-FY2016-Percent-Change-in-Medicare-Payments/u625-zae7,Table 3: FY2016 Percent Change in Medicare Payments,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Table-4-FY2016-Value-Based-Incentive-Payment-Amoun/vtqa-m4zn,Table 4: FY2016 Value-Based Incentive Payment Amount,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-Hospital/yv7e-xc69,Timely and effective care - Hospital,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-National/isrn-hqyy,Timely and Effective Care - National,31-Oct-18,"Open/Closed list applied, ACS- Registry Data Refreshed"
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-State/apyc-v239,Timely and Effective Care - State,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-Hospital/632h-zaca,Unplanned Hospital Visits - Hospital,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-National/cvcs-xecj,Unplanned Hospital Visits - National ,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-State/4gkm-5ypv,Unplanned Hospital Visits - State,31-Oct-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Value-of-care-National/gbq5-7hzr,Value of Care- National,31-Oct-18,"Data Refreshed except IMM-2,EDV-1, Open/Close list applied to IMM-3/OP-27, OP-33, OP-22, OP-29, OP-30"
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Behavioral-Health-D/6qxe-iqz8,Veterans Health Administration Behavioral Health Data,31-Oct-18,"Data Refreshed except IMM-2,EDV-1, Open/Close list applied to IMM-3/OP-27, OP-33, OP-22, OP-29, OP-30"
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Measure-Dates/4aav-bsmy,Veterans Health Administration Measure Dates,31-Oct-18,Data Refreshed except IMM-2
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Patient-Safety-Indi/esr2-9zyn,Veterans Health Administration Patient Safety Indicators Data,31-Oct-18,"Data Refreshed, Open/Close List applied  OP-32, New Measure EDAC-30-PN"
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Provider-Level-Data/uyx4-5s7f,Veterans Health Administration Provider Level Data,31-Oct-18,"Data Refreshed, Open/Close List applied  OP-32, New Measure EDAC-30-PN"
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Readmissions-and-De/94w6-h55e,Veterans Health Administration Readmissions and Deaths COPD Data,31-Oct-18,"Data Refreshed, Open/Close List applied  OP-32, New Measure EDAC-30-PN"
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Timely-and-Effectiv/ptds-r8im,Veterans Health Administration Timely and Effective Care Data,31-Oct-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-Facility/4jcv-atw7,Ambulatory Surgical Measures-Facility,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-National/wue8-3vwe ,Ambulatory Surgical Measures-National,25-Jul-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-State/axe7-s95e,Ambulatory Surgical Measures-State,25-Jul-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Cancer-Treatment-Measures-PPS-Exempt-Cancer-Hospit/42wc-33ci,Cancer Treatment Measures- PPS-Excempt Cancer Hospital,25-Jul-18,Data Refreshed
+ https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-Hospital/ynj2-r877,Complications and Deaths- Hospital,25-Jul-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-National/qqw3-t4ie,Complications and Deaths - National,25-Jul-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Complications-and-Deaths-State/bs2r-24vh,Complications and Deaths- State,25-Jul-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Comprehensive-Care-For-Joint-Replacement-Model-Pro/tqkv-mgxq,Comprehensive Care For Joint Replacement Model - Provider Data,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Data-Updates/bzsr-4my4,Data Updates,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Department-of-Defense-Timely-Effective-Care-Data-m/azt5-rvvx,Department of Defense Timely &Effective Care Data- military hospitals,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Department-of-Defense-TRICARE-Inpatient-Satisfacti/5ff8-7qi2,Department of Defense TRICARE Inpatient Satisfaction Survey (TRISS) Data- military hospitals,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Footnote-Crosswalk/y9us-9xdf,Footnote Crosswalk,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-Hospital/77hc-ibv8,Healthcare Associated Infections - Hospital,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-National/yd3s-jyhd,Healthcare Associated Infections - National,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-State/k2ze-bqvw,Healthcare Associated Infections - State,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-Acquired-Condition-Reduction-Program/yq43-i98g,Hospital-Acquired Condition Reduction Program,25-Jul-18,Data Refreshed
+https://data.medicare.gov/Hospital-Compare/Hospital-ACS-Measures/akfs-5dgr,Hospital ACS Measures,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-Compare-CASPER-ASPEN-Contacts/su86-ag6b,Hospital Compare- Casper/ASPEN Contacts,25-Jul-18,"Data Refreshed, H_COMP_4_A_P  & H_COMP_4_STAR_RATING suppressed with Not Available and FN5. The Centers for Medicare & Medicaid Services (CMS) has suppressed the HCAHPS Pain Management composite scores on Hospital Compare and in the downloadable databases. In July, CMS is planning to remove the Pain Management composite from Hospital Compare and downloadable databases, and exclude it from the calculation of the HCAHPS Summary Star Rating and the Hospital Compare Overall Hospital Quality Star Rating."
+https://data.medicare.gov/Hospital-Compare/Hospital-General-Information/xubh-q36u,Hospital General Information,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-Readmissions-Reduction-Program/9n3s-kdb3,Hospital Readmissions Reduction Program,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Clinical-Care/pudb-wetr,Hospital Value-Based Purchasing (HVBP)- Clinical Care Domain Scores,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Efficiency-Sc/su9h-3pvj,Hospital Value-Based Purchasing (HVBP)- Efficiency Scores,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Patient-Exper/avtz-f2ge,Hospital Value-Based Purchasing (HVBP)- Patient Experience of Care Domain Scores (HCAHPS),25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Safety/dgmq-aat3,Hospital Value-Based Purchasing (HVBP)- Safety,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Total-Perform/ypbt-wvdk,Hospital Value-Based Purchasing (HVBP)- Total Performance Score,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Follow-Up-After-Hos/698s-bszb,Inpatient Psychiatric Facility Follow-Up After Hospitalization for Mental Illness (FUH) Quality Measure Data – by Facility,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Follow-Up-After-Hos/wmm7-vj54,Inpatient Psychiatric Facility Follow-Up After Hospitalization for Mental Illness (FUH) Quality Measure Data – by State,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Follow-Up-After-Hos/twwm-t8ug,Inpatient Psychiatric Facility Follow-Up After Hospitalization for Mental Illness (FUH) Quality Measure Data – National,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/q9vs-r7wp,Inpatient Psychiatric Facility Quality Measure Data – by Facility,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/dc76-gh7x,Inpatient Psychiatric Facility Quality Measure Data – by State,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/s5xg-sys6,Inpatient Psychiatric Facility Quality Measure Data – National ,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Measure-Dates/4j6d-yzce,Measure Dates,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-by-Claim/nrth-mfg3,Medicare Hospital Spending by Claim,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-Hospital/rrqw-56er,Medicare Spending Per Beneficiary – Hospital,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-hospital-spending-per-patient-Medicare-Sp/5hk7-b79m,Medicare Spending Per Beneficiary – Hospital Additional Decimal Places,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-National/3n5g-6b7f,Medicare Spending Per Beneficiary– National,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-State/rs6n-9qwg,Medicare Spending Per Beneficiary – State,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Oncology-Care-Measures-PPS-Exempt-Cancer-Hospital/g3fg-3myg,Oncology Care Measures-PPS- Excempt Cancer Hospital,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-CAHPS-Survey-Foo/e6hj-umam,Outpatient and Ambulatory Surgery CAHPS Survey Footnotes,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-CAHPS-Survey-mea/xzuw-fups,Outpatient and Ambulatory Surgery CAHPS Survey measure label crosswalk,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/48nr-hqxx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers – Facility ,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/tf3h-mrrs,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - National,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/x663-bwbj,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - State,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/yizn-abxn,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - Facility,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/s5pj-hua3,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - National,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/6pfg-whmx,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - State,25-Jul-18,"Data Refreshed, DI3_T, DI3_M, & DI3_B removed. The Centers for Medicare & Medicaid Services (CMS) has suppressed the OAS CAHPS Pain Management composite measure on Hospital Compare and in the downloadable databases. In July, CMS is planning to remove the Pain Management composite from Hospital Compare and downloadable databases, and exclude it from the calculation of the HCAHPS Summary Star Rating and the Hospital Compare Overall Hospital Quality Star Rating."
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-Hospital/wkfw-kthe,Outpatient Imaging Efficiency - Hospital,25-Jul-18,"Data Refreshed, DI3_T, DI3_M, & DI3_B removed. The Centers for Medicare & Medicaid Services (CMS) has suppressed the OAS CAHPS Pain Management composite measure on Hospital Compare and in the downloadable databases. In July, CMS is planning to remove the Pain Management composite from Hospital Compare and downloadable databases, and exclude it from the calculation of the HCAHPS Summary Star Rating and the Hospital Compare Overall Hospital Quality Star Rating."
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-National/di9i-zzrc,Outpatient Imaging Efficiency - National,25-Jul-18,"Data Refreshed, DI3_T, DI3_M, & DI3_B removed. The Centers for Medicare & Medicaid Services (CMS) has suppressed the OAS CAHPS Pain Management composite measure on Hospital Compare and in the downloadable databases. In July, CMS is planning to remove the Pain Management composite from Hospital Compare and downloadable databases, and exclude it from the calculation of the HCAHPS Summary Star Rating and the Hospital Compare Overall Hospital Quality Star Rating."
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-State/if5v-4x48,Outpatient Imaging Efficiency - State,25-Jul-18,"Data Refreshed, DI3_T, DI3_M, & DI3_B removed. The Centers for Medicare & Medicaid Services (CMS) has suppressed the OAS CAHPS Pain Management composite measure on Hospital Compare and in the downloadable databases. In July, CMS is planning to remove the Pain Management composite from Hospital Compare and downloadable databases, and exclude it from the calculation of the HCAHPS Summary Star Rating and the Hospital Compare Overall Hospital Quality Star Rating."
+https://data.medicare.gov/Hospital-Compare/Outpatient-Procedures-Volume/xbz4-gvaz,Outpatient Procedures - Volume,25-Jul-18,"Data Refreshed, DI3_T, DI3_M, & DI3_B removed. The Centers for Medicare & Medicaid Services (CMS) has suppressed the OAS CAHPS Pain Management composite measure on Hospital Compare and in the downloadable databases. In July, CMS is planning to remove the Pain Management composite from Hospital Compare and downloadable databases, and exclude it from the calculation of the HCAHPS Summary Star Rating and the Hospital Compare Overall Hospital Quality Star Rating."
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-Hospital/dgck-syfz,Patient survey (HCAHPS) - Hospital,25-Jul-18,"Data Refreshed, DI3_T, DI3_M, & DI3_B removed. The Centers for Medicare & Medicaid Services (CMS) has suppressed the OAS CAHPS Pain Management composite measure on Hospital Compare and in the downloadable databases. In July, CMS is planning to remove the Pain Management composite from Hospital Compare and downloadable databases, and exclude it from the calculation of the HCAHPS Summary Star Rating and the Hospital Compare Overall Hospital Quality Star Rating."
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-National/nsaf-d4nh/data,Patient survey (HCAHPS)  - National.csv,25-Jul-18,"Data Refreshed, DI3_T, DI3_M, & DI3_B removed. The Centers for Medicare & Medicaid Services (CMS) has suppressed the OAS CAHPS Pain Management composite measure on Hospital Compare and in the downloadable databases. In July, CMS is planning to remove the Pain Management composite from Hospital Compare and downloadable databases, and exclude it from the calculation of the HCAHPS Summary Star Rating and the Hospital Compare Overall Hospital Quality Star Rating."
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-State/499t-8gqf/data,Patient survey (HCAHPS) - State.csv,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/iy27-wz37,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - Hospital ,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/9g7e-btyt,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - National,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/qatj-nmws,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - State,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Payment-and-value-of-care-Hospital/c7us-v4mf,Payment and Value of Care - Hospital,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Payment-National/ygty-mm5a,Payment - National,25-Jul-18,"Data Refreshed,H_COMP_4_A_P, H_COMP_4_LINEAR_SCORE, H_COMP_4_SN_P, & H_COMP_4_STAR_RATING,  suppressed with Not Available and FN5. The Centers for Medicare & Medicaid Services (CMS) has suppressed the HCAHPS Pain Management composite scores on Hospital Compare and in the downloadable databases. In July, CMS is planning to remove the Pain Management composite from Hospital Compare and downloadable databases, and exclude it from the calculation of the HCAHPS Summary Star Rating and the Hospital Compare Overall Hospital Quality Star Rating."
+https://data.medicare.gov/Hospital-Compare/Payment-State/98ix-2iqy,Payment - State,25-Jul-18,"Data Refreshed,H_COMP_4_A_P, H_COMP_4_LINEAR_SCORE, H_COMP_4_SN_P, & H_COMP_4_STAR_RATING,  suppressed with Not Available and FN5. The Centers for Medicare & Medicaid Services (CMS) has suppressed the HCAHPS Pain Management composite scores on Hospital Compare and in the downloadable databases. In July, CMS is planning to remove the Pain Management composite from Hospital Compare and downloadable databases, and exclude it from the calculation of the HCAHPS Summary Star Rating and the Hospital Compare Overall Hospital Quality Star Rating."
+https://data.medicare.gov/Hospital-Compare/Prospective-Payment-System-PPS-Exempt-Cancer-Hospi/p7bc-fjpi,Prospective Payment System (PPS)-Exempt Cancer Hospital Quality Reporting (PCHQR) ,25-Jul-18,"Data Refreshed,H_COMP_4_A_P, H_COMP_4_LINEAR_SCORE, H_COMP_4_SN_P, & H_COMP_4_STAR_RATING,  suppressed with Not Available and FN5.The Centers for Medicare & Medicaid Services (CMS) has suppressed the HCAHPS Pain Management composite scores on Hospital Compare and in the downloadable databases. In July, CMS is planning to remove the Pain Management composite from Hospital Compare and downloadable databases, and exclude it from the calculation of the HCAHPS Summary Star Rating and the Hospital Compare Overall Hospital Quality Star Rating."
+https://data.medicare.gov/Hospital-Compare/PSI-90-and-Component-Measures-Six-Digit-Precision/muwa-iene,PSI 90 and Component Measures - Six-Digit Precision,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Structural-Measures-Hospital/4hje-vua3,Structural Measures - Hospital,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Table-2-FY2016-Distribution-of-Net-Change-in-Base-/xrgf-x36b,Table 1: FY2016 Net Change in Base Operating DRG Payment Amount,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Table-1-FY2016-Net-Change-in-Base-Operating-DRG-Pa/5gv4-jwyv,Table 2: FY2016 Distribution of Net Change in Base Operating DRG Payment Amount,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Table-3-FY2016-Percent-Change-in-Medicare-Payments/u625-zae7,Table 3: FY2016 Percent Change in Medicare Payments,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Table-4-FY2016-Value-Based-Incentive-Payment-Amoun/vtqa-m4zn,Table 4: FY2016 Value-Based Incentive Payment Amount,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-Hospital/yv7e-xc69,Timely and effective care - Hospital,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-National/isrn-hqyy,Timely and Effective Care - National,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-State/apyc-v239,Timely and Effective Care - State,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-Hospital/632h-zaca,Unplanned Hospital Visits - Hospital,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-National/cvcs-xecj,Unplanned Hospital Visits - National ,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-State/4gkm-5ypv,Unplanned Hospital Visits - State,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Value-of-care-National/gbq5-7hzr,Value of Care- National,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Behavioral-Health-D/6qxe-iqz8,Veterans Health Administration Behavioral Health Data,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Measure-Dates/4aav-bsmy,Veterans Health Administration Measure Dates,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Patient-Safety-Indi/esr2-9zyn,Veterans Health Administration Patient Safety Indicators Data,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Provider-Level-Data/uyx4-5s7f,Veterans Health Administration Provider Level Data,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Readmissions-and-De/5wyb-858x,Veterans Health Administration Readmissions and Deaths Data,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Survey-of-Healthcar/gesg-pgbr,Veterans Health Administration Survey of Healthcare Experiences of Patients (SHEP),25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Timely-and-Effectiv/ptds-r8im,Veterans Health Administration Timely and Effective Care Data,25-Jul-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-Facility/4jcv-atw7,Ambulatory Surgical Measures-Facility,23-May-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-National/wue8-3vwe,Ambulatory Surgical Measures-National,23-May-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Measures-State/axe7-s95e,Ambulatory Surgical Measures-State,23-May-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Cancer-Treatment-Measures-PPS-Exempt-Cancer-Hospit/42wc-33ci,Cancer Treatment Measures- PPS-Except Cancer Hospital,23-May-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Complications-Hospital/632h-zaca ,Complications - Hospital,23-May-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Complications-National/cvcs-xecj ,Complications - National,23-May-18,"Data Refreshed, H_COMP_4_A_P  suppressed with Not Available and FN5.The Centers for Medicare & Medicaid Services (CMS) has suppressed the HCAHPS Pain Management composite scores on Hospital Compare and in the downloadable databases. In July, CMS is planning to remove the Pain Management composite from Hospital Compare and downloadable databases, and exclude it from the calculation of the HCAHPS Summary Star Rating and the Hospital Compare Overall Hospital Quality Star Rating."
+https://data.medicare.gov/Hospital-Compare/Complications-State/4gkm-5ypv ,Complications - State,23-May-18,No Updates
+https://data.medicare.gov/Hospital-Compare/Comprehensive-Care-For-Joint-Replacement-Model-Pro/tqkv-mgxq,Comprehensive Care For Joint Replacement Model - Provider Data,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Data-Updates/bzsr-4my4,Data Updates,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Department-of-Defense-Timely-Effective-Care-Data-m/azt5-rvvx,Department of Defense Timely and Effective Care -military hospitals ,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Department-of-Defense-TRICARE-Inpatient-Satisfacti/wmnb-m794/data,Department of Defense TRICARE Inpatient Satisfaction Survey (TRISS) Data - military hospitals ,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Footnote-Crosswalk/y9us-9xdf,Footnote Crosswalk,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-Hospital/77hc-ibv8,Healthcare Associated Infections - Hospital,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-National/yd3s-jyhd,Healthcare Associated Infections - National,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Healthcare-Associated-Infections-State/k2ze-bqvw,Healthcare Associated Infections - State,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Hospital-Acquired-Condition-Reduction-Program/yq43-i98g,Hospital-Acquired Condition Reduction Program,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Hospital-ACS-Measures/akfs-5dgr,Hospital ACS Measures,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Hospital-Compare-CASPER-ASPEN-Contacts/qb57-pstg,Hospital Compare - CASPER / ASPEN Contacts,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Hospital-General-Information/xubh-q36u,Hospital General Information,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Hospital-Readmissions-Reduction-Program/9n3s-kdb3,Hospital Readmissions Reduction Program ,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Clinical-Care/pudb-wetr,Hospital Value Based Purchasing (HVBP) - Clinical Care Domain Scores,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Efficiency-Sc/su9h-3pvj,Hospital Value Based Purchasing (HVBP) - Efficiency Scores,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Patient-Exper/avtz-f2ge,Hospital Value Based Purchasing (HVBP) - Patient Experience of Care Domain Scores HCAHPS Scores,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Safety/dgmq-aat3,Hospital Value Based Purchasing (HVBP) - Safety,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Hospital-Value-Based-Purchasing-HVBP-Total-Perform/ypbt-wvdk,Hospital Value Based Purchasing (HVBP) - Total Performance Score,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Follow-Up-After-Hos/698s-bszb,Inpatient Psychiatric Facility Follow-Up After Hospitalization for Mental Illness (FUH) Quality Measure Data – by Facility,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Follow-Up-After-Hos/wmm7-vj54,Inpatient Psychiatric Facility Follow-Up After Hospitalization for Mental Illness (FUH) Quality Measure Data – by State,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Follow-Up-After-Hos/twwm-t8ug,Inpatient Psychiatric Facility Follow-Up After Hospitalization for Mental Illness (FUH) Quality Measure Data – National,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/q9vs-r7wp,Inpatient Psychiatric Facility Quality Measure Data – by Facility,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/dc76-gh7x,Inpatient Psychiatric Facility Quality Measure Data – by State,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Inpatient-Psychiatric-Facility-Quality-Measure-Dat/s5xg-sys6,Inpatient Psychiatric Facility Quality Measure Data – National ,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Measure-Dates/4j6d-yzce,Measure Dates,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-by-Claim/nrth-mfg3,Medicare Hospital Spending by Claim,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-Hospital/rrqw-56er,Medicare Hospital Spending per Patient - Hospital,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-National/3n5g-6b7f,Medicare Hospital Spending per Patient - National,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Medicare-Hospital-Spending-Per-Patient-State/rs6n-9qwg,Medicare Hospital Spending per Patient - State,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Medicare-hospital-spending-per-patient-Medicare-Sp/5hk7-b79m,Medicare hospital spending per patient (Medicare Spending per Beneficiary) – Additional Decimal Places,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-CAHPS-Survey-Foo/e6hj-umam/data,Outpatient and Ambulatory Surgery CAHPS Survey Footnotes,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-CAHPS-Survey-mea/2sfk-v3kq/data ,Outpatient and Ambulatory Surgery CAHPS Survey measure label crosswalk,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/xsg2-62pu/data,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers – Facility ,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/9hix-fvys/data,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - National,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/5u3r-7s8u/data,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - State,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/x6ps-q4ev/data,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - Facility,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/tjgc-v9e8/data#column-menu,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - National,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Outpatient-and-Ambulatory-Surgery-Consumer-Assessm/65me-xdw2/data,Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - State,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Oncology-Care-Measures-PPS-Exempt-Cancer-Hospital/g3fg-3myg,Oncology Care Measures-PPS- Excempt Cancer Hospital,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-Hospital/wkfw-kthe,Outpatient Imaging Efficiency - Hospital,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-National/di9i-zzrc,Outpatient Imaging Efficiency - National,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Outpatient-Imaging-Efficiency-State/if5v-4x48,Outpatient Imaging Efficiency - State,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Outpatient-Procedures-Volume/xbz4-gvaz,Outpatient Procedures - Volume,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-Hospital/i37y-6y5d/data,Patient survey (HCAHPS) - Hospital,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-National/nsaf-d4nh/data,Patient survey (HCAHPS)  - National.csv,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-State/499t-8gqf/data,Patient survey (HCAHPS) - State.csv,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/iy27-wz37,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - Hospital ,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/9g7e-btyt,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - National,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Patient-Survey-PCH-HCAHPS-PPS-exempt-Cancer-Hospit/qatj-nmws,Patient Survey (PCH - HCAHPS) PPS-exempt Cancer Hospital - State,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Payment-and-value-of-care-Hospital/c7us-v4mf,Payment and Value of Care - Hospital,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Payment-National/ygty-mm5a,Payment - National,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Payment-State/98ix-2iqy,Payment - State,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Prospective-Payment-System-PPS-Exempt-Cancer-Hospi/p7bc-fjpi,Prospective Payment System (PPS)-Exempt Cancer Hospital Quality Reporting (PCHQR) ,23-May-18,
+https://data.medicare.gov/Hospital-Compare/PSI-90-and-Component-Measures-Six-Digit-Precision/muwa-iene,PSI 90 and Component Measures - Six-Digit Precision,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Structural-Measures-Hospital/4hje-vua3,Structural Measures - Hospital,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Table-1-FY2016-Net-Change-in-Base-Operating-DRG-Pa/5gv4-jwyv,Table 1: FY2016 Net Change in Base Operating DRG Payment Amount,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Table-2-FY2016-Distribution-of-Net-Change-in-Base-/xrgf-x36b,Table 2: FY2016 Distribution of Net Change in Base Operating DRG Payment Amount,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Table-3-FY2016-Percent-Change-in-Medicare-Payments/u625-zae7,Table 3: FY2016 Percent Change in Medicare Payments,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Table-4-FY2016-Value-Based-Incentive-Payment-Amoun/vtqa-m4zn,Table 4: FY2016 Value-Based Incentive Payment Amount,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-Hospital/yv7e-xc69,Timely and effective care - Hospital,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-National/isrn-hqyy,Timely and Effective Care - National,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Timely-and-Effective-Care-State/apyc-v239,Timely and Effective Care- State,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-Hospital/632h-zaca,Unplanned Hospital Visits - Hospital,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-National/cvcs-xecj,Unplanned Hospital Visits - National ,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Unplanned-Hospital-Visits-State/4gkm-5ypv,Unplanned Hospital Visits - State,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Value-of-care-National/gbq5-7hzr,Value of Care- National,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Behavioral-Health-D/6qxe-iqz8,Veterans Health Administration Behavioral Health Data,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Measure-Dates/4aav-bsmy,Veterans Health Administration Measure Dates,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Patient-Safety-Indi/esr2-9zyn,Veterans Health Administration Patient Safety Indicators Data,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Provider-Level-Data/uyx4-5s7f,Veterans Health Administration Provider Level Data,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Readmissions-and-De/5wyb-858x,Veterans Health Administration Readmissions and Deaths Data,23-May-18,
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Survey-of-Healthcar/sf3b-nhhk/data,Veterans Health Administration Survey of Healthcare Experiences of Patients (SHEP),23-May-18,
+https://data.medicare.gov/Hospital-Compare/Veterans-Health-Administration-Timely-and-Effectiv/ptds-r8im,Veterans Health Administration Timely and Effective Care Data,23-May-18,
