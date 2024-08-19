@@ -1,0 +1,7 @@
+"Measure ID","Measure Name","Score","Footnote","Start Date","End Date"
+HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),1,,10/01/2022,09/30/2023
+HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),1,,10/01/2022,09/30/2023
+HAI_3_SIR,SSI - Colon Surgery,1,,10/01/2022,09/30/2023
+HAI_4_SIR,SSI - Abdominal Hysterectomy,1,,10/01/2022,09/30/2023
+HAI_5_SIR,MRSA Bacteremia,1,,10/01/2022,09/30/2023
+HAI_6_SIR,Clostridium Difficile (C.Diff),1,,10/01/2022,09/30/2023

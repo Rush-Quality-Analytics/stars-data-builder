@@ -1,0 +1,33 @@
+"Footnote","Footnote Text"
+1,The number of cases/patients is too few to report.
+2,Data submitted were based on a sample of cases/patients.
+3,Results are based on a shorter time period than required.
+4,Data suppressed by CMS for one or more quarters.
+5,Results are not available for this reporting period.
+6,"Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance."
+7,No cases met the criteria for this measure.
+8,The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.
+9,No data are available from the state/territory for this reporting period.
+10,"Very few patients were eligible for the HCAHPS survey. The scores shown reflect fewer than 50 completed surveys. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance."
+11,There were discrepancies in the data collection process.
+12,This measure does not apply to this hospital for this reporting period.
+13,Results cannot be calculated for this reporting period.
+14,The results for this state are combined with nearby states to protect confidentiality.
+15,The number of cases/patients is too few to report a star rating.
+16,There are too few measures or measure groups reported to calculate a star rating or measure group score.
+17,This hospital's star rating only includes data reported on inpatient services.
+18,This result is not based on performance data; the hospital did not submit data and did not submit an HAI exemption form.
+19,Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs.
+20,State and national averages do not include Veterans Health Administration (VHA) hospital data.
+21,Patient survey results for Veterans Health Administration (VHA) hospitals do not represent official HCAHPS results and are not included in state and national averages.
+22,Overall star ratings are not calculated for Veterans Health Administration (VHA) or Department of Defense (DoD) hospitals.
+23,The data are based on claims that the hospital or facility submitted to CMS. The hospital or facility has reported discrepancies in their claims data.
+24,Results for this Veterans Health Administration (VHA) hospital are combined with those from the VHA administrative parent hospital that manages all points of service.
+25,State and national averages include Veterans Health Administration (VHA) hospital data.
+26,State and national averages include Department of Defense (DoD) hospital data.
+27,Retired
+28,The results are based on the hospital or facility's data submissions. CMS approved the hospital or facility's Extraordinary Circumstances Exception request suggesting that results may be impacted.
+a,Maryland hospitals are waived from receiving payment adjustments under the Program.
+*,"For Maryland hospitals, no data are available to calculate a PSI 90 measure result; therefore, no performance decile or points are assigned for Domain 1 and the Total HAC score is dependent on the Domain 2 score."
+**,This value was calculated using data reported by the hospital in compliance with the requirements outlined for this program and does not take into account information that became available at a later date.
+***,The data provided reflect the 2021 Overall Star Ratings. These data results will be updated for this hospital in the subsequent Overall Star Rating refresh.
