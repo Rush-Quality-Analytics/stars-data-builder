@@ -1,0 +1,57 @@
+"State","Patients who reported that staff definitely gave care in a professional way and the facility was clean","Patients who reported that staff somewhat gave care in a professional way or the facility was somewhat clean","Patients who reported that staff did not give care in a professional way or the facility was not clean","Facilities and staff linear mean score","Patients who reported that staff definitely communicated about what to expect during and after the procedure","Patients who reported that staff somewhat communicated about what to expect during and after the procedure","Patients who reported that staff did not communicate about what to expect during and after the procedure","Communication about your procedure linear mean score","Patients who gave the facility a rating of 9 or 10 on a scale from 0 (lowest) to 10 (highest)","Patients who gave the facility a rating of 7 or 8 on a scale from 0 (lowest) to 10 (highest)","Patients who gave the facility a rating of 0 to 6 on a scale from 0 (lowest) to 10 (highest)","Patients’ rating of the facility linear mean score","Patients who reported YES they would DEFINITELY recommend the facility to family or friends","Patients who reported PROBABLY YES they would recommend the facility to family or friends","Patients who reported NO, they would not recommend the facility to family or friends","Patients recommending the facility linear mean score","Number of Sampled Patients","Number of Completed Surveys","Survey Response Rate Percent","Start Date","End Date"
+Alabama,97,3,0,98,92,6,2,95,89,9,2,95,88,10,2,95,4287,1068,26,01/01/2021,12/31/2021
+Alaska,,,,,,,,,,,,,,,,,,,,,
+American Samoa,,,,,,,,,,,,,,,,,,,,,
+Arizona,97,3,0,98,91,7,2,95,89,9,2,95,86,12,2,94,19802,4908,25,01/01/2021,12/31/2021
+Arkansas,,,,,,,,,,,,,,,,,,,,,
+California,97,3,0,98,90,8,2,94,88,10,2,95,86,12,2,94,55729,14888,27,01/01/2021,12/31/2021
+Colorado,97,3,0,99,91,8,1,95,88,10,2,95,86,12,2,94,15532,4071,26,01/01/2021,12/31/2021
+Commonwealth of the Northern Marianas Islands,,,,,,,,,,,,,,,,,,,,,
+Connecticut,98,2,0,99,90,9,1,94,85,14,1,95,84,14,2,94,996,269,27,01/01/2021,12/31/2021
+Delaware,,,,,,,,,,,,,,,,,,,,,
+District of Columbia,,,,,,,,,,,,,,,,,,,,,
+Florida,97,3,0,98,91,7,2,95,89,9,2,95,87,11,2,95,34611,11292,33,01/01/2021,12/31/2021
+Georgia,97,3,0,98,92,6,2,95,91,7,2,96,90,8,2,95,16522,3926,24,01/01/2021,12/31/2021
+Guam,,,,,,,,,,,,,,,,,,,,,
+Hawaii,99,1,0,99,93,5,2,96,90,8,2,96,89,10,1,96,3764,1311,35,01/01/2021,12/31/2021
+Idaho,98,2,0,99,92,7,1,96,91,7,2,96,88,10,2,96,2314,615,30,01/01/2021,12/31/2021
+Illinois,98,2,0,99,91,7,2,95,88,10,2,95,86,13,1,94,9372,2933,31,01/01/2021,12/31/2021
+Indiana,99,0,1,99,92,6,2,95,92,6,2,96,89,9,2,96,1401,494,35,01/01/2021,12/31/2021
+Iowa,97,2,1,98,90,8,2,95,86,10,4,93,85,13,2,94,5488,1755,32,01/01/2021,12/31/2021
+Kansas,99,1,0,99,90,7,3,94,91,8,1,96,88,11,1,95,988,387,39,01/01/2021,12/31/2021
+Kentucky,,,,,,,,,,,,,,,,,,,,,
+Louisiana,97,3,0,99,91,7,2,95,89,9,2,95,88,10,2,95,8742,2253,26,01/01/2021,12/31/2021
+Maine,98,2,0,99,93,6,1,96,93,5,2,96,91,7,2,96,691,218,32,01/01/2021,12/31/2021
+Maryland,97,3,0,98,92,7,1,96,88,10,2,95,85,12,3,94,13532,3075,23,01/01/2021,12/31/2021
+Massachusetts,98,2,0,99,93,5,2,96,89,10,1,95,85,14,1,95,989,356,36,01/01/2021,12/31/2021
+Michigan,97,3,0,98,90,8,2,94,89,9,2,95,86,13,1,95,11484,3448,31,01/01/2021,12/31/2021
+Minnesota,99,1,0,99,93,6,1,96,91,7,2,96,86,13,1,95,4880,1589,33,01/01/2021,12/31/2021
+Mississippi,97,2,1,98,92,7,1,95,91,8,1,96,91,8,1,97,4321,1149,27,01/01/2021,12/31/2021
+Missouri,98,2,0,99,92,7,1,95,91,7,2,96,87,11,2,95,21026,6765,32,01/01/2021,12/31/2021
+Montana,96,3,1,98,89,9,2,93,88,11,1,95,88,10,2,95,1644,401,24,01/01/2021,12/31/2021
+Nebraska,98,2,0,99,91,8,1,95,87,11,2,94,86,12,2,94,1673,505,30,01/01/2021,12/31/2021
+Nevada,97,3,0,98,91,7,2,94,89,10,1,95,87,12,1,95,5176,1043,20,01/01/2021,12/31/2021
+New Hampshire,99,1,0,99,93,5,2,96,94,5,1,97,92,6,2,97,3103,834,27,01/01/2021,12/31/2021
+New Jersey,98,2,0,99,91,7,2,95,90,8,2,96,87,12,1,95,26831,7795,29,01/01/2021,12/31/2021
+New Mexico,97,3,0,98,88,10,2,93,87,11,2,95,83,16,1,94,1721,461,27,01/01/2021,12/31/2021
+New York,,,,,,,,,,,,,,,,,,,,,
+North Carolina,96,3,1,98,90,8,2,95,88,10,2,95,89,9,2,96,8182,1379,17,01/01/2021,12/31/2021
+North Dakota,98,2,0,99,92,7,1,96,90,9,1,95,86,13,1,95,487,187,38,01/01/2021,12/31/2021
+Ohio,98,2,0,99,93,6,1,96,91,7,2,96,91,8,1,96,9335,2579,28,01/01/2021,12/31/2021
+Oklahoma,94,5,1,97,87,10,3,92,86,10,4,94,85,13,2,94,3175,950,30,01/01/2021,12/31/2021
+Oregon,97,3,0,99,91,7,2,95,88,10,2,95,86,12,2,94,14857,4433,30,01/01/2021,12/31/2021
+Pennsylvania,98,2,0,99,92,7,1,96,91,7,2,96,89,10,1,95,16185,5674,35,01/01/2021,12/31/2021
+Puerto Rico,,,,,,,,,,,,,,,,,,,,,
+Rhode Island,,,,,,,,,,,,,,,,,,,,,
+South Carolina,98,2,0,99,91,8,1,95,91,8,1,96,89,9,2,95,5380,1889,35,01/01/2021,12/31/2021
+South Dakota,,,,,,,,,,,,,,,,,,,,,
+Tennessee,98,2,0,99,92,6,2,95,90,9,1,96,89,10,1,96,30220,6870,23,01/01/2021,12/31/2021
+Texas,97,3,0,98,92,6,2,95,89,9,2,95,87,11,2,95,91645,19734,22,01/01/2021,12/31/2021
+Utah,98,2,0,99,91,7,2,95,89,9,2,95,88,10,2,95,5377,1310,24,01/01/2021,12/31/2021
+Vermont,,,,,,,,,,,,,,,,,,,,,
+Virgin Islands,,,,,,,,,,,,,,,,,,,,,
+Virginia,98,2,0,99,92,7,1,95,90,9,1,96,89,10,1,96,9792,2861,29,01/01/2021,12/31/2021
+Washington,97,3,0,99,92,7,1,95,88,10,2,95,88,10,2,95,21309,5393,25,01/01/2021,12/31/2021
+West Virginia,,,,,,,,,,,,,,,,,,,,,
+Wisconsin,98,2,0,99,92,7,1,95,87,11,2,94,84,14,2,94,1907,698,37,01/01/2021,12/31/2021
+Wyoming,98,2,0,99,92,6,2,95,89,9,2,95,89,10,1,96,3107,994,32,01/01/2021,12/31/2021
