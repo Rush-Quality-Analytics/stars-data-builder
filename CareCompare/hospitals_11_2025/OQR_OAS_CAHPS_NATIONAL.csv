@@ -1,0 +1,16 @@
+"OAS CAHPS Measure ID","OAS CAHPS Question","OAS CAHPS Answer Description","OAS CAHPS Answer Percent","OAS CAHPS Answer Percent Footnote","Start Date","End Date"
+O_COMP_1_N_N,"Patients who reported that the facility was ""not"" clean, and staff were ""not"" helpful and respectful","Facility was ""not"" clean and staff were ""not"" helpful and respectful",0,,01/01/2024,12/31/2024
+O_COMP_1_YD_N,"Patients who reported that ""definitely"" the facility was clean, and staff were helpful and respectful","Facility was ""definitely"" clean and staff were ""definitely"" helpful and respectful",97,,01/01/2024,12/31/2024
+O_COMP_1_YS_N,"Patients who reported ""somewhat"" that the facility was clean, and staff were helpful and respectful","Facility was ""somewhat"" clean and staff were ""somewhat"" helpful and respectful",3,,01/01/2024,12/31/2024
+O_COMP_2_N_N,"Patients who reported that staff ""did not"" give them clear and complete information about their procedure","Facility and staff ""did not"" communicate well to the patient about their procedure",2,,01/01/2024,12/31/2024
+O_COMP_2_YD_N,"Patients who reported that staff ""definitely"" gave them clear and complete information about their procedure","Facility and staff ""definitely"" communicated well to the patient about their procedure",92,,01/01/2024,12/31/2024
+O_COMP_2_YS_N,"Patients who reported that staff ""somewhat"" gave them clear and complete information about their procedure","Facility and staff ""somewhat"" communicated well to the patient about their procedure",6,,01/01/2024,12/31/2024
+O_COMP_3_N_N,"Patients who reported that staff ""did not"" give them written information and prepared them for recovery","Facility and staff ""did not"" prepare patients for discharge",2,,01/01/2024,12/31/2024
+O_COMP_3_YD_N,"Patients who reported that staff ""definitely"" gave them written information and prepared them for recovery","Facility and staff ""definitely"" prepared patients for discharge",97,,01/01/2024,12/31/2024
+O_COMP_3_YS_N,"Patients who reported that staff ""somewhat"" gave them written information and prepared them for recovery","Facility and staff ""somewhat"" prepared patients for discharge",1,,01/01/2024,12/31/2024
+O_PATIENT_RATE_0_6_N,Patients who gave their facility a rating of 6 or lower on a scale from 0 (lowest) to 10 (highest),"Patients who gave a rating of ""6"" or lower (low)",3,,01/01/2024,12/31/2024
+O_PATIENT_RATE_7_8_N,Patients who gave their facility a rating of 7 or 8 on a scale from 0 (lowest) to 10 (highest),"Patients who gave a rating of ""7"" or ""8"" (medium)",11,,01/01/2024,12/31/2024
+O_PATIENT_RATE_9_10_N,Patients who gave their facility a rating of 9 or 10 on a scale from 0 (lowest) to 10 (highest),"Patients who gave a rating of ""9"" or ""10"" (high)",86,,01/01/2024,12/31/2024
+O_PATIENT_REC_NPD_N,"Patients who reported NO, they would probably or definitely not recommend the facility","Patients would ""probably not"" or ""definitely not"" recommend the facility",3,,01/01/2024,12/31/2024
+O_PATIENT_REC_YD_N,"Patients who reported YES, they would definitely recommend the facility","Patients would ""definitely"" recommend the facility",82,,01/01/2024,12/31/2024
+O_PATIENT_REC_YP_N,"Patients who reported YES, they would probably recommend the facility","Patients would ""probably"" recommend the facility",15,,01/01/2024,12/31/2024

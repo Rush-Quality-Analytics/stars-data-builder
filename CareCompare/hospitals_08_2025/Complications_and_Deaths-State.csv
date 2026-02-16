@@ -1,0 +1,1121 @@
+"State","Measure ID","Measure Name","Number of Hospitals Worse","Number of Hospitals Same","Number of Hospitals Better","Number of Hospitals Too Few","Footnote","Start Date","End Date"
+AK,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,7,0,3,,04/01/2021,03/31/2024
+AK,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,0,17,0,4,,07/01/2023,06/30/2024
+AK,MORT_30_AMI,Death rate for heart attack patients,0,5,0,9,,07/01/2021,06/30/2024
+AK,MORT_30_CABG,Death rate for CABG surgery patients,0,2,0,1,,07/01/2021,06/30/2024
+AK,MORT_30_COPD,Death rate for COPD patients,1,9,0,10,,07/01/2021,06/30/2024
+AK,MORT_30_HF,Death rate for heart failure patients,2,8,0,10,,07/01/2021,06/30/2024
+AK,MORT_30_PN,Death rate for pneumonia patients,1,12,0,8,,07/01/2021,06/30/2024
+AK,MORT_30_STK,Death rate for stroke patients,0,7,0,12,,07/01/2021,06/30/2024
+AK,PSI_03,Pressure ulcer rate,1,7,0,0,,07/01/2021,06/30/2023
+AK,PSI_04,Death rate among surgical inpatients with serious treatable complications,1,4,0,2,,07/01/2021,06/30/2023
+AK,PSI_06,Iatrogenic pneumothorax rate,0,8,0,0,,07/01/2021,06/30/2023
+AK,PSI_08,In-hospital fall-associated fracture rate,0,8,0,0,,07/01/2021,06/30/2023
+AK,PSI_09,Postoperative hemorrhage or hematoma rate,0,7,0,0,,07/01/2021,06/30/2023
+AK,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,6,0,0,,07/01/2021,06/30/2023
+AK,PSI_11,Postoperative respiratory failure rate,0,6,0,0,,07/01/2021,06/30/2023
+AK,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,0,7,0,0,,07/01/2021,06/30/2023
+AK,PSI_13,Postoperative sepsis rate,0,6,0,0,,07/01/2021,06/30/2023
+AK,PSI_14,Postoperative wound dehiscence rate,0,7,0,0,,07/01/2021,06/30/2023
+AK,PSI_15,Abdominopelvic accidental puncture or laceration rate,1,6,0,1,,07/01/2021,06/30/2023
+AK,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,1,6,0,Not Available,,07/01/2021,06/30/2023
+AL,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,33,0,15,,04/01/2021,03/31/2024
+AL,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,0,78,0,7,,07/01/2023,06/30/2024
+AL,MORT_30_AMI,Death rate for heart attack patients,1,30,0,41,,07/01/2021,06/30/2024
+AL,MORT_30_CABG,Death rate for CABG surgery patients,3,16,0,3,,07/01/2021,06/30/2024
+AL,MORT_30_COPD,Death rate for COPD patients,0,49,0,36,,07/01/2021,06/30/2024
+AL,MORT_30_HF,Death rate for heart failure patients,2,55,1,28,,07/01/2021,06/30/2024
+AL,MORT_30_PN,Death rate for pneumonia patients,10,60,0,16,,07/01/2021,06/30/2024
+AL,MORT_30_STK,Death rate for stroke patients,1,36,0,38,,07/01/2021,06/30/2024
+AL,PSI_03,Pressure ulcer rate,3,78,0,3,,07/01/2021,06/30/2023
+AL,PSI_04,Death rate among surgical inpatients with serious treatable complications,3,26,1,18,,07/01/2021,06/30/2023
+AL,PSI_06,Iatrogenic pneumothorax rate,0,83,0,1,,07/01/2021,06/30/2023
+AL,PSI_08,In-hospital fall-associated fracture rate,0,83,0,1,,07/01/2021,06/30/2023
+AL,PSI_09,Postoperative hemorrhage or hematoma rate,1,55,0,12,,07/01/2021,06/30/2023
+AL,PSI_10,Postoperative acute kidney injury requiring dialysis rate,1,35,0,17,,07/01/2021,06/30/2023
+AL,PSI_11,Postoperative respiratory failure rate,5,33,0,15,,07/01/2021,06/30/2023
+AL,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,4,52,0,12,,07/01/2021,06/30/2023
+AL,PSI_13,Postoperative sepsis rate,2,34,0,13,,07/01/2021,06/30/2023
+AL,PSI_14,Postoperative wound dehiscence rate,0,41,0,22,,07/01/2021,06/30/2023
+AL,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,58,0,12,,07/01/2021,06/30/2023
+AL,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,6,59,0,Not Available,,07/01/2021,06/30/2023
+AR,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,14,0,25,,04/01/2021,03/31/2024
+AR,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,2,65,1,7,,07/01/2023,06/30/2024
+AR,MORT_30_AMI,Death rate for heart attack patients,0,26,0,32,,07/01/2021,06/30/2024
+AR,MORT_30_CABG,Death rate for CABG surgery patients,2,11,0,3,,07/01/2021,06/30/2024
+AR,MORT_30_COPD,Death rate for COPD patients,4,32,0,41,,07/01/2021,06/30/2024
+AR,MORT_30_HF,Death rate for heart failure patients,2,41,0,33,,07/01/2021,06/30/2024
+AR,MORT_30_PN,Death rate for pneumonia patients,8,55,0,14,,07/01/2021,06/30/2024
+AR,MORT_30_STK,Death rate for stroke patients,3,22,0,44,,07/01/2021,06/30/2024
+AR,PSI_03,Pressure ulcer rate,4,42,0,1,,07/01/2021,06/30/2023
+AR,PSI_04,Death rate among surgical inpatients with serious treatable complications,1,21,0,9,,07/01/2021,06/30/2023
+AR,PSI_06,Iatrogenic pneumothorax rate,1,45,0,3,,07/01/2021,06/30/2023
+AR,PSI_08,In-hospital fall-associated fracture rate,0,46,0,3,,07/01/2021,06/30/2023
+AR,PSI_09,Postoperative hemorrhage or hematoma rate,1,37,0,5,,07/01/2021,06/30/2023
+AR,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,31,0,7,,07/01/2021,06/30/2023
+AR,PSI_11,Postoperative respiratory failure rate,4,28,0,6,,07/01/2021,06/30/2023
+AR,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,0,38,0,5,,07/01/2021,06/30/2023
+AR,PSI_13,Postoperative sepsis rate,0,30,0,5,,07/01/2021,06/30/2023
+AR,PSI_14,Postoperative wound dehiscence rate,0,30,0,9,,07/01/2021,06/30/2023
+AR,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,37,0,7,,07/01/2021,06/30/2023
+AR,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,4,34,2,Not Available,,07/01/2021,06/30/2023
+AS,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,Not Available,Not Available,Not Available,Not Available,5,04/01/2021,03/31/2024
+AS,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2023,06/30/2024
+AS,MORT_30_AMI,Death rate for heart attack patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+AS,MORT_30_CABG,Death rate for CABG surgery patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+AS,MORT_30_COPD,Death rate for COPD patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+AS,MORT_30_HF,Death rate for heart failure patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+AS,MORT_30_PN,Death rate for pneumonia patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+AS,MORT_30_STK,Death rate for stroke patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+AS,PSI_03,Pressure ulcer rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+AS,PSI_04,Death rate among surgical inpatients with serious treatable complications,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+AS,PSI_06,Iatrogenic pneumothorax rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+AS,PSI_08,In-hospital fall-associated fracture rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+AS,PSI_09,Postoperative hemorrhage or hematoma rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+AS,PSI_10,Postoperative acute kidney injury requiring dialysis rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+AS,PSI_11,Postoperative respiratory failure rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+AS,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+AS,PSI_13,Postoperative sepsis rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+AS,PSI_14,Postoperative wound dehiscence rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+AS,PSI_15,Abdominopelvic accidental puncture or laceration rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+AS,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+AZ,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,30,1,23,,04/01/2021,03/31/2024
+AZ,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,1,67,3,11,,07/01/2023,06/30/2024
+AZ,MORT_30_AMI,Death rate for heart attack patients,0,40,0,25,,07/01/2021,06/30/2024
+AZ,MORT_30_CABG,Death rate for CABG surgery patients,1,19,0,4,,07/01/2021,06/30/2024
+AZ,MORT_30_COPD,Death rate for COPD patients,0,49,0,31,,07/01/2021,06/30/2024
+AZ,MORT_30_HF,Death rate for heart failure patients,1,46,6,24,,07/01/2021,06/30/2024
+AZ,MORT_30_PN,Death rate for pneumonia patients,5,56,4,17,,07/01/2021,06/30/2024
+AZ,MORT_30_STK,Death rate for stroke patients,1,40,1,20,,07/01/2021,06/30/2024
+AZ,PSI_03,Pressure ulcer rate,1,65,0,3,,07/01/2021,06/30/2023
+AZ,PSI_04,Death rate among surgical inpatients with serious treatable complications,0,38,1,15,,07/01/2021,06/30/2023
+AZ,PSI_06,Iatrogenic pneumothorax rate,1,66,0,2,,07/01/2021,06/30/2023
+AZ,PSI_08,In-hospital fall-associated fracture rate,0,67,0,2,,07/01/2021,06/30/2023
+AZ,PSI_09,Postoperative hemorrhage or hematoma rate,1,58,0,5,,07/01/2021,06/30/2023
+AZ,PSI_10,Postoperative acute kidney injury requiring dialysis rate,2,50,0,5,,07/01/2021,06/30/2023
+AZ,PSI_11,Postoperative respiratory failure rate,4,47,0,6,,07/01/2021,06/30/2023
+AZ,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,2,57,0,5,,07/01/2021,06/30/2023
+AZ,PSI_13,Postoperative sepsis rate,1,49,0,7,,07/01/2021,06/30/2023
+AZ,PSI_14,Postoperative wound dehiscence rate,0,56,0,5,,07/01/2021,06/30/2023
+AZ,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,61,0,4,,07/01/2021,06/30/2023
+AZ,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,4,56,1,Not Available,,07/01/2021,06/30/2023
+CA,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,2,138,4,112,,04/01/2021,03/31/2024
+CA,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,3,268,34,13,,07/01/2023,06/30/2024
+CA,MORT_30_AMI,Death rate for heart attack patients,1,159,5,133,,07/01/2021,06/30/2024
+CA,MORT_30_CABG,Death rate for CABG surgery patients,1,87,1,32,,07/01/2021,06/30/2024
+CA,MORT_30_COPD,Death rate for COPD patients,1,212,2,102,,07/01/2021,06/30/2024
+CA,MORT_30_HF,Death rate for heart failure patients,2,210,46,62,,07/01/2021,06/30/2024
+CA,MORT_30_PN,Death rate for pneumonia patients,12,207,57,46,,07/01/2021,06/30/2024
+CA,MORT_30_STK,Death rate for stroke patients,4,190,10,88,,07/01/2021,06/30/2024
+CA,PSI_03,Pressure ulcer rate,7,272,8,2,,07/01/2021,06/30/2023
+CA,PSI_04,Death rate among surgical inpatients with serious treatable complications,3,139,9,113,,07/01/2021,06/30/2023
+CA,PSI_06,Iatrogenic pneumothorax rate,1,287,0,1,,07/01/2021,06/30/2023
+CA,PSI_08,In-hospital fall-associated fracture rate,0,288,0,1,,07/01/2021,06/30/2023
+CA,PSI_09,Postoperative hemorrhage or hematoma rate,0,278,1,4,,07/01/2021,06/30/2023
+CA,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,238,2,29,,07/01/2021,06/30/2023
+CA,PSI_11,Postoperative respiratory failure rate,7,230,4,29,,07/01/2021,06/30/2023
+CA,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,9,269,1,4,,07/01/2021,06/30/2023
+CA,PSI_13,Postoperative sepsis rate,3,231,1,34,,07/01/2021,06/30/2023
+CA,PSI_14,Postoperative wound dehiscence rate,1,249,0,32,,07/01/2021,06/30/2023
+CA,PSI_15,Abdominopelvic accidental puncture or laceration rate,1,279,0,5,,07/01/2021,06/30/2023
+CA,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,8,264,11,Not Available,,07/01/2021,06/30/2023
+CO,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,28,0,39,,04/01/2021,03/31/2024
+CO,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,0,74,2,7,,07/01/2023,06/30/2024
+CO,MORT_30_AMI,Death rate for heart attack patients,0,32,1,32,,07/01/2021,06/30/2024
+CO,MORT_30_CABG,Death rate for CABG surgery patients,0,13,0,5,,07/01/2021,06/30/2024
+CO,MORT_30_COPD,Death rate for COPD patients,0,38,0,45,,07/01/2021,06/30/2024
+CO,MORT_30_HF,Death rate for heart failure patients,0,46,2,33,,07/01/2021,06/30/2024
+CO,MORT_30_PN,Death rate for pneumonia patients,1,58,3,22,,07/01/2021,06/30/2024
+CO,MORT_30_STK,Death rate for stroke patients,2,28,1,40,,07/01/2021,06/30/2024
+CO,PSI_03,Pressure ulcer rate,2,50,0,0,,07/01/2021,06/30/2023
+CO,PSI_04,Death rate among surgical inpatients with serious treatable complications,0,24,1,18,,07/01/2021,06/30/2023
+CO,PSI_06,Iatrogenic pneumothorax rate,0,52,0,0,,07/01/2021,06/30/2023
+CO,PSI_08,In-hospital fall-associated fracture rate,0,52,0,0,,07/01/2021,06/30/2023
+CO,PSI_09,Postoperative hemorrhage or hematoma rate,0,51,0,0,,07/01/2021,06/30/2023
+CO,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,48,0,3,,07/01/2021,06/30/2023
+CO,PSI_11,Postoperative respiratory failure rate,3,45,0,3,,07/01/2021,06/30/2023
+CO,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,0,50,1,0,,07/01/2021,06/30/2023
+CO,PSI_13,Postoperative sepsis rate,0,48,0,3,,07/01/2021,06/30/2023
+CO,PSI_14,Postoperative wound dehiscence rate,0,43,0,6,,07/01/2021,06/30/2023
+CO,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,48,0,2,,07/01/2021,06/30/2023
+CO,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,1,49,1,Not Available,,07/01/2021,06/30/2023
+CT,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,14,0,12,,04/01/2021,03/31/2024
+CT,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,0,19,6,1,,07/01/2023,06/30/2024
+CT,MORT_30_AMI,Death rate for heart attack patients,0,17,1,8,,07/01/2021,06/30/2024
+CT,MORT_30_CABG,Death rate for CABG surgery patients,0,8,0,2,,07/01/2021,06/30/2024
+CT,MORT_30_COPD,Death rate for COPD patients,0,26,0,1,,07/01/2021,06/30/2024
+CT,MORT_30_HF,Death rate for heart failure patients,1,21,4,1,,07/01/2021,06/30/2024
+CT,MORT_30_PN,Death rate for pneumonia patients,0,20,6,1,,07/01/2021,06/30/2024
+CT,MORT_30_STK,Death rate for stroke patients,0,24,0,2,,07/01/2021,06/30/2024
+CT,PSI_03,Pressure ulcer rate,2,24,1,1,,07/01/2021,06/30/2023
+CT,PSI_04,Death rate among surgical inpatients with serious treatable complications,0,17,0,7,,07/01/2021,06/30/2023
+CT,PSI_06,Iatrogenic pneumothorax rate,0,27,0,1,,07/01/2021,06/30/2023
+CT,PSI_08,In-hospital fall-associated fracture rate,0,27,0,1,,07/01/2021,06/30/2023
+CT,PSI_09,Postoperative hemorrhage or hematoma rate,0,26,0,0,,07/01/2021,06/30/2023
+CT,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,25,0,1,,07/01/2021,06/30/2023
+CT,PSI_11,Postoperative respiratory failure rate,0,24,1,1,,07/01/2021,06/30/2023
+CT,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,1,25,0,0,,07/01/2021,06/30/2023
+CT,PSI_13,Postoperative sepsis rate,0,24,0,2,,07/01/2021,06/30/2023
+CT,PSI_14,Postoperative wound dehiscence rate,0,24,0,2,,07/01/2021,06/30/2023
+CT,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,26,0,0,,07/01/2021,06/30/2023
+CT,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,0,25,1,Not Available,,07/01/2021,06/30/2023
+DC,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,5,0,1,,04/01/2021,03/31/2024
+DC,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,0,4,2,0,,07/01/2023,06/30/2024
+DC,MORT_30_AMI,Death rate for heart attack patients,0,4,1,2,,07/01/2021,06/30/2024
+DC,MORT_30_CABG,Death rate for CABG surgery patients,0,2,0,0,,07/01/2021,06/30/2024
+DC,MORT_30_COPD,Death rate for COPD patients,0,6,1,0,,07/01/2021,06/30/2024
+DC,MORT_30_HF,Death rate for heart failure patients,0,5,2,0,,07/01/2021,06/30/2024
+DC,MORT_30_PN,Death rate for pneumonia patients,0,5,2,0,,07/01/2021,06/30/2024
+DC,MORT_30_STK,Death rate for stroke patients,0,5,0,1,,07/01/2021,06/30/2024
+DC,PSI_03,Pressure ulcer rate,4,3,0,0,,07/01/2021,06/30/2023
+DC,PSI_04,Death rate among surgical inpatients with serious treatable complications,0,6,0,1,,07/01/2021,06/30/2023
+DC,PSI_06,Iatrogenic pneumothorax rate,0,7,0,0,,07/01/2021,06/30/2023
+DC,PSI_08,In-hospital fall-associated fracture rate,0,7,0,0,,07/01/2021,06/30/2023
+DC,PSI_09,Postoperative hemorrhage or hematoma rate,0,6,1,0,,07/01/2021,06/30/2023
+DC,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,6,0,1,,07/01/2021,06/30/2023
+DC,PSI_11,Postoperative respiratory failure rate,1,4,1,1,,07/01/2021,06/30/2023
+DC,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,2,5,0,0,,07/01/2021,06/30/2023
+DC,PSI_13,Postoperative sepsis rate,1,4,1,1,,07/01/2021,06/30/2023
+DC,PSI_14,Postoperative wound dehiscence rate,0,7,0,0,,07/01/2021,06/30/2023
+DC,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,7,0,0,,07/01/2021,06/30/2023
+DC,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,3,3,1,Not Available,,07/01/2021,06/30/2023
+DE,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,4,0,1,,04/01/2021,03/31/2024
+DE,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,0,5,1,0,,07/01/2023,06/30/2024
+DE,MORT_30_AMI,Death rate for heart attack patients,0,6,0,1,,07/01/2021,06/30/2024
+DE,MORT_30_CABG,Death rate for CABG surgery patients,0,3,0,0,,07/01/2021,06/30/2024
+DE,MORT_30_COPD,Death rate for COPD patients,1,5,1,0,,07/01/2021,06/30/2024
+DE,MORT_30_HF,Death rate for heart failure patients,0,6,1,0,,07/01/2021,06/30/2024
+DE,MORT_30_PN,Death rate for pneumonia patients,0,6,1,0,,07/01/2021,06/30/2024
+DE,MORT_30_STK,Death rate for stroke patients,0,6,0,0,,07/01/2021,06/30/2024
+DE,PSI_03,Pressure ulcer rate,3,4,0,0,,07/01/2021,06/30/2023
+DE,PSI_04,Death rate among surgical inpatients with serious treatable complications,0,3,0,4,,07/01/2021,06/30/2023
+DE,PSI_06,Iatrogenic pneumothorax rate,1,6,0,0,,07/01/2021,06/30/2023
+DE,PSI_08,In-hospital fall-associated fracture rate,1,6,0,0,,07/01/2021,06/30/2023
+DE,PSI_09,Postoperative hemorrhage or hematoma rate,0,6,1,0,,07/01/2021,06/30/2023
+DE,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,6,0,1,,07/01/2021,06/30/2023
+DE,PSI_11,Postoperative respiratory failure rate,0,6,0,1,,07/01/2021,06/30/2023
+DE,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,0,6,1,0,,07/01/2021,06/30/2023
+DE,PSI_13,Postoperative sepsis rate,0,6,0,1,,07/01/2021,06/30/2023
+DE,PSI_14,Postoperative wound dehiscence rate,0,6,0,1,,07/01/2021,06/30/2023
+DE,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,7,0,0,,07/01/2021,06/30/2023
+DE,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,2,4,1,Not Available,,07/01/2021,06/30/2023
+FL,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,104,2,58,,04/01/2021,03/31/2024
+FL,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,8,153,17,4,,07/01/2023,06/30/2024
+FL,MORT_30_AMI,Death rate for heart attack patients,1,137,3,40,,07/01/2021,06/30/2024
+FL,MORT_30_CABG,Death rate for CABG surgery patients,0,66,0,13,,07/01/2021,06/30/2024
+FL,MORT_30_COPD,Death rate for COPD patients,1,158,6,25,,07/01/2021,06/30/2024
+FL,MORT_30_HF,Death rate for heart failure patients,6,145,22,16,,07/01/2021,06/30/2024
+FL,MORT_30_PN,Death rate for pneumonia patients,9,139,32,12,,07/01/2021,06/30/2024
+FL,MORT_30_STK,Death rate for stroke patients,1,135,7,31,,07/01/2021,06/30/2024
+FL,PSI_03,Pressure ulcer rate,9,164,2,1,,07/01/2021,06/30/2023
+FL,PSI_04,Death rate among surgical inpatients with serious treatable complications,3,111,10,41,,07/01/2021,06/30/2023
+FL,PSI_06,Iatrogenic pneumothorax rate,1,175,0,0,,07/01/2021,06/30/2023
+FL,PSI_08,In-hospital fall-associated fracture rate,0,176,0,0,,07/01/2021,06/30/2023
+FL,PSI_09,Postoperative hemorrhage or hematoma rate,1,167,0,4,,07/01/2021,06/30/2023
+FL,PSI_10,Postoperative acute kidney injury requiring dialysis rate,3,154,0,11,,07/01/2021,06/30/2023
+FL,PSI_11,Postoperative respiratory failure rate,13,142,3,10,,07/01/2021,06/30/2023
+FL,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,8,158,2,4,,07/01/2021,06/30/2023
+FL,PSI_13,Postoperative sepsis rate,4,149,2,11,,07/01/2021,06/30/2023
+FL,PSI_14,Postoperative wound dehiscence rate,0,162,0,9,,07/01/2021,06/30/2023
+FL,PSI_15,Abdominopelvic accidental puncture or laceration rate,2,167,0,6,,07/01/2021,06/30/2023
+FL,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,8,161,3,Not Available,,07/01/2021,06/30/2023
+GA,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,34,0,46,,04/01/2021,03/31/2024
+GA,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,4,94,8,18,,07/01/2023,06/30/2024
+GA,MORT_30_AMI,Death rate for heart attack patients,0,58,1,50,,07/01/2021,06/30/2024
+GA,MORT_30_CABG,Death rate for CABG surgery patients,0,19,0,8,,07/01/2021,06/30/2024
+GA,MORT_30_COPD,Death rate for COPD patients,0,78,1,49,,07/01/2021,06/30/2024
+GA,MORT_30_HF,Death rate for heart failure patients,5,76,6,43,,07/01/2021,06/30/2024
+GA,MORT_30_PN,Death rate for pneumonia patients,5,88,10,27,,07/01/2021,06/30/2024
+GA,MORT_30_STK,Death rate for stroke patients,1,67,0,43,,07/01/2021,06/30/2024
+GA,PSI_03,Pressure ulcer rate,9,89,3,0,,07/01/2021,06/30/2023
+GA,PSI_04,Death rate among surgical inpatients with serious treatable complications,1,47,1,29,,07/01/2021,06/30/2023
+GA,PSI_06,Iatrogenic pneumothorax rate,1,100,0,0,,07/01/2021,06/30/2023
+GA,PSI_08,In-hospital fall-associated fracture rate,0,101,0,0,,07/01/2021,06/30/2023
+GA,PSI_09,Postoperative hemorrhage or hematoma rate,1,83,0,7,,07/01/2021,06/30/2023
+GA,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,68,0,16,,07/01/2021,06/30/2023
+GA,PSI_11,Postoperative respiratory failure rate,6,63,0,15,,07/01/2021,06/30/2023
+GA,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,4,80,0,7,,07/01/2021,06/30/2023
+GA,PSI_13,Postoperative sepsis rate,3,65,0,15,,07/01/2021,06/30/2023
+GA,PSI_14,Postoperative wound dehiscence rate,0,72,0,15,,07/01/2021,06/30/2023
+GA,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,84,0,9,,07/01/2021,06/30/2023
+GA,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,9,79,0,Not Available,,07/01/2021,06/30/2023
+GU,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,Not Available,Not Available,Not Available,Not Available,5,04/01/2021,03/31/2024
+GU,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2023,06/30/2024
+GU,MORT_30_AMI,Death rate for heart attack patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+GU,MORT_30_CABG,Death rate for CABG surgery patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+GU,MORT_30_COPD,Death rate for COPD patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+GU,MORT_30_HF,Death rate for heart failure patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+GU,MORT_30_PN,Death rate for pneumonia patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+GU,MORT_30_STK,Death rate for stroke patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+GU,PSI_03,Pressure ulcer rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+GU,PSI_04,Death rate among surgical inpatients with serious treatable complications,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+GU,PSI_06,Iatrogenic pneumothorax rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+GU,PSI_08,In-hospital fall-associated fracture rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+GU,PSI_09,Postoperative hemorrhage or hematoma rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+GU,PSI_10,Postoperative acute kidney injury requiring dialysis rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+GU,PSI_11,Postoperative respiratory failure rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+GU,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+GU,PSI_13,Postoperative sepsis rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+GU,PSI_14,Postoperative wound dehiscence rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+GU,PSI_15,Abdominopelvic accidental puncture or laceration rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+GU,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+HI,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,4,0,7,,04/01/2021,03/31/2024
+HI,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,0,11,2,3,,07/01/2023,06/30/2024
+HI,MORT_30_AMI,Death rate for heart attack patients,0,7,0,6,,07/01/2021,06/30/2024
+HI,MORT_30_CABG,Death rate for CABG surgery patients,0,2,0,3,,07/01/2021,06/30/2024
+HI,MORT_30_COPD,Death rate for COPD patients,0,7,0,6,,07/01/2021,06/30/2024
+HI,MORT_30_HF,Death rate for heart failure patients,0,11,0,4,,07/01/2021,06/30/2024
+HI,MORT_30_PN,Death rate for pneumonia patients,2,9,1,4,,07/01/2021,06/30/2024
+HI,MORT_30_STK,Death rate for stroke patients,1,9,0,4,,07/01/2021,06/30/2024
+HI,PSI_03,Pressure ulcer rate,2,10,0,0,,07/01/2021,06/30/2023
+HI,PSI_04,Death rate among surgical inpatients with serious treatable complications,0,6,0,5,,07/01/2021,06/30/2023
+HI,PSI_06,Iatrogenic pneumothorax rate,0,12,0,0,,07/01/2021,06/30/2023
+HI,PSI_08,In-hospital fall-associated fracture rate,0,12,0,0,,07/01/2021,06/30/2023
+HI,PSI_09,Postoperative hemorrhage or hematoma rate,0,11,0,0,,07/01/2021,06/30/2023
+HI,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,10,0,1,,07/01/2021,06/30/2023
+HI,PSI_11,Postoperative respiratory failure rate,0,11,0,0,,07/01/2021,06/30/2023
+HI,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,0,11,0,0,,07/01/2021,06/30/2023
+HI,PSI_13,Postoperative sepsis rate,0,10,0,1,,07/01/2021,06/30/2023
+HI,PSI_14,Postoperative wound dehiscence rate,0,11,0,0,,07/01/2021,06/30/2023
+HI,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,11,0,1,,07/01/2021,06/30/2023
+HI,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,1,10,0,Not Available,,07/01/2021,06/30/2023
+IA,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,28,0,38,,04/01/2021,03/31/2024
+IA,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,4,103,2,4,,07/01/2023,06/30/2024
+IA,MORT_30_AMI,Death rate for heart attack patients,0,24,0,82,,07/01/2021,06/30/2024
+IA,MORT_30_CABG,Death rate for CABG surgery patients,0,10,0,0,,07/01/2021,06/30/2024
+IA,MORT_30_COPD,Death rate for COPD patients,2,34,0,79,,07/01/2021,06/30/2024
+IA,MORT_30_HF,Death rate for heart failure patients,8,53,0,55,,07/01/2021,06/30/2024
+IA,MORT_30_PN,Death rate for pneumonia patients,2,100,0,14,,07/01/2021,06/30/2024
+IA,MORT_30_STK,Death rate for stroke patients,0,30,0,81,,07/01/2021,06/30/2024
+IA,PSI_03,Pressure ulcer rate,6,28,0,0,,07/01/2021,06/30/2023
+IA,PSI_04,Death rate among surgical inpatients with serious treatable complications,1,15,0,12,,07/01/2021,06/30/2023
+IA,PSI_06,Iatrogenic pneumothorax rate,1,33,0,0,,07/01/2021,06/30/2023
+IA,PSI_08,In-hospital fall-associated fracture rate,0,34,0,0,,07/01/2021,06/30/2023
+IA,PSI_09,Postoperative hemorrhage or hematoma rate,0,32,0,1,,07/01/2021,06/30/2023
+IA,PSI_10,Postoperative acute kidney injury requiring dialysis rate,1,28,0,3,,07/01/2021,06/30/2023
+IA,PSI_11,Postoperative respiratory failure rate,2,26,1,3,,07/01/2021,06/30/2023
+IA,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,0,32,0,1,,07/01/2021,06/30/2023
+IA,PSI_13,Postoperative sepsis rate,0,29,0,3,,07/01/2021,06/30/2023
+IA,PSI_14,Postoperative wound dehiscence rate,0,28,0,5,,07/01/2021,06/30/2023
+IA,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,32,0,1,,07/01/2021,06/30/2023
+IA,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,3,30,0,Not Available,,07/01/2021,06/30/2023
+ID,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,12,0,19,,04/01/2021,03/31/2024
+ID,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,1,35,1,5,,07/01/2023,06/30/2024
+ID,MORT_30_AMI,Death rate for heart attack patients,0,9,0,25,,07/01/2021,06/30/2024
+ID,MORT_30_CABG,Death rate for CABG surgery patients,0,5,0,0,,07/01/2021,06/30/2024
+ID,MORT_30_COPD,Death rate for COPD patients,0,15,0,24,,07/01/2021,06/30/2024
+ID,MORT_30_HF,Death rate for heart failure patients,2,16,0,22,,07/01/2021,06/30/2024
+ID,MORT_30_PN,Death rate for pneumonia patients,0,28,1,12,,07/01/2021,06/30/2024
+ID,MORT_30_STK,Death rate for stroke patients,1,13,0,21,,07/01/2021,06/30/2024
+ID,PSI_03,Pressure ulcer rate,1,14,0,1,,07/01/2021,06/30/2023
+ID,PSI_04,Death rate among surgical inpatients with serious treatable complications,0,8,0,6,,07/01/2021,06/30/2023
+ID,PSI_06,Iatrogenic pneumothorax rate,0,16,0,0,,07/01/2021,06/30/2023
+ID,PSI_08,In-hospital fall-associated fracture rate,0,16,0,0,,07/01/2021,06/30/2023
+ID,PSI_09,Postoperative hemorrhage or hematoma rate,0,16,0,0,,07/01/2021,06/30/2023
+ID,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,16,0,0,,07/01/2021,06/30/2023
+ID,PSI_11,Postoperative respiratory failure rate,0,15,1,0,,07/01/2021,06/30/2023
+ID,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,0,16,0,0,,07/01/2021,06/30/2023
+ID,PSI_13,Postoperative sepsis rate,0,16,0,0,,07/01/2021,06/30/2023
+ID,PSI_14,Postoperative wound dehiscence rate,0,16,0,0,,07/01/2021,06/30/2023
+ID,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,16,0,0,,07/01/2021,06/30/2023
+ID,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,1,14,1,Not Available,,07/01/2021,06/30/2023
+IL,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,65,2,62,,04/01/2021,03/31/2024
+IL,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,4,141,17,10,,07/01/2023,06/30/2024
+IL,MORT_30_AMI,Death rate for heart attack patients,0,87,2,69,,07/01/2021,06/30/2024
+IL,MORT_30_CABG,Death rate for CABG surgery patients,0,40,0,9,,07/01/2021,06/30/2024
+IL,MORT_30_COPD,Death rate for COPD patients,1,120,5,53,,07/01/2021,06/30/2024
+IL,MORT_30_HF,Death rate for heart failure patients,1,101,29,48,,07/01/2021,06/30/2024
+IL,MORT_30_PN,Death rate for pneumonia patients,7,133,18,21,,07/01/2021,06/30/2024
+IL,MORT_30_STK,Death rate for stroke patients,0,82,11,70,,07/01/2021,06/30/2024
+IL,PSI_03,Pressure ulcer rate,9,109,4,0,,07/01/2021,06/30/2023
+IL,PSI_04,Death rate among surgical inpatients with serious treatable complications,1,64,3,36,,07/01/2021,06/30/2023
+IL,PSI_06,Iatrogenic pneumothorax rate,1,121,0,0,,07/01/2021,06/30/2023
+IL,PSI_08,In-hospital fall-associated fracture rate,0,122,0,0,,07/01/2021,06/30/2023
+IL,PSI_09,Postoperative hemorrhage or hematoma rate,1,110,2,7,,07/01/2021,06/30/2023
+IL,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,97,0,15,,07/01/2021,06/30/2023
+IL,PSI_11,Postoperative respiratory failure rate,8,86,5,13,,07/01/2021,06/30/2023
+IL,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,4,106,2,8,,07/01/2021,06/30/2023
+IL,PSI_13,Postoperative sepsis rate,1,91,2,17,,07/01/2021,06/30/2023
+IL,PSI_14,Postoperative wound dehiscence rate,0,100,0,15,,07/01/2021,06/30/2023
+IL,PSI_15,Abdominopelvic accidental puncture or laceration rate,1,114,0,4,,07/01/2021,06/30/2023
+IL,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,8,103,6,Not Available,,07/01/2021,06/30/2023
+IN,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,44,0,46,,04/01/2021,03/31/2024
+IN,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,4,103,1,8,,07/01/2023,06/30/2024
+IN,MORT_30_AMI,Death rate for heart attack patients,0,49,0,56,,07/01/2021,06/30/2024
+IN,MORT_30_CABG,Death rate for CABG surgery patients,0,25,0,3,,07/01/2021,06/30/2024
+IN,MORT_30_COPD,Death rate for COPD patients,0,80,0,32,,07/01/2021,06/30/2024
+IN,MORT_30_HF,Death rate for heart failure patients,10,78,2,21,,07/01/2021,06/30/2024
+IN,MORT_30_PN,Death rate for pneumonia patients,4,94,2,13,,07/01/2021,06/30/2024
+IN,MORT_30_STK,Death rate for stroke patients,3,57,1,46,,07/01/2021,06/30/2024
+IN,PSI_03,Pressure ulcer rate,1,84,0,0,,07/01/2021,06/30/2023
+IN,PSI_04,Death rate among surgical inpatients with serious treatable complications,1,36,0,28,,07/01/2021,06/30/2023
+IN,PSI_06,Iatrogenic pneumothorax rate,0,85,0,0,,07/01/2021,06/30/2023
+IN,PSI_08,In-hospital fall-associated fracture rate,0,85,0,0,,07/01/2021,06/30/2023
+IN,PSI_09,Postoperative hemorrhage or hematoma rate,0,78,0,5,,07/01/2021,06/30/2023
+IN,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,70,0,6,,07/01/2021,06/30/2023
+IN,PSI_11,Postoperative respiratory failure rate,5,64,1,7,,07/01/2021,06/30/2023
+IN,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,1,78,0,4,,07/01/2021,06/30/2023
+IN,PSI_13,Postoperative sepsis rate,0,70,0,7,,07/01/2021,06/30/2023
+IN,PSI_14,Postoperative wound dehiscence rate,0,65,0,15,,07/01/2021,06/30/2023
+IN,PSI_15,Abdominopelvic accidental puncture or laceration rate,1,79,0,3,,07/01/2021,06/30/2023
+IN,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,2,78,1,Not Available,,07/01/2021,06/30/2023
+KS,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,32,2,22,,04/01/2021,03/31/2024
+KS,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,2,111,1,17,,07/01/2023,06/30/2024
+KS,MORT_30_AMI,Death rate for heart attack patients,1,23,0,64,,07/01/2021,06/30/2024
+KS,MORT_30_CABG,Death rate for CABG surgery patients,1,12,0,1,,07/01/2021,06/30/2024
+KS,MORT_30_COPD,Death rate for COPD patients,0,42,1,77,,07/01/2021,06/30/2024
+KS,MORT_30_HF,Death rate for heart failure patients,3,50,2,68,,07/01/2021,06/30/2024
+KS,MORT_30_PN,Death rate for pneumonia patients,7,85,2,31,,07/01/2021,06/30/2024
+KS,MORT_30_STK,Death rate for stroke patients,1,21,1,84,,07/01/2021,06/30/2024
+KS,PSI_03,Pressure ulcer rate,2,47,0,1,,07/01/2021,06/30/2023
+KS,PSI_04,Death rate among surgical inpatients with serious treatable complications,0,17,0,22,,07/01/2021,06/30/2023
+KS,PSI_06,Iatrogenic pneumothorax rate,0,50,0,0,,07/01/2021,06/30/2023
+KS,PSI_08,In-hospital fall-associated fracture rate,0,50,0,0,,07/01/2021,06/30/2023
+KS,PSI_09,Postoperative hemorrhage or hematoma rate,1,46,0,0,,07/01/2021,06/30/2023
+KS,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,43,0,4,,07/01/2021,06/30/2023
+KS,PSI_11,Postoperative respiratory failure rate,1,42,0,4,,07/01/2021,06/30/2023
+KS,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,0,46,1,0,,07/01/2021,06/30/2023
+KS,PSI_13,Postoperative sepsis rate,1,41,0,4,,07/01/2021,06/30/2023
+KS,PSI_14,Postoperative wound dehiscence rate,0,34,0,12,,07/01/2021,06/30/2023
+KS,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,42,0,6,,07/01/2021,06/30/2023
+KS,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,2,45,0,Not Available,,07/01/2021,06/30/2023
+KY,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,17,1,36,,04/01/2021,03/31/2024
+KY,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,7,67,5,12,,07/01/2023,06/30/2024
+KY,MORT_30_AMI,Death rate for heart attack patients,0,35,0,46,,07/01/2021,06/30/2024
+KY,MORT_30_CABG,Death rate for CABG surgery patients,2,12,0,1,,07/01/2021,06/30/2024
+KY,MORT_30_COPD,Death rate for COPD patients,1,55,2,35,,07/01/2021,06/30/2024
+KY,MORT_30_HF,Death rate for heart failure patients,2,60,2,28,,07/01/2021,06/30/2024
+KY,MORT_30_PN,Death rate for pneumonia patients,5,70,3,15,,07/01/2021,06/30/2024
+KY,MORT_30_STK,Death rate for stroke patients,0,35,0,46,,07/01/2021,06/30/2024
+KY,PSI_03,Pressure ulcer rate,6,56,1,0,,07/01/2021,06/30/2023
+KY,PSI_04,Death rate among surgical inpatients with serious treatable complications,4,19,0,28,,07/01/2021,06/30/2023
+KY,PSI_06,Iatrogenic pneumothorax rate,0,63,0,0,,07/01/2021,06/30/2023
+KY,PSI_08,In-hospital fall-associated fracture rate,0,63,0,0,,07/01/2021,06/30/2023
+KY,PSI_09,Postoperative hemorrhage or hematoma rate,1,52,0,8,,07/01/2021,06/30/2023
+KY,PSI_10,Postoperative acute kidney injury requiring dialysis rate,3,33,0,15,,07/01/2021,06/30/2023
+KY,PSI_11,Postoperative respiratory failure rate,2,34,1,15,,07/01/2021,06/30/2023
+KY,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,0,54,0,7,,07/01/2021,06/30/2023
+KY,PSI_13,Postoperative sepsis rate,2,34,0,12,,07/01/2021,06/30/2023
+KY,PSI_14,Postoperative wound dehiscence rate,0,41,0,18,,07/01/2021,06/30/2023
+KY,PSI_15,Abdominopelvic accidental puncture or laceration rate,1,58,0,2,,07/01/2021,06/30/2023
+KY,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,4,57,0,Not Available,,07/01/2021,06/30/2023
+LA,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,20,1,38,,04/01/2021,03/31/2024
+LA,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,8,81,1,18,,07/01/2023,06/30/2024
+LA,MORT_30_AMI,Death rate for heart attack patients,0,32,0,46,,07/01/2021,06/30/2024
+LA,MORT_30_CABG,Death rate for CABG surgery patients,0,20,0,4,,07/01/2021,06/30/2024
+LA,MORT_30_COPD,Death rate for COPD patients,1,44,0,50,,07/01/2021,06/30/2024
+LA,MORT_30_HF,Death rate for heart failure patients,3,58,1,33,,07/01/2021,06/30/2024
+LA,MORT_30_PN,Death rate for pneumonia patients,5,67,2,26,,07/01/2021,06/30/2024
+LA,MORT_30_STK,Death rate for stroke patients,0,35,0,44,,07/01/2021,06/30/2024
+LA,PSI_03,Pressure ulcer rate,3,82,0,3,,07/01/2021,06/30/2023
+LA,PSI_04,Death rate among surgical inpatients with serious treatable complications,0,25,0,24,,07/01/2021,06/30/2023
+LA,PSI_06,Iatrogenic pneumothorax rate,1,86,0,2,,07/01/2021,06/30/2023
+LA,PSI_08,In-hospital fall-associated fracture rate,0,87,0,2,,07/01/2021,06/30/2023
+LA,PSI_09,Postoperative hemorrhage or hematoma rate,1,67,0,12,,07/01/2021,06/30/2023
+LA,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,56,0,16,,07/01/2021,06/30/2023
+LA,PSI_11,Postoperative respiratory failure rate,1,53,1,18,,07/01/2021,06/30/2023
+LA,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,0,68,0,12,,07/01/2021,06/30/2023
+LA,PSI_13,Postoperative sepsis rate,0,53,0,14,,07/01/2021,06/30/2023
+LA,PSI_14,Postoperative wound dehiscence rate,0,54,0,15,,07/01/2021,06/30/2023
+LA,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,70,0,10,,07/01/2021,06/30/2023
+LA,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,1,74,1,Not Available,,07/01/2021,06/30/2023
+MA,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,43,1,8,,04/01/2021,03/31/2024
+MA,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,0,42,15,0,,07/01/2023,06/30/2024
+MA,MORT_30_AMI,Death rate for heart attack patients,0,41,2,13,,07/01/2021,06/30/2024
+MA,MORT_30_CABG,Death rate for CABG surgery patients,0,12,1,1,,07/01/2021,06/30/2024
+MA,MORT_30_COPD,Death rate for COPD patients,0,48,5,3,,07/01/2021,06/30/2024
+MA,MORT_30_HF,Death rate for heart failure patients,0,39,16,2,,07/01/2021,06/30/2024
+MA,MORT_30_PN,Death rate for pneumonia patients,1,34,21,0,,07/01/2021,06/30/2024
+MA,MORT_30_STK,Death rate for stroke patients,1,46,3,5,,07/01/2021,06/30/2024
+MA,PSI_03,Pressure ulcer rate,3,51,0,0,,07/01/2021,06/30/2023
+MA,PSI_04,Death rate among surgical inpatients with serious treatable complications,1,34,0,16,,07/01/2021,06/30/2023
+MA,PSI_06,Iatrogenic pneumothorax rate,0,54,0,0,,07/01/2021,06/30/2023
+MA,PSI_08,In-hospital fall-associated fracture rate,1,53,0,0,,07/01/2021,06/30/2023
+MA,PSI_09,Postoperative hemorrhage or hematoma rate,3,49,0,1,,07/01/2021,06/30/2023
+MA,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,49,0,2,,07/01/2021,06/30/2023
+MA,PSI_11,Postoperative respiratory failure rate,0,46,2,4,,07/01/2021,06/30/2023
+MA,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,2,50,0,1,,07/01/2021,06/30/2023
+MA,PSI_13,Postoperative sepsis rate,0,49,0,3,,07/01/2021,06/30/2023
+MA,PSI_14,Postoperative wound dehiscence rate,0,47,0,5,,07/01/2021,06/30/2023
+MA,PSI_15,Abdominopelvic accidental puncture or laceration rate,1,51,0,1,,07/01/2021,06/30/2023
+MA,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,2,47,3,Not Available,,07/01/2021,06/30/2023
+MD,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,32,0,11,,04/01/2021,03/31/2024
+MD,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,1,29,14,0,,07/01/2023,06/30/2024
+MD,MORT_30_AMI,Death rate for heart attack patients,0,38,0,5,,07/01/2021,06/30/2024
+MD,MORT_30_CABG,Death rate for CABG surgery patients,0,11,0,1,,07/01/2021,06/30/2024
+MD,MORT_30_COPD,Death rate for COPD patients,3,37,3,0,,07/01/2021,06/30/2024
+MD,MORT_30_HF,Death rate for heart failure patients,2,32,9,1,,07/01/2021,06/30/2024
+MD,MORT_30_PN,Death rate for pneumonia patients,1,38,4,1,,07/01/2021,06/30/2024
+MD,MORT_30_STK,Death rate for stroke patients,2,38,1,3,,07/01/2021,06/30/2024
+MD,PSI_03,Pressure ulcer rate,11,34,0,0,,07/01/2021,06/30/2023
+MD,PSI_04,Death rate among surgical inpatients with serious treatable complications,0,33,0,10,,07/01/2021,06/30/2023
+MD,PSI_06,Iatrogenic pneumothorax rate,0,45,0,0,,07/01/2021,06/30/2023
+MD,PSI_08,In-hospital fall-associated fracture rate,0,45,0,0,,07/01/2021,06/30/2023
+MD,PSI_09,Postoperative hemorrhage or hematoma rate,1,42,0,0,,07/01/2021,06/30/2023
+MD,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,42,0,1,,07/01/2021,06/30/2023
+MD,PSI_11,Postoperative respiratory failure rate,0,41,1,1,,07/01/2021,06/30/2023
+MD,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,3,40,0,0,,07/01/2021,06/30/2023
+MD,PSI_13,Postoperative sepsis rate,0,42,0,1,,07/01/2021,06/30/2023
+MD,PSI_14,Postoperative wound dehiscence rate,0,41,0,1,,07/01/2021,06/30/2023
+MD,PSI_15,Abdominopelvic accidental puncture or laceration rate,1,41,0,2,,07/01/2021,06/30/2023
+MD,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,6,36,1,Not Available,,07/01/2021,06/30/2023
+ME,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,4,0,20,,04/01/2021,03/31/2024
+ME,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,0,33,0,0,,07/01/2023,06/30/2024
+ME,MORT_30_AMI,Death rate for heart attack patients,0,16,0,18,,07/01/2021,06/30/2024
+ME,MORT_30_CABG,Death rate for CABG surgery patients,0,3,0,0,,07/01/2021,06/30/2024
+ME,MORT_30_COPD,Death rate for COPD patients,0,23,0,11,,07/01/2021,06/30/2024
+ME,MORT_30_HF,Death rate for heart failure patients,3,22,0,9,,07/01/2021,06/30/2024
+ME,MORT_30_PN,Death rate for pneumonia patients,1,30,1,2,,07/01/2021,06/30/2024
+ME,MORT_30_STK,Death rate for stroke patients,0,16,0,17,,07/01/2021,06/30/2024
+ME,PSI_03,Pressure ulcer rate,1,16,1,0,,07/01/2021,06/30/2023
+ME,PSI_04,Death rate among surgical inpatients with serious treatable complications,0,4,0,11,,07/01/2021,06/30/2023
+ME,PSI_06,Iatrogenic pneumothorax rate,0,18,0,0,,07/01/2021,06/30/2023
+ME,PSI_08,In-hospital fall-associated fracture rate,0,18,0,0,,07/01/2021,06/30/2023
+ME,PSI_09,Postoperative hemorrhage or hematoma rate,0,18,0,0,,07/01/2021,06/30/2023
+ME,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,12,0,6,,07/01/2021,06/30/2023
+ME,PSI_11,Postoperative respiratory failure rate,0,13,0,5,,07/01/2021,06/30/2023
+ME,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,0,18,0,0,,07/01/2021,06/30/2023
+ME,PSI_13,Postoperative sepsis rate,0,12,0,6,,07/01/2021,06/30/2023
+ME,PSI_14,Postoperative wound dehiscence rate,0,16,0,2,,07/01/2021,06/30/2023
+ME,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,18,0,0,,07/01/2021,06/30/2023
+ME,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,1,16,1,Not Available,,07/01/2021,06/30/2023
+MI,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,48,0,53,,04/01/2021,03/31/2024
+MI,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,0,106,9,10,,07/01/2023,06/30/2024
+MI,MORT_30_AMI,Death rate for heart attack patients,0,54,1,57,,07/01/2021,06/30/2024
+MI,MORT_30_CABG,Death rate for CABG surgery patients,0,31,0,5,,07/01/2021,06/30/2024
+MI,MORT_30_COPD,Death rate for COPD patients,0,86,0,37,,07/01/2021,06/30/2024
+MI,MORT_30_HF,Death rate for heart failure patients,0,90,8,24,,07/01/2021,06/30/2024
+MI,MORT_30_PN,Death rate for pneumonia patients,4,93,9,18,,07/01/2021,06/30/2024
+MI,MORT_30_STK,Death rate for stroke patients,0,71,0,37,,07/01/2021,06/30/2024
+MI,PSI_03,Pressure ulcer rate,7,83,1,4,,07/01/2021,06/30/2023
+MI,PSI_04,Death rate among surgical inpatients with serious treatable complications,1,45,1,29,,07/01/2021,06/30/2023
+MI,PSI_06,Iatrogenic pneumothorax rate,0,93,0,2,,07/01/2021,06/30/2023
+MI,PSI_08,In-hospital fall-associated fracture rate,0,93,0,2,,07/01/2021,06/30/2023
+MI,PSI_09,Postoperative hemorrhage or hematoma rate,4,81,0,5,,07/01/2021,06/30/2023
+MI,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,77,0,10,,07/01/2021,06/30/2023
+MI,PSI_11,Postoperative respiratory failure rate,1,76,0,10,,07/01/2021,06/30/2023
+MI,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,2,84,0,4,,07/01/2021,06/30/2023
+MI,PSI_13,Postoperative sepsis rate,0,75,1,10,,07/01/2021,06/30/2023
+MI,PSI_14,Postoperative wound dehiscence rate,1,76,0,10,,07/01/2021,06/30/2023
+MI,PSI_15,Abdominopelvic accidental puncture or laceration rate,1,83,0,5,,07/01/2021,06/30/2023
+MI,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,7,79,2,Not Available,,07/01/2021,06/30/2023
+MN,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,38,1,39,,04/01/2021,03/31/2024
+MN,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,0,91,6,25,,07/01/2023,06/30/2024
+MN,MORT_30_AMI,Death rate for heart attack patients,0,20,1,85,,07/01/2021,06/30/2024
+MN,MORT_30_CABG,Death rate for CABG surgery patients,0,13,0,1,,07/01/2021,06/30/2024
+MN,MORT_30_COPD,Death rate for COPD patients,0,31,0,91,,07/01/2021,06/30/2024
+MN,MORT_30_HF,Death rate for heart failure patients,1,52,5,66,,07/01/2021,06/30/2024
+MN,MORT_30_PN,Death rate for pneumonia patients,1,69,7,47,,07/01/2021,06/30/2024
+MN,MORT_30_STK,Death rate for stroke patients,0,32,1,75,,07/01/2021,06/30/2024
+MN,PSI_03,Pressure ulcer rate,0,47,2,0,,07/01/2021,06/30/2023
+MN,PSI_04,Death rate among surgical inpatients with serious treatable complications,1,16,1,16,,07/01/2021,06/30/2023
+MN,PSI_06,Iatrogenic pneumothorax rate,0,49,0,0,,07/01/2021,06/30/2023
+MN,PSI_08,In-hospital fall-associated fracture rate,0,49,0,0,,07/01/2021,06/30/2023
+MN,PSI_09,Postoperative hemorrhage or hematoma rate,0,45,0,2,,07/01/2021,06/30/2023
+MN,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,41,0,6,,07/01/2021,06/30/2023
+MN,PSI_11,Postoperative respiratory failure rate,0,39,2,6,,07/01/2021,06/30/2023
+MN,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,0,46,0,1,,07/01/2021,06/30/2023
+MN,PSI_13,Postoperative sepsis rate,0,37,1,9,,07/01/2021,06/30/2023
+MN,PSI_14,Postoperative wound dehiscence rate,1,30,0,16,,07/01/2021,06/30/2023
+MN,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,44,0,3,,07/01/2021,06/30/2023
+MN,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,0,45,2,Not Available,,07/01/2021,06/30/2023
+MO,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,45,0,30,,04/01/2021,03/31/2024
+MO,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,6,80,8,6,,07/01/2023,06/30/2024
+MO,MORT_30_AMI,Death rate for heart attack patients,0,49,0,44,,07/01/2021,06/30/2024
+MO,MORT_30_CABG,Death rate for CABG surgery patients,0,24,0,6,,07/01/2021,06/30/2024
+MO,MORT_30_COPD,Death rate for COPD patients,0,67,2,35,,07/01/2021,06/30/2024
+MO,MORT_30_HF,Death rate for heart failure patients,8,58,9,30,,07/01/2021,06/30/2024
+MO,MORT_30_PN,Death rate for pneumonia patients,8,82,6,9,,07/01/2021,06/30/2024
+MO,MORT_30_STK,Death rate for stroke patients,3,45,1,46,,07/01/2021,06/30/2024
+MO,PSI_03,Pressure ulcer rate,2,68,1,0,,07/01/2021,06/30/2023
+MO,PSI_04,Death rate among surgical inpatients with serious treatable complications,0,43,0,18,,07/01/2021,06/30/2023
+MO,PSI_06,Iatrogenic pneumothorax rate,0,71,0,0,,07/01/2021,06/30/2023
+MO,PSI_08,In-hospital fall-associated fracture rate,0,71,0,0,,07/01/2021,06/30/2023
+MO,PSI_09,Postoperative hemorrhage or hematoma rate,2,63,0,4,,07/01/2021,06/30/2023
+MO,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,61,0,6,,07/01/2021,06/30/2023
+MO,PSI_11,Postoperative respiratory failure rate,1,58,2,6,,07/01/2021,06/30/2023
+MO,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,2,63,0,4,,07/01/2021,06/30/2023
+MO,PSI_13,Postoperative sepsis rate,1,60,0,4,,07/01/2021,06/30/2023
+MO,PSI_14,Postoperative wound dehiscence rate,0,59,0,9,,07/01/2021,06/30/2023
+MO,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,64,0,7,,07/01/2021,06/30/2023
+MO,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,1,68,0,Not Available,,07/01/2021,06/30/2023
+MP,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,Not Available,Not Available,Not Available,Not Available,5,04/01/2021,03/31/2024
+MP,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2023,06/30/2024
+MP,MORT_30_AMI,Death rate for heart attack patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+MP,MORT_30_CABG,Death rate for CABG surgery patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+MP,MORT_30_COPD,Death rate for COPD patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+MP,MORT_30_HF,Death rate for heart failure patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+MP,MORT_30_PN,Death rate for pneumonia patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+MP,MORT_30_STK,Death rate for stroke patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+MP,PSI_03,Pressure ulcer rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+MP,PSI_04,Death rate among surgical inpatients with serious treatable complications,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+MP,PSI_06,Iatrogenic pneumothorax rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+MP,PSI_08,In-hospital fall-associated fracture rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+MP,PSI_09,Postoperative hemorrhage or hematoma rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+MP,PSI_10,Postoperative acute kidney injury requiring dialysis rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+MP,PSI_11,Postoperative respiratory failure rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+MP,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+MP,PSI_13,Postoperative sepsis rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+MP,PSI_14,Postoperative wound dehiscence rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+MP,PSI_15,Abdominopelvic accidental puncture or laceration rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+MP,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+MS,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,16,0,13,,04/01/2021,03/31/2024
+MS,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,12,58,1,15,,07/01/2023,06/30/2024
+MS,MORT_30_AMI,Death rate for heart attack patients,1,22,0,35,,07/01/2021,06/30/2024
+MS,MORT_30_CABG,Death rate for CABG surgery patients,1,13,0,3,,07/01/2021,06/30/2024
+MS,MORT_30_COPD,Death rate for COPD patients,3,40,0,44,,07/01/2021,06/30/2024
+MS,MORT_30_HF,Death rate for heart failure patients,5,49,0,35,,07/01/2021,06/30/2024
+MS,MORT_30_PN,Death rate for pneumonia patients,16,50,0,25,,07/01/2021,06/30/2024
+MS,MORT_30_STK,Death rate for stroke patients,1,30,0,40,,07/01/2021,06/30/2024
+MS,PSI_03,Pressure ulcer rate,4,54,0,4,,07/01/2021,06/30/2023
+MS,PSI_04,Death rate among surgical inpatients with serious treatable complications,1,15,1,21,,07/01/2021,06/30/2023
+MS,PSI_06,Iatrogenic pneumothorax rate,1,57,0,4,,07/01/2021,06/30/2023
+MS,PSI_08,In-hospital fall-associated fracture rate,0,58,0,4,,07/01/2021,06/30/2023
+MS,PSI_09,Postoperative hemorrhage or hematoma rate,2,40,0,4,,07/01/2021,06/30/2023
+MS,PSI_10,Postoperative acute kidney injury requiring dialysis rate,1,32,0,11,,07/01/2021,06/30/2023
+MS,PSI_11,Postoperative respiratory failure rate,3,31,0,10,,07/01/2021,06/30/2023
+MS,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,1,41,0,4,,07/01/2021,06/30/2023
+MS,PSI_13,Postoperative sepsis rate,2,29,0,9,,07/01/2021,06/30/2023
+MS,PSI_14,Postoperative wound dehiscence rate,0,36,0,6,,07/01/2021,06/30/2023
+MS,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,42,0,5,,07/01/2021,06/30/2023
+MS,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,4,39,0,Not Available,,07/01/2021,06/30/2023
+MT,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,14,0,12,,04/01/2021,03/31/2024
+MT,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,3,32,1,23,,07/01/2023,06/30/2024
+MT,MORT_30_AMI,Death rate for heart attack patients,0,10,0,25,,07/01/2021,06/30/2024
+MT,MORT_30_CABG,Death rate for CABG surgery patients,0,6,0,0,,07/01/2021,06/30/2024
+MT,MORT_30_COPD,Death rate for COPD patients,1,15,0,38,,07/01/2021,06/30/2024
+MT,MORT_30_HF,Death rate for heart failure patients,3,18,0,36,,07/01/2021,06/30/2024
+MT,MORT_30_PN,Death rate for pneumonia patients,1,24,1,34,,07/01/2021,06/30/2024
+MT,MORT_30_STK,Death rate for stroke patients,1,10,0,30,,07/01/2021,06/30/2024
+MT,PSI_03,Pressure ulcer rate,1,11,0,0,,07/01/2021,06/30/2023
+MT,PSI_04,Death rate among surgical inpatients with serious treatable complications,1,7,0,2,,07/01/2021,06/30/2023
+MT,PSI_06,Iatrogenic pneumothorax rate,0,12,0,0,,07/01/2021,06/30/2023
+MT,PSI_08,In-hospital fall-associated fracture rate,0,12,0,0,,07/01/2021,06/30/2023
+MT,PSI_09,Postoperative hemorrhage or hematoma rate,0,11,0,0,,07/01/2021,06/30/2023
+MT,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,11,0,0,,07/01/2021,06/30/2023
+MT,PSI_11,Postoperative respiratory failure rate,1,10,0,0,,07/01/2021,06/30/2023
+MT,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,0,11,0,0,,07/01/2021,06/30/2023
+MT,PSI_13,Postoperative sepsis rate,0,11,0,0,,07/01/2021,06/30/2023
+MT,PSI_14,Postoperative wound dehiscence rate,0,10,0,1,,07/01/2021,06/30/2023
+MT,PSI_15,Abdominopelvic accidental puncture or laceration rate,1,10,0,1,,07/01/2021,06/30/2023
+MT,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,1,10,0,Not Available,,07/01/2021,06/30/2023
+NC,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,49,3,36,,04/01/2021,03/31/2024
+NC,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,2,92,6,3,,07/01/2023,06/30/2024
+NC,MORT_30_AMI,Death rate for heart attack patients,2,52,1,46,,07/01/2021,06/30/2024
+NC,MORT_30_CABG,Death rate for CABG surgery patients,2,18,0,2,,07/01/2021,06/30/2024
+NC,MORT_30_COPD,Death rate for COPD patients,0,83,0,23,,07/01/2021,06/30/2024
+NC,MORT_30_HF,Death rate for heart failure patients,6,80,6,14,,07/01/2021,06/30/2024
+NC,MORT_30_PN,Death rate for pneumonia patients,9,85,6,6,,07/01/2021,06/30/2024
+NC,MORT_30_STK,Death rate for stroke patients,0,79,1,19,,07/01/2021,06/30/2024
+NC,PSI_03,Pressure ulcer rate,7,79,2,0,,07/01/2021,06/30/2023
+NC,PSI_04,Death rate among surgical inpatients with serious treatable complications,3,38,1,34,,07/01/2021,06/30/2023
+NC,PSI_06,Iatrogenic pneumothorax rate,0,88,0,0,,07/01/2021,06/30/2023
+NC,PSI_08,In-hospital fall-associated fracture rate,0,88,0,0,,07/01/2021,06/30/2023
+NC,PSI_09,Postoperative hemorrhage or hematoma rate,0,83,1,1,,07/01/2021,06/30/2023
+NC,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,72,0,12,,07/01/2021,06/30/2023
+NC,PSI_11,Postoperative respiratory failure rate,1,69,2,11,,07/01/2021,06/30/2023
+NC,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,1,83,0,1,,07/01/2021,06/30/2023
+NC,PSI_13,Postoperative sepsis rate,0,68,1,13,,07/01/2021,06/30/2023
+NC,PSI_14,Postoperative wound dehiscence rate,0,76,0,7,,07/01/2021,06/30/2023
+NC,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,84,0,1,,07/01/2021,06/30/2023
+NC,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,3,80,2,Not Available,,07/01/2021,06/30/2023
+ND,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,7,0,4,,04/01/2021,03/31/2024
+ND,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,0,30,1,12,,07/01/2023,06/30/2024
+ND,MORT_30_AMI,Death rate for heart attack patients,0,6,0,29,,07/01/2021,06/30/2024
+ND,MORT_30_CABG,Death rate for CABG surgery patients,0,6,0,0,,07/01/2021,06/30/2024
+ND,MORT_30_COPD,Death rate for COPD patients,0,12,0,29,,07/01/2021,06/30/2024
+ND,MORT_30_HF,Death rate for heart failure patients,0,15,0,28,,07/01/2021,06/30/2024
+ND,MORT_30_PN,Death rate for pneumonia patients,0,26,2,17,,07/01/2021,06/30/2024
+ND,MORT_30_STK,Death rate for stroke patients,0,6,0,27,,07/01/2021,06/30/2024
+ND,PSI_03,Pressure ulcer rate,2,6,0,0,,07/01/2021,06/30/2023
+ND,PSI_04,Death rate among surgical inpatients with serious treatable complications,0,6,0,1,,07/01/2021,06/30/2023
+ND,PSI_06,Iatrogenic pneumothorax rate,0,8,0,0,,07/01/2021,06/30/2023
+ND,PSI_08,In-hospital fall-associated fracture rate,0,8,0,0,,07/01/2021,06/30/2023
+ND,PSI_09,Postoperative hemorrhage or hematoma rate,0,7,0,0,,07/01/2021,06/30/2023
+ND,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,7,0,0,,07/01/2021,06/30/2023
+ND,PSI_11,Postoperative respiratory failure rate,1,6,0,0,,07/01/2021,06/30/2023
+ND,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,0,7,0,0,,07/01/2021,06/30/2023
+ND,PSI_13,Postoperative sepsis rate,0,7,0,0,,07/01/2021,06/30/2023
+ND,PSI_14,Postoperative wound dehiscence rate,0,7,0,0,,07/01/2021,06/30/2023
+ND,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,7,0,0,,07/01/2021,06/30/2023
+ND,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,0,6,1,Not Available,,07/01/2021,06/30/2023
+NE,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,18,0,33,,04/01/2021,03/31/2024
+NE,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,0,75,1,12,,07/01/2023,06/30/2024
+NE,MORT_30_AMI,Death rate for heart attack patients,1,17,0,49,,07/01/2021,06/30/2024
+NE,MORT_30_CABG,Death rate for CABG surgery patients,0,8,0,1,,07/01/2021,06/30/2024
+NE,MORT_30_COPD,Death rate for COPD patients,1,24,0,56,,07/01/2021,06/30/2024
+NE,MORT_30_HF,Death rate for heart failure patients,3,33,1,45,,07/01/2021,06/30/2024
+NE,MORT_30_PN,Death rate for pneumonia patients,4,56,1,23,,07/01/2021,06/30/2024
+NE,MORT_30_STK,Death rate for stroke patients,1,17,0,57,,07/01/2021,06/30/2024
+NE,PSI_03,Pressure ulcer rate,0,24,1,0,,07/01/2021,06/30/2023
+NE,PSI_04,Death rate among surgical inpatients with serious treatable complications,1,13,0,7,,07/01/2021,06/30/2023
+NE,PSI_06,Iatrogenic pneumothorax rate,0,25,0,0,,07/01/2021,06/30/2023
+NE,PSI_08,In-hospital fall-associated fracture rate,0,25,0,0,,07/01/2021,06/30/2023
+NE,PSI_09,Postoperative hemorrhage or hematoma rate,1,24,0,0,,07/01/2021,06/30/2023
+NE,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,24,0,1,,07/01/2021,06/30/2023
+NE,PSI_11,Postoperative respiratory failure rate,0,23,1,1,,07/01/2021,06/30/2023
+NE,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,2,23,0,0,,07/01/2021,06/30/2023
+NE,PSI_13,Postoperative sepsis rate,1,22,1,0,,07/01/2021,06/30/2023
+NE,PSI_14,Postoperative wound dehiscence rate,0,22,0,2,,07/01/2021,06/30/2023
+NE,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,24,0,1,,07/01/2021,06/30/2023
+NE,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,0,24,1,Not Available,,07/01/2021,06/30/2023
+NH,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,9,0,12,,04/01/2021,03/31/2024
+NH,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,0,22,4,0,,07/01/2023,06/30/2024
+NH,MORT_30_AMI,Death rate for heart attack patients,0,12,0,13,,07/01/2021,06/30/2024
+NH,MORT_30_CABG,Death rate for CABG surgery patients,0,4,0,0,,07/01/2021,06/30/2024
+NH,MORT_30_COPD,Death rate for COPD patients,0,21,0,5,,07/01/2021,06/30/2024
+NH,MORT_30_HF,Death rate for heart failure patients,0,22,1,3,,07/01/2021,06/30/2024
+NH,MORT_30_PN,Death rate for pneumonia patients,0,23,2,1,,07/01/2021,06/30/2024
+NH,MORT_30_STK,Death rate for stroke patients,1,17,0,8,,07/01/2021,06/30/2024
+NH,PSI_03,Pressure ulcer rate,1,12,0,0,,07/01/2021,06/30/2023
+NH,PSI_04,Death rate among surgical inpatients with serious treatable complications,0,7,0,6,,07/01/2021,06/30/2023
+NH,PSI_06,Iatrogenic pneumothorax rate,0,13,0,0,,07/01/2021,06/30/2023
+NH,PSI_08,In-hospital fall-associated fracture rate,0,13,0,0,,07/01/2021,06/30/2023
+NH,PSI_09,Postoperative hemorrhage or hematoma rate,1,12,0,0,,07/01/2021,06/30/2023
+NH,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,12,0,1,,07/01/2021,06/30/2023
+NH,PSI_11,Postoperative respiratory failure rate,0,12,0,1,,07/01/2021,06/30/2023
+NH,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,1,12,0,0,,07/01/2021,06/30/2023
+NH,PSI_13,Postoperative sepsis rate,0,12,0,1,,07/01/2021,06/30/2023
+NH,PSI_14,Postoperative wound dehiscence rate,0,13,0,0,,07/01/2021,06/30/2023
+NH,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,13,0,0,,07/01/2021,06/30/2023
+NH,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,1,12,0,Not Available,,07/01/2021,06/30/2023
+NJ,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,32,1,25,,04/01/2021,03/31/2024
+NJ,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,1,54,7,0,,07/01/2023,06/30/2024
+NJ,MORT_30_AMI,Death rate for heart attack patients,1,53,1,9,,07/01/2021,06/30/2024
+NJ,MORT_30_CABG,Death rate for CABG surgery patients,0,14,0,6,,07/01/2021,06/30/2024
+NJ,MORT_30_COPD,Death rate for COPD patients,0,59,1,4,,07/01/2021,06/30/2024
+NJ,MORT_30_HF,Death rate for heart failure patients,3,53,7,1,,07/01/2021,06/30/2024
+NJ,MORT_30_PN,Death rate for pneumonia patients,5,51,7,1,,07/01/2021,06/30/2024
+NJ,MORT_30_STK,Death rate for stroke patients,1,49,5,8,,07/01/2021,06/30/2024
+NJ,PSI_03,Pressure ulcer rate,5,58,1,1,,07/01/2021,06/30/2023
+NJ,PSI_04,Death rate among surgical inpatients with serious treatable complications,1,45,1,17,,07/01/2021,06/30/2023
+NJ,PSI_06,Iatrogenic pneumothorax rate,0,64,0,1,,07/01/2021,06/30/2023
+NJ,PSI_08,In-hospital fall-associated fracture rate,0,64,0,1,,07/01/2021,06/30/2023
+NJ,PSI_09,Postoperative hemorrhage or hematoma rate,0,63,1,0,,07/01/2021,06/30/2023
+NJ,PSI_10,Postoperative acute kidney injury requiring dialysis rate,1,57,0,6,,07/01/2021,06/30/2023
+NJ,PSI_11,Postoperative respiratory failure rate,1,54,4,5,,07/01/2021,06/30/2023
+NJ,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,2,62,0,1,,07/01/2021,06/30/2023
+NJ,PSI_13,Postoperative sepsis rate,1,55,1,7,,07/01/2021,06/30/2023
+NJ,PSI_14,Postoperative wound dehiscence rate,0,59,0,5,,07/01/2021,06/30/2023
+NJ,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,64,0,1,,07/01/2021,06/30/2023
+NJ,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,3,57,4,Not Available,,07/01/2021,06/30/2023
+NM,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,8,0,20,,04/01/2021,03/31/2024
+NM,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,1,36,0,5,,07/01/2023,06/30/2024
+NM,MORT_30_AMI,Death rate for heart attack patients,0,12,0,23,,07/01/2021,06/30/2024
+NM,MORT_30_CABG,Death rate for CABG surgery patients,0,4,0,1,,07/01/2021,06/30/2024
+NM,MORT_30_COPD,Death rate for COPD patients,0,13,0,30,,07/01/2021,06/30/2024
+NM,MORT_30_HF,Death rate for heart failure patients,0,22,2,19,,07/01/2021,06/30/2024
+NM,MORT_30_PN,Death rate for pneumonia patients,2,31,2,8,,07/01/2021,06/30/2024
+NM,MORT_30_STK,Death rate for stroke patients,1,10,0,26,,07/01/2021,06/30/2024
+NM,PSI_03,Pressure ulcer rate,3,26,0,0,,07/01/2021,06/30/2023
+NM,PSI_04,Death rate among surgical inpatients with serious treatable complications,0,9,0,11,,07/01/2021,06/30/2023
+NM,PSI_06,Iatrogenic pneumothorax rate,0,29,0,0,,07/01/2021,06/30/2023
+NM,PSI_08,In-hospital fall-associated fracture rate,0,29,0,0,,07/01/2021,06/30/2023
+NM,PSI_09,Postoperative hemorrhage or hematoma rate,0,24,0,2,,07/01/2021,06/30/2023
+NM,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,19,0,3,,07/01/2021,06/30/2023
+NM,PSI_11,Postoperative respiratory failure rate,0,19,0,3,,07/01/2021,06/30/2023
+NM,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,0,24,0,2,,07/01/2021,06/30/2023
+NM,PSI_13,Postoperative sepsis rate,0,18,0,4,,07/01/2021,06/30/2023
+NM,PSI_14,Postoperative wound dehiscence rate,0,21,0,4,,07/01/2021,06/30/2023
+NM,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,25,0,3,,07/01/2021,06/30/2023
+NM,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,2,24,0,Not Available,,07/01/2021,06/30/2023
+NV,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,16,0,11,,04/01/2021,03/31/2024
+NV,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,0,27,2,4,,07/01/2023,06/30/2024
+NV,MORT_30_AMI,Death rate for heart attack patients,0,20,0,11,,07/01/2021,06/30/2024
+NV,MORT_30_CABG,Death rate for CABG surgery patients,0,10,0,3,,07/01/2021,06/30/2024
+NV,MORT_30_COPD,Death rate for COPD patients,0,28,0,8,,07/01/2021,06/30/2024
+NV,MORT_30_HF,Death rate for heart failure patients,0,23,4,7,,07/01/2021,06/30/2024
+NV,MORT_30_PN,Death rate for pneumonia patients,2,23,4,7,,07/01/2021,06/30/2024
+NV,MORT_30_STK,Death rate for stroke patients,1,17,0,11,,07/01/2021,06/30/2024
+NV,PSI_03,Pressure ulcer rate,0,22,2,0,,07/01/2021,06/30/2023
+NV,PSI_04,Death rate among surgical inpatients with serious treatable complications,1,15,1,5,,07/01/2021,06/30/2023
+NV,PSI_06,Iatrogenic pneumothorax rate,0,24,0,0,,07/01/2021,06/30/2023
+NV,PSI_08,In-hospital fall-associated fracture rate,0,24,0,0,,07/01/2021,06/30/2023
+NV,PSI_09,Postoperative hemorrhage or hematoma rate,1,21,0,0,,07/01/2021,06/30/2023
+NV,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,22,0,0,,07/01/2021,06/30/2023
+NV,PSI_11,Postoperative respiratory failure rate,1,21,0,0,,07/01/2021,06/30/2023
+NV,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,1,21,0,0,,07/01/2021,06/30/2023
+NV,PSI_13,Postoperative sepsis rate,0,22,0,0,,07/01/2021,06/30/2023
+NV,PSI_14,Postoperative wound dehiscence rate,0,21,0,1,,07/01/2021,06/30/2023
+NV,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,22,0,0,,07/01/2021,06/30/2023
+NV,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,1,21,0,Not Available,,07/01/2021,06/30/2023
+NY,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,73,3,55,,04/01/2021,03/31/2024
+NY,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,4,117,25,6,,07/01/2023,06/30/2024
+NY,MORT_30_AMI,Death rate for heart attack patients,0,87,3,62,,07/01/2021,06/30/2024
+NY,MORT_30_CABG,Death rate for CABG surgery patients,0,28,2,5,,07/01/2021,06/30/2024
+NY,MORT_30_COPD,Death rate for COPD patients,0,126,5,29,,07/01/2021,06/30/2024
+NY,MORT_30_HF,Death rate for heart failure patients,4,113,25,17,,07/01/2021,06/30/2024
+NY,MORT_30_PN,Death rate for pneumonia patients,10,112,31,7,,07/01/2021,06/30/2024
+NY,MORT_30_STK,Death rate for stroke patients,1,89,14,40,,07/01/2021,06/30/2024
+NY,PSI_03,Pressure ulcer rate,26,112,3,2,,07/01/2021,06/30/2023
+NY,PSI_04,Death rate among surgical inpatients with serious treatable complications,3,69,1,52,,07/01/2021,06/30/2023
+NY,PSI_06,Iatrogenic pneumothorax rate,0,141,0,2,,07/01/2021,06/30/2023
+NY,PSI_08,In-hospital fall-associated fracture rate,0,141,0,2,,07/01/2021,06/30/2023
+NY,PSI_09,Postoperative hemorrhage or hematoma rate,4,127,2,3,,07/01/2021,06/30/2023
+NY,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,116,1,17,,07/01/2021,06/30/2023
+NY,PSI_11,Postoperative respiratory failure rate,1,113,3,18,,07/01/2021,06/30/2023
+NY,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,7,125,1,3,,07/01/2021,06/30/2023
+NY,PSI_13,Postoperative sepsis rate,4,108,2,21,,07/01/2021,06/30/2023
+NY,PSI_14,Postoperative wound dehiscence rate,0,121,0,13,,07/01/2021,06/30/2023
+NY,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,134,1,2,,07/01/2021,06/30/2023
+NY,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,25,105,5,Not Available,,07/01/2021,06/30/2023
+OH,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,60,1,75,,04/01/2021,03/31/2024
+OH,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,1,129,14,8,,07/01/2023,06/30/2024
+OH,MORT_30_AMI,Death rate for heart attack patients,0,79,2,60,,07/01/2021,06/30/2024
+OH,MORT_30_CABG,Death rate for CABG surgery patients,0,40,1,9,,07/01/2021,06/30/2024
+OH,MORT_30_COPD,Death rate for COPD patients,0,118,1,33,,07/01/2021,06/30/2024
+OH,MORT_30_HF,Death rate for heart failure patients,1,112,18,19,,07/01/2021,06/30/2024
+OH,MORT_30_PN,Death rate for pneumonia patients,2,123,16,11,,07/01/2021,06/30/2024
+OH,MORT_30_STK,Death rate for stroke patients,0,87,3,52,,07/01/2021,06/30/2024
+OH,PSI_03,Pressure ulcer rate,6,117,3,0,,07/01/2021,06/30/2023
+OH,PSI_04,Death rate among surgical inpatients with serious treatable complications,0,57,1,51,,07/01/2021,06/30/2023
+OH,PSI_06,Iatrogenic pneumothorax rate,0,126,0,0,,07/01/2021,06/30/2023
+OH,PSI_08,In-hospital fall-associated fracture rate,0,126,0,0,,07/01/2021,06/30/2023
+OH,PSI_09,Postoperative hemorrhage or hematoma rate,1,120,0,1,,07/01/2021,06/30/2023
+OH,PSI_10,Postoperative acute kidney injury requiring dialysis rate,2,107,0,13,,07/01/2021,06/30/2023
+OH,PSI_11,Postoperative respiratory failure rate,5,101,3,13,,07/01/2021,06/30/2023
+OH,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,2,119,1,0,,07/01/2021,06/30/2023
+OH,PSI_13,Postoperative sepsis rate,1,106,1,13,,07/01/2021,06/30/2023
+OH,PSI_14,Postoperative wound dehiscence rate,0,109,0,12,,07/01/2021,06/30/2023
+OH,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,120,0,2,,07/01/2021,06/30/2023
+OH,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,7,112,3,Not Available,,07/01/2021,06/30/2023
+OK,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,35,2,19,,04/01/2021,03/31/2024
+OK,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,3,91,4,17,,07/01/2023,06/30/2024
+OK,MORT_30_AMI,Death rate for heart attack patients,0,29,0,35,,07/01/2021,06/30/2024
+OK,MORT_30_CABG,Death rate for CABG surgery patients,0,10,0,2,,07/01/2021,06/30/2024
+OK,MORT_30_COPD,Death rate for COPD patients,1,46,1,64,,07/01/2021,06/30/2024
+OK,MORT_30_HF,Death rate for heart failure patients,2,51,5,51,,07/01/2021,06/30/2024
+OK,MORT_30_PN,Death rate for pneumonia patients,6,76,1,32,,07/01/2021,06/30/2024
+OK,MORT_30_STK,Death rate for stroke patients,2,31,0,52,,07/01/2021,06/30/2024
+OK,PSI_03,Pressure ulcer rate,5,70,2,2,,07/01/2021,06/30/2023
+OK,PSI_04,Death rate among surgical inpatients with serious treatable complications,1,26,0,20,,07/01/2021,06/30/2023
+OK,PSI_06,Iatrogenic pneumothorax rate,1,78,0,1,,07/01/2021,06/30/2023
+OK,PSI_08,In-hospital fall-associated fracture rate,1,78,0,1,,07/01/2021,06/30/2023
+OK,PSI_09,Postoperative hemorrhage or hematoma rate,1,57,0,10,,07/01/2021,06/30/2023
+OK,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,54,0,8,,07/01/2021,06/30/2023
+OK,PSI_11,Postoperative respiratory failure rate,1,52,1,8,,07/01/2021,06/30/2023
+OK,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,3,54,1,10,,07/01/2021,06/30/2023
+OK,PSI_13,Postoperative sepsis rate,0,52,0,10,,07/01/2021,06/30/2023
+OK,PSI_14,Postoperative wound dehiscence rate,0,48,0,13,,07/01/2021,06/30/2023
+OK,PSI_15,Abdominopelvic accidental puncture or laceration rate,1,54,0,17,,07/01/2021,06/30/2023
+OK,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,5,58,1,Not Available,,07/01/2021,06/30/2023
+OR,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,20,0,27,,04/01/2021,03/31/2024
+OR,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,1,51,2,4,,07/01/2023,06/30/2024
+OR,MORT_30_AMI,Death rate for heart attack patients,0,27,0,26,,07/01/2021,06/30/2024
+OR,MORT_30_CABG,Death rate for CABG surgery patients,0,10,0,1,,07/01/2021,06/30/2024
+OR,MORT_30_COPD,Death rate for COPD patients,4,29,0,27,,07/01/2021,06/30/2024
+OR,MORT_30_HF,Death rate for heart failure patients,5,41,1,13,,07/01/2021,06/30/2024
+OR,MORT_30_PN,Death rate for pneumonia patients,0,51,2,7,,07/01/2021,06/30/2024
+OR,MORT_30_STK,Death rate for stroke patients,2,36,0,19,,07/01/2021,06/30/2024
+OR,PSI_03,Pressure ulcer rate,3,32,0,0,,07/01/2021,06/30/2023
+OR,PSI_04,Death rate among surgical inpatients with serious treatable complications,2,16,0,12,,07/01/2021,06/30/2023
+OR,PSI_06,Iatrogenic pneumothorax rate,0,35,0,0,,07/01/2021,06/30/2023
+OR,PSI_08,In-hospital fall-associated fracture rate,0,35,0,0,,07/01/2021,06/30/2023
+OR,PSI_09,Postoperative hemorrhage or hematoma rate,0,34,0,0,,07/01/2021,06/30/2023
+OR,PSI_10,Postoperative acute kidney injury requiring dialysis rate,1,31,0,2,,07/01/2021,06/30/2023
+OR,PSI_11,Postoperative respiratory failure rate,0,32,0,2,,07/01/2021,06/30/2023
+OR,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,1,33,0,0,,07/01/2021,06/30/2023
+OR,PSI_13,Postoperative sepsis rate,1,30,0,3,,07/01/2021,06/30/2023
+OR,PSI_14,Postoperative wound dehiscence rate,0,32,0,2,,07/01/2021,06/30/2023
+OR,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,34,0,0,,07/01/2021,06/30/2023
+OR,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,3,30,1,Not Available,,07/01/2021,06/30/2023
+PA,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,88,2,47,,04/01/2021,03/31/2024
+PA,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,2,121,19,8,,07/01/2023,06/30/2024
+PA,MORT_30_AMI,Death rate for heart attack patients,0,92,0,52,,07/01/2021,06/30/2024
+PA,MORT_30_CABG,Death rate for CABG surgery patients,0,44,0,8,,07/01/2021,06/30/2024
+PA,MORT_30_COPD,Death rate for COPD patients,1,105,5,42,,07/01/2021,06/30/2024
+PA,MORT_30_HF,Death rate for heart failure patients,3,120,17,13,,07/01/2021,06/30/2024
+PA,MORT_30_PN,Death rate for pneumonia patients,2,123,16,11,,07/01/2021,06/30/2024
+PA,MORT_30_STK,Death rate for stroke patients,2,97,4,38,,07/01/2021,06/30/2024
+PA,PSI_03,Pressure ulcer rate,10,133,1,5,,07/01/2021,06/30/2023
+PA,PSI_04,Death rate among surgical inpatients with serious treatable complications,2,63,1,42,,07/01/2021,06/30/2023
+PA,PSI_06,Iatrogenic pneumothorax rate,0,148,0,1,,07/01/2021,06/30/2023
+PA,PSI_08,In-hospital fall-associated fracture rate,1,147,0,1,,07/01/2021,06/30/2023
+PA,PSI_09,Postoperative hemorrhage or hematoma rate,0,132,3,7,,07/01/2021,06/30/2023
+PA,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,116,0,17,,07/01/2021,06/30/2023
+PA,PSI_11,Postoperative respiratory failure rate,2,110,5,17,,07/01/2021,06/30/2023
+PA,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,1,133,1,7,,07/01/2021,06/30/2023
+PA,PSI_13,Postoperative sepsis rate,2,112,0,19,,07/01/2021,06/30/2023
+PA,PSI_14,Postoperative wound dehiscence rate,0,108,0,24,,07/01/2021,06/30/2023
+PA,PSI_15,Abdominopelvic accidental puncture or laceration rate,2,129,0,8,,07/01/2021,06/30/2023
+PA,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,6,123,8,Not Available,,07/01/2021,06/30/2023
+PR,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,5,0,26,,04/01/2021,03/31/2024
+PR,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,19,25,0,7,,07/01/2023,06/30/2024
+PR,MORT_30_AMI,Death rate for heart attack patients,0,6,0,35,,07/01/2021,06/30/2024
+PR,MORT_30_CABG,Death rate for CABG surgery patients,0,0,0,8,,07/01/2021,06/30/2024
+PR,MORT_30_COPD,Death rate for COPD patients,0,2,0,36,,07/01/2021,06/30/2024
+PR,MORT_30_HF,Death rate for heart failure patients,0,5,1,40,,07/01/2021,06/30/2024
+PR,MORT_30_PN,Death rate for pneumonia patients,0,9,0,39,,07/01/2021,06/30/2024
+PR,MORT_30_STK,Death rate for stroke patients,0,4,0,42,,07/01/2021,06/30/2024
+PR,PSI_03,Pressure ulcer rate,0,1,0,0,,07/01/2021,06/30/2023
+PR,PSI_04,Death rate among surgical inpatients with serious treatable complications,0,1,0,0,,07/01/2021,06/30/2023
+PR,PSI_06,Iatrogenic pneumothorax rate,0,1,0,0,,07/01/2021,06/30/2023
+PR,PSI_08,In-hospital fall-associated fracture rate,0,1,0,0,,07/01/2021,06/30/2023
+PR,PSI_09,Postoperative hemorrhage or hematoma rate,0,1,0,0,,07/01/2021,06/30/2023
+PR,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,1,0,0,,07/01/2021,06/30/2023
+PR,PSI_11,Postoperative respiratory failure rate,1,0,0,0,,07/01/2021,06/30/2023
+PR,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,1,0,0,0,,07/01/2021,06/30/2023
+PR,PSI_13,Postoperative sepsis rate,1,0,0,0,,07/01/2021,06/30/2023
+PR,PSI_14,Postoperative wound dehiscence rate,0,1,0,0,,07/01/2021,06/30/2023
+PR,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,1,0,0,,07/01/2021,06/30/2023
+PR,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,1,0,0,Not Available,,07/01/2021,06/30/2023
+RI,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,5,0,4,,04/01/2021,03/31/2024
+RI,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,0,9,1,0,,07/01/2023,06/30/2024
+RI,MORT_30_AMI,Death rate for heart attack patients,0,7,0,3,,07/01/2021,06/30/2024
+RI,MORT_30_CABG,Death rate for CABG surgery patients,0,1,0,0,,07/01/2021,06/30/2024
+RI,MORT_30_COPD,Death rate for COPD patients,0,10,0,0,,07/01/2021,06/30/2024
+RI,MORT_30_HF,Death rate for heart failure patients,1,9,0,0,,07/01/2021,06/30/2024
+RI,MORT_30_PN,Death rate for pneumonia patients,0,10,0,0,,07/01/2021,06/30/2024
+RI,MORT_30_STK,Death rate for stroke patients,0,6,1,2,,07/01/2021,06/30/2024
+RI,PSI_03,Pressure ulcer rate,1,10,0,0,,07/01/2021,06/30/2023
+RI,PSI_04,Death rate among surgical inpatients with serious treatable complications,0,3,0,8,,07/01/2021,06/30/2023
+RI,PSI_06,Iatrogenic pneumothorax rate,1,10,0,0,,07/01/2021,06/30/2023
+RI,PSI_08,In-hospital fall-associated fracture rate,0,11,0,0,,07/01/2021,06/30/2023
+RI,PSI_09,Postoperative hemorrhage or hematoma rate,0,11,0,0,,07/01/2021,06/30/2023
+RI,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,10,0,1,,07/01/2021,06/30/2023
+RI,PSI_11,Postoperative respiratory failure rate,0,11,0,0,,07/01/2021,06/30/2023
+RI,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,0,11,0,0,,07/01/2021,06/30/2023
+RI,PSI_13,Postoperative sepsis rate,0,11,0,0,,07/01/2021,06/30/2023
+RI,PSI_14,Postoperative wound dehiscence rate,0,11,0,0,,07/01/2021,06/30/2023
+RI,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,11,0,0,,07/01/2021,06/30/2023
+RI,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,0,10,1,Not Available,,07/01/2021,06/30/2023
+SC,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,28,0,18,,04/01/2021,03/31/2024
+SC,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,2,48,3,2,,07/01/2023,06/30/2024
+SC,MORT_30_AMI,Death rate for heart attack patients,0,28,0,26,,07/01/2021,06/30/2024
+SC,MORT_30_CABG,Death rate for CABG surgery patients,0,15,0,3,,07/01/2021,06/30/2024
+SC,MORT_30_COPD,Death rate for COPD patients,1,46,0,11,,07/01/2021,06/30/2024
+SC,MORT_30_HF,Death rate for heart failure patients,5,44,1,10,,07/01/2021,06/30/2024
+SC,MORT_30_PN,Death rate for pneumonia patients,5,49,1,4,,07/01/2021,06/30/2024
+SC,MORT_30_STK,Death rate for stroke patients,0,43,0,13,,07/01/2021,06/30/2024
+SC,PSI_03,Pressure ulcer rate,5,48,2,0,,07/01/2021,06/30/2023
+SC,PSI_04,Death rate among surgical inpatients with serious treatable complications,1,21,2,23,,07/01/2021,06/30/2023
+SC,PSI_06,Iatrogenic pneumothorax rate,0,55,0,0,,07/01/2021,06/30/2023
+SC,PSI_08,In-hospital fall-associated fracture rate,0,55,0,0,,07/01/2021,06/30/2023
+SC,PSI_09,Postoperative hemorrhage or hematoma rate,1,50,0,2,,07/01/2021,06/30/2023
+SC,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,43,0,6,,07/01/2021,06/30/2023
+SC,PSI_11,Postoperative respiratory failure rate,2,41,0,7,,07/01/2021,06/30/2023
+SC,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,2,49,0,2,,07/01/2021,06/30/2023
+SC,PSI_13,Postoperative sepsis rate,0,43,0,5,,07/01/2021,06/30/2023
+SC,PSI_14,Postoperative wound dehiscence rate,0,45,0,8,,07/01/2021,06/30/2023
+SC,PSI_15,Abdominopelvic accidental puncture or laceration rate,1,49,0,4,,07/01/2021,06/30/2023
+SC,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,1,50,2,Not Available,,07/01/2021,06/30/2023
+SD,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,12,1,4,,04/01/2021,03/31/2024
+SD,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,0,45,2,10,,07/01/2023,06/30/2024
+SD,MORT_30_AMI,Death rate for heart attack patients,0,5,1,34,,07/01/2021,06/30/2024
+SD,MORT_30_CABG,Death rate for CABG surgery patients,0,3,0,0,,07/01/2021,06/30/2024
+SD,MORT_30_COPD,Death rate for COPD patients,0,13,0,41,,07/01/2021,06/30/2024
+SD,MORT_30_HF,Death rate for heart failure patients,1,17,0,37,,07/01/2021,06/30/2024
+SD,MORT_30_PN,Death rate for pneumonia patients,1,33,1,20,,07/01/2021,06/30/2024
+SD,MORT_30_STK,Death rate for stroke patients,0,8,1,33,,07/01/2021,06/30/2024
+SD,PSI_03,Pressure ulcer rate,0,18,0,1,,07/01/2021,06/30/2023
+SD,PSI_04,Death rate among surgical inpatients with serious treatable complications,0,5,0,7,,07/01/2021,06/30/2023
+SD,PSI_06,Iatrogenic pneumothorax rate,0,19,0,0,,07/01/2021,06/30/2023
+SD,PSI_08,In-hospital fall-associated fracture rate,0,19,0,0,,07/01/2021,06/30/2023
+SD,PSI_09,Postoperative hemorrhage or hematoma rate,0,16,0,2,,07/01/2021,06/30/2023
+SD,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,14,0,3,,07/01/2021,06/30/2023
+SD,PSI_11,Postoperative respiratory failure rate,0,14,0,3,,07/01/2021,06/30/2023
+SD,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,0,16,0,2,,07/01/2021,06/30/2023
+SD,PSI_13,Postoperative sepsis rate,0,14,0,2,,07/01/2021,06/30/2023
+SD,PSI_14,Postoperative wound dehiscence rate,0,12,0,5,,07/01/2021,06/30/2023
+SD,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,16,0,2,,07/01/2021,06/30/2023
+SD,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,0,16,1,Not Available,,07/01/2021,06/30/2023
+TN,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,32,0,26,,04/01/2021,03/31/2024
+TN,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,5,80,1,9,,07/01/2023,06/30/2024
+TN,MORT_30_AMI,Death rate for heart attack patients,2,41,0,39,,07/01/2021,06/30/2024
+TN,MORT_30_CABG,Death rate for CABG surgery patients,0,20,0,5,,07/01/2021,06/30/2024
+TN,MORT_30_COPD,Death rate for COPD patients,1,63,1,29,,07/01/2021,06/30/2024
+TN,MORT_30_HF,Death rate for heart failure patients,3,62,4,26,,07/01/2021,06/30/2024
+TN,MORT_30_PN,Death rate for pneumonia patients,11,69,5,12,,07/01/2021,06/30/2024
+TN,MORT_30_STK,Death rate for stroke patients,4,45,0,37,,07/01/2021,06/30/2024
+TN,PSI_03,Pressure ulcer rate,4,76,1,0,,07/01/2021,06/30/2023
+TN,PSI_04,Death rate among surgical inpatients with serious treatable complications,1,34,0,28,,07/01/2021,06/30/2023
+TN,PSI_06,Iatrogenic pneumothorax rate,0,81,0,1,,07/01/2021,06/30/2023
+TN,PSI_08,In-hospital fall-associated fracture rate,0,81,0,1,,07/01/2021,06/30/2023
+TN,PSI_09,Postoperative hemorrhage or hematoma rate,2,67,1,5,,07/01/2021,06/30/2023
+TN,PSI_10,Postoperative acute kidney injury requiring dialysis rate,1,53,0,15,,07/01/2021,06/30/2023
+TN,PSI_11,Postoperative respiratory failure rate,1,55,0,14,,07/01/2021,06/30/2023
+TN,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,3,68,1,4,,07/01/2021,06/30/2023
+TN,PSI_13,Postoperative sepsis rate,0,52,0,15,,07/01/2021,06/30/2023
+TN,PSI_14,Postoperative wound dehiscence rate,0,57,0,14,,07/01/2021,06/30/2023
+TN,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,72,0,5,,07/01/2021,06/30/2023
+TN,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,4,68,2,Not Available,,07/01/2021,06/30/2023
+TX,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,1,114,1,135,,04/01/2021,03/31/2024
+TX,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,3,282,25,60,,07/01/2023,06/30/2024
+TX,MORT_30_AMI,Death rate for heart attack patients,2,155,1,109,,07/01/2021,06/30/2024
+TX,MORT_30_CABG,Death rate for CABG surgery patients,4,79,0,25,,07/01/2021,06/30/2024
+TX,MORT_30_COPD,Death rate for COPD patients,1,169,3,166,,07/01/2021,06/30/2024
+TX,MORT_30_HF,Death rate for heart failure patients,4,185,24,127,,07/01/2021,06/30/2024
+TX,MORT_30_PN,Death rate for pneumonia patients,9,233,25,85,,07/01/2021,06/30/2024
+TX,MORT_30_STK,Death rate for stroke patients,2,144,4,128,,07/01/2021,06/30/2024
+TX,PSI_03,Pressure ulcer rate,8,261,7,17,,07/01/2021,06/30/2023
+TX,PSI_04,Death rate among surgical inpatients with serious treatable complications,2,114,9,75,,07/01/2021,06/30/2023
+TX,PSI_06,Iatrogenic pneumothorax rate,1,285,0,7,,07/01/2021,06/30/2023
+TX,PSI_08,In-hospital fall-associated fracture rate,0,286,0,7,,07/01/2021,06/30/2023
+TX,PSI_09,Postoperative hemorrhage or hematoma rate,4,243,2,16,,07/01/2021,06/30/2023
+TX,PSI_10,Postoperative acute kidney injury requiring dialysis rate,1,208,0,43,,07/01/2021,06/30/2023
+TX,PSI_11,Postoperative respiratory failure rate,12,196,2,43,,07/01/2021,06/30/2023
+TX,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,2,249,1,14,,07/01/2021,06/30/2023
+TX,PSI_13,Postoperative sepsis rate,2,199,0,47,,07/01/2021,06/30/2023
+TX,PSI_14,Postoperative wound dehiscence rate,0,211,0,45,,07/01/2021,06/30/2023
+TX,PSI_15,Abdominopelvic accidental puncture or laceration rate,1,246,0,27,,07/01/2021,06/30/2023
+TX,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,5,248,6,Not Available,,07/01/2021,06/30/2023
+UT,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,20,0,17,,04/01/2021,03/31/2024
+UT,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,0,41,1,4,,07/01/2023,06/30/2024
+UT,MORT_30_AMI,Death rate for heart attack patients,0,11,1,18,,07/01/2021,06/30/2024
+UT,MORT_30_CABG,Death rate for CABG surgery patients,0,7,0,2,,07/01/2021,06/30/2024
+UT,MORT_30_COPD,Death rate for COPD patients,0,10,0,35,,07/01/2021,06/30/2024
+UT,MORT_30_HF,Death rate for heart failure patients,1,26,1,17,,07/01/2021,06/30/2024
+UT,MORT_30_PN,Death rate for pneumonia patients,0,36,2,7,,07/01/2021,06/30/2024
+UT,MORT_30_STK,Death rate for stroke patients,0,10,0,30,,07/01/2021,06/30/2024
+UT,PSI_03,Pressure ulcer rate,1,32,0,0,,07/01/2021,06/30/2023
+UT,PSI_04,Death rate among surgical inpatients with serious treatable complications,0,9,0,15,,07/01/2021,06/30/2023
+UT,PSI_06,Iatrogenic pneumothorax rate,0,33,0,0,,07/01/2021,06/30/2023
+UT,PSI_08,In-hospital fall-associated fracture rate,0,33,0,0,,07/01/2021,06/30/2023
+UT,PSI_09,Postoperative hemorrhage or hematoma rate,0,32,0,1,,07/01/2021,06/30/2023
+UT,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,29,0,2,,07/01/2021,06/30/2023
+UT,PSI_11,Postoperative respiratory failure rate,0,29,0,2,,07/01/2021,06/30/2023
+UT,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,0,31,1,1,,07/01/2021,06/30/2023
+UT,PSI_13,Postoperative sepsis rate,0,29,0,2,,07/01/2021,06/30/2023
+UT,PSI_14,Postoperative wound dehiscence rate,0,26,0,6,,07/01/2021,06/30/2023
+UT,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,30,0,3,,07/01/2021,06/30/2023
+UT,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,0,31,1,Not Available,,07/01/2021,06/30/2023
+VA,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,41,0,25,,04/01/2021,03/31/2024
+VA,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,1,65,10,2,,07/01/2023,06/30/2024
+VA,MORT_30_AMI,Death rate for heart attack patients,0,51,1,26,,07/01/2021,06/30/2024
+VA,MORT_30_CABG,Death rate for CABG surgery patients,0,18,0,4,,07/01/2021,06/30/2024
+VA,MORT_30_COPD,Death rate for COPD patients,1,71,0,8,,07/01/2021,06/30/2024
+VA,MORT_30_HF,Death rate for heart failure patients,3,65,7,5,,07/01/2021,06/30/2024
+VA,MORT_30_PN,Death rate for pneumonia patients,6,66,6,3,,07/01/2021,06/30/2024
+VA,MORT_30_STK,Death rate for stroke patients,2,61,3,10,,07/01/2021,06/30/2024
+VA,PSI_03,Pressure ulcer rate,3,65,5,1,,07/01/2021,06/30/2023
+VA,PSI_04,Death rate among surgical inpatients with serious treatable complications,1,37,2,23,,07/01/2021,06/30/2023
+VA,PSI_06,Iatrogenic pneumothorax rate,0,73,0,1,,07/01/2021,06/30/2023
+VA,PSI_08,In-hospital fall-associated fracture rate,0,73,0,1,,07/01/2021,06/30/2023
+VA,PSI_09,Postoperative hemorrhage or hematoma rate,1,67,0,3,,07/01/2021,06/30/2023
+VA,PSI_10,Postoperative acute kidney injury requiring dialysis rate,1,56,0,11,,07/01/2021,06/30/2023
+VA,PSI_11,Postoperative respiratory failure rate,5,51,1,11,,07/01/2021,06/30/2023
+VA,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,1,66,1,3,,07/01/2021,06/30/2023
+VA,PSI_13,Postoperative sepsis rate,1,54,0,13,,07/01/2021,06/30/2023
+VA,PSI_14,Postoperative wound dehiscence rate,1,64,0,4,,07/01/2021,06/30/2023
+VA,PSI_15,Abdominopelvic accidental puncture or laceration rate,3,64,0,5,,07/01/2021,06/30/2023
+VA,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,3,63,3,Not Available,,07/01/2021,06/30/2023
+VI,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,Not Available,Not Available,Not Available,Not Available,5,04/01/2021,03/31/2024
+VI,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2023,06/30/2024
+VI,MORT_30_AMI,Death rate for heart attack patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+VI,MORT_30_CABG,Death rate for CABG surgery patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+VI,MORT_30_COPD,Death rate for COPD patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+VI,MORT_30_HF,Death rate for heart failure patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+VI,MORT_30_PN,Death rate for pneumonia patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+VI,MORT_30_STK,Death rate for stroke patients,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2024
+VI,PSI_03,Pressure ulcer rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+VI,PSI_04,Death rate among surgical inpatients with serious treatable complications,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+VI,PSI_06,Iatrogenic pneumothorax rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+VI,PSI_08,In-hospital fall-associated fracture rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+VI,PSI_09,Postoperative hemorrhage or hematoma rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+VI,PSI_10,Postoperative acute kidney injury requiring dialysis rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+VI,PSI_11,Postoperative respiratory failure rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+VI,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+VI,PSI_13,Postoperative sepsis rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+VI,PSI_14,Postoperative wound dehiscence rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+VI,PSI_15,Abdominopelvic accidental puncture or laceration rate,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+VI,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,Not Available,Not Available,Not Available,Not Available,5,07/01/2021,06/30/2023
+VT,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,7,0,6,,04/01/2021,03/31/2024
+VT,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,1,12,1,0,,07/01/2023,06/30/2024
+VT,MORT_30_AMI,Death rate for heart attack patients,0,8,0,7,,07/01/2021,06/30/2024
+VT,MORT_30_CABG,Death rate for CABG surgery patients,0,1,0,0,,07/01/2021,06/30/2024
+VT,MORT_30_COPD,Death rate for COPD patients,0,12,0,3,,07/01/2021,06/30/2024
+VT,MORT_30_HF,Death rate for heart failure patients,2,11,0,2,,07/01/2021,06/30/2024
+VT,MORT_30_PN,Death rate for pneumonia patients,2,12,1,0,,07/01/2021,06/30/2024
+VT,MORT_30_STK,Death rate for stroke patients,0,8,1,5,,07/01/2021,06/30/2024
+VT,PSI_03,Pressure ulcer rate,3,4,0,0,,07/01/2021,06/30/2023
+VT,PSI_04,Death rate among surgical inpatients with serious treatable complications,1,0,0,6,,07/01/2021,06/30/2023
+VT,PSI_06,Iatrogenic pneumothorax rate,0,7,0,0,,07/01/2021,06/30/2023
+VT,PSI_08,In-hospital fall-associated fracture rate,0,7,0,0,,07/01/2021,06/30/2023
+VT,PSI_09,Postoperative hemorrhage or hematoma rate,1,6,0,0,,07/01/2021,06/30/2023
+VT,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,7,0,0,,07/01/2021,06/30/2023
+VT,PSI_11,Postoperative respiratory failure rate,0,7,0,0,,07/01/2021,06/30/2023
+VT,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,0,7,0,0,,07/01/2021,06/30/2023
+VT,PSI_13,Postoperative sepsis rate,0,7,0,0,,07/01/2021,06/30/2023
+VT,PSI_14,Postoperative wound dehiscence rate,0,7,0,0,,07/01/2021,06/30/2023
+VT,PSI_15,Abdominopelvic accidental puncture or laceration rate,1,6,0,0,,07/01/2021,06/30/2023
+VT,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,2,5,0,Not Available,,07/01/2021,06/30/2023
+WA,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,29,0,28,,04/01/2021,03/31/2024
+WA,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,1,66,9,10,,07/01/2023,06/30/2024
+WA,MORT_30_AMI,Death rate for heart attack patients,0,42,0,36,,07/01/2021,06/30/2024
+WA,MORT_30_CABG,Death rate for CABG surgery patients,0,14,1,0,,07/01/2021,06/30/2024
+WA,MORT_30_COPD,Death rate for COPD patients,4,49,0,34,,07/01/2021,06/30/2024
+WA,MORT_30_HF,Death rate for heart failure patients,6,52,2,28,,07/01/2021,06/30/2024
+WA,MORT_30_PN,Death rate for pneumonia patients,4,62,4,18,,07/01/2021,06/30/2024
+WA,MORT_30_STK,Death rate for stroke patients,3,45,0,33,,07/01/2021,06/30/2024
+WA,PSI_03,Pressure ulcer rate,4,43,0,1,,07/01/2021,06/30/2023
+WA,PSI_04,Death rate among surgical inpatients with serious treatable complications,1,29,0,13,,07/01/2021,06/30/2023
+WA,PSI_06,Iatrogenic pneumothorax rate,1,47,0,0,,07/01/2021,06/30/2023
+WA,PSI_08,In-hospital fall-associated fracture rate,0,48,0,0,,07/01/2021,06/30/2023
+WA,PSI_09,Postoperative hemorrhage or hematoma rate,0,46,0,2,,07/01/2021,06/30/2023
+WA,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,42,0,5,,07/01/2021,06/30/2023
+WA,PSI_11,Postoperative respiratory failure rate,1,42,0,4,,07/01/2021,06/30/2023
+WA,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,2,44,0,2,,07/01/2021,06/30/2023
+WA,PSI_13,Postoperative sepsis rate,0,43,0,4,,07/01/2021,06/30/2023
+WA,PSI_14,Postoperative wound dehiscence rate,0,43,0,3,,07/01/2021,06/30/2023
+WA,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,45,0,3,,07/01/2021,06/30/2023
+WA,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,1,44,2,Not Available,,07/01/2021,06/30/2023
+WI,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,29,1,66,,04/01/2021,03/31/2024
+WI,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,0,112,6,7,,07/01/2023,06/30/2024
+WI,MORT_30_AMI,Death rate for heart attack patients,0,40,0,72,,07/01/2021,06/30/2024
+WI,MORT_30_CABG,Death rate for CABG surgery patients,0,20,0,4,,07/01/2021,06/30/2024
+WI,MORT_30_COPD,Death rate for COPD patients,0,63,0,62,,07/01/2021,06/30/2024
+WI,MORT_30_HF,Death rate for heart failure patients,4,84,4,34,,07/01/2021,06/30/2024
+WI,MORT_30_PN,Death rate for pneumonia patients,2,92,6,26,,07/01/2021,06/30/2024
+WI,MORT_30_STK,Death rate for stroke patients,0,55,1,62,,07/01/2021,06/30/2024
+WI,PSI_03,Pressure ulcer rate,7,63,1,0,,07/01/2021,06/30/2023
+WI,PSI_04,Death rate among surgical inpatients with serious treatable complications,0,29,0,31,,07/01/2021,06/30/2023
+WI,PSI_06,Iatrogenic pneumothorax rate,0,71,0,0,,07/01/2021,06/30/2023
+WI,PSI_08,In-hospital fall-associated fracture rate,0,71,0,0,,07/01/2021,06/30/2023
+WI,PSI_09,Postoperative hemorrhage or hematoma rate,3,63,0,1,,07/01/2021,06/30/2023
+WI,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,59,0,6,,07/01/2021,06/30/2023
+WI,PSI_11,Postoperative respiratory failure rate,0,59,1,5,,07/01/2021,06/30/2023
+WI,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,0,66,0,1,,07/01/2021,06/30/2023
+WI,PSI_13,Postoperative sepsis rate,0,53,0,12,,07/01/2021,06/30/2023
+WI,PSI_14,Postoperative wound dehiscence rate,0,58,0,9,,07/01/2021,06/30/2023
+WI,PSI_15,Abdominopelvic accidental puncture or laceration rate,2,64,0,2,,07/01/2021,06/30/2023
+WI,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,4,61,2,Not Available,,07/01/2021,06/30/2023
+WV,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,17,0,15,,04/01/2021,03/31/2024
+WV,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,2,36,0,8,,07/01/2023,06/30/2024
+WV,MORT_30_AMI,Death rate for heart attack patients,0,18,0,27,,07/01/2021,06/30/2024
+WV,MORT_30_CABG,Death rate for CABG surgery patients,0,6,0,1,,07/01/2021,06/30/2024
+WV,MORT_30_COPD,Death rate for COPD patients,0,33,1,15,,07/01/2021,06/30/2024
+WV,MORT_30_HF,Death rate for heart failure patients,0,32,1,16,,07/01/2021,06/30/2024
+WV,MORT_30_PN,Death rate for pneumonia patients,6,33,1,9,,07/01/2021,06/30/2024
+WV,MORT_30_STK,Death rate for stroke patients,2,16,0,23,,07/01/2021,06/30/2024
+WV,PSI_03,Pressure ulcer rate,4,24,0,1,,07/01/2021,06/30/2023
+WV,PSI_04,Death rate among surgical inpatients with serious treatable complications,1,13,0,9,,07/01/2021,06/30/2023
+WV,PSI_06,Iatrogenic pneumothorax rate,0,29,0,0,,07/01/2021,06/30/2023
+WV,PSI_08,In-hospital fall-associated fracture rate,0,29,0,0,,07/01/2021,06/30/2023
+WV,PSI_09,Postoperative hemorrhage or hematoma rate,2,22,0,3,,07/01/2021,06/30/2023
+WV,PSI_10,Postoperative acute kidney injury requiring dialysis rate,1,21,0,3,,07/01/2021,06/30/2023
+WV,PSI_11,Postoperative respiratory failure rate,0,23,0,2,,07/01/2021,06/30/2023
+WV,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,1,23,0,3,,07/01/2021,06/30/2023
+WV,PSI_13,Postoperative sepsis rate,1,19,0,4,,07/01/2021,06/30/2023
+WV,PSI_14,Postoperative wound dehiscence rate,0,21,0,5,,07/01/2021,06/30/2023
+WV,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,24,0,2,,07/01/2021,06/30/2023
+WV,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,4,22,0,Not Available,,07/01/2021,06/30/2023
+WY,COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,0,10,0,10,,04/01/2021,03/31/2024
+WY,Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,0,24,0,3,,07/01/2023,06/30/2024
+WY,MORT_30_AMI,Death rate for heart attack patients,0,4,0,17,,07/01/2021,06/30/2024
+WY,MORT_30_CABG,Death rate for CABG surgery patients,0,2,0,0,,07/01/2021,06/30/2024
+WY,MORT_30_COPD,Death rate for COPD patients,0,11,0,18,,07/01/2021,06/30/2024
+WY,MORT_30_HF,Death rate for heart failure patients,1,15,0,12,,07/01/2021,06/30/2024
+WY,MORT_30_PN,Death rate for pneumonia patients,1,20,1,6,,07/01/2021,06/30/2024
+WY,MORT_30_STK,Death rate for stroke patients,0,6,0,17,,07/01/2021,06/30/2024
+WY,PSI_03,Pressure ulcer rate,1,11,0,0,,07/01/2021,06/30/2023
+WY,PSI_04,Death rate among surgical inpatients with serious treatable complications,0,2,0,6,,07/01/2021,06/30/2023
+WY,PSI_06,Iatrogenic pneumothorax rate,0,12,0,0,,07/01/2021,06/30/2023
+WY,PSI_08,In-hospital fall-associated fracture rate,0,12,0,0,,07/01/2021,06/30/2023
+WY,PSI_09,Postoperative hemorrhage or hematoma rate,0,11,0,0,,07/01/2021,06/30/2023
+WY,PSI_10,Postoperative acute kidney injury requiring dialysis rate,0,9,0,2,,07/01/2021,06/30/2023
+WY,PSI_11,Postoperative respiratory failure rate,0,9,0,2,,07/01/2021,06/30/2023
+WY,PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,0,11,0,0,,07/01/2021,06/30/2023
+WY,PSI_13,Postoperative sepsis rate,0,9,0,1,,07/01/2021,06/30/2023
+WY,PSI_14,Postoperative wound dehiscence rate,0,9,0,2,,07/01/2021,06/30/2023
+WY,PSI_15,Abdominopelvic accidental puncture or laceration rate,0,11,0,0,,07/01/2021,06/30/2023
+WY,PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,0,11,0,Not Available,,07/01/2021,06/30/2023

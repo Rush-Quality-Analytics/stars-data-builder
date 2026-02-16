@@ -1,0 +1,1009 @@
+"State","Measure ID","Measure Name","Score","Footnote","Start Date","End Date"
+AK,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.488,,01/01/2024,12/31/2024
+AK,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,1.178,,01/01/2024,12/31/2024
+AK,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.776,,01/01/2024,12/31/2024
+AK,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.467,,01/01/2024,12/31/2024
+AK,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,1.155,,01/01/2024,12/31/2024
+AK,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.753,,01/01/2024,12/31/2024
+AK,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.950,,01/01/2024,12/31/2024
+AK,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,2.089,,01/01/2024,12/31/2024
+AK,HAI_3_SIR,SSI - Colon Surgery,1.436,,01/01/2024,12/31/2024
+AK,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.131,,01/01/2024,12/31/2024
+AK,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,2.574,,01/01/2024,12/31/2024
+AK,HAI_4_SIR,SSI - Abdominal Hysterectomy,0.779,,01/01/2024,12/31/2024
+AK,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.534,,01/01/2024,12/31/2024
+AK,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,1.433,,01/01/2024,12/31/2024
+AK,HAI_5_SIR,MRSA Bacteremia,0.902,,01/01/2024,12/31/2024
+AK,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.271,,01/01/2024,12/31/2024
+AK,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.513,,01/01/2024,12/31/2024
+AK,HAI_6_SIR,Clostridium Difficile (C.Diff),0.378,,01/01/2024,12/31/2024
+AL,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.649,,01/01/2024,12/31/2024
+AL,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.850,,01/01/2024,12/31/2024
+AL,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.744,,01/01/2024,12/31/2024
+AL,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.446,,01/01/2024,12/31/2024
+AL,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.574,,01/01/2024,12/31/2024
+AL,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.507,,01/01/2024,12/31/2024
+AL,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.609,,01/01/2024,12/31/2024
+AL,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,0.862,,01/01/2024,12/31/2024
+AL,HAI_3_SIR,SSI - Colon Surgery,0.727,,01/01/2024,12/31/2024
+AL,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.460,,01/01/2024,12/31/2024
+AL,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,0.856,,01/01/2024,12/31/2024
+AL,HAI_4_SIR,SSI - Abdominal Hysterectomy,0.635,,01/01/2024,12/31/2024
+AL,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.749,,01/01/2024,12/31/2024
+AL,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,1.006,,01/01/2024,12/31/2024
+AL,HAI_5_SIR,MRSA Bacteremia,0.870,,01/01/2024,12/31/2024
+AL,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.431,,01/01/2024,12/31/2024
+AL,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.499,,01/01/2024,12/31/2024
+AL,HAI_6_SIR,Clostridium Difficile (C.Diff),0.464,,01/01/2024,12/31/2024
+AR,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.502,,01/01/2024,12/31/2024
+AR,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.725,,01/01/2024,12/31/2024
+AR,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.606,,01/01/2024,12/31/2024
+AR,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.352,,01/01/2024,12/31/2024
+AR,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.513,,01/01/2024,12/31/2024
+AR,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.427,,01/01/2024,12/31/2024
+AR,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.905,,01/01/2024,12/31/2024
+AR,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.330,,01/01/2024,12/31/2024
+AR,HAI_3_SIR,SSI - Colon Surgery,1.103,,01/01/2024,12/31/2024
+AR,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.741,,01/01/2024,12/31/2024
+AR,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.684,,01/01/2024,12/31/2024
+AR,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.141,,01/01/2024,12/31/2024
+AR,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.850,,01/01/2024,12/31/2024
+AR,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,1.245,,01/01/2024,12/31/2024
+AR,HAI_5_SIR,MRSA Bacteremia,1.034,,01/01/2024,12/31/2024
+AR,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.301,,01/01/2024,12/31/2024
+AR,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.386,,01/01/2024,12/31/2024
+AR,HAI_6_SIR,Clostridium Difficile (C.Diff),0.342,,01/01/2024,12/31/2024
+AS,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+AS,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+AS,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),Not Available,5,01/01/2024,12/31/2024
+AS,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+AS,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+AS,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),Not Available,5,01/01/2024,12/31/2024
+AS,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+AS,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+AS,HAI_3_SIR,SSI - Colon Surgery,Not Available,5,01/01/2024,12/31/2024
+AS,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+AS,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+AS,HAI_4_SIR,SSI - Abdominal Hysterectomy,Not Available,5,01/01/2024,12/31/2024
+AS,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+AS,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+AS,HAI_5_SIR,MRSA Bacteremia,Not Available,5,01/01/2024,12/31/2024
+AS,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+AS,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+AS,HAI_6_SIR,Clostridium Difficile (C.Diff),Not Available,5,01/01/2024,12/31/2024
+AZ,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.455,,01/01/2024,12/31/2024
+AZ,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.606,,01/01/2024,12/31/2024
+AZ,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.527,,01/01/2024,12/31/2024
+AZ,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.369,,01/01/2024,12/31/2024
+AZ,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.495,,01/01/2024,12/31/2024
+AZ,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.428,,01/01/2024,12/31/2024
+AZ,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.776,,01/01/2024,12/31/2024
+AZ,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.036,,01/01/2024,12/31/2024
+AZ,HAI_3_SIR,SSI - Colon Surgery,0.899,,01/01/2024,12/31/2024
+AZ,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.977,,01/01/2024,12/31/2024
+AZ,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.686,,01/01/2024,12/31/2024
+AZ,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.295,,01/01/2024,12/31/2024
+AZ,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.467,,01/01/2024,12/31/2024
+AZ,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.679,,01/01/2024,12/31/2024
+AZ,HAI_5_SIR,MRSA Bacteremia,0.565,,01/01/2024,12/31/2024
+AZ,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.359,,01/01/2024,12/31/2024
+AZ,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.418,,01/01/2024,12/31/2024
+AZ,HAI_6_SIR,Clostridium Difficile (C.Diff),0.388,,01/01/2024,12/31/2024
+CA,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.557,,01/01/2024,12/31/2024
+CA,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.630,,01/01/2024,12/31/2024
+CA,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.593,,01/01/2024,12/31/2024
+CA,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.540,,01/01/2024,12/31/2024
+CA,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.607,,01/01/2024,12/31/2024
+CA,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.573,,01/01/2024,12/31/2024
+CA,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.722,,01/01/2024,12/31/2024
+CA,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,0.843,,01/01/2024,12/31/2024
+CA,HAI_3_SIR,SSI - Colon Surgery,0.781,,01/01/2024,12/31/2024
+CA,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.974,,01/01/2024,12/31/2024
+CA,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.306,,01/01/2024,12/31/2024
+CA,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.131,,01/01/2024,12/31/2024
+CA,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.588,,01/01/2024,12/31/2024
+CA,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.691,,01/01/2024,12/31/2024
+CA,HAI_5_SIR,MRSA Bacteremia,0.638,,01/01/2024,12/31/2024
+CA,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.394,,01/01/2024,12/31/2024
+CA,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.422,,01/01/2024,12/31/2024
+CA,HAI_6_SIR,Clostridium Difficile (C.Diff),0.408,,01/01/2024,12/31/2024
+CO,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.452,,01/01/2024,12/31/2024
+CO,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.650,,01/01/2024,12/31/2024
+CO,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.544,,01/01/2024,12/31/2024
+CO,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.421,,01/01/2024,12/31/2024
+CO,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.597,,01/01/2024,12/31/2024
+CO,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.503,,01/01/2024,12/31/2024
+CO,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.850,,01/01/2024,12/31/2024
+CO,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.166,,01/01/2024,12/31/2024
+CO,HAI_3_SIR,SSI - Colon Surgery,0.999,,01/01/2024,12/31/2024
+CO,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.784,,01/01/2024,12/31/2024
+CO,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.497,,01/01/2024,12/31/2024
+CO,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.097,,01/01/2024,12/31/2024
+CO,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.400,,01/01/2024,12/31/2024
+CO,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.646,,01/01/2024,12/31/2024
+CO,HAI_5_SIR,MRSA Bacteremia,0.511,,01/01/2024,12/31/2024
+CO,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.295,,01/01/2024,12/31/2024
+CO,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.363,,01/01/2024,12/31/2024
+CO,HAI_6_SIR,Clostridium Difficile (C.Diff),0.328,,01/01/2024,12/31/2024
+CT,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.426,,01/01/2024,12/31/2024
+CT,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.629,,01/01/2024,12/31/2024
+CT,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.520,,01/01/2024,12/31/2024
+CT,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.315,,01/01/2024,12/31/2024
+CT,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.476,,01/01/2024,12/31/2024
+CT,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.389,,01/01/2024,12/31/2024
+CT,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.693,,01/01/2024,12/31/2024
+CT,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.075,,01/01/2024,12/31/2024
+CT,HAI_3_SIR,SSI - Colon Surgery,0.869,,01/01/2024,12/31/2024
+CT,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.739,,01/01/2024,12/31/2024
+CT,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.652,,01/01/2024,12/31/2024
+CT,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.128,,01/01/2024,12/31/2024
+CT,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.437,,01/01/2024,12/31/2024
+CT,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.702,,01/01/2024,12/31/2024
+CT,HAI_5_SIR,MRSA Bacteremia,0.558,,01/01/2024,12/31/2024
+CT,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.324,,01/01/2024,12/31/2024
+CT,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.404,,01/01/2024,12/31/2024
+CT,HAI_6_SIR,Clostridium Difficile (C.Diff),0.362,,01/01/2024,12/31/2024
+DC,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.849,,01/01/2024,12/31/2024
+DC,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,1.317,,01/01/2024,12/31/2024
+DC,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),1.064,,01/01/2024,12/31/2024
+DC,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.162,,01/01/2024,12/31/2024
+DC,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.369,,01/01/2024,12/31/2024
+DC,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.250,,01/01/2024,12/31/2024
+DC,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.301,,01/01/2024,12/31/2024
+DC,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,0.834,,01/01/2024,12/31/2024
+DC,HAI_3_SIR,SSI - Colon Surgery,0.517,,01/01/2024,12/31/2024
+DC,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.640,,01/01/2024,12/31/2024
+DC,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,2.409,,01/01/2024,12/31/2024
+DC,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.313,,01/01/2024,12/31/2024
+DC,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.565,,01/01/2024,12/31/2024
+DC,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,1.036,,01/01/2024,12/31/2024
+DC,HAI_5_SIR,MRSA Bacteremia,0.774,,01/01/2024,12/31/2024
+DC,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.367,,01/01/2024,12/31/2024
+DC,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.498,,01/01/2024,12/31/2024
+DC,HAI_6_SIR,Clostridium Difficile (C.Diff),0.429,,01/01/2024,12/31/2024
+DE,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.457,,01/01/2024,12/31/2024
+DE,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.880,,01/01/2024,12/31/2024
+DE,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.642,,01/01/2024,12/31/2024
+DE,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.368,,01/01/2024,12/31/2024
+DE,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.809,,01/01/2024,12/31/2024
+DE,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.556,,01/01/2024,12/31/2024
+DE,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.629,,01/01/2024,12/31/2024
+DE,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.306,,01/01/2024,12/31/2024
+DE,HAI_3_SIR,SSI - Colon Surgery,0.921,,01/01/2024,12/31/2024
+DE,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.085,,01/01/2024,12/31/2024
+DE,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.668,,01/01/2024,12/31/2024
+DE,HAI_4_SIR,SSI - Abdominal Hysterectomy,0.505,,01/01/2024,12/31/2024
+DE,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.371,,01/01/2024,12/31/2024
+DE,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.860,,01/01/2024,12/31/2024
+DE,HAI_5_SIR,MRSA Bacteremia,0.577,,01/01/2024,12/31/2024
+DE,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.337,,01/01/2024,12/31/2024
+DE,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.499,,01/01/2024,12/31/2024
+DE,HAI_6_SIR,Clostridium Difficile (C.Diff),0.412,,01/01/2024,12/31/2024
+FL,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.483,,01/01/2024,12/31/2024
+FL,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.567,,01/01/2024,12/31/2024
+FL,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.524,,01/01/2024,12/31/2024
+FL,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.320,,01/01/2024,12/31/2024
+FL,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.384,,01/01/2024,12/31/2024
+FL,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.351,,01/01/2024,12/31/2024
+FL,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.657,,01/01/2024,12/31/2024
+FL,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,0.781,,01/01/2024,12/31/2024
+FL,HAI_3_SIR,SSI - Colon Surgery,0.717,,01/01/2024,12/31/2024
+FL,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.773,,01/01/2024,12/31/2024
+FL,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.075,,01/01/2024,12/31/2024
+FL,HAI_4_SIR,SSI - Abdominal Hysterectomy,0.915,,01/01/2024,12/31/2024
+FL,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.706,,01/01/2024,12/31/2024
+FL,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.826,,01/01/2024,12/31/2024
+FL,HAI_5_SIR,MRSA Bacteremia,0.764,,01/01/2024,12/31/2024
+FL,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.234,,01/01/2024,12/31/2024
+FL,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.257,,01/01/2024,12/31/2024
+FL,HAI_6_SIR,Clostridium Difficile (C.Diff),0.245,,01/01/2024,12/31/2024
+GA,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.656,,01/01/2024,12/31/2024
+GA,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.784,,01/01/2024,12/31/2024
+GA,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.718,,01/01/2024,12/31/2024
+GA,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.449,,01/01/2024,12/31/2024
+GA,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.553,,01/01/2024,12/31/2024
+GA,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.499,,01/01/2024,12/31/2024
+GA,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.952,,01/01/2024,12/31/2024
+GA,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.180,,01/01/2024,12/31/2024
+GA,HAI_3_SIR,SSI - Colon Surgery,1.061,,01/01/2024,12/31/2024
+GA,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,1.532,,01/01/2024,12/31/2024
+GA,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,2.068,,01/01/2024,12/31/2024
+GA,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.785,,01/01/2024,12/31/2024
+GA,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.698,,01/01/2024,12/31/2024
+GA,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.878,,01/01/2024,12/31/2024
+GA,HAI_5_SIR,MRSA Bacteremia,0.784,,01/01/2024,12/31/2024
+GA,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.302,,01/01/2024,12/31/2024
+GA,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.344,,01/01/2024,12/31/2024
+GA,HAI_6_SIR,Clostridium Difficile (C.Diff),0.322,,01/01/2024,12/31/2024
+GU,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+GU,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+GU,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),Not Available,5,01/01/2024,12/31/2024
+GU,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+GU,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+GU,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),Not Available,5,01/01/2024,12/31/2024
+GU,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+GU,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+GU,HAI_3_SIR,SSI - Colon Surgery,Not Available,5,01/01/2024,12/31/2024
+GU,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+GU,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+GU,HAI_4_SIR,SSI - Abdominal Hysterectomy,Not Available,5,01/01/2024,12/31/2024
+GU,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+GU,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+GU,HAI_5_SIR,MRSA Bacteremia,Not Available,5,01/01/2024,12/31/2024
+GU,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+GU,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+GU,HAI_6_SIR,Clostridium Difficile (C.Diff),Not Available,5,01/01/2024,12/31/2024
+HI,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.411,,01/01/2024,12/31/2024
+HI,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.785,,01/01/2024,12/31/2024
+HI,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.576,,01/01/2024,12/31/2024
+HI,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.544,,01/01/2024,12/31/2024
+HI,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.955,,01/01/2024,12/31/2024
+HI,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.728,,01/01/2024,12/31/2024
+HI,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,1.288,,01/01/2024,12/31/2024
+HI,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,2.271,,01/01/2024,12/31/2024
+HI,HAI_3_SIR,SSI - Colon Surgery,1.727,,01/01/2024,12/31/2024
+HI,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.231,,01/01/2024,12/31/2024
+HI,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,2.472,,01/01/2024,12/31/2024
+HI,HAI_4_SIR,SSI - Abdominal Hysterectomy,0.908,,01/01/2024,12/31/2024
+HI,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.320,,01/01/2024,12/31/2024
+HI,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.811,,01/01/2024,12/31/2024
+HI,HAI_5_SIR,MRSA Bacteremia,0.523,,01/01/2024,12/31/2024
+HI,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.371,,01/01/2024,12/31/2024
+HI,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.514,,01/01/2024,12/31/2024
+HI,HAI_6_SIR,Clostridium Difficile (C.Diff),0.438,,01/01/2024,12/31/2024
+IA,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.635,,01/01/2024,12/31/2024
+IA,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.927,,01/01/2024,12/31/2024
+IA,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.771,,01/01/2024,12/31/2024
+IA,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.459,,01/01/2024,12/31/2024
+IA,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.670,,01/01/2024,12/31/2024
+IA,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.557,,01/01/2024,12/31/2024
+IA,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.647,,01/01/2024,12/31/2024
+IA,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.050,,01/01/2024,12/31/2024
+IA,HAI_3_SIR,SSI - Colon Surgery,0.830,,01/01/2024,12/31/2024
+IA,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,1.043,,01/01/2024,12/31/2024
+IA,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,2.332,,01/01/2024,12/31/2024
+IA,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.591,,01/01/2024,12/31/2024
+IA,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.476,,01/01/2024,12/31/2024
+IA,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.790,,01/01/2024,12/31/2024
+IA,HAI_5_SIR,MRSA Bacteremia,0.618,,01/01/2024,12/31/2024
+IA,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.401,,01/01/2024,12/31/2024
+IA,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.507,,01/01/2024,12/31/2024
+IA,HAI_6_SIR,Clostridium Difficile (C.Diff),0.451,,01/01/2024,12/31/2024
+ID,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.432,,01/01/2024,12/31/2024
+ID,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.804,,01/01/2024,12/31/2024
+ID,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.596,,01/01/2024,12/31/2024
+ID,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.410,,01/01/2024,12/31/2024
+ID,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.737,,01/01/2024,12/31/2024
+ID,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.556,,01/01/2024,12/31/2024
+ID,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.635,,01/01/2024,12/31/2024
+ID,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.213,,01/01/2024,12/31/2024
+ID,HAI_3_SIR,SSI - Colon Surgery,0.889,,01/01/2024,12/31/2024
+ID,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.323,,01/01/2024,12/31/2024
+ID,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.660,,01/01/2024,12/31/2024
+ID,HAI_4_SIR,SSI - Abdominal Hysterectomy,0.798,,01/01/2024,12/31/2024
+ID,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.285,,01/01/2024,12/31/2024
+ID,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.790,,01/01/2024,12/31/2024
+ID,HAI_5_SIR,MRSA Bacteremia,0.490,,01/01/2024,12/31/2024
+ID,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.367,,01/01/2024,12/31/2024
+ID,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.507,,01/01/2024,12/31/2024
+ID,HAI_6_SIR,Clostridium Difficile (C.Diff),0.433,,01/01/2024,12/31/2024
+IL,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.643,,01/01/2024,12/31/2024
+IL,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.772,,01/01/2024,12/31/2024
+IL,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.705,,01/01/2024,12/31/2024
+IL,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.504,,01/01/2024,12/31/2024
+IL,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.614,,01/01/2024,12/31/2024
+IL,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.557,,01/01/2024,12/31/2024
+IL,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.790,,01/01/2024,12/31/2024
+IL,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.000,,01/01/2024,12/31/2024
+IL,HAI_3_SIR,SSI - Colon Surgery,0.890,,01/01/2024,12/31/2024
+IL,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.850,,01/01/2024,12/31/2024
+IL,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.330,,01/01/2024,12/31/2024
+IL,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.070,,01/01/2024,12/31/2024
+IL,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.471,,01/01/2024,12/31/2024
+IL,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.626,,01/01/2024,12/31/2024
+IL,HAI_5_SIR,MRSA Bacteremia,0.544,,01/01/2024,12/31/2024
+IL,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.380,,01/01/2024,12/31/2024
+IL,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.425,,01/01/2024,12/31/2024
+IL,HAI_6_SIR,Clostridium Difficile (C.Diff),0.402,,01/01/2024,12/31/2024
+IN,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.536,,01/01/2024,12/31/2024
+IN,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.697,,01/01/2024,12/31/2024
+IN,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.613,,01/01/2024,12/31/2024
+IN,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.426,,01/01/2024,12/31/2024
+IN,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.566,,01/01/2024,12/31/2024
+IN,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.492,,01/01/2024,12/31/2024
+IN,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.680,,01/01/2024,12/31/2024
+IN,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,0.932,,01/01/2024,12/31/2024
+IN,HAI_3_SIR,SSI - Colon Surgery,0.799,,01/01/2024,12/31/2024
+IN,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,1.266,,01/01/2024,12/31/2024
+IN,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.998,,01/01/2024,12/31/2024
+IN,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.601,,01/01/2024,12/31/2024
+IN,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.492,,01/01/2024,12/31/2024
+IN,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.718,,01/01/2024,12/31/2024
+IN,HAI_5_SIR,MRSA Bacteremia,0.597,,01/01/2024,12/31/2024
+IN,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.376,,01/01/2024,12/31/2024
+IN,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.437,,01/01/2024,12/31/2024
+IN,HAI_6_SIR,Clostridium Difficile (C.Diff),0.405,,01/01/2024,12/31/2024
+KS,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.350,,01/01/2024,12/31/2024
+KS,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.642,,01/01/2024,12/31/2024
+KS,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.480,,01/01/2024,12/31/2024
+KS,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.359,,01/01/2024,12/31/2024
+KS,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.623,,01/01/2024,12/31/2024
+KS,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.478,,01/01/2024,12/31/2024
+KS,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.801,,01/01/2024,12/31/2024
+KS,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.246,,01/01/2024,12/31/2024
+KS,HAI_3_SIR,SSI - Colon Surgery,1.005,,01/01/2024,12/31/2024
+KS,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.601,,01/01/2024,12/31/2024
+KS,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.422,,01/01/2024,12/31/2024
+KS,HAI_4_SIR,SSI - Abdominal Hysterectomy,0.946,,01/01/2024,12/31/2024
+KS,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.323,,01/01/2024,12/31/2024
+KS,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.640,,01/01/2024,12/31/2024
+KS,HAI_5_SIR,MRSA Bacteremia,0.461,,01/01/2024,12/31/2024
+KS,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.278,,01/01/2024,12/31/2024
+KS,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.373,,01/01/2024,12/31/2024
+KS,HAI_6_SIR,Clostridium Difficile (C.Diff),0.323,,01/01/2024,12/31/2024
+KY,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.819,,01/01/2024,12/31/2024
+KY,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,1.054,,01/01/2024,12/31/2024
+KY,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.931,,01/01/2024,12/31/2024
+KY,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.518,,01/01/2024,12/31/2024
+KY,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.687,,01/01/2024,12/31/2024
+KY,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.598,,01/01/2024,12/31/2024
+KY,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.829,,01/01/2024,12/31/2024
+KY,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.136,,01/01/2024,12/31/2024
+KY,HAI_3_SIR,SSI - Colon Surgery,0.973,,01/01/2024,12/31/2024
+KY,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.932,,01/01/2024,12/31/2024
+KY,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.697,,01/01/2024,12/31/2024
+KY,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.272,,01/01/2024,12/31/2024
+KY,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.844,,01/01/2024,12/31/2024
+KY,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,1.114,,01/01/2024,12/31/2024
+KY,HAI_5_SIR,MRSA Bacteremia,0.972,,01/01/2024,12/31/2024
+KY,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.308,,01/01/2024,12/31/2024
+KY,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.369,,01/01/2024,12/31/2024
+KY,HAI_6_SIR,Clostridium Difficile (C.Diff),0.338,,01/01/2024,12/31/2024
+LA,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.602,,01/01/2024,12/31/2024
+LA,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.796,,01/01/2024,12/31/2024
+LA,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.694,,01/01/2024,12/31/2024
+LA,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.420,,01/01/2024,12/31/2024
+LA,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.567,,01/01/2024,12/31/2024
+LA,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.490,,01/01/2024,12/31/2024
+LA,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.667,,01/01/2024,12/31/2024
+LA,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,0.959,,01/01/2024,12/31/2024
+LA,HAI_3_SIR,SSI - Colon Surgery,0.803,,01/01/2024,12/31/2024
+LA,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,1.082,,01/01/2024,12/31/2024
+LA,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.804,,01/01/2024,12/31/2024
+LA,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.409,,01/01/2024,12/31/2024
+LA,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.948,,01/01/2024,12/31/2024
+LA,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,1.261,,01/01/2024,12/31/2024
+LA,HAI_5_SIR,MRSA Bacteremia,1.096,,01/01/2024,12/31/2024
+LA,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.340,,01/01/2024,12/31/2024
+LA,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.407,,01/01/2024,12/31/2024
+LA,HAI_6_SIR,Clostridium Difficile (C.Diff),0.372,,01/01/2024,12/31/2024
+MA,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.525,,01/01/2024,12/31/2024
+MA,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.668,,01/01/2024,12/31/2024
+MA,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.593,,01/01/2024,12/31/2024
+MA,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.532,,01/01/2024,12/31/2024
+MA,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.667,,01/01/2024,12/31/2024
+MA,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.597,,01/01/2024,12/31/2024
+MA,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.812,,01/01/2024,12/31/2024
+MA,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.090,,01/01/2024,12/31/2024
+MA,HAI_3_SIR,SSI - Colon Surgery,0.943,,01/01/2024,12/31/2024
+MA,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,1.021,,01/01/2024,12/31/2024
+MA,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.902,,01/01/2024,12/31/2024
+MA,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.411,,01/01/2024,12/31/2024
+MA,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.523,,01/01/2024,12/31/2024
+MA,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.710,,01/01/2024,12/31/2024
+MA,HAI_5_SIR,MRSA Bacteremia,0.611,,01/01/2024,12/31/2024
+MA,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.496,,01/01/2024,12/31/2024
+MA,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.560,,01/01/2024,12/31/2024
+MA,HAI_6_SIR,Clostridium Difficile (C.Diff),0.527,,01/01/2024,12/31/2024
+MD,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.635,,01/01/2024,12/31/2024
+MD,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.827,,01/01/2024,12/31/2024
+MD,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.726,,01/01/2024,12/31/2024
+MD,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.491,,01/01/2024,12/31/2024
+MD,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.655,,01/01/2024,12/31/2024
+MD,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.569,,01/01/2024,12/31/2024
+MD,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.857,,01/01/2024,12/31/2024
+MD,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.185,,01/01/2024,12/31/2024
+MD,HAI_3_SIR,SSI - Colon Surgery,1.011,,01/01/2024,12/31/2024
+MD,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,1.078,,01/01/2024,12/31/2024
+MD,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.950,,01/01/2024,12/31/2024
+MD,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.466,,01/01/2024,12/31/2024
+MD,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.492,,01/01/2024,12/31/2024
+MD,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.708,,01/01/2024,12/31/2024
+MD,HAI_5_SIR,MRSA Bacteremia,0.592,,01/01/2024,12/31/2024
+MD,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.421,,01/01/2024,12/31/2024
+MD,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.486,,01/01/2024,12/31/2024
+MD,HAI_6_SIR,Clostridium Difficile (C.Diff),0.453,,01/01/2024,12/31/2024
+ME,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.413,,01/01/2024,12/31/2024
+ME,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.776,,01/01/2024,12/31/2024
+ME,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.573,,01/01/2024,12/31/2024
+ME,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.811,,01/01/2024,12/31/2024
+ME,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,1.265,,01/01/2024,12/31/2024
+ME,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),1.019,,01/01/2024,12/31/2024
+ME,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.709,,01/01/2024,12/31/2024
+ME,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.282,,01/01/2024,12/31/2024
+ME,HAI_3_SIR,SSI - Colon Surgery,0.963,,01/01/2024,12/31/2024
+ME,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.716,,01/01/2024,12/31/2024
+ME,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,2.928,,01/01/2024,12/31/2024
+ME,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.542,,01/01/2024,12/31/2024
+ME,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.456,,01/01/2024,12/31/2024
+ME,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.904,,01/01/2024,12/31/2024
+ME,HAI_5_SIR,MRSA Bacteremia,0.652,,01/01/2024,12/31/2024
+ME,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.271,,01/01/2024,12/31/2024
+ME,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.401,,01/01/2024,12/31/2024
+ME,HAI_6_SIR,Clostridium Difficile (C.Diff),0.331,,01/01/2024,12/31/2024
+MI,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.691,,01/01/2024,12/31/2024
+MI,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.852,,01/01/2024,12/31/2024
+MI,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.768,,01/01/2024,12/31/2024
+MI,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.432,,01/01/2024,12/31/2024
+MI,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.545,,01/01/2024,12/31/2024
+MI,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.486,,01/01/2024,12/31/2024
+MI,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.972,,01/01/2024,12/31/2024
+MI,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.223,,01/01/2024,12/31/2024
+MI,HAI_3_SIR,SSI - Colon Surgery,1.092,,01/01/2024,12/31/2024
+MI,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,1.164,,01/01/2024,12/31/2024
+MI,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.855,,01/01/2024,12/31/2024
+MI,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.479,,01/01/2024,12/31/2024
+MI,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.677,,01/01/2024,12/31/2024
+MI,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.877,,01/01/2024,12/31/2024
+MI,HAI_5_SIR,MRSA Bacteremia,0.772,,01/01/2024,12/31/2024
+MI,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.366,,01/01/2024,12/31/2024
+MI,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.417,,01/01/2024,12/31/2024
+MI,HAI_6_SIR,Clostridium Difficile (C.Diff),0.391,,01/01/2024,12/31/2024
+MN,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.546,,01/01/2024,12/31/2024
+MN,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.720,,01/01/2024,12/31/2024
+MN,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.628,,01/01/2024,12/31/2024
+MN,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.588,,01/01/2024,12/31/2024
+MN,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.763,,01/01/2024,12/31/2024
+MN,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.671,,01/01/2024,12/31/2024
+MN,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.781,,01/01/2024,12/31/2024
+MN,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.073,,01/01/2024,12/31/2024
+MN,HAI_3_SIR,SSI - Colon Surgery,0.918,,01/01/2024,12/31/2024
+MN,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.668,,01/01/2024,12/31/2024
+MN,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.446,,01/01/2024,12/31/2024
+MN,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.001,,01/01/2024,12/31/2024
+MN,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.328,,01/01/2024,12/31/2024
+MN,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.544,,01/01/2024,12/31/2024
+MN,HAI_5_SIR,MRSA Bacteremia,0.426,,01/01/2024,12/31/2024
+MN,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.408,,01/01/2024,12/31/2024
+MN,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.479,,01/01/2024,12/31/2024
+MN,HAI_6_SIR,Clostridium Difficile (C.Diff),0.442,,01/01/2024,12/31/2024
+MO,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.543,,01/01/2024,12/31/2024
+MO,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.699,,01/01/2024,12/31/2024
+MO,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.617,,01/01/2024,12/31/2024
+MO,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.489,,01/01/2024,12/31/2024
+MO,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.627,,01/01/2024,12/31/2024
+MO,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.555,,01/01/2024,12/31/2024
+MO,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.776,,01/01/2024,12/31/2024
+MO,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.022,,01/01/2024,12/31/2024
+MO,HAI_3_SIR,SSI - Colon Surgery,0.893,,01/01/2024,12/31/2024
+MO,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.700,,01/01/2024,12/31/2024
+MO,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.242,,01/01/2024,12/31/2024
+MO,HAI_4_SIR,SSI - Abdominal Hysterectomy,0.942,,01/01/2024,12/31/2024
+MO,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.646,,01/01/2024,12/31/2024
+MO,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.857,,01/01/2024,12/31/2024
+MO,HAI_5_SIR,MRSA Bacteremia,0.746,,01/01/2024,12/31/2024
+MO,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.357,,01/01/2024,12/31/2024
+MO,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.409,,01/01/2024,12/31/2024
+MO,HAI_6_SIR,Clostridium Difficile (C.Diff),0.382,,01/01/2024,12/31/2024
+MP,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+MP,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+MP,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),Not Available,5,01/01/2024,12/31/2024
+MP,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+MP,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+MP,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),Not Available,5,01/01/2024,12/31/2024
+MP,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+MP,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+MP,HAI_3_SIR,SSI - Colon Surgery,Not Available,5,01/01/2024,12/31/2024
+MP,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+MP,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+MP,HAI_4_SIR,SSI - Abdominal Hysterectomy,Not Available,5,01/01/2024,12/31/2024
+MP,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+MP,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+MP,HAI_5_SIR,MRSA Bacteremia,Not Available,5,01/01/2024,12/31/2024
+MP,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+MP,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+MP,HAI_6_SIR,Clostridium Difficile (C.Diff),Not Available,5,01/01/2024,12/31/2024
+MS,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.585,,01/01/2024,12/31/2024
+MS,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.825,,01/01/2024,12/31/2024
+MS,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.697,,01/01/2024,12/31/2024
+MS,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.475,,01/01/2024,12/31/2024
+MS,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.666,,01/01/2024,12/31/2024
+MS,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.565,,01/01/2024,12/31/2024
+MS,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.915,,01/01/2024,12/31/2024
+MS,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.332,,01/01/2024,12/31/2024
+MS,HAI_3_SIR,SSI - Colon Surgery,1.109,,01/01/2024,12/31/2024
+MS,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.663,,01/01/2024,12/31/2024
+MS,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.415,,01/01/2024,12/31/2024
+MS,HAI_4_SIR,SSI - Abdominal Hysterectomy,0.986,,01/01/2024,12/31/2024
+MS,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.754,,01/01/2024,12/31/2024
+MS,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,1.108,,01/01/2024,12/31/2024
+MS,HAI_5_SIR,MRSA Bacteremia,0.918,,01/01/2024,12/31/2024
+MS,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.337,,01/01/2024,12/31/2024
+MS,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.421,,01/01/2024,12/31/2024
+MS,HAI_6_SIR,Clostridium Difficile (C.Diff),0.377,,01/01/2024,12/31/2024
+MT,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.477,,01/01/2024,12/31/2024
+MT,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,1.106,,01/01/2024,12/31/2024
+MT,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.742,,01/01/2024,12/31/2024
+MT,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.345,,01/01/2024,12/31/2024
+MT,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.716,,01/01/2024,12/31/2024
+MT,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.505,,01/01/2024,12/31/2024
+MT,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.571,,01/01/2024,12/31/2024
+MT,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.236,,01/01/2024,12/31/2024
+MT,HAI_3_SIR,SSI - Colon Surgery,0.856,,01/01/2024,12/31/2024
+MT,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.740,,01/01/2024,12/31/2024
+MT,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,2.597,,01/01/2024,12/31/2024
+MT,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.457,,01/01/2024,12/31/2024
+MT,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.311,,01/01/2024,12/31/2024
+MT,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.862,,01/01/2024,12/31/2024
+MT,HAI_5_SIR,MRSA Bacteremia,0.535,,01/01/2024,12/31/2024
+MT,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.326,,01/01/2024,12/31/2024
+MT,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.500,,01/01/2024,12/31/2024
+MT,HAI_6_SIR,Clostridium Difficile (C.Diff),0.406,,01/01/2024,12/31/2024
+NC,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.702,,01/01/2024,12/31/2024
+NC,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.841,,01/01/2024,12/31/2024
+NC,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.769,,01/01/2024,12/31/2024
+NC,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.446,,01/01/2024,12/31/2024
+NC,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.552,,01/01/2024,12/31/2024
+NC,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.497,,01/01/2024,12/31/2024
+NC,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.823,,01/01/2024,12/31/2024
+NC,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.033,,01/01/2024,12/31/2024
+NC,HAI_3_SIR,SSI - Colon Surgery,0.923,,01/01/2024,12/31/2024
+NC,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.861,,01/01/2024,12/31/2024
+NC,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.377,,01/01/2024,12/31/2024
+NC,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.097,,01/01/2024,12/31/2024
+NC,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.618,,01/01/2024,12/31/2024
+NC,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.775,,01/01/2024,12/31/2024
+NC,HAI_5_SIR,MRSA Bacteremia,0.693,,01/01/2024,12/31/2024
+NC,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.299,,01/01/2024,12/31/2024
+NC,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.339,,01/01/2024,12/31/2024
+NC,HAI_6_SIR,Clostridium Difficile (C.Diff),0.319,,01/01/2024,12/31/2024
+ND,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.323,,01/01/2024,12/31/2024
+ND,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.734,,01/01/2024,12/31/2024
+ND,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.497,,01/01/2024,12/31/2024
+ND,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.235,,01/01/2024,12/31/2024
+ND,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.611,,01/01/2024,12/31/2024
+ND,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.390,,01/01/2024,12/31/2024
+ND,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.596,,01/01/2024,12/31/2024
+ND,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.356,,01/01/2024,12/31/2024
+ND,HAI_3_SIR,SSI - Colon Surgery,0.918,,01/01/2024,12/31/2024
+ND,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.154,,01/01/2024,12/31/2024
+ND,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,3.039,,01/01/2024,12/31/2024
+ND,HAI_4_SIR,SSI - Abdominal Hysterectomy,0.920,,01/01/2024,12/31/2024
+ND,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.217,,01/01/2024,12/31/2024
+ND,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.763,,01/01/2024,12/31/2024
+ND,HAI_5_SIR,MRSA Bacteremia,0.428,,01/01/2024,12/31/2024
+ND,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.257,,01/01/2024,12/31/2024
+ND,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.428,,01/01/2024,12/31/2024
+ND,HAI_6_SIR,Clostridium Difficile (C.Diff),0.334,,01/01/2024,12/31/2024
+NE,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.306,,01/01/2024,12/31/2024
+NE,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.606,,01/01/2024,12/31/2024
+NE,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.437,,01/01/2024,12/31/2024
+NE,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.292,,01/01/2024,12/31/2024
+NE,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.557,,01/01/2024,12/31/2024
+NE,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.408,,01/01/2024,12/31/2024
+NE,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.584,,01/01/2024,12/31/2024
+NE,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.030,,01/01/2024,12/31/2024
+NE,HAI_3_SIR,SSI - Colon Surgery,0.783,,01/01/2024,12/31/2024
+NE,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.544,,01/01/2024,12/31/2024
+NE,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.461,,01/01/2024,12/31/2024
+NE,HAI_4_SIR,SSI - Abdominal Hysterectomy,0.919,,01/01/2024,12/31/2024
+NE,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.415,,01/01/2024,12/31/2024
+NE,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.823,,01/01/2024,12/31/2024
+NE,HAI_5_SIR,MRSA Bacteremia,0.593,,01/01/2024,12/31/2024
+NE,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.383,,01/01/2024,12/31/2024
+NE,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.502,,01/01/2024,12/31/2024
+NE,HAI_6_SIR,Clostridium Difficile (C.Diff),0.439,,01/01/2024,12/31/2024
+NH,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.436,,01/01/2024,12/31/2024
+NH,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.819,,01/01/2024,12/31/2024
+NH,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.605,,01/01/2024,12/31/2024
+NH,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.530,,01/01/2024,12/31/2024
+NH,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.876,,01/01/2024,12/31/2024
+NH,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.687,,01/01/2024,12/31/2024
+NH,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.229,,01/01/2024,12/31/2024
+NH,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,0.614,,01/01/2024,12/31/2024
+NH,HAI_3_SIR,SSI - Colon Surgery,0.386,,01/01/2024,12/31/2024
+NH,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.484,,01/01/2024,12/31/2024
+NH,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,2.482,,01/01/2024,12/31/2024
+NH,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.193,,01/01/2024,12/31/2024
+NH,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.218,,01/01/2024,12/31/2024
+NH,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.604,,01/01/2024,12/31/2024
+NH,HAI_5_SIR,MRSA Bacteremia,0.374,,01/01/2024,12/31/2024
+NH,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.518,,01/01/2024,12/31/2024
+NH,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.695,,01/01/2024,12/31/2024
+NH,HAI_6_SIR,Clostridium Difficile (C.Diff),0.602,,01/01/2024,12/31/2024
+NJ,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.387,,01/01/2024,12/31/2024
+NJ,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.521,,01/01/2024,12/31/2024
+NJ,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.450,,01/01/2024,12/31/2024
+NJ,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.422,,01/01/2024,12/31/2024
+NJ,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.551,,01/01/2024,12/31/2024
+NJ,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.483,,01/01/2024,12/31/2024
+NJ,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.631,,01/01/2024,12/31/2024
+NJ,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,0.852,,01/01/2024,12/31/2024
+NJ,HAI_3_SIR,SSI - Colon Surgery,0.736,,01/01/2024,12/31/2024
+NJ,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.777,,01/01/2024,12/31/2024
+NJ,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.320,,01/01/2024,12/31/2024
+NJ,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.021,,01/01/2024,12/31/2024
+NJ,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.584,,01/01/2024,12/31/2024
+NJ,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.769,,01/01/2024,12/31/2024
+NJ,HAI_5_SIR,MRSA Bacteremia,0.672,,01/01/2024,12/31/2024
+NJ,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.313,,01/01/2024,12/31/2024
+NJ,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.360,,01/01/2024,12/31/2024
+NJ,HAI_6_SIR,Clostridium Difficile (C.Diff),0.336,,01/01/2024,12/31/2024
+NM,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.496,,01/01/2024,12/31/2024
+NM,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.891,,01/01/2024,12/31/2024
+NM,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.672,,01/01/2024,12/31/2024
+NM,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.416,,01/01/2024,12/31/2024
+NM,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.714,,01/01/2024,12/31/2024
+NM,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.550,,01/01/2024,12/31/2024
+NM,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.627,,01/01/2024,12/31/2024
+NM,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.168,,01/01/2024,12/31/2024
+NM,HAI_3_SIR,SSI - Colon Surgery,0.866,,01/01/2024,12/31/2024
+NM,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.678,,01/01/2024,12/31/2024
+NM,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,2.032,,01/01/2024,12/31/2024
+NM,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.219,,01/01/2024,12/31/2024
+NM,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.513,,01/01/2024,12/31/2024
+NM,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,1.053,,01/01/2024,12/31/2024
+NM,HAI_5_SIR,MRSA Bacteremia,0.747,,01/01/2024,12/31/2024
+NM,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.580,,01/01/2024,12/31/2024
+NM,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.727,,01/01/2024,12/31/2024
+NM,HAI_6_SIR,Clostridium Difficile (C.Diff),0.650,,01/01/2024,12/31/2024
+NV,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.431,,01/01/2024,12/31/2024
+NV,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.638,,01/01/2024,12/31/2024
+NV,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.527,,01/01/2024,12/31/2024
+NV,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.263,,01/01/2024,12/31/2024
+NV,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.426,,01/01/2024,12/31/2024
+NV,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.337,,01/01/2024,12/31/2024
+NV,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.523,,01/01/2024,12/31/2024
+NV,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,0.897,,01/01/2024,12/31/2024
+NV,HAI_3_SIR,SSI - Colon Surgery,0.691,,01/01/2024,12/31/2024
+NV,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.054,,01/01/2024,12/31/2024
+NV,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,0.583,,01/01/2024,12/31/2024
+NV,HAI_4_SIR,SSI - Abdominal Hysterectomy,0.214,,01/01/2024,12/31/2024
+NV,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.448,,01/01/2024,12/31/2024
+NV,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.747,,01/01/2024,12/31/2024
+NV,HAI_5_SIR,MRSA Bacteremia,0.584,,01/01/2024,12/31/2024
+NV,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.196,,01/01/2024,12/31/2024
+NV,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.261,,01/01/2024,12/31/2024
+NV,HAI_6_SIR,Clostridium Difficile (C.Diff),0.227,,01/01/2024,12/31/2024
+NY,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.612,,01/01/2024,12/31/2024
+NY,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.703,,01/01/2024,12/31/2024
+NY,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.656,,01/01/2024,12/31/2024
+NY,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.490,,01/01/2024,12/31/2024
+NY,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.563,,01/01/2024,12/31/2024
+NY,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.526,,01/01/2024,12/31/2024
+NY,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.693,,01/01/2024,12/31/2024
+NY,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,0.853,,01/01/2024,12/31/2024
+NY,HAI_3_SIR,SSI - Colon Surgery,0.770,,01/01/2024,12/31/2024
+NY,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.785,,01/01/2024,12/31/2024
+NY,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.194,,01/01/2024,12/31/2024
+NY,HAI_4_SIR,SSI - Abdominal Hysterectomy,0.973,,01/01/2024,12/31/2024
+NY,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.712,,01/01/2024,12/31/2024
+NY,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.839,,01/01/2024,12/31/2024
+NY,HAI_5_SIR,MRSA Bacteremia,0.773,,01/01/2024,12/31/2024
+NY,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.356,,01/01/2024,12/31/2024
+NY,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.388,,01/01/2024,12/31/2024
+NY,HAI_6_SIR,Clostridium Difficile (C.Diff),0.371,,01/01/2024,12/31/2024
+OH,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.545,,01/01/2024,12/31/2024
+OH,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.662,,01/01/2024,12/31/2024
+OH,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.602,,01/01/2024,12/31/2024
+OH,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.407,,01/01/2024,12/31/2024
+OH,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.497,,01/01/2024,12/31/2024
+OH,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.450,,01/01/2024,12/31/2024
+OH,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.988,,01/01/2024,12/31/2024
+OH,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.192,,01/01/2024,12/31/2024
+OH,HAI_3_SIR,SSI - Colon Surgery,1.087,,01/01/2024,12/31/2024
+OH,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,1.070,,01/01/2024,12/31/2024
+OH,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.570,,01/01/2024,12/31/2024
+OH,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.302,,01/01/2024,12/31/2024
+OH,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.713,,01/01/2024,12/31/2024
+OH,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.882,,01/01/2024,12/31/2024
+OH,HAI_5_SIR,MRSA Bacteremia,0.794,,01/01/2024,12/31/2024
+OH,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.405,,01/01/2024,12/31/2024
+OH,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.450,,01/01/2024,12/31/2024
+OH,HAI_6_SIR,Clostridium Difficile (C.Diff),0.427,,01/01/2024,12/31/2024
+OK,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.431,,01/01/2024,12/31/2024
+OK,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.607,,01/01/2024,12/31/2024
+OK,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.513,,01/01/2024,12/31/2024
+OK,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.422,,01/01/2024,12/31/2024
+OK,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.595,,01/01/2024,12/31/2024
+OK,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.503,,01/01/2024,12/31/2024
+OK,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.719,,01/01/2024,12/31/2024
+OK,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.072,,01/01/2024,12/31/2024
+OK,HAI_3_SIR,SSI - Colon Surgery,0.882,,01/01/2024,12/31/2024
+OK,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.744,,01/01/2024,12/31/2024
+OK,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.329,,01/01/2024,12/31/2024
+OK,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.005,,01/01/2024,12/31/2024
+OK,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.652,,01/01/2024,12/31/2024
+OK,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.964,,01/01/2024,12/31/2024
+OK,HAI_5_SIR,MRSA Bacteremia,0.797,,01/01/2024,12/31/2024
+OK,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.220,,01/01/2024,12/31/2024
+OK,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.277,,01/01/2024,12/31/2024
+OK,HAI_6_SIR,Clostridium Difficile (C.Diff),0.248,,01/01/2024,12/31/2024
+OR,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.439,,01/01/2024,12/31/2024
+OR,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.659,,01/01/2024,12/31/2024
+OR,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.541,,01/01/2024,12/31/2024
+OR,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.711,,01/01/2024,12/31/2024
+OR,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.966,,01/01/2024,12/31/2024
+OR,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.831,,01/01/2024,12/31/2024
+OR,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.853,,01/01/2024,12/31/2024
+OR,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.225,,01/01/2024,12/31/2024
+OR,HAI_3_SIR,SSI - Colon Surgery,1.026,,01/01/2024,12/31/2024
+OR,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.742,,01/01/2024,12/31/2024
+OR,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.606,,01/01/2024,12/31/2024
+OR,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.112,,01/01/2024,12/31/2024
+OR,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.534,,01/01/2024,12/31/2024
+OR,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.850,,01/01/2024,12/31/2024
+OR,HAI_5_SIR,MRSA Bacteremia,0.678,,01/01/2024,12/31/2024
+OR,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.434,,01/01/2024,12/31/2024
+OR,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.527,,01/01/2024,12/31/2024
+OR,HAI_6_SIR,Clostridium Difficile (C.Diff),0.479,,01/01/2024,12/31/2024
+PA,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.581,,01/01/2024,12/31/2024
+PA,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.686,,01/01/2024,12/31/2024
+PA,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.632,,01/01/2024,12/31/2024
+PA,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.581,,01/01/2024,12/31/2024
+PA,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.674,,01/01/2024,12/31/2024
+PA,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.626,,01/01/2024,12/31/2024
+PA,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.793,,01/01/2024,12/31/2024
+PA,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,0.973,,01/01/2024,12/31/2024
+PA,HAI_3_SIR,SSI - Colon Surgery,0.880,,01/01/2024,12/31/2024
+PA,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.816,,01/01/2024,12/31/2024
+PA,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.301,,01/01/2024,12/31/2024
+PA,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.038,,01/01/2024,12/31/2024
+PA,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.657,,01/01/2024,12/31/2024
+PA,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.808,,01/01/2024,12/31/2024
+PA,HAI_5_SIR,MRSA Bacteremia,0.730,,01/01/2024,12/31/2024
+PA,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.477,,01/01/2024,12/31/2024
+PA,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.523,,01/01/2024,12/31/2024
+PA,HAI_6_SIR,Clostridium Difficile (C.Diff),0.500,,01/01/2024,12/31/2024
+PR,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,2.685,,01/01/2024,12/31/2024
+PR,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,3.345,,01/01/2024,12/31/2024
+PR,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),3.001,,01/01/2024,12/31/2024
+PR,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.615,,01/01/2024,12/31/2024
+PR,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.853,,01/01/2024,12/31/2024
+PR,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.727,,01/01/2024,12/31/2024
+PR,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+PR,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+PR,HAI_3_SIR,SSI - Colon Surgery,Not Available,5,01/01/2024,12/31/2024
+PR,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+PR,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+PR,HAI_4_SIR,SSI - Abdominal Hysterectomy,Not Available,5,01/01/2024,12/31/2024
+PR,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.137,,01/01/2024,12/31/2024
+PR,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.702,,01/01/2024,12/31/2024
+PR,HAI_5_SIR,MRSA Bacteremia,0.337,,01/01/2024,12/31/2024
+PR,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.193,,01/01/2024,12/31/2024
+PR,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.346,,01/01/2024,12/31/2024
+PR,HAI_6_SIR,Clostridium Difficile (C.Diff),0.261,,01/01/2024,12/31/2024
+RI,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.466,,01/01/2024,12/31/2024
+RI,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.882,,01/01/2024,12/31/2024
+RI,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.649,,01/01/2024,12/31/2024
+RI,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.510,,01/01/2024,12/31/2024
+RI,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.904,,01/01/2024,12/31/2024
+RI,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.686,,01/01/2024,12/31/2024
+RI,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.391,,01/01/2024,12/31/2024
+RI,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.019,,01/01/2024,12/31/2024
+RI,HAI_3_SIR,SSI - Colon Surgery,0.650,,01/01/2024,12/31/2024
+RI,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.201,,01/01/2024,12/31/2024
+RI,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,2.154,,01/01/2024,12/31/2024
+RI,HAI_4_SIR,SSI - Abdominal Hysterectomy,0.792,,01/01/2024,12/31/2024
+RI,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.377,,01/01/2024,12/31/2024
+RI,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.875,,01/01/2024,12/31/2024
+RI,HAI_5_SIR,MRSA Bacteremia,0.587,,01/01/2024,12/31/2024
+RI,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.238,,01/01/2024,12/31/2024
+RI,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.385,,01/01/2024,12/31/2024
+RI,HAI_6_SIR,Clostridium Difficile (C.Diff),0.305,,01/01/2024,12/31/2024
+SC,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.474,,01/01/2024,12/31/2024
+SC,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.652,,01/01/2024,12/31/2024
+SC,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.557,,01/01/2024,12/31/2024
+SC,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.493,,01/01/2024,12/31/2024
+SC,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.661,,01/01/2024,12/31/2024
+SC,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.572,,01/01/2024,12/31/2024
+SC,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.695,,01/01/2024,12/31/2024
+SC,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,0.972,,01/01/2024,12/31/2024
+SC,HAI_3_SIR,SSI - Colon Surgery,0.825,,01/01/2024,12/31/2024
+SC,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.774,,01/01/2024,12/31/2024
+SC,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.400,,01/01/2024,12/31/2024
+SC,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.053,,01/01/2024,12/31/2024
+SC,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.610,,01/01/2024,12/31/2024
+SC,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.846,,01/01/2024,12/31/2024
+SC,HAI_5_SIR,MRSA Bacteremia,0.721,,01/01/2024,12/31/2024
+SC,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.312,,01/01/2024,12/31/2024
+SC,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.376,,01/01/2024,12/31/2024
+SC,HAI_6_SIR,Clostridium Difficile (C.Diff),0.343,,01/01/2024,12/31/2024
+SD,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.277,,01/01/2024,12/31/2024
+SD,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.721,,01/01/2024,12/31/2024
+SD,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.460,,01/01/2024,12/31/2024
+SD,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.581,,01/01/2024,12/31/2024
+SD,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,1.074,,01/01/2024,12/31/2024
+SD,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.799,,01/01/2024,12/31/2024
+SD,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.480,,01/01/2024,12/31/2024
+SD,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.093,,01/01/2024,12/31/2024
+SD,HAI_3_SIR,SSI - Colon Surgery,0.740,,01/01/2024,12/31/2024
+SD,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.587,,01/01/2024,12/31/2024
+SD,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,2.061,,01/01/2024,12/31/2024
+SD,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.156,,01/01/2024,12/31/2024
+SD,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.372,,01/01/2024,12/31/2024
+SD,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.899,,01/01/2024,12/31/2024
+SD,HAI_5_SIR,MRSA Bacteremia,0.593,,01/01/2024,12/31/2024
+SD,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.433,,01/01/2024,12/31/2024
+SD,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.620,,01/01/2024,12/31/2024
+SD,HAI_6_SIR,Clostridium Difficile (C.Diff),0.520,,01/01/2024,12/31/2024
+TN,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.511,,01/01/2024,12/31/2024
+TN,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.651,,01/01/2024,12/31/2024
+TN,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.578,,01/01/2024,12/31/2024
+TN,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.368,,01/01/2024,12/31/2024
+TN,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.479,,01/01/2024,12/31/2024
+TN,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.421,,01/01/2024,12/31/2024
+TN,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.606,,01/01/2024,12/31/2024
+TN,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,0.828,,01/01/2024,12/31/2024
+TN,HAI_3_SIR,SSI - Colon Surgery,0.710,,01/01/2024,12/31/2024
+TN,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.912,,01/01/2024,12/31/2024
+TN,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.590,,01/01/2024,12/31/2024
+TN,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.216,,01/01/2024,12/31/2024
+TN,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.859,,01/01/2024,12/31/2024
+TN,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,1.090,,01/01/2024,12/31/2024
+TN,HAI_5_SIR,MRSA Bacteremia,0.970,,01/01/2024,12/31/2024
+TN,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.233,,01/01/2024,12/31/2024
+TN,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.281,,01/01/2024,12/31/2024
+TN,HAI_6_SIR,Clostridium Difficile (C.Diff),0.256,,01/01/2024,12/31/2024
+TX,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.541,,01/01/2024,12/31/2024
+TX,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.620,,01/01/2024,12/31/2024
+TX,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.579,,01/01/2024,12/31/2024
+TX,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.362,,01/01/2024,12/31/2024
+TX,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.424,,01/01/2024,12/31/2024
+TX,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.392,,01/01/2024,12/31/2024
+TX,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.695,,01/01/2024,12/31/2024
+TX,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,0.818,,01/01/2024,12/31/2024
+TX,HAI_3_SIR,SSI - Colon Surgery,0.755,,01/01/2024,12/31/2024
+TX,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.873,,01/01/2024,12/31/2024
+TX,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.139,,01/01/2024,12/31/2024
+TX,HAI_4_SIR,SSI - Abdominal Hysterectomy,0.999,,01/01/2024,12/31/2024
+TX,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.572,,01/01/2024,12/31/2024
+TX,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.677,,01/01/2024,12/31/2024
+TX,HAI_5_SIR,MRSA Bacteremia,0.623,,01/01/2024,12/31/2024
+TX,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.255,,01/01/2024,12/31/2024
+TX,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.279,,01/01/2024,12/31/2024
+TX,HAI_6_SIR,Clostridium Difficile (C.Diff),0.267,,01/01/2024,12/31/2024
+UT,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.357,,01/01/2024,12/31/2024
+UT,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.601,,01/01/2024,12/31/2024
+UT,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.467,,01/01/2024,12/31/2024
+UT,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.380,,01/01/2024,12/31/2024
+UT,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.620,,01/01/2024,12/31/2024
+UT,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.489,,01/01/2024,12/31/2024
+UT,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.604,,01/01/2024,12/31/2024
+UT,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.007,,01/01/2024,12/31/2024
+UT,HAI_3_SIR,SSI - Colon Surgery,0.786,,01/01/2024,12/31/2024
+UT,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.219,,01/01/2024,12/31/2024
+UT,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,0.822,,01/01/2024,12/31/2024
+UT,HAI_4_SIR,SSI - Abdominal Hysterectomy,0.448,,01/01/2024,12/31/2024
+UT,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.324,,01/01/2024,12/31/2024
+UT,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.682,,01/01/2024,12/31/2024
+UT,HAI_5_SIR,MRSA Bacteremia,0.478,,01/01/2024,12/31/2024
+UT,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.326,,01/01/2024,12/31/2024
+UT,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.428,,01/01/2024,12/31/2024
+UT,HAI_6_SIR,Clostridium Difficile (C.Diff),0.374,,01/01/2024,12/31/2024
+VA,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.550,,01/01/2024,12/31/2024
+VA,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.709,,01/01/2024,12/31/2024
+VA,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.626,,01/01/2024,12/31/2024
+VA,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.365,,01/01/2024,12/31/2024
+VA,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.491,,01/01/2024,12/31/2024
+VA,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.424,,01/01/2024,12/31/2024
+VA,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.631,,01/01/2024,12/31/2024
+VA,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,0.853,,01/01/2024,12/31/2024
+VA,HAI_3_SIR,SSI - Colon Surgery,0.736,,01/01/2024,12/31/2024
+VA,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.900,,01/01/2024,12/31/2024
+VA,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.460,,01/01/2024,12/31/2024
+VA,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.155,,01/01/2024,12/31/2024
+VA,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.622,,01/01/2024,12/31/2024
+VA,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.832,,01/01/2024,12/31/2024
+VA,HAI_5_SIR,MRSA Bacteremia,0.721,,01/01/2024,12/31/2024
+VA,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.267,,01/01/2024,12/31/2024
+VA,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.315,,01/01/2024,12/31/2024
+VA,HAI_6_SIR,Clostridium Difficile (C.Diff),0.290,,01/01/2024,12/31/2024
+VI,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+VI,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+VI,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),Not Available,5,01/01/2024,12/31/2024
+VI,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+VI,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+VI,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),Not Available,5,01/01/2024,12/31/2024
+VI,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+VI,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+VI,HAI_3_SIR,SSI - Colon Surgery,Not Available,5,01/01/2024,12/31/2024
+VI,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+VI,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+VI,HAI_4_SIR,SSI - Abdominal Hysterectomy,Not Available,5,01/01/2024,12/31/2024
+VI,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+VI,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+VI,HAI_5_SIR,MRSA Bacteremia,Not Available,5,01/01/2024,12/31/2024
+VI,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+VI,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,Not Available,5,01/01/2024,12/31/2024
+VI,HAI_6_SIR,Clostridium Difficile (C.Diff),Not Available,5,01/01/2024,12/31/2024
+VT,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.527,,01/01/2024,12/31/2024
+VT,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,1.245,,01/01/2024,12/31/2024
+VT,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.829,,01/01/2024,12/31/2024
+VT,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.672,,01/01/2024,12/31/2024
+VT,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,1.307,,01/01/2024,12/31/2024
+VT,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.951,,01/01/2024,12/31/2024
+VT,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.736,,01/01/2024,12/31/2024
+VT,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,2.041,,01/01/2024,12/31/2024
+VT,HAI_3_SIR,SSI - Colon Surgery,1.266,,01/01/2024,12/31/2024
+VT,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.021,,01/01/2024,12/31/2024
+VT,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,2.090,,01/01/2024,12/31/2024
+VT,HAI_4_SIR,SSI - Abdominal Hysterectomy,0.424,,01/01/2024,12/31/2024
+VT,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.220,,01/01/2024,12/31/2024
+VT,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.829,,01/01/2024,12/31/2024
+VT,HAI_5_SIR,MRSA Bacteremia,0.452,,01/01/2024,12/31/2024
+VT,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.542,,01/01/2024,12/31/2024
+VT,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.808,,01/01/2024,12/31/2024
+VT,HAI_6_SIR,Clostridium Difficile (C.Diff),0.665,,01/01/2024,12/31/2024
+WA,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.554,,01/01/2024,12/31/2024
+WA,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.716,,01/01/2024,12/31/2024
+WA,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.631,,01/01/2024,12/31/2024
+WA,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.662,,01/01/2024,12/31/2024
+WA,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.826,,01/01/2024,12/31/2024
+WA,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.740,,01/01/2024,12/31/2024
+WA,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.893,,01/01/2024,12/31/2024
+WA,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.185,,01/01/2024,12/31/2024
+WA,HAI_3_SIR,SSI - Colon Surgery,1.031,,01/01/2024,12/31/2024
+WA,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.887,,01/01/2024,12/31/2024
+WA,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.694,,01/01/2024,12/31/2024
+WA,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.242,,01/01/2024,12/31/2024
+WA,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.425,,01/01/2024,12/31/2024
+WA,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.626,,01/01/2024,12/31/2024
+WA,HAI_5_SIR,MRSA Bacteremia,0.518,,01/01/2024,12/31/2024
+WA,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.407,,01/01/2024,12/31/2024
+WA,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.478,,01/01/2024,12/31/2024
+WA,HAI_6_SIR,Clostridium Difficile (C.Diff),0.442,,01/01/2024,12/31/2024
+WI,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.467,,01/01/2024,12/31/2024
+WI,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.641,,01/01/2024,12/31/2024
+WI,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.549,,01/01/2024,12/31/2024
+WI,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.501,,01/01/2024,12/31/2024
+WI,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.668,,01/01/2024,12/31/2024
+WI,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.580,,01/01/2024,12/31/2024
+WI,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.858,,01/01/2024,12/31/2024
+WI,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.164,,01/01/2024,12/31/2024
+WI,HAI_3_SIR,SSI - Colon Surgery,1.002,,01/01/2024,12/31/2024
+WI,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,1.051,,01/01/2024,12/31/2024
+WI,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.973,,01/01/2024,12/31/2024
+WI,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.458,,01/01/2024,12/31/2024
+WI,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.412,,01/01/2024,12/31/2024
+WI,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,0.658,,01/01/2024,12/31/2024
+WI,HAI_5_SIR,MRSA Bacteremia,0.524,,01/01/2024,12/31/2024
+WI,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.538,,01/01/2024,12/31/2024
+WI,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.625,,01/01/2024,12/31/2024
+WI,HAI_6_SIR,Clostridium Difficile (C.Diff),0.580,,01/01/2024,12/31/2024
+WV,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.659,,01/01/2024,12/31/2024
+WV,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,0.939,,01/01/2024,12/31/2024
+WV,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.790,,01/01/2024,12/31/2024
+WV,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.446,,01/01/2024,12/31/2024
+WV,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,0.642,,01/01/2024,12/31/2024
+WV,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.537,,01/01/2024,12/31/2024
+WV,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.982,,01/01/2024,12/31/2024
+WV,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.541,,01/01/2024,12/31/2024
+WV,HAI_3_SIR,SSI - Colon Surgery,1.238,,01/01/2024,12/31/2024
+WV,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.612,,01/01/2024,12/31/2024
+WV,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,1.699,,01/01/2024,12/31/2024
+WV,HAI_4_SIR,SSI - Abdominal Hysterectomy,1.054,,01/01/2024,12/31/2024
+WV,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.654,,01/01/2024,12/31/2024
+WV,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,1.012,,01/01/2024,12/31/2024
+WV,HAI_5_SIR,MRSA Bacteremia,0.818,,01/01/2024,12/31/2024
+WV,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.511,,01/01/2024,12/31/2024
+WV,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.633,,01/01/2024,12/31/2024
+WV,HAI_6_SIR,Clostridium Difficile (C.Diff),0.569,,01/01/2024,12/31/2024
+WY,HAI_1_CILOWER,Central Line Associated Bloodstream Infection (ICU + select Wards): Lower Confidence Limit,0.220,,01/01/2024,12/31/2024
+WY,HAI_1_CIUPPER,Central Line Associated Bloodstream Infection (ICU + select Wards): Upper Confidence Limit,1.128,,01/01/2024,12/31/2024
+WY,HAI_1_SIR,Central Line Associated Bloodstream Infection (ICU + select Wards),0.542,,01/01/2024,12/31/2024
+WY,HAI_2_CILOWER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Lower Confidence Limit,0.318,,01/01/2024,12/31/2024
+WY,HAI_2_CIUPPER,Catheter Associated Urinary Tract Infections (ICU + select Wards): Upper Confidence Limit,1.051,,01/01/2024,12/31/2024
+WY,HAI_2_SIR,Catheter Associated Urinary Tract Infections (ICU + select Wards),0.605,,01/01/2024,12/31/2024
+WY,HAI_3_CILOWER,SSI - Colon Surgery: Lower Confidence Limit,0.381,,01/01/2024,12/31/2024
+WY,HAI_3_CIUPPER,SSI - Colon Surgery: Upper Confidence Limit,1.557,,01/01/2024,12/31/2024
+WY,HAI_3_SIR,SSI - Colon Surgery,0.820,,01/01/2024,12/31/2024
+WY,HAI_4_CILOWER,SSI - Abdominal Hysterectomy: Lower Confidence Limit,0.025,,01/01/2024,12/31/2024
+WY,HAI_4_CIUPPER,SSI - Abdominal Hysterectomy: Upper Confidence Limit,2.501,,01/01/2024,12/31/2024
+WY,HAI_4_SIR,SSI - Abdominal Hysterectomy,0.507,,01/01/2024,12/31/2024
+WY,HAI_5_CILOWER,MRSA Bacteremia: Lower Confidence Limit,0.325,,01/01/2024,12/31/2024
+WY,HAI_5_CIUPPER,MRSA Bacteremia: Upper Confidence Limit,1.963,,01/01/2024,12/31/2024
+WY,HAI_5_SIR,MRSA Bacteremia,0.886,,01/01/2024,12/31/2024
+WY,HAI_6_CILOWER,Clostridium Difficile (C.Diff): Lower Confidence Limit,0.276,,01/01/2024,12/31/2024
+WY,HAI_6_CIUPPER,Clostridium Difficile (C.Diff): Upper Confidence Limit,0.588,,01/01/2024,12/31/2024
+WY,HAI_6_SIR,Clostridium Difficile (C.Diff),0.410,,01/01/2024,12/31/2024

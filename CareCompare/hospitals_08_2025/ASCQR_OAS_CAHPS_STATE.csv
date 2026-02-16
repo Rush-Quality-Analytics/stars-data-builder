@@ -1,0 +1,57 @@
+"State","Patients who reported that staff definitely gave care in a professional way and the facility was clean","Patients who reported that staff somewhat gave care in a professional way or the facility was somewhat clean","Patients who reported that staff did not give care in a professional way or the facility was not clean","Facilities and staff linear mean score","Patients who reported that staff definitely communicated about what to expect during and after the procedure","Patients who reported that staff somewhat communicated about what to expect during and after the procedure","Patients who reported that staff did not communicate about what to expect during and after the procedure","Communication about your procedure linear mean score","Patients who gave the facility a rating of 9 or 10 on a scale from 0 (lowest) to 10 (highest)","Patients who gave the facility a rating of 7 or 8 on a scale from 0 (lowest) to 10 (highest)","Patients who gave the facility a rating of 0 to 6 on a scale from 0 (lowest) to 10 (highest)","Patients' rating of the facility linear mean score","Patients who reported YES they would DEFINITELY recommend the facility to family or friends","Patients who reported PROBABLY YES they would recommend the facility to family or friends","Patients who reported NO, they would not recommend the facility to family or friends","Patients recommending the facility linear mean score","Number of Sampled Patients","Number of Completed Surveys","Survey Response Rate Percent","Start Date","End Date"
+Alabama,96,3,1,98,92,6,2,96,88,9,3,94,86,13,1,95,4056,942,23,10/01/2023,09/30/2024
+Alaska,,,,,,,,,,,,,,,,,,,,,
+American Samoa,,,,,,,,,,,,,,,,,,,,,
+Arizona,97,3,0,98,91,7,2,95,90,8,2,95,86,12,2,95,27127,7274,27,10/01/2023,09/30/2024
+Arkansas,96,3,1,98,90,8,2,94,86,11,3,94,82,15,3,93,688,140,20,10/01/2023,09/30/2024
+California,97,3,0,98,91,7,2,95,89,9,2,95,87,11,2,95,56525,13780,24,10/01/2023,09/30/2024
+Colorado,96,3,1,98,91,7,2,95,86,11,3,94,82,15,3,93,19901,5337,27,10/01/2023,09/30/2024
+Commonwealth of the Northern Marianas Islands,,,,,,,,,,,,,,,,,,,,,
+Connecticut,98,2,0,99,93,6,1,96,91,8,1,96,92,7,1,97,4254,1071,25,10/01/2023,09/30/2024
+Delaware,,,,,,,,,,,,,,,,,,,,,
+District of Columbia,96,3,1,97,91,8,1,95,87,11,2,94,87,11,2,95,2311,315,14,10/01/2023,09/30/2024
+Florida,97,3,0,98,91,7,2,95,89,9,2,95,87,11,2,95,63888,18119,28,10/01/2023,09/30/2024
+Georgia,98,2,0,99,93,6,1,96,91,7,2,96,89,9,2,95,25529,5743,23,10/01/2023,09/30/2024
+Guam,,,,,,,,,,,,,,,,,,,,,
+Hawaii,98,2,0,99,92,7,1,95,91,8,1,96,89,10,1,95,4946,1626,33,10/01/2023,09/30/2024
+Idaho,99,1,0,99,93,5,2,96,89,9,2,96,86,11,3,94,2698,737,28,10/01/2023,09/30/2024
+Illinois,97,3,0,98,92,6,2,95,90,8,2,96,88,10,2,95,6938,1819,26,10/01/2023,09/30/2024
+Indiana,97,3,0,98,92,6,2,95,89,9,2,95,86,13,1,95,8619,2739,32,10/01/2023,09/30/2024
+Iowa,98,2,0,99,93,6,1,96,92,6,2,96,87,10,3,94,1366,432,32,10/01/2023,09/30/2024
+Kansas,98,2,0,99,91,7,2,95,91,8,1,96,88,10,2,95,6935,1748,25,10/01/2023,09/30/2024
+Kentucky,,,,,,,,,,,,,,,,,,,,,
+Louisiana,97,2,1,99,92,6,2,96,90,8,2,95,88,10,2,95,5983,1714,29,10/01/2023,09/30/2024
+Maine,99,1,0,100,95,4,1,97,99,0,1,98,94,5,1,98,822,223,27,10/01/2023,09/30/2024
+Maryland,97,3,0,98,92,6,2,95,87,11,2,95,83,14,3,93,58888,15820,27,10/01/2023,09/30/2024
+Massachusetts,98,2,0,99,92,6,2,95,88,10,2,95,86,11,3,95,1910,730,38,10/01/2023,09/30/2024
+Michigan,98,2,0,99,91,7,2,95,92,7,1,96,89,10,1,96,14155,4026,29,10/01/2023,09/30/2024
+Minnesota,98,2,0,99,93,6,1,96,91,8,1,95,88,11,1,95,16225,5128,32,10/01/2023,09/30/2024
+Mississippi,97,3,0,99,92,6,2,95,90,9,1,96,89,10,1,96,6037,1676,28,10/01/2023,09/30/2024
+Missouri,97,3,0,99,93,5,2,96,90,9,1,95,87,11,2,95,15878,4691,30,10/01/2023,09/30/2024
+Montana,98,2,0,99,92,7,1,96,91,8,1,96,89,9,2,96,2716,965,36,10/01/2023,09/30/2024
+Nebraska,98,2,0,99,94,5,1,97,87,10,3,94,83,16,1,94,1189,373,31,10/01/2023,09/30/2024
+Nevada,97,3,0,99,92,6,2,95,91,7,2,96,88,10,2,95,4386,1032,24,10/01/2023,09/30/2024
+New Hampshire,98,2,0,99,93,6,1,96,92,6,2,96,90,8,2,96,6125,1729,28,10/01/2023,09/30/2024
+New Jersey,98,2,0,99,92,6,2,95,91,8,1,96,88,10,2,95,19562,5224,27,10/01/2023,09/30/2024
+New Mexico,96,3,1,98,90,8,2,94,89,10,1,95,83,15,2,93,3981,1017,26,10/01/2023,09/30/2024
+New York,97,3,0,98,93,6,1,96,89,9,2,94,84,15,1,94,1286,417,32,10/01/2023,09/30/2024
+North Carolina,98,2,0,99,93,6,1,96,92,7,1,96,91,8,1,96,15159,3629,24,10/01/2023,09/30/2024
+North Dakota,99,1,0,99,95,4,1,97,89,9,2,95,88,10,2,96,1861,655,35,10/01/2023,09/30/2024
+Ohio,98,2,0,99,93,6,1,96,92,7,1,96,91,8,1,97,18301,4477,25,10/01/2023,09/30/2024
+Oklahoma,96,4,0,98,92,6,2,95,89,9,2,94,84,14,2,94,897,297,33,10/01/2023,09/30/2024
+Oregon,97,3,0,98,91,8,1,95,86,11,3,94,84,14,2,93,15230,4682,31,10/01/2023,09/30/2024
+Pennsylvania,98,2,0,99,94,5,1,97,92,7,1,96,90,8,2,96,22773,7106,31,10/01/2023,09/30/2024
+Puerto Rico,,,,,,,,,,,,,,,,,,,,,
+Rhode Island,,,,,,,,,,,,,,,,,,,,,
+South Carolina,98,2,0,99,94,5,1,96,90,9,1,96,91,7,2,96,4190,1392,33,10/01/2023,09/30/2024
+South Dakota,99,1,0,99,91,7,2,94,87,10,3,94,78,21,1,92,500,134,27,10/01/2023,09/30/2024
+Tennessee,97,3,0,99,93,6,1,96,91,8,1,96,90,9,1,96,33821,7491,22,10/01/2023,09/30/2024
+Texas,97,3,0,98,92,6,2,95,89,9,2,95,87,11,2,95,95259,19974,21,10/01/2023,09/30/2024
+Utah,,,,,,,,,,,,,,,,,,,,,
+Vermont,,,,,,,,,,,,,,,,,,,,,
+Virgin Islands,,,,,,,,,,,,,,,,,,,,,
+Virginia,98,2,0,99,93,6,1,96,91,7,2,96,89,9,2,95,17363,5005,29,10/01/2023,09/30/2024
+Washington,98,2,0,99,93,6,1,96,89,9,2,95,87,11,2,95,32888,7639,23,10/01/2023,09/30/2024
+West Virginia,,,,,,,,,,,,,,,,,,,,,
+Wisconsin,99,1,0,99,94,5,1,97,92,7,1,96,90,9,1,96,6724,2420,36,10/01/2023,09/30/2024
+Wyoming,98,2,0,99,91,7,2,95,89,10,1,95,89,8,3,95,1336,430,32,10/01/2023,09/30/2024
