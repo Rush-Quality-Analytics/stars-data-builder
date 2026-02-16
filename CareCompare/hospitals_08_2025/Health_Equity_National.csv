@@ -1,0 +1,7 @@
+"HCHE Measure ID","HCHE Description","Score","Footnote","Start Date","End Date"
+HCHE_S0_N_RATE,"Percentage of facilities, in the nation, reporting HCHE that scored 0 out of 5 points",2,,01/01/2023,12/31/2023
+HCHE_S1_N_RATE,"Percentage of facilities, in the nation, reporting HCHE that scored 1 out of 5 points",4,,01/01/2023,12/31/2023
+HCHE_S2_N_RATE,"Percentage of facilities, in the nation, reporting HCHE that scored 2 out of 5 points",5,,01/01/2023,12/31/2023
+HCHE_S3_N_RATE,"Percentage of facilities, in the nation, reporting HCHE that scored 3 out of 5 points",6,,01/01/2023,12/31/2023
+HCHE_S4_N_RATE,"Percentage of facilities, in the nation, reporting HCHE that scored 4 out of 5 points",10,,01/01/2023,12/31/2023
+HCHE_S5_N_RATE,"Percentage of facilities, in the nation, reporting HCHE that scored 5 out of 5 points",74,,01/01/2023,12/31/2023
