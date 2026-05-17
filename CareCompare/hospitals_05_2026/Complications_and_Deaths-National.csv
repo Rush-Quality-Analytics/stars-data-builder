@@ -1,0 +1,21 @@
+"Measure ID","Measure Name","National Rate","Number of Hospitals Worse","Number of Hospitals Same","Number of Hospitals Better","Number of Hospitals Too Few","Footnote","Start Date","End Date"
+COMP_HIP_KNEE,Rate of complications for hip/knee replacement patients,3.6,12,1638,30,1536,,04/01/2021,03/31/2024
+Hybrid_HWM,Hybrid Hospital-Wide All-Cause Risk Standardized Mortality Rate,4.2,122,3660,302,429,,07/01/2023,06/30/2024
+MORT_30_AMI,Death rate for heart attack patients,12.2,13,1935,29,1916,,07/01/2021,06/30/2024
+MORT_30_CABG,Death rate for CABG surgery patients,2.6,17,867,6,199,,07/01/2021,06/30/2024
+MORT_30_COPD,Death rate for COPD patients,8.8,35,2624,47,1767,,07/01/2021,06/30/2024
+MORT_30_HF,Death rate for heart failure patients,11.6,130,2743,305,1317,,07/01/2021,06/30/2024
+MORT_30_PN,Death rate for pneumonia patients,16.2,209,3218,336,795,,07/01/2021,06/30/2024
+MORT_30_STK,Death rate for stroke patients,13.3,52,2121,76,1761,,07/01/2021,06/30/2024
+PSI_03,Pressure ulcer rate,0.63,181,2950,49,61,,07/01/2022,06/30/2024
+PSI_04,Death rate among surgical inpatients with serious treatable complications,173.30,56,1429,45,1045,,07/01/2022,06/30/2024
+PSI_06,Iatrogenic pneumothorax rate,0.21,14,3204,0,33,,07/01/2022,06/30/2024
+PSI_08,In-hospital fall-associated fracture rate,0.27,11,3205,1,35,,07/01/2022,06/30/2024
+PSI_09,Postoperative hemorrhage or hematoma rate,2.34,29,2857,6,152,,07/01/2022,06/30/2024
+PSI_10,Postoperative acute kidney injury requiring dialysis rate,1.67,21,2467,3,406,,07/01/2022,06/30/2024
+PSI_11,Postoperative respiratory failure rate,9.42,102,2362,36,408,,07/01/2022,06/30/2024
+PSI_12,Perioperative pulmonary embolism or deep vein thrombosis rate,3.52,63,2825,12,145,,07/01/2022,06/30/2024
+PSI_13,Postoperative sepsis rate,5.27,37,2383,22,419,,07/01/2022,06/30/2024
+PSI_14,Postoperative wound dehiscence rate,1.77,8,2496,0,426,,07/01/2022,06/30/2024
+PSI_15,Abdominopelvic accidental puncture or laceration rate,1.06,25,2813,2,203,,07/01/2022,06/30/2024
+PSI_90,CMS Medicare PSI 90: Patient safety and adverse events composite,1.00,163,2765,61,Not Available,,07/01/2022,06/30/2024
